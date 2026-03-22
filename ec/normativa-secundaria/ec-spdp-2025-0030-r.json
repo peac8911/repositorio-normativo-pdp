@@ -1,0 +1,738 @@
+{
+  "meta": {
+    "id": "EC-SPDP-2025-0030-R",
+    "jurisdiccion": "ec",
+    "tipo_fuente": "normativa-secundaria",
+    "nivel_jerarquico": 6,
+    "titulo": "Reglamento de Seudonimización, Anonimización, Bloqueo, Suspensión, Eliminación y Portabilidad de Datos Personales",
+    "numero": "SPDP-SPD-2025-0030-R",
+    "fecha_publicacion": "2025-08-01",
+    "fecha_vigencia": "2025-08-01",
+    "vigente": true,
+    "materia": [
+      "pdp"
+    ],
+    "es_especializada": true,
+    "url_oficial": "https://www.superintendenciadedatos.gob.ec/",
+    "preambulo": "CONSIDERANDO:\nQue el numeral 19 del artículo 66 de la Constitución de la República del Ecuador (“CRE”)\nles reconoce y garantiza a las personas el derecho “a la protección de datos de carácter personal,\nque incluye el acceso y la decisión sobre información y datos de este carácter, así como su\ncorrespondiente protección. La recolección, archivo, procesamiento, distribución o difusión de\nestos datos o información requerirán la autorización del titular o el mandato de la ley”;\nQue el artículo 213 de la CRE establece que “[l]as superintendencias son organismos\ntécnicos de vigilancia, auditoría, intervención y control de las actividades económicas, sociales\ny ambientales, y de los servicios que prestan las entidades públicas y privadas, con el propósito\nde que estas actividades y servicios se sujeten al ordenamiento jurídico y atiendan al interés\ngeneral (…)”; que forman parte de la Función de Transparencia y Control Social; y que,\nconforme lo dispone el artículo 204 idem, detentan “personalidad jurídica y autonomía\nadministrativa, financiera, presupuestaria y organizativa (…)”;\nQue a través de la LOPDP se creó la Superintendencia de Protección de Datos Personales\n(“SPDP”) como un órgano de control, con potestad sancionatoria, de administración\ndesconcentrada, con personalidad jurídica y autonomía administrativa, técnica, operativa y\nfinanciera, cuyo máximo titular es, de acuerdo con el inciso primero del artículo 76 ídem, el\nSuperintendente de Protección de Datos Personales;\nQue el artículo 1 de la LOPDP declara que aquella tiene por objeto y finalidad “(…)\ngarantizar el ejercicio del derecho de protección de datos personales, que incluye el acceso y\ndecisión sobre información y datos de ese carácter, así como su correspondiente protección”,\npara lo cual este cuerpo legal “regula, prevé y desarrolla principios, derechos, obligaciones y\nmecanismos de tutela”;\nQue el artículo 76 de la LOPDP establece que “[l]a Autoridad de Protección de Datos\nPersonales es el órgano de control y vigilancia encargado de garantizar a todos los ciudadanos\nla protección de sus datos personales, y de realizar todas las acciones necesarias para que se\nrespeten los principios, derechos, garantías y procedimientos previstos en la [Ley Orgánica de\nProtección de Datos Personales]”;\nQue el numeral 5 de ese mismo artículo 76 de la LOPDP le confiere a la SPDP funciones,\natribuciones y facultades para “[e]mitir normativa general o técnica, criterios y demás actos\nque sean necesarios para el ejercicio de sus competencias y la garantía del ejercicio del derecho\na la protección de datos personales”;\nQue el artículo 9 del Reglamento General de la Ley Orgánica de Protección de Datos\nPersonales (“RGLOPDP”) establece que: “(…) [u]na vez cumplida la o las finalidades del\ntratamiento y cuando no exista disposición legal o reglamentaria o no incurra la necesidad de\nmantener los datos en virtud del interés legítimo del responsable, o por cumplimiento de una\nobligación legal que establezca lo contrario, el responsable deberá proceder a la eliminación,\nbloqueo o anonimización de los datos en su posesión”, sin perjuicio de que el responsable\nestablezca los “procedimientos para la conservación, revisión periódica, eliminación de los\ndatos personales (…)”;\nQue mediante resolución N° SPDP-SPDP-2024-0001-R del 2 de agosto del 2024, publicada\nen el Tercer Suplemento del Registro Oficial N° 624 del 19 de agosto del 2024, el\nSuperintendente de Protección de Datos Personales aprobó el Estatuto Orgánico de Gestión\nOrganizacional por Procesos de Arranque de la Superintendencia de Protección de Datos\nPersonales;\nR \nQue la letra b), numeral 2 del artículo 10 de la resolución N° SPDP-SPDP-2024-0001-R\nestablece que a la Intendencia General de Regulación de Protección de Datos Personales (“IRD”)\nle corresponde, entre otras atribuciones y responsabilidades, “[d]irigir y proponer la\nelaboración de las propuestas o proyectos normativos para crear, reformar o derogar los actos\nnormativos, sean estos políticas, directrices, reglamentos, resoluciones, lineamientos, normas\ntécnicas, oficios circulares, etcétera, necesarios para el ejercicio de todas las competencias y\natribuciones propias de la Superintendencia de Protección de Datos Personales, con los previos\ninformes técnicos de las unidades administrativas sustantivas y adjetivas relacionadas con el\námbito de aplicación de tales normas; así como, todos aquellos actos normativos relacionados\ncon el ejercicio, tutela y procedimientos administrativos de gestión que garanticen a las\npersonas naturales la plena vigencia de sus derechos y deberes previstos en dicha ley y su\nreglamento (…)”;\nQue la letra c), numeral 2 del artículo 10 de la resolución N° SPDP-SPDP-2024-0001-R,\nestablece, entre las atribuciones y responsabilidades de la IRD, la de “[d]irigir y proponer la\npresentación al Superintendente de Protección de Datos Personales de las propuestas de\nnormas, reglamentos, directrices, resoluciones, normas técnicas, oficios circulares, etcétera,\nvinculados con la regulación de protección de datos personales, para su expedición (…)”;\nQue a través de la letra a) del artículo 4 de la resolución N° SPDP-SPD-2025-0001-R del 31\nde enero del 2025, publicada en el Registro Oficial N° 750 del 24 de febrero del 2025, mediante\nla cual se expidieron las disposiciones, delegaciones de facultades y atribuciones a las\nautoridades, funcionarios y servidores públicos de la SPDP, se le delegó al Intendente General\nRegulación de Protección de Datos Personales, entre otras, la responsabilidad de “[e]mitir\nnormativa general o técnica, criterios y demás actos que sean necesarios para el ejercicio de\nsus competencias y la garantía del ejercicio del derecho a la protección de datos personales\n(…)”;\nQue la disposición transitoria del Reglamento para la Elaboración y Aprobación del Plan\nRegulatorio Institucional de la SPDP —expedido mediante resolución Nº SPDP-SPDP-2024-\n0018-R del 30 de octubre del 2024, publicada en el Segundo Suplemento del Registro Oficial\nNº 679 del 8 de noviembre del 2024— establece que “(…) el PRI correspondiente a los años\nfiscales 2024 y 2025 no seguirá el procedimiento establecido en este reglamento y, por ende, se\nelaborará únicamente a base de los informes técnicos emitidos por las Unidades\nAdministrativas correspondientes; validados por la [IRD]; aprobados por el Superintendente o\nsu delegado; y, finalmente, publicado en los portales oficiales de la SPDP cuando estén\nhabilitados”;\nQue mediante la resolución N° SPDP-SPD-2025-0002-R del 3 de febrero del 2025 se aprobó\nel Plan Regulatorio Institucional del año 2025, dentro del cual se ha establecido la necesidad de\nestablecer los lineamientos para la aplicación de las medidas de seudonimización,\nanonimización, bloqueo, suspensión y eliminación de datos personales;\nQue la Intendencia General de Control y Sanción (“ICS”), a través del informe técnico Nº\nINF-SPDP-ICS-2025-0011 del 16 de abril del 2025, justificó la necesidad de regular los\nlineamientos para delimitar y determinar cuándo y cuáles son los datos personales que deben ser\nanonimizados, bloqueados o eliminados, lo que permitiría garantizar lo establecido en la LOPDP\ny el RGLOPDP; informe técnico que, en su parte pertinente, identificó que la emisión de “(...)\n[l]a [G]uía [para la Anonimización, Bloqueo, Suspensión y Eliminación de Datos Personales]\nproporcionará un marco normativo claro y accesible, fortaleciendo la confianza en el sistema\nde protección de datos personales y promoviendo una cultura de cumplimiento y\nresponsabilidad en el tratamiento de la información (...)”;\nQue, mediante memorando N° SPDP-ICS-2025-0036-M suscrito el 16 de abril de 2025, la\nICS remitió el informe técnico de necesidad N° INF-SPDP-ICS-2025-0011 a la Intendencia\nGeneral de Regulación de Protección de Datos Personales (“IRD”);\nR \nQue la IRD, a través del informe técnico Nº INF-SPDP-IRD-2025-0022 del 30 de abril del\n2025, justificó la pertinencia y la necesidad de determinar los lineamientos generales para la\naplicación de las medidas de anonimización, bloqueo, suspensión y eliminación de datos\npersonales, en concordancia con el ciclo de vida del dato, así como para el ejercicio de los\nderechos reconocidos en la LOPDP y el RGLOPDP; informe técnico que, en su parte pertinente,\nseñala: “(…) La SPDP en ejercicio de sus funciones y atribuciones está facultada de\nconformidad con el numeral 5 del artículo 76 de la LOPDP para emitir el Reglamento para la\n[Seudonimización,] Anonimización, Bloqueo, Suspensión y Eliminación de Datos Personales.”;\ny, recomendó: “(…) iniciar con el proceso de socialización del proyecto de Reglamento para la\n[Seudonimización,] Anonimización, Bloqueo, Suspensión y Eliminación de Datos Personales,\nen cumplimiento con lo dispuesto por la Resolución N° SPDP-SPDP-2024-0022-R para que en\nel término de veinte (20) días la ciudadanía pueda realizar sus aportes”;\nQue por medio del memorando N° SPDP-IRD-2025-0069-M, suscrito el 30 de abril del\n2025, la IRD puso en conocimiento de la Dirección de Asesoría Jurídica (“DAJ”) tanto el\nproyecto normativo denominado Reglamento para la [Seudonimización,] Anonimización,\nBloqueo, Suspensión y Eliminación de Datos Personales, como el informe técnico N° INF-\nSPDP-IRD-2025-0022, para que, dentro del término de diez días, se pronuncie sobre la\nconcordancia con la normativa y la legalidad, de conformidad con lo dispuesto en la resolución\nN° SPDP-SPDP-2024-0022-R del 31 de diciembre del 2024, que contiene el Reglamento para\nla Creación, Modificación y Derogatoria de la Normativa de la Superintendencia de Protección\nde Datos Personales, publicado en el Registro Oficial N° 734 del 31 de enero del 2025;\nQue a través del informe jurídico N° INF-SPDP-DAJ-2025-0011, remitido a la IRD\nmediante memorando N° SPDP-DAJ-2025-0041-M suscrito el 30 de abril del 2025, la DAJ\ndeterminó que el Reglamento para la [Seudonimización,] Anonimización, Bloqueo,\nSuspensión y Eliminación de Datos Personales, es congruente con los principios establecidos\nen la LOPDP, por cuanto no transgrede o contradice normas matrices, cumple con el principio\nde legalidad y, por ello, recomiendó que “(…) [l]a IRD debe solicitar a quien corresponda la\npublicación a través de la página web institucional e informar su publicación a través de las\nredes sociales institucionales, con la finalidad de que la ciudadanía, las organizaciones de la\nsociedad civil o interesados en general, de manera motivada, puedan remitir sus observaciones\no realizar aportes respecto del contenido (…)”;\nQue mediante el memorando N° SPDP-IRD-2025-0072 suscrito el 30 de abril del 2025, la\nIRD solicitó a las unidades administrativas de la SPDP que procedan con las acciones\npertinentes, a fin de que publiquen el borrador del Reglamento para la [Seudonimización,]\nAnonimización, Bloqueo, Suspensión y Eliminación de Datos Personales, en la página web\ninstitucional y en las redes sociales de la SPDP, para que el proyecto de normativa esté\ndisponible para la ciudadanía, las organizaciones de la sociedad civil o los interesados en general\ndesde el 30 de abril al 30 de mayo del 2025, inclusive, con el objeto de poder recibir sus\nobservaciones o aportes, siempre que estuvieren debidamente motivados;\nQue, para cumplir con la resolución Nº SPDP-SPDP-2024-0022-R, se ejecutó el proceso de\nsocialización del Reglamento para la Seudonimización, Anonimización, Bloqueo, Suspensión y\nEliminación de Datos Personales, dentro del término de veinte días, de conformidad con el\nartículo 12 de dicha resolución; y, como resultado de ese proceso, se redefinió la denominación\ndel proyecto como Reglamento para la Seudonimización, Anonimización, Bloqueo,\nSuspensión y Eliminación de Datos Personales;\nQue a través del informe técnico Nº INF-SPDP-IRD-2025-0057, la IRD incorporó las\nobservaciones y aportes que se consideraron relevantes y adecuados, previa justificación de las\nmodificaciones realizadas al proyecto normativo;\nR \nQue mediante memorando Nº SPDP-IRD-2025-0149-M del 4 de agosto del 2025, la IRD\nremitió todo el expediente al suscrito Superintendente de Protección de Datos Personales para\nque realice las observaciones correspondientes o, en su caso, para que lo apruebe;\nQue mediante memorando N° SPDP-SPD-2025-0107-M del 5 de agosto de 2025, el suscrito\nSuperintendente de Protección de Datos Personales comunicó a la IRD las observaciones que\nrealizó al Reglamento para la Seudonimización, Anonimización, Bloqueo, Suspensión y\nEliminación de Datos Personales; y, además, solicitó que aquellas sean revisadas de\nconformidad con el artículo 14 del Reglamento para la Creación, Modificación y derogatoria de\nla Normativa de la Superintendencia de Protección de Datos Personales;\nQue mediante memorando N° SPDP-IRD-2025-0153-M del 7 de agosto de 2025, la IRD\npuso en conocimiento del Superintendente de Protección de Datos Personales el Reglamento\npara la Seudonimización, Anonimización, Bloqueo, Suspensión y Eliminación de Datos\nPersonales debidamente subsanado, de conformidad con el artículo 14 del aludido Reglamento\npara la Creación, Modificación y derogatoria de la Normativa de la Superintendencia de\nProtección de Datos Personales;",
+    "anexos": [],
+    "version": "1.0.0"
+  },
+  "unidades": [
+    {
+      "id": "EC-SPDP-2025-0030-R-Art-1",
+      "tipo": "articulo",
+      "numero": "1",
+      "titulo": "",
+      "texto_oficial": "Art. 1.- Este reglamento tiene por objeto establecer los lineamientos generales para:\n1.1. La aplicación de las medidas de seudonimización, anonimización, bloqueo,\nsuspensión y eliminación de datos personales, en concordancia con el ciclo de vida\ndel dato; y,\n1.2. El ejercicio de los derechos reconocidos en la Ley Orgánica de Protección de Datos\nPersonales y en su Reglamento General.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "seguridad-del-tratamiento.seudonimizacion",
+        "derechos-del-titular.supresion"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "almacenamiento",
+        "supresion"
+      ],
+      "deontico": [
+        "definicion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0030-R-Art-2",
+      "tipo": "articulo",
+      "numero": "2",
+      "titulo": "",
+      "texto_oficial": "Art. 2.- Este reglamento es de aplicación obligatoria para todos los integrantes del sistema\nde protección de datos personales.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "seguridad-del-tratamiento.seudonimizacion"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0030-R-Art-3",
+      "tipo": "articulo",
+      "numero": "3",
+      "titulo": "",
+      "texto_oficial": "Art. 3.- Las palabras, siglas y acrónimos enlistados a continuación tendrán los siguientes\nsignificados:\n3.1. Anonimización: Medida de seguridad técnica dirigida a impedir la identificación o\nreidentificación de una persona natural, sin esfuerzos desproporcionados.\n3.2. Bloqueo: Medida técnica que inhabilita el acceso a los datos personales, de forma\nque no puedan ser objeto de tratamiento.\n3.3. Eliminación: Supresión definitiva de los datos personales de las bases de datos, de\nmanera que aquellos ya no sean accesibles ni recuperables.\n3.4. LOPDP: Ley Orgánica de Protección de Datos Personales.\n3.5. RGLOPDP: Reglamento General de la Ley Orgánica de Protección de Datos\nPersonales.\n3.6. Seudonimización: Proceso mediante el cual los datos personales se sustituyen por\nseudónimos, de forma tal que, luego, no puedan atribuirse a un titular sin el uso de\ninformación adicional separada y debidamente protegida.\nR \n3.7. SPDP: Superintendencia de Protección de Datos Personales.\n3.8. Suspensión: Limitación temporal que, sin conllevar la eliminación de datos\npersonales, restringe o impide al responsable, de forma provisional, para que pueda\nllevar a cabo nuevas actividades de tratamiento por un lapso específico.\n3.9. Tecnología de mejora de privacidad: Conjunto de herramientas tecnológicas y\nmetodologías destinadas a reforzar la protección de los datos personales, mediante\nmedidas tales como seudonimización, anonimización o cifrado de los datos objeto de\ntratamiento.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "ambito-de-aplicacion.definiciones-clave"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "definicion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0030-R-Art-4",
+      "tipo": "articulo",
+      "numero": "4",
+      "titulo": "",
+      "texto_oficial": "Art. 4.- Para la aplicación de este reglamento se observarán, en todo momento, los principios\ny derechos establecidos en la Constitución de la República del Ecuador; en los tratados y\nconvenios internacionales en materia de protección y privacidad de datos personales; en la\nLOPDP y en el RGLOPDP; y, en general, cualquier norma jurídica que, expedida de\nconformidad con la Constitución de la República, tenga o pudiere tener, como ámbito de\naplicación material, el tratamiento de datos personales.\nTÍTULO II\nSEUDONIMIZACIÓN",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "principios.licitud",
+        "principios.proporcionalidad"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0030-R-Art-5",
+      "tipo": "articulo",
+      "numero": "5",
+      "titulo": "",
+      "texto_oficial": "Art. 5.- La seudonimización es una medida técnica que preserva la posibilidad de\nreidentificación de los datos personales objeto de tratamiento, bajo condiciones controladas y\nseguras, para lo cual será obligatorio que el responsable o el encargado del tratamiento ejecute\nun análisis de gestión de riesgos de acuerdo con lo dispuesto en la normativa de protección de\ndatos personales.\nLos datos seudonimizados mantendrán el estatus de datos personales y continuarán sujetos a\nlas obligaciones establecidas por la LOPDP, el RLOPDP y demás normativa aplicable en la\nmateria.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "seguridad-del-tratamiento.seudonimizacion"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "almacenamiento",
+        "uso"
+      ],
+      "deontico": [
+        "definicion",
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0030-R-Art-6",
+      "tipo": "articulo",
+      "numero": "6",
+      "titulo": "",
+      "texto_oficial": "Art. 6.- La seudonimización podrá emplearse en los siguientes casos, siempre y cuando el\nresponsable o el encargado del tratamiento contaren con una base de legitimación que legalmente\nse los permita y en la medida en que ¾de forma previa a la aplicación de esta medida de\nseguridad— se hubiere realizado un análisis de gestión de riesgos para evitar la identificación\ndirecta del titular sin afectar la finalidad del tratamiento:\n6.1. Prestación de servicios o productos, cuando no sea imprescindible conocer la\nidentidad del titular;\n6.2. Procesos de investigación científica, histórica o estadística, incluido el ámbito\nsanitario, de acuerdo con el principio de minimización; y,\n6.3. Auditorías internas, pruebas de sistemas o análisis de seguridad.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "seguridad-del-tratamiento.seudonimizacion"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "almacenamiento",
+        "uso"
+      ],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0030-R-Art-7",
+      "tipo": "articulo",
+      "numero": "7",
+      "titulo": "",
+      "texto_oficial": "Art. 7.- Si se realizare una acción de reidentificación, aquella deberá ser registrada a fin de\ngarantizar la seguridad jurídica, así como para garantizar los principios y derechos de protección\nde datos personales establecidos en la LOPDP.\nTÍTULO III\nANONIMIZACIÓN",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "seguridad-del-tratamiento.seudonimizacion"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "almacenamiento",
+        "uso"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0030-R-Art-8",
+      "tipo": "articulo",
+      "numero": "8",
+      "titulo": "",
+      "texto_oficial": "Art. 8.- Todas las categorías de datos personales podrán ser objeto de la medida de seguridad\ntécnica de anonimización.\nLa anonimización deberá ser exhaustiva considerando todos los atributos que, directa o\nindirectamente, podrían llevar a la reidentificación, incluso al combinarse con otra información.\nPor ende, los responsables y los encargados del tratamiento estarán obligados a evaluar\nexhausitivamente las implicaciones de la anonimización en la adecuada prestación de servicios\nde salud y demás temas relacionados.\nR",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "datos-sensibles.salud",
+        "seguridad-del-tratamiento.seudonimizacion"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "almacenamiento"
+      ],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [
+        "tipos-datos.datos-salud"
+      ],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0030-R-Art-9",
+      "tipo": "articulo",
+      "numero": "9",
+      "titulo": "",
+      "texto_oficial": "Art. 9.- Los responsables o encargados del tratamiento de datos personales sensibles, para\ncumplir los principios establecidos en la LOPDP y de manera previa a la implementación de la\nmedida de seguridad técnica de anonimización, deberán disponer de metodologías de análisis y\ngestión de riesgos adaptadas a la naturaleza de los datos personales que tratan; al estado de la\ntécnica; a las particularidades del tratamiento, así como a las de las partes involucradas; y,\nademás, habrán de verificar la posibilidad de implementarlas a fin de evitar inconformidades en\nla continuidad y calidad de los servicios que proveen.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "seguridad-del-tratamiento.seudonimizacion"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "almacenamiento"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0030-R-Art-10",
+      "tipo": "articulo",
+      "numero": "10",
+      "titulo": "",
+      "texto_oficial": "Art. 10.- Para el tratamiento de datos personales de salud se priorizará la anonimización,\nsiempre que fuere posible, con el objeto de evitar la identificación de los titulares y siempre de\nforma previa a la realización de un análisis de riesgos por parte del responsable o del encargado\ndel tratamiento, según corresponda.\nTodo tratamiento de datos de salud anonimizados requerirá la autorización previa de la SPDP,\nde conformidad con la LOPDP.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "datos-sensibles.salud",
+        "seguridad-del-tratamiento.seudonimizacion"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "almacenamiento"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [
+        "tipos-datos.datos-salud"
+      ],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0030-R-Art-11",
+      "tipo": "articulo",
+      "numero": "11",
+      "titulo": "",
+      "texto_oficial": "Art. 11.- Si los datos personales estuvieren debidamente anonimizados, no se requerirá del\nconsentimiento del titular para su transferencia o comunicación.\nTÍTULO IV\nBLOQUEO",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "seguridad-del-tratamiento.seudonimizacion"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "supresion"
+      ],
+      "deontico": [
+        "permiso",
+        "excepcion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0030-R-Art-12",
+      "tipo": "articulo",
+      "numero": "12",
+      "titulo": "",
+      "texto_oficial": "Art. 12.- Cumplida la finalidad del tratamiento por parte del responsable o del encargado, los\ndatos personales podrán ser conservados durante el plazo que estuviere determinado por ley,\núnicamente si existiere una base de legitimación que lo habilite para el efecto.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "derechos-del-titular.supresion",
+        "derechos-del-titular.limitacion"
+      ],
+      "roles": [
+        "responsable",
+        "encargado",
+        "titular"
+      ],
+      "ciclo": [
+        "supresion",
+        "almacenamiento"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0030-R-Art-13",
+      "tipo": "articulo",
+      "numero": "13",
+      "titulo": "",
+      "texto_oficial": "Art. 13.- El bloqueo implica que los datos se mantendrán de forma segura con acceso limitado\ny restringido, como forma de respaldo, por un periodo que fuere el pertinente según el sector que\ncorresponda.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "derechos-del-titular.limitacion"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "almacenamiento"
+      ],
+      "deontico": [
+        "definicion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0030-R-Art-14",
+      "tipo": "articulo",
+      "numero": "14",
+      "titulo": "",
+      "texto_oficial": "Art. 14.- La decisión de bloquear los datos tras el cumplimiento de la obligación legal\ndependerá de la evaluación del riesgo y la necesidad de mantenerlos accesibles para otras\nfinalidades legítimas por parte del responsable.\nTÍTULO V\nSUSPENSIÓN",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "derechos-del-titular.limitacion"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "almacenamiento",
+        "supresion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0030-R-Art-15",
+      "tipo": "articulo",
+      "numero": "15",
+      "titulo": "",
+      "texto_oficial": "Art. 15.- El derecho a la suspensión es aplicable a todos los tratamientos de datos personales,\nsiempre que se cumplieren con los requisitos y procedimientos establecidos en la normativa\nvigente.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "derechos-del-titular.oposicion",
+        "derechos-del-titular.limitacion"
+      ],
+      "roles": [
+        "titular",
+        "responsable"
+      ],
+      "ciclo": [
+        "uso",
+        "almacenamiento"
+      ],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0030-R-Art-16",
+      "tipo": "articulo",
+      "numero": "16",
+      "titulo": "",
+      "texto_oficial": "Art. 16.- El titular de datos personales tiene la facultad de solicitarle al responsable del\ntratamiento que detenga temporalmente una determinada actividad de tratamiento, siempre y\ncuando se cumplan los supuestos establecidos en la LOPDP.\nEn dichos casos, el responsable del tratamiento deberá suspender el tratamiento en un término\nno mayor de tres (3) días; y, en caso de que el tratamiento hubiese sido objeto de encargo, el\nresponsable se lo deberá notificar al encargado del tratamiento, quien, obligatoriamente, deberá\nsuspenderlo en un término no mayor de tres (3) días contados a partir de la notificación.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "derechos-del-titular.oposicion"
+      ],
+      "roles": [
+        "titular",
+        "responsable"
+      ],
+      "ciclo": [
+        "uso"
+      ],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0030-R-Art-17",
+      "tipo": "articulo",
+      "numero": "17",
+      "titulo": "",
+      "texto_oficial": "Art. 17.- El responsable del tratamiento, a pesar de la suspensión solicitada por el titular,\npodrá tratar los datos personales en los siguientes supuestos:\n17.1. Para la formulación, el ejercicio, la defensa de reclamaciones y/o solicitudes\npresentadas por el titular de datos personales, con la finalidad de poder seguir los\nprocedimientos establecidos;\n17.2. Para proteger los derechos de otra persona natural o jurídica, para lo cual se tendrá\nque realizar un análisis de ponderación de derechos, en cuyo caso se deberá optar por\nla decisión menos gravosa;\nR \n17.3. Por razones de interés público establecidas en una norma con rango de ley, para lo\ncual se deberá cumplir con las condiciones de proporcionalidad y necesidad, en cuyo\ncaso se respetarán, en todo momento, los principios de limitación, minimización y\nseguridad de los datos; y,\n17.4. Por obligaciones legales previamente establecidas, las cuales deberán en todo\nmomento respetar los principios de limitación, minimización y seguridad de los datos.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "derechos-del-titular.oposicion"
+      ],
+      "roles": [
+        "responsable",
+        "titular"
+      ],
+      "ciclo": [
+        "uso"
+      ],
+      "deontico": [
+        "permiso",
+        "excepcion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0030-R-Art-18",
+      "tipo": "articulo",
+      "numero": "18",
+      "titulo": "",
+      "texto_oficial": "Art. 18.- En caso de que el titular de los datos personales ejerciere el derecho de suspensión\no solicitare la revocatoria de su consentimiento, una vez recibida la notificación correspondiente\nel responsable deberá, de forma obligatoria, suspender o cesar aquellas actividades de\ntratamiento que se estén llevando a cabo sobre los datos personales del titular en un término no\nmayor a tres (3) días.\nTÍTULO VI\nELIMINACIÓN",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "derechos-del-titular.supresion"
+      ],
+      "roles": [
+        "titular",
+        "responsable"
+      ],
+      "ciclo": [
+        "supresion"
+      ],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0030-R-Art-19",
+      "tipo": "articulo",
+      "numero": "19",
+      "titulo": "",
+      "texto_oficial": "Art. 19.- El derecho de eliminación es aplicable a todas las categorías de datos personales,\nsiempre que se cumplan los requisitos y procedimientos establecidos en la normativa vigente.\nSe podrá eliminar o solicitar la eliminación de la totalidad de los datos de un tratamiento o\nsolo de determinados datos personales, salvo que el responsable del tratamiento cuente con una\nbase de legitimación que le permitiere conservarlos de acuerdo con la normativa de protección\nde datos personales.\nLa eliminación de datos personales se extiende a los de las personas fallecidas, en cuyo caso\nel derecho será ejercido por los titulares de los derechos sucesorios, siempre y cuando lo pudieren\nacreditar legalmente.\nLos titulares de datos crediticios tienen el derecho de exigir la eliminación de dicha\ninformación ante las fuentes correspondientes, de conformidad con la LOPDP.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "derechos-del-titular.supresion"
+      ],
+      "roles": [
+        "titular",
+        "responsable"
+      ],
+      "ciclo": [
+        "supresion"
+      ],
+      "deontico": [
+        "permiso",
+        "excepcion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0030-R-Art-20",
+      "tipo": "articulo",
+      "numero": "20",
+      "titulo": "",
+      "texto_oficial": "Art. 20.- En caso de que el titular ejerciere el derecho de eliminación ante el responsable o\nante el encargado del tratamiento, deberá el primero de los nombrados entregarle al titular un\ndocumento que acredite la eliminación de los datos personales objeto de tratamiento, inclusive\nde las medidas de seguridad implementadas, tanto de repositorios físicos y/o digitales.\nEl mismo documento que acredite la eliminación de los datos personales objeto de\ntratamiento deberá ser entregado por el encargado al responsable del tratamiento, una vez\nfinalizada la relación jurídica celebrada.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "derechos-del-titular.supresion"
+      ],
+      "roles": [
+        "responsable",
+        "encargado",
+        "titular"
+      ],
+      "ciclo": [
+        "supresion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0030-R-Art-21",
+      "tipo": "articulo",
+      "numero": "21",
+      "titulo": "",
+      "texto_oficial": "Art. 21.- En lo que atañe a la solicitud de eliminación de datos personales presentada los\ntitulares, así como en relación con las excepciones de eliminación, se estará a lo dispuesto en la\nnormativa de protección de datos personales.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "derechos-del-titular.supresion"
+      ],
+      "roles": [
+        "responsable",
+        "encargado",
+        "autoridad-control"
+      ],
+      "ciclo": [
+        "supresion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0030-R-Art-22",
+      "tipo": "articulo",
+      "numero": "22",
+      "titulo": "",
+      "texto_oficial": "Art. 22.- El derecho a la portabilidad faculta al titular a recibir, del responsable del\ntratamiento, sus datos personales, en un formato compatible, actualizado, estructurado, común,\ninteroperable y de lectura mecánica, o a solicitar que se transmitan directamente a otro\nresponsable del tratamiento de datos personales. Esta transferencia deberá realizarse cuando\nfuere técnicamente posible, sin que el responsable original pueda obstaculizarla de ninguna\nmanera y bajo ningún concepto.\nUna vez que la transferencia de datos se hubiere completado de manera exitosa hacia el nuevo\nresponsable del tratamiento, el responsable original quedará obligado a eliminar los datos\ntransferidos de sus propios sistemas, salvo que, para su conservación, contare con una base\nlegitimadora establecida en la LOPDP, con excepción del interés legítimo.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "derechos-del-titular.portabilidad"
+      ],
+      "roles": [
+        "titular",
+        "responsable"
+      ],
+      "ciclo": [
+        "supresion",
+        "uso"
+      ],
+      "deontico": [
+        "derecho",
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0030-R-Art-23",
+      "tipo": "articulo",
+      "numero": "23",
+      "titulo": "",
+      "texto_oficial": "Art. 23.- Cuando el titular ejerciere su derecho de eliminación ante el responsable del\ntratamiento, este último eliminará la información de sus propios registros y, además, deberá\nnotificarles a todos los encargados de tratamiento y a los terceros a los que previamente encargó,\nR \ntransfirió o comunicó los datos personales, con la finalidad de que cada uno de aquellos eliminen\nlos datos personales del titular de sus respectivos sistemas.\nSe entenderá que el derecho de eliminación deberá cumplirse de acuerdo con el plazo\nestablecido en la LOPDP. Sin perjuicio de lo anterior, el encargado del tratamiento o el tercero\ndeberán ejecutar el cumplimiento de la solicitud de eliminación en el término de tres (3) días.\nLos encargados o terceros podrán exceptuarse de eliminar los datos personales:\n23.1. Si contaren con una base legitimadora para la conservación; o,\n23.2. Si fueren a realizar un nuevo o distinto tratamiento de datos personales, en cuyo se\npasarán a tener la calidad de responsables.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "derechos-del-titular.portabilidad",
+        "encargado-del-tratamiento.obligaciones-propias"
+      ],
+      "roles": [
+        "encargado",
+        "responsable",
+        "titular"
+      ],
+      "ciclo": [
+        "supresion",
+        "transferencia"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0030-R-Art-24",
+      "tipo": "articulo",
+      "numero": "24",
+      "titulo": "",
+      "texto_oficial": "Art. 24.- Al concluir la relación jurídica que vincula al encargado con el responsable del\ntratamiento de datos personales, el primero estará obligado a proceder con la devolución o, en\nsu defecto, a eliminar los datos personales que hubiesen sido objeto de tratamiento durante la\nvigencia de dicha relación, para lo cual deberá actuar en estricto cumplimiento de las\ninstrucciones formalmente emitidas por el responsable.\nEl encargado del tratamiento deberá devolver los datos personales o, en su caso, eliminarlos\ndentro del término de cinco (5) días; y, además, deberá entregarle al responsable el documento\nque acredite la ejecución de dicha obligación.\nEn todo contrato de encargo de datos personales se deberán establecer las cláusulas\nespecíficas necesarias que integren las condiciones que permitan ejecutar las acciones o los\nmecanismos que faciliten y garanticen la devolución y/o la eliminación de los datos personales\nal finalizar la relación jurídica.\nEl encargado del tratamiento podrá conservar los datos personales, siempre y cuando contare\ncon alguna de las bases de legitimación establecidas en la LOPDP, con excepción del interés\nlegítimo.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "encargado-del-tratamiento.contrato-encargo"
+      ],
+      "roles": [
+        "encargado",
+        "responsable"
+      ],
+      "ciclo": [
+        "supresion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0030-R-Art-25",
+      "tipo": "articulo",
+      "numero": "25",
+      "titulo": "",
+      "texto_oficial": "Art. 25.- En caso de incumplimiento de las disposiciones de la LOPDP o del RGLOPDP; de\nlas directrices, los lineamientos o las regulaciones emitidas por la Superintendencia de\nProtección de Datos Personales y demás normativa aplicable en materia de protección de datos\npersonales; o de transgresión de los principios que fundamentan este derecho, la SPDP estará\nfacultada para dictar las medidas correctivas de eliminación de los datos personales, con el\nobjetivo primordial de prevenir la continuación de la infracción y evitar su reiteración, sin\nperjuicio de la imposición de las sanciones administrativas que fueren pertinentes.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.sanciones"
+      ],
+      "roles": [
+        "autoridad-control",
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso",
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0030-R-DispGen-ÚNICA",
+      "tipo": "disposicion",
+      "numero": "ÚNICA",
+      "titulo": "Disposición Gen ÚNICA",
+      "texto_oficial": "En un plazo de seis (6) meses contados a partir de la publicación de esta resolución en el\nRegistro Oficial, la Intendencia General de Innovación Tecnológica y Seguridad de Datos\nPersonales presentará a la Intendencia General de Regulación de Protección de Datos Personales,\npara su aprobación, la Guía Técnica de Seudonimización, Anonimización, Bloqueo, Suspensión\ny Eliminación en Protección de Datos Personales.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0030-R-DispFinal-ÚNICA",
+      "tipo": "disposicion",
+      "numero": "ÚNICA",
+      "titulo": "Disposición Final ÚNICA",
+      "texto_oficial": "Esta resolución entrará en vigencia a partir de su suscripción, sin perjuicio de su publicación\nen el Registro Oficial.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    }
+  ]
+}
