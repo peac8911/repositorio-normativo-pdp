@@ -1,0 +1,218 @@
+{
+  "meta": {
+    "id": "EC-SPDP-2025-0006-R",
+    "jurisdiccion": "ec",
+    "tipo_fuente": "normativa-secundaria",
+    "nivel_jerarquico": 6,
+    "titulo": "Reglamento de Cláusulas de Protección de Datos Personales para Contratos en Ecuador",
+    "numero": "SPDP-SPD-2025-0006-R",
+    "fecha_publicacion": "2025-04-29",
+    "fecha_vigencia": "2025-04-29",
+    "vigente": true,
+    "materia": [
+      "pdp"
+    ],
+    "es_especializada": true,
+    "url_oficial": "https://www.superintendenciadedatos.gob.ec/",
+    "preambulo": "CONSIDERANDO:\nQue el numeral 19 del artículo 66 de la Constitución de la República del Ecuador (“CRE”)\nreconoce y garantiza a las personas el derecho “a la protección de datos de carácter personal,\nque incluye el acceso y la decisión sobre información y datos de este carácter, así como su\ncorrespondiente protección. La recolección, archivo, procesamiento, distribución o difusión de\nestos datos o información requerirán la autorización del titular o el mandato de la ley”;\nQue el artículo 213 de la CRE establece que “[l]as superintendencias son organismos\ntécnicos de vigilancia, auditoría, intervención y control de las actividades económicas, sociales\ny ambientales, y de los servicios que prestan las entidades públicas y privadas, con el propósito\nde que estas actividades y servicios se sujeten al ordenamiento jurídico y atiendan al interés\ngeneral (...)”; que forman parte de la Función de Transparencia y Control Social; y que,\nconforme lo dispone el artículo 204 idem, detentan “personalidad jurídica y autonomía\nadministrativa, financiera, presupuestaria y organizativa (...)”;\nQue el artículo 135 del Código Orgánico Administrativo (“COA”) determina que “(...)\ncorresponde a la Administración Pública, la dirección del procedimiento administrativo en\nejercicio de las competencias que se le atribuyan en el ordenamiento jurídico y en este Código\n(...)”;\nQue el numeral 9 del artículo 68 de la Ley Orgánica de Protección de Datos Personales\n(“LOPDP”) tipifica, como infracción grave del responsable, el hecho de “[n]o suscribir contratos\nque incluyan cláusulas de confidencialidad y tratamiento adecuado de datos personales con el\nencargado y el personal a cargo del tratamiento de datos personales o que tenga conocimiento de\nlos datos personales (…)”;\nQue, asimismo, el numeral 3 del artículo 70 de la LOPDP tipifica, como infracción grave del\nencargado, el hecho de “[n]o suscribir contratos que contengan cláusulas de confidencialidad y\ntratamiento adecuado de datos personales con el personal a cargo del tratamiento de datos\npersonales o quien tenga conocimiento de los datos personales (…)”;\nQue a través de la LOPDP se creó la Superintendencia de Protección de Datos Personales,\n(“SPDP”), como un órgano de control, con potestad sancionatoria, de administración desconcentrada,\ncon personalidad jurídica y autonomía administrativa, técnica, operativa y financiera, cuyo máximo\ntitular es, de acuerdo con el inciso primero del artículo 76 ídem, el Superintendente de Protección de\nDatos Personales;\nQue el numeral 5 del artículo 76 de la LOPDP dispone que “(…) [l]a Autoridad de Protección\nde Datos Personales es el órgano de control y vigilancia encargado de garantizar a todos los\nciudadanos la protección de sus datos personales, y de realizar todas las acciones necesarias para\nque se respeten los principios, derechos, garantías y procedimientos previstos en la presente Ley y\nen su reglamento de aplicación, para lo cual le corresponde las siguientes funciones, atribuciones y\nfacultades: (…) 5) Emitir normativa general o técnica, criterios y demás actos que sean necesarios\npara el ejercicio de sus competencias y la garantía del ejercicio del derecho a la protección de datos\npersonales (…)”;\nQue el numeral 4 del artículo 76 de la LOPDP le atribuye a la SPDP funciones, atribuciones\ny facultades para “[r]ealizar o delegar auditorías técnicas al tratamiento de datos personales\n(…)”;\nQue mediante resolución Nº SPDP-SPDP-2024-0001-R, publicada en el Tercer Suplemento del\nRegistro Oficial Nº 624 de agosto 19 de 2024, se aprobó el Estatuto Orgánico de Gestión\nOrganizacional por Procesos de Arranque de la SPDP (“Estatuto SPDP”);\nQue el literal b) del numeral 2 del artículo 10 del Estatuto SPDP, establece las atribuciones y\nresponsabilidades de la Intendencia General de Regulación de Protección de Datos Personales\n\n(“IRD”), entre las que consta la de “(…) [d]irigir y proponer la elaboración de las propuestas o\nproyectos normativos para crear, reformar o derogar los actos normativos, sean estos políticas,\ndirectrices, reglamentos, resoluciones, lineamientos, normas técnicas, oficios circulares, etcétera,\nnecesarios para el ejercicio de todas las competencias y atribuciones propias de la Superintendencia\nde Protección de Datos Personales, con los previos informes técnicos de las unidades\nadministrativas sustantivas y adjetivas relacionadas con el ámbito de aplicación de tales normas;\nasí como, todos aquellos actos normativos relacionados con el ejercicio, tutela y procedimientos\nadministrativos de gestión que garanticen a las personas naturales la plena vigencia de sus derechos\ny deberes previstos en dicha ley y su reglamento (…)”;\nQue mediante resolución Nº SPDP-SPD-2025-0001-R del 31 de enero del 2025, publicada en\nel Registro Oficial N° 750 del 24 de febrero del 2025, se establecieron las disposiciones, delegaciones\nde facultades y atribuciones a las autoridades, funcionarios y servidores públicos de la SPDP;\nQue por el literal a) del artículo 4 ídem se le delegó a la IRD, entre otras, la responsabilidad de\n“[e]mitir normativa general o técnica, criterios y demás actos que sean necesarios para el ejercicio\nde sus competencias y la garantía del ejercicio del derecho a la protección de datos personales”;\nQue mediante resolución Nº SPDP-SPDP-2024-0018-R, publicada en el Segundo Suplemento\ndel Registro Oficial Nº 679 del 8 de noviembre del 2024, se expidió el Reglamento para la\nElaboración y Aprobación del Plan Regulatorio Institucional de la Superintendencia de Protección\nde Datos Personales, en cuya disposición transitoria se ha previsto que “(…) el PRI correspondiente\na los años fiscales 2024 y 2025 no seguirá el procedimiento establecido en este reglamento y, por\nende, se elaborará únicamente a base de los informes técnicos emitidos por las Unidades\nAdministrativas correspondientes; validados por la IGRPDP; aprobados por el Superintendente o\nsu delegado; y, finalmente, publicado en los portales oficiales de la SPDP cuando estén\nhabilitados”;\nQue la IRD, mediante informe técnico Nº INF-SPDP-IRD-2025-0003 suscrito el 3 de enero del\n2025, solicitó al Superintendente de Protección de Datos Personales la aprobación del Plan\nRegulatorio Institucional (“PRI”) del año fiscal 2025, a fin de cumplir con la disposición transitoria\nde la resolución Nº SPDP-SPDP-2024-0018-R, así como para garantizar la transparencia y eficacia\nde la SPDP;\nQue mediante resolución N° SPDP-SPD-2025-0002-R del 3 de febrero del 2025 se aprobó el\nPRI del año 2025, dentro del cual se estableció la necesidad de emitir el Reglamento que Establece\nla Obligación de Incorporar Cláusulas de Protección de Datos Personales en los Contratos\nCelebrados dentro del Territorio de la República del Ecuador;\nQue la IRD, a través del informe técnico Nº INF-SPDP-IRD-2025-0007 suscrito el 27 de febrero\ndel 2025, justificó la pertinencia y la necesidad de emitir los lineamientos necesarios para la\nprotección de los titulares, a fin de garantizar el adecuado tratamiento y protección de los derechos\nreconocidos en la LOPDP, el Reglamento General de la LOPDP y demás normativa aplicable;\ninforme técnico en cuya parte pertinente se indica que “[l]a SPDP en ejercicio de sus funciones y\natribuciones está facultada de conformidad con el numeral 5 del artículo 76 de la LOPDP para\nemitir el Reglamento de Contenidos Mínimos de las Cláusulas Modelo de Protección de Datos\nPersonales en Contratos Celebrados dentro del Territorio de la República del Ecuador”;\nQue mediante memorando N° SPDP-IRD-2025-0021-M suscrito el 27 de febrero del 2025, la\nIRD puso en conocimiento de la Dirección de Asesoría Jurídica (“DAJ”), el proyecto normativo\ndenominado Reglamento de Contenidos Mínimos de las Cláusulas Modelo de Protección de Datos\nPersonales en Contratos Celebrados dentro del Territorio de la República del Ecuador y el informe\ntécnico N° INF-SPDP-IRD-2025-0007, para que en el término de diez (10) días se pronuncie sobre\nla concordancia con la normativa y la legalidad, de conformidad con lo dispuesto en la resolución\nN° SPDP-SPDP-2024-0022-R;\nQue la DAJ, en la parte pertinente de su informe técnico N° INF-SPDP-DAJ-2025-0005 suscrito\nel 27 de febrero del 2025, determinó que el Reglamento de Contenidos Mínimos de las Cláusulas\nModelo de Protección de Datos Personales en Contratos Celebrados dentro del Territorio de la\nRepública del Ecuador es congruente con los principios establecidos en la LOPDP, no transgrede o\n\ncontradice normas matrices, cumple con el principio de legalidad y, por ello, recomendó que “(…)\n[l]a IRD debe disponer a quien corresponda la publicación a través de la página web institucional\ne informar su publicación a través de las redes sociales institucionales, con la finalidad de que la\nciudadanía, las organizaciones de la sociedad civil o interesados en general, de manera motivada,\npuedan remitir sus observaciones o realizar aportes respecto del contenido (…)”;\nQue a través del memorando N° SPDP-DAJ-2025-0019-M suscrito el 27 de febrero del 2025, la\nDAJ puso en conocimiento de la IRD el informe técnico N° INF-SPDP-DAJ-2025-0005, así como\nla validación legal del proyecto de resolución que viabilizaría la expedición del Reglamento de\nContenidos Mínimos de las Cláusulas Modelo de Protección de Datos Personales en Contratos\nCelebrados dentro del Territorio de la República del Ecuador;\nQue en el memorando N° SPDP-IRD-2025-0024-M suscrito el 27 de febrero del 2025, la IRD\nsolicitó a las unidades administrativas de la SPDP que procedan con las acciones pertinentes a fin de\nque publiquen el Reglamento de Contenidos Mínimos de las Cláusulas Modelo de Protección de\nDatos Personales en Contratos Celebrados dentro del Territorio de la República del Ecuador, en la\npágina web institucional y en las redes sociales de la SPDP, para que el proyecto de normativa esté\ndisponible para la ciudadanía, las organizaciones de la sociedad civil o interesados en general desde\nel 3 de marzo del 2025 hasta el 1 de abril del 2025, con el objeto de poder recibir sus observaciones\no aportes, siempre que estuvieren debidamente motivados;\nQue para cumplir con la resolución Nº SPDP-SPDP-2024-0022-R, se ejecutó el proceso de\nsocialización del Reglamento de Contenidos Mínimos de las Cláusulas Modelo de Protección de\nDatos Personales en Contratos Celebrados dentro del Territorio de la República del Ecuador, dentro\ndel término de veinte (20) días, de conformidad con el artículo 12, y se procedió a dar de baja el\nproyecto normativo el 2 de abril del 2025 de la página web institucional y las redes sociales de la\nSPDP;\nQue a través del informe técnico Nº INF-SPDP-IRD-2025-0023, suscrito el 30 de abril del 2025,\nla IRD incorporó al informe técnico las observaciones y aportes que se consideraron relevantes y\nadecuados, previa justificación de las modificaciones realizadas al proyecto normativo;\nQue mediante memorando Nº SPDP-IRD-2025-0070-M, suscrito el 30 de abril del 2025, la IRD\nremitió todo el expediente al suscrito Superintendente de Protección de Datos Personales para que\nrealice las observaciones correspondientes o, en su caso, para que lo apruebe;",
+    "anexos": [
+      "ec-spdp-2025-0006-r-anexo-clausulas.pdf"
+    ],
+    "version": "1.0.0"
+  },
+  "unidades": [
+    {
+      "id": "EC-SPDP-2025-0006-R-Art-1",
+      "tipo": "articulo",
+      "numero": "1",
+      "titulo": "",
+      "texto_oficial": "Art. 1.- Este reglamento tiene por objeto establecer la obligatoriedad de incorporar cláusulas de\nprotección de datos personales en las relaciones jurídico-contractuales que se generaren entre los\ndiferentes actores del sistema, para así cumplir la LOPDP.\nLas cláusulas de protección de datos personales establecen el respeto al cumplimiento de los\nprincipios establecidos en la normativa de protección de datos vigente y a los derechos de los titulares\nde los datos, de conformidad con las disposiciones legales aplicables. En este sentido, la obligación\nde incorporar cláusulas de protección de datos personales forma parte del sistema de gestión de\ncumplimiento y análisis de riesgos, como soporte documental y medida de seguridad jurídica.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "encargado-del-tratamiento.contrato-encargo",
+        "ambito-de-aplicacion.ambito-material"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion",
+        "definicion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0006-R-Art-2",
+      "tipo": "articulo",
+      "numero": "2",
+      "titulo": "",
+      "texto_oficial": "Art. 2.- El reglamento es de cumplimiento obligatorio. No obstante, su Anexo I tiene un carácter\nmeramente referencial o ejemplificativo, aplicable a los integrantes del sistema de protección de\ndatos personales establecidos en el artículo 5 de la LOPDP.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "encargado-del-tratamiento.contrato-encargo"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion",
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0006-R-Art-3",
+      "tipo": "articulo",
+      "numero": "3",
+      "titulo": "",
+      "texto_oficial": "Art. 3.- Para los efectos de este reglamento, se entenderán como cláusulas de protección de datos\npersonales a los textos contractuales sugeridos, no obligatorios —que no corresponden a las\ncláusulas tipo, estándar o modelo—, que sirven para estandarizar el contenido mínimo que deben\ntener las cláusulas en aquellos contratos que conlleven el procesamiento de datos personales, para\n\ngarantizar el cumplimiento de la normativa de protección de datos, promover buenas prácticas y\nasegurar los derechos de los titulares de datos personales.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "encargado-del-tratamiento.contrato-encargo"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "definicion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0006-R-Art-4",
+      "tipo": "articulo",
+      "numero": "4",
+      "titulo": "",
+      "texto_oficial": "Art. 4.- Una cláusula de protección de datos personales no podrá caracterizarse, bajo ninguna\nconsideración, por cualquiera de los siguientes defectos:\n4.1. Ambigüedad o vaguedad: La cláusula de protección de datos personales, en cualquiera\nde los contratos que se incluyere y sin importar quiénes fueren las partes, debe ser clara\ny específica en cuanto al tratamiento de los datos, la finalidad y los derechos de los\ntitulares. En consecuencia, no debe prestarse, bajo ningún respecto, para dudas o\ninterpretaciones indeterminadas, vagas o confusas.\n4.2. Finalidades no legítimas: La cláusula no debe permitir ni describir el tratamiento de los\ndatos para fines que no fueren legítimos, lícitos, específicos y explícitos, conforme a la\nlegislación de protección de datos.\n4.3. Falta de bases de legitimación: En ningún caso se podrá establecer o estipular una\ncláusula que busque realizar tratamientos de datos personales que no cuenten con una\nbase de legitimación, de acuerdo con lo establecido en la LOPDP.\n4.4. Falta de transparencia: Una cláusula de protección de datos no debe omitir información\nimportante, tales como la identidad del responsable del tratamiento o la del encargado del\ntratamiento, los derechos del titular de los datos, las finalidades de tratamiento, entre otras\ninformaciones necesarias.\n4.5. Omisión de la responsabilidad en la implementación de medidas de seguridad: La\ncláusula de protección de datos no debe excluir la responsabilidad que tienen las partes\nsuscriptoras del contrato de contar con medidas de seguridad que deben implementarse\npara proteger los datos personales del acceso no autorizado o el tratamiento indebido.\n4.6. Excesos en la recopilación de datos: La cláusula no debe permitir que se recaben o\nrecojan datos en forma indiscriminada o que se traten más datos que los estrictamente\nnecesarios para cumplir con la finalidad del tratamiento.\n4.7. No respetar derechos de los titulares: La cláusula no debe impedir o limitar de manera\nindebida, por acción u omisión, los derechos de los titulares de los datos ni su cabal\nejercicio.\n4.8. Condiciones de transferencia o comunicación de datos sin control: La cláusula de\nprotección de datos no debe permitir la transferencia o comunicación de los datos a\nterceros sin garantías adecuadas o sin informar previa, debida, suficiente y\nfehacientemente al titular de los datos.\n4.9. Exenciones excesivas de responsabilidad: La cláusula de protección de datos no debe\neximir ni liberar ni al responsable ni al encargado del tratamiento de las obligaciones\nestablecidas en la normativa de protección de datos personales vigente.\n4.10. Falta de plazo de conservación de los datos: La cláusula no debe omitir información\nsobre el período de retención de los datos personales, el cual debe ser limitado al tiempo\nnecesario para cumplir con la finalidad del tratamiento.\n4.11. Restricciones de derechos, tratamientos ilícitos y omisiones esenciales: Una cláusula\nde protección de datos no debe contener disposiciones que vulneren, restrinjan, limiten o\nsoslayen los derechos de los titulares de datos personales ni que permitan el tratamiento\nilegítimo, ilícito o que omitan detalles esenciales sobre el manejo de los datos.\n4.12. Otros: Los demás que estableciere la normativa en protección de datos personales\nvigente.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "encargado-del-tratamiento.contrato-encargo"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "prohibicion",
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0006-R-DispGen-PRIMERA",
+      "tipo": "disposicion",
+      "numero": "PRIMERA",
+      "titulo": "Disposición General PRIMERA",
+      "texto_oficial": "Primera.- Tendrán una naturaleza meramente referencial y optativa los contenidos detallados en\nel Anexo I de este reglamento.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "encargado-del-tratamiento.contrato-encargo"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0006-R-DispGen-SEGUNDA",
+      "tipo": "disposicion",
+      "numero": "SEGUNDA",
+      "titulo": "Disposición General SEGUNDA",
+      "texto_oficial": "Segunda.- La SPDP podrá actualizar, cada vez que lo considere necesario, el Anexo I de este\ninstrumento, prevalida de un informe técnico de justificación emitido por la IRD, así como de un\ninforme jurídico de la Dirección de Asesoría Jurídica, los cuales motivarán la emisión de la\nresolución de actualización que corresponda y que habrá de publicarse en el Registro Oficial y en los\nportales oficiales institucionales correspondientes.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "encargado-del-tratamiento.contrato-encargo"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0006-R-DispGen-TERCERA",
+      "tipo": "disposicion",
+      "numero": "TERCERA",
+      "titulo": "Disposición General TERCERA",
+      "texto_oficial": "Tercera.- Las cláusulas contenidas en el Anexo I de este instrumento no crean figuras no previstas\nen el ordenamiento jurídico ecuatoriano, sino que establecen las condiciones jurídicas mínimas que\ndeben reconocerse en las relaciones jurídico-contractuales entre los integrantes del sistema de\nprotección de datos personales, y que constan ya establecidas en la LOPDP.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "encargado-del-tratamiento.contrato-encargo"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0006-R-DispFinal-ÚNICA",
+      "tipo": "disposicion",
+      "numero": "ÚNICA",
+      "titulo": "Disposición Final ÚNICA",
+      "texto_oficial": "Esta resolución entrará en vigencia a partir de su suscripción, sin perjuicio de su publicación en\nel Registro Oficial.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    }
+  ]
+}
