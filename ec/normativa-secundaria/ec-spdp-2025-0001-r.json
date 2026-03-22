@@ -1,0 +1,590 @@
+{
+  "meta": {
+    "id": "EC-SPDP-2025-0001-R",
+    "jurisdiccion": "ec",
+    "tipo_fuente": "normativa-secundaria",
+    "nivel_jerarquico": 6,
+    "titulo": "Resolución de Delegación de Competencias, Facultades, Funciones y Atribuciones de la Superintendencia de Protección de Datos Personales",
+    "numero": "SPDP-SPD-2025-0001-R",
+    "fecha_publicacion": "2025-01-31",
+    "fecha_vigencia": "2025-01-31",
+    "vigente": true,
+    "materia": [
+      "pdp"
+    ],
+    "es_especializada": true,
+    "url_oficial": "https://www.superintendenciadedatos.gob.ec/",
+    "preambulo": "CONSIDERANDO:\nQue el artículo 66 de la Constitución de la República del Ecuador (“CRE”) determina que\n“(…) Se reconoce y garantizará a las personas: (...) 19. El derecho a la protección de datos de\ncarácter personal, que incluye el acceso y la decisión sobre información y datos de este carácter,\nasí como su correspondiente protección. La recolección, archivo, procesamiento, distribución\no difusión de estos datos o información requerirán la autorización del titular o el mandato de\nla ley (...)”;\nQue el último inciso del artículo 204 CRE estatuye que “(…) La Función de Transparencia\ny Control Social estará formada por el Consejo de Participación Ciudadana y Control Social,\nla Defensoría del Pueblo, la Contraloría General del Estado y las superintendencias. Estas\nentidades tendrán personalidad jurídica y autonomía administrativa, financiera, presupuestaria\ny organizativa (…)”;\nQue el artículo 213 CRE establece que “(…) Las superintendencias son organismos técnicos\nde vigilancia, auditoría, intervención y control de las actividades económicas, sociales y\nambientales, y de los servicios que prestan las entidades públicas y privadas, con el propósito\nde que estas actividades y servicios se sujeten al ordenamiento jurídico y atiendan al interés\ngeneral (…)”;\nQue el numeral 1 del artículo 225 CRE señala que son entidades del sector público los\norganismos y dependencias de las funciones Ejecutiva, Legislativa, Judicial, Electoral y de\nTransparencia y Control Social;\nQue el artículo 226 CRE dispone que “(…) Las instituciones del Estado, sus organismos,\ndependencias, las servidoras o servidores públicos y las personas que actúen en virtud de una\npotestad estatal ejercerán solamente las competencias y facultades que les sean atribuidas en\nla Constitución y la ley (…)”;\nQue el artículo 227 CRE determina que “(…) La administración pública constituye un\nservicio a la colectividad que se rige por los principios de eficacia, eficiencia, calidad,\njerarquía, desconcentración, descentralización, coordinación, participación, planificación,\ntransparencia y evaluación (…)”;\nQue el artículo 233 CRE estatuye que \"Ninguna servidora ni servidor público está exento de\nresponsabilidades por los actos realizados en el ejercicio de sus funciones o por sus omisiones\ny serán responsables administrativa, civil y penalmente por el manejo y administración de\nfondos, bienes o recursos públicos\";\nQue el artículo 47 del Código Orgánico Administrativo (“COA”) establece que “(…) La\nmáxima autoridad administrativa de la correspondiente entidad pública ejerce su\nrepresentación para intervenir en todos los actos, contratos y relaciones jurídicas sujetas a su\ncompetencia. Esta autoridad no requiere delegación o autorización alguna de un órgano o\nentidad superior, salvo en los casos expresamente previstos en la ley (…)”;\nQue el artículo 68 COA dispone que “(…) La competencia es irrenunciable y se ejerce por\nlos órganos o entidades señalados en el ordenamiento jurídico, salvo los casos de delegación,\navocación, suplencia, subrogación, descentralización y desconcentración cuando se efectúen en\nlos términos previstos en la ley”;\nQue el artículo 69 COA determina que “Los órganos administrativos pueden delegar el\nejercicio de sus competencias, incluida la de gestión, en: 1. Otros órganos o entidades de la\nmisma administración pública, jerárquicamente dependientes. 2. Otros órganos o entidades de\notras administraciones. 3. Esta delegación exige coordinación previa de los órganos o entidades\nafectados, su instrumentación y el cumplimiento de las demás exigencias del ordenamiento\n\njurídico en caso de que existan. 4. Los titulares de otros órganos dependientes para la firma de\nsus actos administrativos. 5. Sujetos de derecho privado, conforme con la ley de la materia. La\ndelegación de gestión no supone cesión de la titularidad de la competencia”;\nQue el artículo 70 COA estatuye que “La delegación contendrá: 1. La especificación del\ndelegado. 2. La especificación del órgano delegante y la atribución para delegar dicha\ncompetencia. 3. Las competencias que son objeto de delegación o los actos que el delegado debe\nejercer para el cumplimiento de las mismas. 4. El plazo o condición, cuando sean necesarios.\n5. El acto del que conste la delegación expresará además lugar, fecha y número. 6. Las\ndecisiones que pueden adoptarse por delegación. La delegación de competencias y su\nrevocación se publicarán por el órgano delegante, a través de los medios de difusión\ninstitucional”;\nQue el artículo 71 COA establece que “Son efectos de la delegación: 1. Las decisiones\ndelegadas se consideran adoptadas por el delegante. 2. La responsabilidad por las decisiones\nadoptadas por el delegado o el delegante, según corresponda”;\nQue el artículo 130 COA señala que las máximas autoridades administrativas tienen\ncompetencia normativa de carácter administrativo, únicamente para regular los asuntos internos\ndel órgano a su cargo, salvo los casos en los que la ley prevea esta competencia para la máxima\nautoridad legislativa de una administración pública;\nQue el artículo 9 de la Ley Orgánica de la Contraloría General del Estado (“LOCGE”)\ndispone que “(…) El control interno constituye un proceso aplicado por la máxima autoridad,\nla dirección y el personal de cada institución que proporciona seguridad razonable de que se\nprotegen los recursos públicos y se alcancen los objetivos institucionales. Constituyen elementos\ndel control interno: el entorno de control, la organización, la idoneidad del personal, el\ncumplimiento de los objetivos institucionales, los riesgos institucionales en el logro de tales\nobjetivos y las medidas adoptadas para afrontarlos, el sistema de información, el cumplimiento\nde las normas jurídicas y técnicas; y, la corrección oportuna de las deficiencias de control”;\nQue el artículo 11 LOCGE determina que “(…) Se tendrán en cuenta las normas sobre\nfunciones incompatibles, depósito intacto e inmediato de lo recaudado, otorgamiento de recibos,\npagos con cheque o mediante la red bancaria, distinción entre ordenadores de gasto y\nordenadores de pago; y, el reglamento orgánico funcional que será publicado en el Registro\nOficial”;\nQue la letra e) del artículo 77 LOCGE estatuye que “(…) las máximas autoridades de las\ninstituciones del Estado, son responsables de los actos, contratos o resoluciones emanados de\nsu autoridad. Además, se establecen las siguientes atribuciones y obligaciones específicas: (…)\ne) Dictar los correspondientes reglamentos y demás normas secundarias necesarias para el\neficiente, efectivo y económico funcionamiento de sus instituciones (…)”;\nQue el artículo 22 de la Ley Orgánica del Servicio Público señala los deberes y\nresponsabilidades de los servidores públicos, respecto al cumplimiento de la Constitución de la\nRepública, leyes, reglamentos y demás disposiciones expedidas de acuerdo con la ley;\nQue el artículo 61 de la Ley Orgánica del Sistema Nacional de Contratación Pública\n(“LOSNCP”) dispone que “Si la máxima autoridad de la Entidad Contratante decide delegar\nla suscripción de los contratos a funcionarios o empleados de la entidad u organismos adscritos\na ella o bien a funcionarios o empleados de otras entidades del Estado, deberá emitir la\nresolución respectiva sin que sea necesario publicarla en el Registro Oficial, debiendo darse a\nconocer en el Portal COMPRAS PÚBLICAS (…)”;\nQue el artículo 6 del Reglamento a la LOSNCP determina que “Son delegables todas las\nfacultades previstas para la máxima autoridad tanto en la Ley Orgánica del Sistema Nacional\nde Contratación Pública como en este Reglamento General, con excepción de lo previsto en el\nprimer inciso del artículo 57 de la referida Ley, aun cuando no conste en dicha normativa la\n\nfacultad de delegación expresa. La resolución que la máxima autoridad emita para el efecto\ndeterminará el contenido y alcance de la delegación. En el caso de entidades contratantes que\ncuenten con menos de tres (3) servidores públicos encargados de la actividad administrativa de\nla contratación pública, podrán llevar a cabo e intervenir en varias fases o etapas de la\ncontratación, sin necesidad de aplicar las normas que regulen la separación de funciones. Las\nmáximas autoridades de las personas jurídicas de derecho privado que actúen como entidades\ncontratantes, otorgarán poderes o emitirán delegaciones, según corresponda, conforme a la\nnormativa de derecho privado que les sea aplicable. En el ámbito de responsabilidades\nderivadas de las actuaciones, producto de las delegaciones o poderes emitidos, se estará al\nrégimen aplicable a la materia. Las resoluciones administrativas que se adopten por delegación\nserán consideradas como dictadas por la autoridad delegante. El delegado será personalmente\nresponsable de las decisiones y omisiones con relación al cumplimiento de la delegación”;\nQue a través de la Ley Orgánica de Protección de Datos Personales (“LOPDP”), publicada\nen el Quinto Suplemento del Registro Oficial Nº 459 del 26 mayo del 2021, se creó la\nSuperintendencia de Protección de Datos Personales como un órgano técnico de control, con\npotestad sancionatoria, de administración desconcentrada, con personalidad jurídica y\nautonomía administrativa, técnica, operativa y financiera;\nQue el artículo 76 LOPDP establece que “(…) La Autoridad de Protección de Datos\nPersonales es el órgano de control y vigilancia encargado de garantizar a todos los ciudadanos\nla protección de sus datos personales, y de realizar todas las acciones necesarias para que se\nrespeten los principios, derechos, garantías y procedimientos previstos en la presente Ley y en\nsu reglamento de aplicación (…)”;\nQue el artículo 77 LOPDP señala que “El Superintendente de Protección de Datos será\ndesignado de acuerdo con lo establecido en la Constitución de la República, de la terna que\nremita la Presidenta o Presidente de la República, siguiendo criterios de especialidad y méritos;\nse sujetará a escrutinio público y derecho de impugnación ciudadana (…)”;\nQue el artículo 79 del Reglamento General de la Ley de Protección de Datos Personales\n(“RGLOPDP”) dispone que “(…) La Autoridad de Protección de Datos Personales goza de\nautonomía administrativa, técnica, operativa y financiera. Estará a cargo del Superintendente\nde Protección de Datos Personales y tendrá su sede en el Distrito Metropolitano de Quito. El\nestatuto Orgánico Fundacional será aprobado por la máxima autoridad y contendrá la\nestructura institucional necesaria para el cumplimiento de sus fines y atribuciones (…)”;\nQue el artículo 83 del Reglamento de la LOPDP establece que “[s]on atribuciones del\nSuperintendente de Protección de Datos Personales, a más de las señaladas en la Ley y este\nReglamento, las siguientes: 1. Representar legal y judicialmente a la Autoridad de Protección\nde Datos Personales, en todos los actos, contratos y relaciones jurídicas sujetas a su\ncompetencia. (...) 5. Aprobar y expedir normas internas, resoluciones y manuales que sean\nnecesarios para el buen funcionamiento de la Autoridad a su cargo (...)”;\nQue la disposición general primera de la resolución N° SPDP-SPDP-2024-0001-R expedida\nel 02 de agosto del 2024, publicada en el Tercer Suplemento del Registro Oficial N° 624 del 19\nde agosto de 2024, que aprueba el “Estatuto Orgánico de Gestión Organizacional por Procesos\nde Arranque de la Superintendencia de Protección de Datos Personales”, señala que “Las\nmodificaciones o reformas que se requieran incorporar en el futuro, según se ejecute el proceso\nde implementación de la nueva estructura orgánica y conforme avance el proceso de\ndesconcentración, en lo que respecta con agregación y eliminación de procesos y/o productos;\nasí como la reubicación y/o cambio de denominación de unidades administrativas\n(dependencias), procesos y/o productos o servicios, serán aprobados por el Superintendente de\nProtección de Datos Personales mediante el acto administrativo pertinente”;\nQue mediante resolución Nº SPDP-SPDP-2024-0001-R del 2 de agosto del 2024, publicada\nen el Tercer Suplemento del Registro Oficial Nº 624 del 19 de agosto del 2024, el\n\nSuperintendente de Protección de Datos Personales aprobó el Estatuto Orgánico de Gestión\nOrganizacional por Procesos de Arranque de la Superintendencia de Protección de Datos\nPersonales;\nQue mediante resolución Nº SPDP-SPDP-2024-0003-R del 10 de septiembre del 2024, el\nSuperintendente de Protección de Datos Personales aprobó el Manual de Clasificación y\nValoración de Puestos que contienen los perfiles provisionales de la estructura de arranque de la\nSuperintendencia de Protección de Datos Personales;\nQue mediante memorando SPDP-INT-0002-2024-DS del 13 de septiembre del 2024, se\nexpidieron las acciones de personal de los funcionarios que ocupan los Niveles Jerárquicos\nSuperiores de las Intendencias Generales y Direcciones;\nQue mediante resolución N° SPDP-SPDP-2024-0007-R del 30 de noviembre del 2024,\npublicada en el Primer Suplemento del Registro Oficial N° 679 del 8 de noviembre del 2024, se\nexpidieron las disposiciones, delegaciones de facultades y atribuciones a las autoridades,\nfuncionarios y servidores públicos de la SPDP;\nQue desde la implementación y puesta en funcionamiento de la Superintendencia de\nProtección de Datos Personales, la dinámica cotidiana ha evidenciado la necesidad de replantear\no modificar tales disposiciones, delegaciones y atribuciones, con el objeto de propender a la\nmejora y eficiencia de los distintos procesos institucionales;",
+    "anexos": [],
+    "version": "1.0.0"
+  },
+  "unidades": [
+    {
+      "id": "EC-SPDP-2025-0001-R-Art-1",
+      "tipo": "articulo",
+      "numero": "1",
+      "titulo": "Objeto",
+      "texto_oficial": "Art. 1.- Objeto.- Esta resolución tiene por objeto operativizar la delegación de las\ncompetencias, facultades, funciones, atribuciones y responsabilidades legalmente establecidas\npara el Superintendente de Protección de Datos Personales como máxima autoridad\ninstitucional, a favor de las distintas autoridades institucionales de grado jerárquico inferior de\nla Superintendencia de Protección de Datos Personales; emitir disposiciones para el correcto\ndesenvolvimiento de las actividades inherentes a la Superintendencia de Protección de Datos\nPersonales, así como designar ordenadores de gasto y pago y otras calidades necesarias para la\ngestión de los aspectos administrativo-financieros de la institución, de conformidad con el marco\njurídico vigente.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0001-R-Art-2",
+      "tipo": "articulo",
+      "numero": "2",
+      "titulo": "Ámbito de aplicación",
+      "texto_oficial": "Art. 2.- Ámbito de aplicación.- El presente instrumento es de obligatorio cumplimiento y\naplicación para todas las autoridades, funcionarios, servidores públicos y trabajadores de la\nSuperintendencia de Protección de Datos Personales.\nSECCIÓN II\nGESTIÓN DE LOS PROCESOS SUSTANTIVOS",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0001-R-Art-3",
+      "tipo": "articulo",
+      "numero": "3",
+      "titulo": "",
+      "texto_oficial": "Art. 3.- Delegar al Intendente General de Innovación Tecnológica y Seguridad de Datos\nPersonales las siguientes atribuciones y responsabilidades:\na) Crear, dirigir y administrar el Registro Nacional de Protección de Datos Personales; el\nRegistro Único de Responsables y Encargados Incumplidos, del Registro Estadístico\nsobre Vulneraciones a la Seguridad de Datos Personales, identificando las posibles\nmedidas de seguridad para cada una de ellas; el Registro de los Responsables y\n\nEncargados del Tratamiento de Datos Personales; el Registro de Apoderados Especiales\nde Responsables, Conjuntos o no, y Encargados Extranjeros que realicen actividades de\ntratamiento de datos personales; el Registro de Mecanismos de Autorregulación; el\nRegistro de Información sobre Transferencias Internacionales, y los demás registros de\nprotección de datos personales que establezca el ordenamiento jurídico vigente, así\ncomo coordinar las acciones necesarias con entidades del sector público y privado\npara su efectivo funcionamiento;\nb) Emitir las resoluciones de autorización para la transferencia internacional de datos;\nc) Establecer directrices para el análisis, evaluación y selección de medidas de seguridad\nde los datos personales;\nd) Aprobar las políticas de seguridad de la información; y,\ne) Ejercer las demás atribuciones, delegaciones y responsabilidades en el ámbito de su\ncompetencia que le asigne la máxima autoridad y las establecidas en la legislación y\nnormativa vigente.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0001-R-Art-4",
+      "tipo": "articulo",
+      "numero": "4",
+      "titulo": "",
+      "texto_oficial": "Art. 4.- Delegar al Intendente General de Regulación de Protección de Datos Personales las\nsiguientes atribuciones y responsabilidades:\na) Emitir normativa general o técnica, criterios y demás actos que sean necesarios para el\nejercicio de sus competencias y la garantía del ejercicio del derecho a la protección de\ndatos personales;\nb) Dictar las cláusulas estándar de protección de datos, así como verificar el contenido de\nlas cláusulas y garantías adicionales o específicas internacionales, regionales o\nnacionales para la protección de la protección de los datos personales;\nc) Atender consultas en materia regulatoria de protección de datos personales;\nd) Ejercer la representación internacional en materia de protección de datos personales;\ne) Emitir directrices para el diseño y contenido de la política de tratamiento de datos\npersonales;\nf) Emitir la normativa que regula los mecanismos de autorregulación previstos en la Ley\nOrgánica de Protección de Datos Personales y su Reglamento;\ng) Emitir y publicar periódicamente las guías normativas relativas a la protección de datos\npersonales;\nh) Realizar el análisis de impacto regulatorio de la normativa en protección de datos\npersonales cuando corresponda;\ni) Emitir normativa general y técnica sobre las transferencias internacionales de datos\npersonales; y,\nj) Ejercer las demás atribuciones, delegaciones y responsabilidades en el ámbito de su\ncompetencia que le asigne la máxima autoridad y las establecidas en la legislación y\nnormativa vigente.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0001-R-Art-5",
+      "tipo": "articulo",
+      "numero": "5",
+      "titulo": "",
+      "texto_oficial": "Art. 5.- Delegar al Intendente General de Control y Sanción las siguientes atribuciones y\nresponsabilidades:\na) Dirigir y ejercer la supervisión, control y evaluación de las actividades efectuadas por\nlos responsables, los responsables conjuntos y los encargados del tratamiento de datos\npersonales;\nb) Ejercer la potestad sancionadora respecto de responsables, responsables conjuntos,\ndelegados, encargados y terceros, conforme a lo establecido en la Ley Orgánica de\nProtección de Datos Personales;\n\nc) Conocer, sustanciar y resolver sobre los reclamos y/o solicitudes de los titulares en\nmateria de protección de datos personales de conformidad con la Ley Orgánica de\nProtección de Datos Personales, así como aplicar las medidas y sanciones\nadministrativas que correspondan;\nd) Realizar y/o delegar las auditorías técnicas a los sujetos que traten datos personales o\nque aparentaren tratarlos por cuenta de los sujetos regulados;\ne) Disponer, coordinar, supervisar y realizar actuaciones previas a los sujetos que realicen\no aparentaren realizar el tratamiento de datos personales, conforme lo establecido en la\nLey;\nf) Ejercer el control de las resoluciones de autorización para la transferencia internacional\nde datos;\ng) Controlar y supervisar el ejercicio del derecho a la protección de datos personales dentro\ndel tratamiento de datos llevado a cabo a través del Sistema Nacional de Registros\nPúblicos;\nh) Disponer y supervisar el cumplimiento de las medidas correctivas aplicables de\nconformidad con la Ley Orgánica de Protección de Datos Personales, su reglamento y\nnormativa aplicable;\ni) Disponer y supervisar el cumplimiento de las medidas provisionales aplicables de\nconformidad con la Ley Orgánica de Protección de Datos Personales y el Código\nOrgánico Administrativo;\nj) Conocer, sustanciar y resolver sobre las denuncias presentadas por los administrados de\nconformidad con la Ley Orgánica de Protección de Datos Personales, Código Orgánico\nAdministrativo y normativa aplicable; así como aplicar las medidas y sanciones\nadministrativas que correspondan;\nk) Emitir los informes técnicos dentro de los procedimientos de control y sanción que se\ndispongan;\nl) Disponer y supervisar el cumplimiento de las medidas cautelares aplicables de\nconformidad con el Código Orgánico Administrativo y normativa aplicable;\nm) Certificar la documentación correspondiente a los expedientes de la Intendencia General\nde Control y Sanción;\nn) Administrar el archivo general de los expedientes de la Intendencia General de Control\ny Sanción; y,\no) Ejercer las demás atribuciones, delegaciones y responsabilidades en el ámbito de su\ncompetencia que le asigne la máxima autoridad y las establecidas en la legislación y\nnormativa vigente.\nSECCIÓN III\nGESTIÓN DE LA CONTRATACIÓN PÚBLICA",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0001-R-Art-6",
+      "tipo": "articulo",
+      "numero": "6",
+      "titulo": "",
+      "texto_oficial": "Art. 6.- Actuarán en calidad de autorizadores de gasto quienes ejerzan el cargo de Nivel\nJerárquico Superior número cinco y responsables, los cuales deberán realizar sus atribuciones y\nresponsabilidades de conformidad a lo establecido en la normativa vigente, Reglamento al\nCódigo Orgánico de Planificación y Finanzas Públicas, Ley Orgánica de la Contraloría General\ndel Estado y Acuerdo Nro. 103 de 31 de diciembre de 2021 que expide las Normativa Técnica\ndel Sistema Nacional y Finanzas Públicas emitido por el Ministerio de Economía y Finanzas\nPúblicas; de conformidad con el siguiente detalle:",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0001-R-Art-7",
+      "tipo": "articulo",
+      "numero": "7",
+      "titulo": "",
+      "texto_oficial": "Art. 7.- Para la consecución de los procedimientos previstos en la Ley Orgánica del Sistema\nNacional de Contratación Pública, su Reglamento General y demás normativa conexa para la\nadquisición o arrendamiento de bienes, ejecución de obras y prestación de servicios, incluidos\nlos de consultoría, de conformidad a las delegaciones y considerando los montos establecidos en\nel artículo 6 del presente instrumento, los servidores delegados podrán suscribir todo acto\nadministrativo o de simple administración, según corresponda, para el ejercicio de las siguientes\natribuciones:\na) Autorizar el inicio de los procesos de contratación pública;\nb) Solicitar a la Contraloría General del Estado la emisión del informe de pertinencia y\nviabilidad jurídica como parte de la documentación habilitante previa a la contratación\nde bienes, obras o servicios incluidos los de consultoría, de conformidad con lo\nestablecido por la Contraloría General del Estado, en los casos que corresponda, con la\ninformación remitida por las áreas respectivas;\nc) Aprobar los pliegos de los procesos de contratación pública;\nd) Designar a los miembros de las Comisiones Técnicas o servidores según corresponda;\nasí también, designar un delegado quien presidirá la Comisión Técnica; en el caso en que\nno se prevea la conformación de una Comisión Técnica, en atención a lo señalado en el\nartículo 18 del Reglamento General a la Ley Orgánica del Sistema Nacional de\nContratación Pública, designará el o los delegados del proceso, quienes podrán ser el\ntitular del área requirente, su encargado o subrogante su delegado u otro, quienes\nsuscribirán los actos de simple administración y demás correspondientes a la fase\nprecontractual de los procesos de contratación pública;\ne) Declarar el inicio, reapertura, archivo, cancelación, adjudicación o desierto de un\nprocedimiento de contratación pública, de conformidad con la normativa vigente\naplicable, sobre la base del informe y respectiva recomendación realizada por la\nComisión Técnica o el delegado del proceso, según corresponda; así como también las\nresoluciones que se generen para dejar sin efecto: orden/es de compra o adjudicaciones;\ny en general toda resolución en materia de contratación pública;\nf) Declarar adjudicatario fallido, previo informe del responsable de la Gestión de\nContratación Pública y comunicar de tal declaratoria a la institución rectora en materia\nde contratación pública o a quien señale la Ley y demás entidades que correspondan;\n\ng) Autorizar y suscribir contratos principales, complementarios y modificatorios que sean\nnecesarios respecto de las contrataciones efectuadas en cumplimiento de esta delegación\ny remitir los mismos a las unidades administrativas correspondientes;\nh) Designará a los administradores de los contratos y de las órdenes de compra para que,\nen conjunto con el contratista, suscriban las actas de entrega-recepción provisional,\nparcial, total y definitiva del contrato; además, en los casos de adquisición de bienes, se\ncontará con la participación del guardalmacén;\ni) Designar y reemplazar a los administradores del contrato, y proceder con la notificación\ncorrespondiente;\nj) Conocer, autorizar y suscribir, conforme la normativa vigente y sobre la base del informe\ny recomendación del respectivo administrador del contrato, todos los actos\nadministrativos e instrumentos legales que se requieran para iniciar, continuar y concluir\nlos trámites de terminación de contratos que se realicen de manera unilateral, por mutuo\nacuerdo, por recepción de pleno derecho; y, de ser el caso, proceder con la declaratoria\nde contratista incumplido, conforme lo determinado en la Ley Orgánica del Sistema\nNacional de Contratación Pública, su Reglamento General de aplicación y demás\nnormativa vigente aplicable;\nk) Autorizar y suscribir las resoluciones correspondientes para la reprogramación de\ncronogramas de los procesos que se encuentren en curso en el portal de compras\npúblicas;\nl) Autorizar prórrogas de plazo y suspensión de ejecución de los contratos solicitados por\nel contratista o por resolución de la entidad contratante, previo cumplimiento de la Ley\nOrgánica del Sistema Nacional de Contratación Pública, su Reglamento General, Código\nOrgánico Administrativo y demás normativa vigente aplicable; y,\nm) Solicitar a la Dirección de Asesoría Jurídica la elaboración o revisión de los proyectos\nde resoluciones de declaratoria de inicio, adjudicación, cancelación, desierto, reapertura\no archivo, así como la elaboración o revisión de los proyectos de resoluciones\nmodificatorias y contratos relacionados con el régimen de contratación públicas.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0001-R-Art-8",
+      "tipo": "articulo",
+      "numero": "8",
+      "titulo": "",
+      "texto_oficial": "Art. 8.- Delegar al Director Administrativo Financiero las siguientes atribuciones y\nresponsabilidades, legales y reglamentarias, establecidas en la Ley Orgánica del Sistema\nNacional de Contratación Pública y su Reglamento General:\na) Aprobar, reformar o modificar y administrar el Plan Anual de Contratación (PAC) para\nel ejercicio fiscal correspondiente, así como disponer su publicación, conforme lo\ndeterminado en la Ley Orgánica del Sistema Nacional de Contratación Pública, su\nReglamento General de aplicación y demás normativa que dicte el Servicio Nacional de\nContratación Pública, SERCOP;\nb) Conocer y suscribir las consultas que correspondan al Servicio Nacional de Contratación\nPública SERCOP, y demás trámites que deban efectuarse respecto de los procedimientos\nde contratación pública de la Institución;\nc) Suscribir las pólizas de seguros de buen uso de anticipo y/o de fiel cumplimiento del\ncontrato, entregadas por los contratistas; así como, las subrogaciones o renovaciones de\nlas mismas;\nd) Suscribir los documentos y demás actos administrativos y de simple administración, que\nse requieran para la contratación de servicios públicos y otros que sean necesarios para\nel normal desarrollo de las actividades propias y funcionamiento de las instalaciones o\nbienes de la Superintendencia de Protección de Datos Personales;\ne) Actuar dentro del ámbito de su competencia en representación de la Superintendencia de\nProtección de Datos Personales y suscribir contestaciones, comunicaciones,\n\nrequerimientos y entrega de información a todas las entidades del sector público, así\ncomo a personas naturales o jurídicas del sector privado relativos a los procesos previstos\nen la Ley Orgánica del Sistema Nacional de Contratación Pública y su Reglamento\nGeneral;\nf) Suscribir la renovación de contratos de arrendamiento, previo el cumplimiento de la\nnormativa legal vigente; y,\ng) Otorgar, mediante notificación escrita, a los/las administradores/as de contratos las\nclaves para el uso del Portal de Compras Públicas, para el registro y publicación de la\ninformación relacionada con la ejecución y seguimiento del contrato correspondiente.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0001-R-Art-9",
+      "tipo": "articulo",
+      "numero": "9",
+      "titulo": "",
+      "texto_oficial": "Art. 9.- Delegar al Director Administrativo Financiero, para que de manera previa al inicio\nde los procesos de contratación correspondiente, ejerza las siguientes atribuciones y\nresponsabilidades:\na) Administrar y verificar en el portal de Compras Públicas del Servicio Nacional de\nContratación Pública, SERCOP, con los respectivos respaldos, respecto de procesos\nsimilares existentes, que permita a la unidad administrativa requirente elaborar el\ncorrespondiente estudio de mercado;\nb) Certificar si el bien, obra o servicio, incluida la consultoría, que se requiere contratar, se\nencuentra previsto dentro del Plan Anual de Contrataciones (PAC) de la Institución para\nel ejercicio fiscal correspondiente. Al efecto deberá anexar las capturas de pantalla\ncorrespondientes del portal de compras públicas;\nc) Certificar si el bien, o servicio se encuentra en el catálogo electrónico, para el efecto\ndeberá anexar las capturas de pantalla del portal de compras públicas;\nd) Atender y gestionar los requerimientos de Verificación de Producción Nacional;\ne) Validar la constancia dentro del Sistema Nacional de Contratación Pública, respecto de\nla existencia de consultorías similares;\nf) Certificar a través de quien corresponda, si el bien cuya contratación se requiere, existe\no no en inventarios y/o bodegas; y,\ng) Aprobar el Plan Operativo de Administración de Servicios, Plan de Seguridad\nInstitucional y Plan de Transporte.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0001-R-Art-10",
+      "tipo": "articulo",
+      "numero": "10",
+      "titulo": "",
+      "texto_oficial": "Art. 10.- Disponer a la Dirección Administrativa Financiera el acompañamiento permanente\ndurante la etapa preparatoria, precontractual y contractual a las áreas requirentes, para ejecutar\nde manera eficiente los procedimientos de contratación pública respectivos.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0001-R-Art-11",
+      "tipo": "articulo",
+      "numero": "11",
+      "titulo": "",
+      "texto_oficial": "Art. 11.- Disponer a la Dirección de Asesoría Jurídica el asesoramiento continúo a la\nDirección Administrativa Financiera durante la etapa preparatoria precontractual y de ejecución\nde los procedimientos de contratación pública tendientes a la contratación de obras, adquisición\no arrendamiento de bienes, prestación de servicios, incluidos los de consultoría, y demás\nprocedimientos establecidos en la normativa vigente.\nSECCIÓN IV\nGESTIÓN DE LA RECAUDACIÓN",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0001-R-Art-12",
+      "tipo": "articulo",
+      "numero": "12",
+      "titulo": "",
+      "texto_oficial": "Art. 12.- Delegar al Director Administrativo Financiero las siguientes atribuciones y\nresponsabilidades:\na) Ejecutar las garantías o pólizas de seriedad de la oferta, fiel cumplimiento y\nresponsabilidad civil, previo requerimiento e informe del área técnica o administrador\ndel contrato; y,\nb) Realizar el análisis de los requerimientos presupuestarios de las unidades administrativas\nde la Superintendencia de Protección de Datos Personales y elaborar los informes que al\n\nefecto correspondan para las reformas presupuestarias, de acuerdo con los ingresos que\nperciba la SPDP.\nSECCIÓN V\nORDENADORES DE GASTO Y DE PAGO",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0001-R-Art-13",
+      "tipo": "articulo",
+      "numero": "13",
+      "titulo": "",
+      "texto_oficial": "Art. 13.- Actuarán en calidad de autorizadores de gastos los servidores públicos mencionados\nen el artículo 6 de la presente resolución.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0001-R-Art-14",
+      "tipo": "articulo",
+      "numero": "14",
+      "titulo": "",
+      "texto_oficial": "Art. 14.- Actuará como ordenador de pago el Director Administrativo Financiero, quien\ndeberá motivar sus actuaciones luego de un control previo y sobre la base de la solicitud y\ndocumentación de respaldo recibida de acuerdo con las normas legales vigentes.\nSECCIÓN VI\nGESTIÓN DE LA ADMINISTRACIÓN DEL TALENTO HUMANO",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0001-R-Art-15",
+      "tipo": "articulo",
+      "numero": "15",
+      "titulo": "",
+      "texto_oficial": "Art. 15.- Delegar al Director Administrativo Financiero, para que a nombre y en\nrepresentación de la máxima autoridad, ejerza las siguientes atribuciones y responsabilidades:\na) Nombrar, contratar, sancionar, promover, aceptar renuncias, aprobar cambios\nadministrativos, clasificación, reclasificación, traslados, traspasos, encargos y\nsubrogaciones, destituciones, restituciones, reintegro e intercambio voluntario de puesto;\ny autorizar la terminación de contratos ocasionales, nombramientos provisionales del\npersonal de la Superintendencia de Protección de Datos Personales de conformidad con\nla normativa vigente aplicable, incluidos los contratos amparados por el Código del\nTrabajo; así como suscribir los documentos necesarios que legalicen dichos actos. Se\nexceptúa la designación, remoción y aceptación de las renuncias de los Intendentes\nGenerales, Directores y servidores públicos del nivel jerárquico superior; así como de\nlos asesores de la máxima autoridad correspondientes al nivel jerárquico superior;\nb) Autorizar y suscribir los contratos y adendas para los contratos de servicios ocasionales\ny Código del Trabajo;\nc) Autorizar y suscribir los actos administrativos, documentos y acciones de personal\nrelativas a vacaciones y permisos de los servidores de la institución;\nd) Suscribir contratos individuales con estudiantes que realicen prácticas preprofesionales\no pasantías de acuerdo con la normativa vigente aplicable;\ne) Suscribir convenios de delegación referentes a capacitación del personal de la entidad;\nf) Aprobar y ejecutar los planes, programas, políticas, instructivos y cronogramas\nrelacionados a los subsistemas de talento humano;\ng) Aprobar y reformar los planes anuales de talento humano, de evaluación de desempeño,\nde formación y capacitación, salud ocupacional, plan anual de vacaciones y otros\nnecesarios para el buen desempeño del personal de la Institución;\nh) Autorizar y dar inicio los procesos de selección de personal de carrera administrativa y\nactuar como administrador del mismo, mediante concursos públicos de méritos y\noposición, conforme la normativa vigente expedida para el efecto; e integrar los\nrespectivos tribunales de méritos y oposición y de apelación;\ni) Designar a los ganadores de concursos de méritos y oposición conforme la normativa\nvigente aplicable;\nj) Autorizar y suscribir los contratos civiles de servicios profesionales o contratos técnicos\nespecializados sin relación de dependencia de conformidad a lo previsto en la normativa\nvigente aplicable;\n\nk) Suscribir las consultas y comunicaciones que se remitan a las diferentes instituciones del\nsector público, relacionadas con la Administración del Talento Humano de la Institución;\nl) Actuar en representación de la máxima autoridad en los Concursos de Méritos y\nOposición;\nm) Autorizar los actos administrativos relacionados con la creación y supresión de partidas,\nconforme la normativa vigente;\nn) Autorizar y suscribir las acciones de personal para comisiones de servicios y licencias\ncon o sin remuneración dentro y fuera del país;\no) Autorizar y suscribir convenios de prácticas preprofesionales o pasantías con los\nrepresentantes de instituciones de educación media y superior, públicas o privadas, en el\nmarco de la Ley Orgánica del Servicio Público, su Reglamento General y demás normas\nvigentes aplicables; así como actos administrativos y las comunicaciones que sean\nnecesarias con las referidas instituciones;\np) Actuar como delegado de la autoridad nominadora en los procesos disciplinarios e\nimponer sanciones, de conformidad con lo establecido en la Constitución de la República\ndel Ecuador, la Ley Orgánica del Servicio Público, su Reglamento General, Código del\nTrabajo y demás normativa vigente aplicable, con excepción a aquellas sanciones que\ndeban ser interpuestas por el Ministerio de Trabajo;\nq) Suscribir los convenios/acuerdos de confidencialidad que corresponda, necesarios para\ngarantizar los intereses de la Institución;\nr) Autorizar el gasto de la nómina del personal;\ns) Presidir el tribunal de reconsideración y/o recalificación en los procesos de evaluación\nde desempeño;\nt) Autorizar el cumplimiento de servicios institucionales nacionales e internacionales,\naprobación del informe de viajes y de los gastos por concepto de viáticos, subsistencias,\nalimentación, pasajes aéreos y terrestres dentro del país, y días feriados, así como sus\nrespectivos informes de actividades de viajes de los Intendentes Generales y Directores\ny más servidores de la Superintendencia de Protección de Datos Personales, previo\ncontrol de conformidad a lo dispuesto en las normas de Control Interno emitidas por la\nContraloría General del Estado;\nu) Autorizar la ejecución de labores en horas suplementarias y extraordinarias a los/las\nservidores/as y trabajadores/as de la entidad, por necesidades institucionales\ndebidamente planificadas y verificadas por el Jefe inmediato, de acuerdo con la Ley\nOrgánica del Servicio Público, su Reglamento General, Código del Trabajo y normas\ninternas aplicables;\nv) Autorizar anticipos de remuneraciones o sueldos, de conformidad con lo señalado en la\nLOSEP, su Reglamento General, Código del Trabajo y normas internas;\nw) Actuar en representación de la máxima autoridad en los procesos de evaluación del\ndesempeño;\nx) Autorizar y finalizar la modalidad de teletrabajo; y,\ny) Ejercer las demás atribuciones y responsabilidades que le delegare la máxima autoridad.\nSECCIÓN VII\nGESTIÓN DE LOS BIENES INSTITUCIONALES Y OTROS",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0001-R-Art-16",
+      "tipo": "articulo",
+      "numero": "16",
+      "titulo": "",
+      "texto_oficial": "Art. 16.- Delegar al Director Administrativo Financiero, para que a nombre y en\nrepresentación de la máxima autoridad, ejerza las siguientes atribuciones y responsabilidades:\n\na) Autorizar y suscribir todos los actos administrativos e instrumentos legales que se\nrequieran para la gestión de bienes a través de comodatos, traspasos, transferencias\ngratuitas, donaciones, venta, remate o cualquier forma de ingreso, enajenación, baja o\negreso de los mismos; sus ampliaciones, modificaciones, renovaciones; así como las\nrespectivas actas de liquidación para el cierre de dichos instrumentos, previo informe de\nadministrador/a o responsable de los instrumentos antes señalados, de conformidad con\nla normativa vigente aplicable para el manejo y administración de bienes del sector\npúblico.\nEn el caso de que los instrumentos legales antes referidos no contemplen la suscripción\nde actas de liquidación u otro mecanismo a través del cual se finalice el instrumento,\ncorresponderá al administrador/a o responsable de dichos instrumentos elaborar un\ninforme final de cierre, en el cual se determine el estado del cumplimiento de las\nobligaciones, con la finalidad de que el Director Administrativo Financiero, disponga el\ncierre, el archivo del expediente y la exclusión del registro establecido para seguimiento;\nasí como notifique a la contraparte sobre la decisión de la institución;\nb) Designar y/ o reemplazar de entre el personal a su cargo a los/las servidores/as que\nactuarán como responsables de la administración, seguimiento, coordinación,\nsupervisión, ejecución, liquidación o cierre de los instrumentos citados en la letra\nanterior de acuerdo con ordenamiento jurídico vigente; e informar su decisión a la\nDirección de Asesoría Jurídica, para el respectivo registro de la designación;\nc) Conocer, gestionar y suscribir los actos administrativos e instrumentos legales que se\nrequieran para ejecutar los trámites y procesos de nacionalización, acuerdos de\nliberación, exoneración de impuestos, autorizaciones de embarque y desaduanización de\ndonaciones provenientes del exterior, que requiera realizar esta Institución en el ámbito\nde sus competencias, conforme lo establece la legislación ecuatoriana;\nd) Conocer, autorizar, suscribir y gestionar garantías y/o pólizas de seguros de cualquier\ntipo de rubro o concepto, exceptuando aquellas definidas en apartados anteriores, sus\ninclusiones, exclusiones, renovaciones, reclamos, notificación de siniestros, notas de\ncrédito y demás actos administrativos y de simple administración que sean de\ncompetencia de la máxima autoridad, a favor de la Superintendencia de Protección de\nDatos Personales y que se requieran para cumplir con esta finalidad;\ne) Suscribir los acuerdos y/o convenios de uso de espacios de bienes Inmuebles de\npropiedad de la Superintendencia de Protección de Datos Personales, con otras\ninstituciones públicas o privadas;\nf) Conformar y presidir la Junta de Remates de la Superintendencia de Protección de Datos\nPersonales, así como también, supervisar la gestión de los procesos de remate de la\nSuperintendencia de Protección de Datos Personales en general;\ng) Autorizar y suscribir los documentos necesarios para la movilización de vehículos\ninstitucionales asignados a planta central, para el desplazamiento de los servidores, que\ncon el fin de cumplir actividades institucionales se vean en la necesidad de movilizarse\ndentro y fuera de la jornada ordinaria de trabajo, en días feriados y/o fines de semana o\nque implique el pago de viáticos conforme a la normativa legal vigente expedida para el\nefecto; en el que implique generar la orden de movilización en el aplicativo de\nMovilización de la Contraloría General del Estado;\nh) Comparecer ante cualquier autoridad judicial o administrativa a fin de realizar todas las\ngestiones legales y administrativas para liberar o retirar vehículos institucionales y sus\ndocumentos de propiedad, que se encuentren en patios de retención vehicular, o que\nestuvieren involucrados en accidentes de tránsito. Cuando sea necesario, esta\ncomparecencia será conjunta con el abogado patrocinador que designe la institución;\n\ni) En general se encuentra delegado/a y facultado/a para representar a la institución en\ntodos los procesos relativos al manejo de bienes que se encuentren determinados en el\nReglamento General Sustitutivo para la Administración, Utilización, Manejo y Control\nde los Bienes e Inventarios del Sector Público de la Contraloría General del Estado o la\nnorma que hiciera sus veces;\nj) Elaborar y suscribir informes relacionados al cumplimiento de decretos y leyes, cuyo\námbito de cumplimiento sea inherente a las atribuciones y responsabilidades de la\nDirección Administrativa Financiera; y disponer su publicación; y,\nk) Ejercer las demás atribuciones y responsabilidades que le delegare la máxima autoridad.\nSECCIÓN VIII\nGESTIÓN FINANCIERA",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0001-R-Art-17",
+      "tipo": "articulo",
+      "numero": "17",
+      "titulo": "",
+      "texto_oficial": "Art. 17.- Delegar al Director Administrativo Financiero, para que a nombre y en\nrepresentación de la máxima autoridad, ejerza las siguientes atribuciones y responsabilidades:\na) Conocer, gestionar, autorizar y suscribir todos los actos administrativos y de simple\nadministración que sean de competencia de la máxima autoridad y que se requieran para\nrecuperar o solicitar claves, designar o cambiar de responsables en lo referente al Sistema\nde Gestión Financiera definido por el Ministerio de Economía y Finanzas o quien haga\nsus veces y del Sistema Presupuestario de Remuneraciones y Nómina, IESS, SERCOP,\nSRI y otros cuyo uso sea pertinente a la administración pública;\nb) Autorizar la creación del fondo de caja chica, de conformidad con la normativa vigente\naplicable;\nc) Autorizar el gasto de fondo de caja chica, de conformidad con los límites, montos,\nrestricciones y demás disposiciones relativas a su uso, manejo y liquidación establecidas\nen la normativa pertinente; así como, autorizar la reposición del mismo;\nd) Autorizar la modificación presupuestaria en el sistema informático financiero previo\nrequerimiento de la Unidad de Planificación y Gestión Estratégica;\ne) Comparecer y suscribir todo documento que se dirija al Servicio de Rentas Internas y\ncumplir con todas las obligaciones tributarias ante la Autoridad tributaria;\nf) Administrar la clave otorgada a favor de la Institución por parte del Ministerio rector de\nlas Finanzas;\ng) Elaborar y solicitar avales presupuestarios y realizar el trámite correspondiente ante el\nMinisterio rector de las Finanzas para el otorgamiento y entrega del mismo;\nh) Administrar los usuarios del Sistema de Administración Financiera e-SIGEF;\ni) Presentar la proforma presupuestaria para aprobación de la máxima autoridad;\nj) Suscribir los documentos y demás actos administrativos que se requieran, para actuar en\nel ámbito del Sistema Bancario para la apertura y cierre de cuentas bancarias y otros\nconvenios;\nk) Aprobar y/o modificar las certificaciones presupuestarias plurianuales, a través del\nsistema de administración financiera e-SIGEF;\nl) Suscribir los avisos de entrada y salida del personal de la institución y ejecutar las demás\ngestiones inherentes a la calidad de patrono ante el Instituto Ecuatoriano de Seguridad\nSocial y cumplir con todas las obligaciones patronales que correspondan;\nm) Realizar la modificación presupuestaria en el sistema informático financiero; y,\nn) Ejercer las demás atribuciones y responsabilidades que le delegare la máxima autoridad.\n\nSECCIÓN IX\nGESTIÓN DE LA ASESORÍA JURÍDICA Y EL PATROCINIO",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0001-R-Art-18",
+      "tipo": "articulo",
+      "numero": "18",
+      "titulo": "",
+      "texto_oficial": "Art. 18.- Delegar al Director de Asesoría Jurídica las siguientes atribuciones y\nresponsabilidades:\na) La representación legal, judicial y extrajudicial de la Superintendencia de Protección de\nDatos Personales, para efectos de conocer, gestionar autorizar y suscribir conjuntamente\ncon los abogados patrocinadores de la institución, toda acción administrativa, judicial,\nextrajudicial, arbitral, jurisdiccional y constitucional planteada por o en contra de esta\nInstitución; a excepción de las denuncias por robo o hurto de bienes de propiedad de la\nSuperintendencia de Protección de Datos Personales, facultad que es delegada al\nDirector Administrativo Financiero;\nb) Intervenir y patrocinar en todas las causas judiciales, extrajudiciales, administrativas,\ncontencioso administrativas/tributarias, de mediación, arbitrales, laborales, civiles,\npenales, constitucionales y de garantías jurisdiccionales, en las que sea parte la\nSuperintendencia de Protección de Datos Personales, ya sea como actor, demandado o\ntercerista, en todas sus instancias y fases; en calidad de procuradores judiciales, ya sea\nde manera conjunta o individual, por lo tanto, en dichas causas quedan facultados para:\nb.1. Sustituir la procuración a favor de otro profesional del derecho que labore en esta\ninstitución;\nb.2. Allanarse a la demanda, transigir, esto, previo la autorización y en coordinación\ncon el Procurador General del Estado o su delegado;\nb.3. Desistir de la acción o del recurso;\nb.4. Absolver posiciones;\nb.5. Deferir al juramento decisorio; y,\nb.6. Recibir valores o la cosa sobre la cual verse el litigio o tomar posesión de ella.\nEn definitiva, se le atribuye las facultades determinadas en el artículo que haga las veces\nsobre las facultades de la procuración judicial del Código Orgánico General de Procesos\no aquel que haga las veces de norma adjetiva, quedando expresamente facultado para\niniciar juicios e incoar acciones, continuarlos, impulsarlos, presentar o impugnar\npruebas, interponer recursos, sin limitación alguna hasta su conclusión;\nc) El Director de Asesoría Jurídica queda autorizado y delegado para que de forma conjunta\no individual designe, mediante escrito, oficio o memorando, al profesional del derecho,\nque intervenga como patrocinador de la defensa de los intereses de la Superintendencia\nde Protección de Datos Personales, tal designación surtirá efecto hasta la terminación de\nla causa, a no ser que se lo sustituya con otro profesional del derecho designado por la\nSuperintendencia de Protección de Datos Personales. El defensor autorizado mediante\nescrito, oficio o memorando, tendrá las mismas facultades otorgadas a las autoridades\nreferidas en la letra precedente;\nd) Conocer y resolver los reclamos administrativos previstos en el COA planteados en\ncontra de los actos administrativos emitidos por las unidades administrativas de la\nSuperintendencia de Protección de Datos Personales, con excepción de los recursos\nadministrativos señalados en la letra b) del artículo 8 del presente instrumento, así como\nlas solicitudes de revocatoria y de revisión de oficio;\ne) Adoptar todas las acciones que sean necesarias para la cabal defensa institucional, para\nlo cual suscribirá los actos necesarios para el cumplimiento de las obligaciones\nrelacionadas al presente artículo;\n\nf) Suscribir todo tipo de acto administrativo y de simple administración necesario para la\ngestión de la Dirección a su cargo, en el ámbito de sus competencias;\ng) Conocer, gestionar y resolver sobre las reclamaciones, recursos e impugnaciones\nadministrativas, conforme lo determinado en la Ley Orgánica del Sistema Nacional de\nContratación Pública, su Reglamento General de aplicación y demás normativa\naplicable;\nh) Absolver consultas internas y/o externas respecto a la aplicación de normas que no\nguarden relación con la protección de datos personales;\ni) Coordinar y proponer la elaboración de las propuestas o proyectos normativos para crear,\nreformar o derogar los actos normativos, sean estos reglamentos, resoluciones, oficios\ncirculares, etcétera, necesarios para el ejercicio administrativo y adjetivo de la\nSuperintendencia de Protección de Datos Personales, con los informes técnicos previos\nde las unidades administrativas adjetivas relacionadas con el ámbito de aplicación de\ntales normas; y,\nj) Ejercer las demás atribuciones y responsabilidades que le delegare la máxima autoridad.\nSECCIÓN X\nGESTIÓN DE LA PLANIFICACIÓN Y DE LA GESTIÓN ESTRATÉGICA",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0001-R-Art-19",
+      "tipo": "articulo",
+      "numero": "19",
+      "titulo": "",
+      "texto_oficial": "Art. 19.- Delegar al Especialista de Planificación y Gestión Estratégica para que ejerza las\nsiguientes atribuciones y responsabilidades:\na) Será la encargada de coordinar, dirigir, controlar y evaluar la implementación de los\nprocesos estratégicos institucionales a través de la gestión de planificación, seguimiento\ne inversión, administración por procesos, calidad de los servicios, tecnologías de\ninformación y gestión del cambio y cultura organizacional;\nb) Aprobar y suscribir procesos, procedimientos, manuales, instructivos de trabajo y\nformatos de las unidades administrativas de subprocesos macro y micro;\nc) Aprobar y suscribir planes de mejora, proyectos, informes y demás productos generados\nen relación al cambio y cultura organizacional de la Institución;\nd) Ejecutar las gestiones necesarias para priorizar los proyectos de inversión para dar\nviabilidad a su formulación y postulación ante las Entidades competentes;\ne) Elaborar y presentar el informe anual de la Superintendencia de Protección de Datos\nPersonales y someterlo a la aprobación de la máxima autoridad;\nf) Suscribir las fichas técnicas, informes y demás documentos necesarios para la\naprobación, ampliación o modificación, cierre, baja o traspaso de los proyectos de\ninversión, que se encuentren a cargo de esta Cartera de Estado;\ng) Solicitar ante la entidad rectora de planificación la clave principal del Sistema Integrado\nde Planificación e Inversión Pública (SIPeIP);\nh) Coordinar de manera adecuada y eficaz con las diferentes unidades administrativas la\nentrega de los insumos para la rendición de cuentas y participar en iniciativas;\ni) Aprobar las reformas al Plan Operativo Anual (POA); y emitir las resoluciones\nreformatorias al Plan Operativo Anual que impliquen o no incremento o disminución del\npresupuesto institucional;\nk) Aprobar el Plan Anual de Inversión (PAI) y validar sus reformas, previo informe\nmotivado emitido por cada uno de los responsables de las unidades administrativas\nrequirentes, disponer su difusión y reportar de manera mensual las reformas generadas a\nla máxima autoridad; y,\n\nl) Ejercer las demás atribuciones y responsabilidades que le delegare la máxima autoridad.\nSECCIÓN XI\nGESTIÓN DE LA INFORMACIÓN SOLICITADA POR LA CONTRALORÍA GENERAL DEL ESTADO",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0001-R-Art-20",
+      "tipo": "articulo",
+      "numero": "20",
+      "titulo": "",
+      "texto_oficial": "Art. 20.- Delegar al Director Administrativo Financiero y/o al Especialista de Planificación\ny Gestión Estratégica en forma individual, para que a nombre y en representación de la máxima\nautoridad, observen y ejerzan las atribuciones y obligaciones específicas determinadas en los\nartículos 76 y 77, numerales 1, 2, 3 de la Ley Orgánica de la Contraloría General del Estado.\nEn ejercicio de esta Delegación, los delegados podrán requerir los informes que considere\nnecesarios a las demás unidades administrativas que se encuentren relacionadas con lo solicitado\npor el organismo de control.\nSECCIÓN XII\nDE LA GESTIÓN EN GENERAL",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0001-R-Art-21",
+      "tipo": "articulo",
+      "numero": "21",
+      "titulo": "",
+      "texto_oficial": "Art. 21.- Sin perjuicio de las disposiciones emitidas y atribuciones delegadas, los Intendentes\nGenerales, Directores, Especialistas y demás funcionarios mencionados en el presente\ninstrumento, quedan facultados para emitir y suscribir todo acto administrativo o documento\nnecesario para el cumplimiento de la gestión propia de las unidades administrativas a su cargo,\nasí como dar respuestas a las consultas de Autoridades Judiciales, Fiscalía, Servicio de Rentas\nInternas, lESS, Contraloría General del Estado y requerimientos de usuarios externos, en el\námbito de sus competencias y atribuciones. En los casos que corresponda, deberán realizar las\ncoordinaciones que sean del caso con las demás unidades administrativas institucionales.\nAdicionalmente, quedan facultados para requerir directamente a los administrados cualquier\ninformación que consideren conveniente y útil para el cumplimiento de su gestión dentro del\námbito de sus competencias y atribuciones.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0001-R-DispGen-PRIMERA",
+      "tipo": "disposicion",
+      "numero": "PRIMERA",
+      "titulo": "Disposición General PRIMERA",
+      "texto_oficial": "Primera.- Para efectos de la aplicación del presente instrumento respecto de los procesos de\ncontratación pública, se considerarán como áreas requirentes: el Despacho del Superintendente\nde Protección de Datos Personales, las Intendencias Generales, las Direcciones y las Unidades.\nLas áreas requirentes efectuarán sus pedidos a través de sus titulares o responsables, o de ser el\ncaso, encargados o subrogantes, en el ámbito de sus competencias, funciones y atribuciones. Las\náreas requirentes serán responsables de la justificación de la necesidad, elaboración de los\ntérminos de referencia, especificaciones técnicas y determinación del presupuesto referencial, lo\ncual deberán estar debidamente sustentados y motivados",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0001-R-DispGen-SEGUNDA",
+      "tipo": "disposicion",
+      "numero": "SEGUNDA",
+      "titulo": "Disposición General SEGUNDA",
+      "texto_oficial": "Segunda.- De notificación de la presente resolución encárguese a la unidad de gestión interna\nadministrativa de la SPDP en el ámbito de sus competencias.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0001-R-DispDer-ÚNICA",
+      "tipo": "disposicion",
+      "numero": "ÚNICA",
+      "titulo": "Disposición Derogatoria ÚNICA",
+      "texto_oficial": "Deróguese la resolución N° SPDP-SPDP-2024-0007-R suscrita el 30 de noviembre del 2024,\npublicada en el Primer Suplemento del Registro Oficial N° 679 del 8 de noviembre del 2024.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0001-R-DispFinal-ÚNICA",
+      "tipo": "disposicion",
+      "numero": "ÚNICA",
+      "titulo": "Disposición Final ÚNICA",
+      "texto_oficial": "Esta resolución entrará en vigencia a partir de su suscripción, sin perjuicio de su publicación\nen el Registro Oficial.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    }
+  ]
+}
