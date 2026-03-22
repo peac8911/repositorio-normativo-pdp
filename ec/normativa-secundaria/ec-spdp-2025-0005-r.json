@@ -1,0 +1,452 @@
+{
+  "meta": {
+    "id": "EC-SPDP-2025-0005-R",
+    "jurisdiccion": "ec",
+    "tipo_fuente": "normativa-secundaria",
+    "nivel_jerarquico": 6,
+    "titulo": "Reglamento para la Elaboración, Aprobación y Modificación del Plan Anual de Auditorías de la Superintendencia de Protección de Datos Personales",
+    "numero": "SPDP-SPD-2025-0005-R",
+    "fecha_publicacion": "2025-04-29",
+    "fecha_vigencia": "2025-04-29",
+    "vigente": true,
+    "materia": [
+      "pdp"
+    ],
+    "es_especializada": true,
+    "url_oficial": "https://www.superintendenciadedatos.gob.ec/",
+    "preambulo": "CONSIDERANDO:\nQue el numeral 19 del artículo 66 de la Constitución de la República del Ecuador (“CRE”)\nreconoce y garantiza a las personas el derecho “a la protección de datos de carácter personal,\nque incluye el acceso y la decisión sobre información y datos de este carácter, así como su\ncorrespondiente protección. La recolección, archivo, procesamiento, distribución o difusión de\nestos datos o información requerirán la autorización del titular o el mandato de la ley”;\nQue el artículo 213 de la CRE establece que “[l]as superintendencias son organismos\ntécnicos de vigilancia, auditoría, intervención y control de las actividades económicas, sociales\ny ambientales, y de los servicios que prestan las entidades públicas y privadas, con el propósito\nde que estas actividades y servicios se sujeten al ordenamiento jurídico y atiendan al interés\ngeneral (...)”; que forman parte de la Función de Transparencia y Control Social; y que,\nconforme lo dispone el artículo 204 ídem, detentan \"personalidad jurídica y autonomía\nadministrativa, financiera, presupuestaria y organizativa (...)”;\nQue el artículo 135 del Código Orgánico Administrativo (“COA”) determina que “(...)\ncorresponde a la Administración Pública, la dirección del procedimiento administrativo en\nejercicio de las competencias que se le atribuyan en el ordenamiento jurídico y en este Código\n(...)”;\nQue el artículo 136 del COA estatuye que “[l]as administraciones públicas pueden\nestablecer formularios de uso obligatorio y determinar los modelos de solicitudes, reclamos,\nrecursos y, en general, de cualquier tipo de petición que se le dirija. Los formularios y modelos\nestarán a disposición de las personas en las dependencias administrativas y se publicarán a\ntravés de los medios de difusión institucional. La persona interesada puede acompañar los\nelementos que estime convenientes para precisar o completar los datos del formulario o modelo,\nlos cuales no podrán ser inadmitidos y serán valorados por el órgano al momento de resolver\n(...)”;\nQue el artículo 1 de la Ley Orgánica de Protección de Datos Personales (“LOPDP”) declara\nque aquella tiene por objeto y finalidad “garantizar el ejercicio del derecho de protección de\ndatos personales, que incluye el acceso y decisión sobre información y datos de ese carácter,\nasí como su correspondiente protección”;\nQue a través de la LOPDP se creó la Superintendencia de Protección de Datos Personales\n(“SPDP”) como un órgano técnico de control, con potestad sancionatoria, de administración\ndesconcentrada, con personalidad jurídica y autonomía administrativa, técnica, operativa y\nfinanciera;\nQue el numeral 4 del artículo 76 de la LOPDP le atribuye a la SPDP funciones, atribuciones\ny facultades para “[r]ealizar o delegar auditorías técnicas al tratamiento de datos personales\n(…)”;\nQue el artículo 81 del Reglamento General de la Ley Orgánica de Protección de Datos\nPersonales (“RGLOPDP” estatuye que “las actividades de control se realizarán de acuerdo con\nel plan anual aprobado por la máxima autoridad, el cual será elaborado considerando la\nnaturaleza de las organizaciones controladas, el volumen y la sensibilidad de los datos\npersonales sujetos a tratamiento, la aplicación de los diferentes procedimientos de control y la\ndisponibilidad presupuestaria. Se podrán ejecutar procedimientos de control no considerados\ndentro de los planes anuales si la situación lo amerita, basados en criterios de criticidad,\noportunidad y posibles lesiones al derecho a la protección de datos personales de uno o más\ntitulares de datos personales (...)”;\n\nQue mediante resolución Nº SPDP-SPDP-2024-0001-R, publicada en el Tercer Suplemento\ndel Registro Oficial Nº 624 de 19 de agosto del 2024, el Superintendente de Protección de Datos\nPersonales aprobó el Estatuto Orgánico de Gestión Organizacional por Procesos de Arranque de\nla Superintendencia de Protección de Datos Personales (“Estatuto SPDP”), en virtud del cual se\nle atribuyó a la Intendencia General de Control y Sanción (ICS”), entre otras atribuciones y\nresponsabilidades, la de “dirigir y proponer el Plan Anual de Auditorías de Control de\nProtección de Datos Personales a base de los indicadores de riesgo suministrados por la unidad\nadministrativa técnica (…)”;\nQue el numeral 9, artículo 10, del Anexo I del Estatuto SPDP establece, como uno de los\nentregables de la ICS, el Plan Anual de Auditorías;\nQue mediante resolución Nº SPDP-SPD-2025-0001-R del 31 de enero del 2025, publicada\nen Registro Oficial N° 750 del 24 de febrero del 2025, se establecieron las disposiciones,\ndelegaciones de facultades y atribuciones a las autoridades, funcionarios y servidores públicos\nde la SPDP, en cuyo literal d), artículo 5, se le ha delegado a la ICS, entre otras, la\nresponsabilidad de “[r]ealizar y/o delegar las auditorías técnicas a los sujetos que traten datos\npersonales o que aparentaren tratarlos por cuenta de los sujetos regulados (…)”;\nQue mediante memorando Nº SPDP-IGCS-2025-0003-M suscrito el 20 de enero del 2025, la\nICS remitió el informe técnico Nº SPDP-ICS-2025-001-I, que expresa la necesidad de expedir\nel Reglamento de la Elaboración y Aprobación del Plan Anual de Auditorías de la\nSuperintendencia de Protección de Datos Personales, así como los motivos asociados a la\ndemora en su presentación a la Intendencia General de Regulación de Protección de Datos\nPersonales (“IRD”);\nQue a través del memorando Nº SPDP-IRD-2025-0013-M suscrito el 13 de febrero del 2025,\nla IRD remitió sus observaciones al proyecto normativo previamente enunciado, para lo cual\nconcedió el término diez (10) días con el objeto de “(…) subsanar las observaciones señaladas\no, en su caso, modificar su propuesta inicial (…)”;\nQue por medio del memorando Nº SPDP-ICS-2025-0012-M, suscrito y notificado el 25 de\nfebrero del 2025, la ICS subsanó las observaciones realizadas por la IRD;\nQue mediante memorando N° SPDP-IRD-2025-0022-M del 27 de febrero del 2025 se remitió\nel expediente a la Dirección de Asesoría Jurídica (“DAJ”);\nQue a través del memorando Nº SPDP-DAJ-2025-0017-M del 27 de febrero del 2025, el\nDirector de Asesoría Jurídica remitió, a la IRD, el informe N° INF-SPDP-DAJ-2025-0003, en\nel cual confirmó que la propuesta del Reglamento de la Elaboración y Aprobación del Plan\nAnual de Auditorías de la Superintendencia de Protección de Datos Personales cumple con el\nprincipio de legalidad, que no vulnera ni contradice las normas matrices y que aporta al\ncumplimiento de los objetivos de la SPDP;\nQue mediante el informe técnico Nº INF-SPDP-IRD-2025-0017, suscrito el 28 de abril del\n2025, la IRD incorporó al informe técnico las observaciones y aportes que se consideraron\nrelevantes y adecuados, previa justificación de las modificaciones realizadas al proyecto\nnormativo;\nQue mediante memorando Nº SPDP-IRD-2025-0064-M, suscrito el 28 de abril del 2025, la\nIRD remitió todo el expediente al suscrito Superintendente de Protección de Datos Personales\npara que realice las observaciones correspondientes o, en su caso, para que lo apruebe;",
+    "anexos": [],
+    "version": "1.0.0"
+  },
+  "unidades": [
+    {
+      "id": "EC-SPDP-2025-0005-R-Art-1",
+      "tipo": "articulo",
+      "numero": "1",
+      "titulo": "",
+      "texto_oficial": "Art. 1.- Este reglamento tiene por objeto determinar los lineamientos y procedimientos para\nla elaboración y aprobación del Plan Anual de Auditorías (“PAA”), que la SPDP habrá de\nrealizarle a los administrados.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "definicion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0005-R-Art-2",
+      "tipo": "articulo",
+      "numero": "2",
+      "titulo": "",
+      "texto_oficial": "Art. 2.- El reglamento será de cumplimiento obligatorio para la ICS de la SPDP, en atención\na sus atribuciones y facultades de control y supervisión debidamente delegadas mediante el acto\nadministrativo respectivo.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "definicion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0005-R-Art-3",
+      "tipo": "articulo",
+      "numero": "3",
+      "titulo": "",
+      "texto_oficial": "Art. 3.- Las palabras, siglas y acrónimos enlistados a continuación tendrán los significados\nasociados a los mismos:\n3.1. Auditoría: Proceso técnico y jurídico, sistemático y documentado, mediante el cual\nse evalúa el grado de cumplimiento de un administrado con relación a las\ndisposiciones establecidas en la LOPDP, el RGLOPDP y demás normativa emitida\npor la SPDP.\n3.2. Boletín Informativo de Auditorías Anuales: Documento que contiene el extracto\nrelevante del PAA, que será publicado en la página web institucional de la SPDP.\n3.3. Delegado: El funcionario a quien, de conformidad con la resolución Nº SPDP-SPD-\n2025-0001-R del 31 de enero del 2025, se le ha encargado la gestión del respectivo\nproceso sustantivo que es objeto de delegación.\n3.4. ICS: La Intendencia General de Control y Sanción o, según el contexto, el Intendente\nGeneral de Control y Sanción.\n3.5. LOPDP: Ley Orgánica de Protección de Datos Personales.\n3.6. PAA: Plan Anual de Auditoría.\n3.7. RGLOPDP: Reglamento General a la Ley Orgánica de Protección de Datos\nPersonales.\n3.8. SPDP: La Superintendencia de Protección de Datos Personales.\n3.9. Superintendente: El Superintendente de Protección de Datos Personales.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "ambito-de-aplicacion.definiciones-clave"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "definicion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0005-R-Art-4",
+      "tipo": "articulo",
+      "numero": "4",
+      "titulo": "",
+      "texto_oficial": "Art. 4.- Para la elaboración del PAA se deberán aplicar, en todo momento, los derechos y\nprincipios establecidos en la Constitución de la República del Ecuador; los tratados y convenios\ninternacionales en materia de protección y privacidad de datos personales; la LOPDP; el\nRGLOPDP y, en general, cualquier norma jurídica que, expedida de conformidad con la\nConstitución de la República, tenga o pudiere tener, como ámbito de aplicación material, el\ntratamiento de datos personales.\nTÍTULO II\nDEL PROCEDIMIENTO DE APROBACIÓN Y ELABORACIÓN DEL PAA\nCAPÍTULO I\nRESPONSABILIDAD Y PROCESO",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "principios.licitud"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0005-R-Art-5",
+      "tipo": "articulo",
+      "numero": "5",
+      "titulo": "",
+      "texto_oficial": "Art. 5.- La ICS llevará a cabo el proceso de elaboración y aprobación del PAA durante el\nejercicio económico inmediatamente anterior a su ejecución, el cual iniciará el primer día\nlaborable de cada junio.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.poderes"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0005-R-Art-6",
+      "tipo": "articulo",
+      "numero": "6",
+      "titulo": "",
+      "texto_oficial": "Art. 6.- El PAA, además de hallarse debidamente justificado, deberá estar provisto del\nsiguiente contenido:\n6.1. Datos generales:\n6.1.1. Número de informe;\n6.1.2. Nombre de la autoridad competente;\n6.1.3. Nombre de la Intendencia encargada de la elaboración del PAA;\n6.1.4. Ejercicio fiscal dentro del cual será aplicable el PAA;\n6.1.5. Nombre del responsable de quien ha elaborado, revisado y aprobado el\nPAA;\n6.1.6. Correo electrónico del responsable de la elaboración del PAA; y,\n6.1.7. Fecha de aprobación y actualización del PAA.\n6.2. Introducción:\n6.2.1. Antecedentes;\n6.2.2. Marco legal;\n6.2.3. Alineación con la planificación estratégica institucional:\n6.2.3.1. Misión institucional;\n6.2.3.2. Visión institucional; y,\n6.2.3.3. Objetivo estratégico institucional.\n6.3. Desarrollo:\n6.3.1. Alcance;\n6.3.2. Metodologías utilizadas;\n6.3.3. Objetivos:\n6.3.3.1. Objetivo general; y,\n6.3.3.2. Objetivos específicos.\n6.3.4. Criterios de auditoría;\n6.3.5. Programación de actividades;\n6.3.6. Recursos para la ejecución del PAA; y,\n6.3.7. Indicadores de medición.\n6.4. Conclusiones.\n6.5. Recomendaciones.\n6.6. Anexos.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.poderes"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0005-R-Art-7",
+      "tipo": "articulo",
+      "numero": "7",
+      "titulo": "",
+      "texto_oficial": "Art. 7.- La ICS deberá remitir la propuesta de PAA al Superintendente o su delegado para su\nconsideración hasta el último día laborable de cada agosto, quien, a su vez, deberá emitir sus\nobservaciones, en caso de haberlas, o aprobarlo hasta la finalización de la segunda semana de\ncada septiembre.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.poderes"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0005-R-Art-8",
+      "tipo": "articulo",
+      "numero": "8",
+      "titulo": "",
+      "texto_oficial": "Art. 8.- En caso de existir observaciones o modificaciones, el borrador del PAA será devuelto\nal ICS, quien deberá subsanar los reparos o absolver las dudas en un término máximo de quince\n(15) días. Posteriormente, se lo deberá remitir al Superintendente o su delegado para la\naprobación y suscripción.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.poderes"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0005-R-Art-9",
+      "tipo": "articulo",
+      "numero": "9",
+      "titulo": "",
+      "texto_oficial": "Art. 9.- El PAA, debidamente suscrito por el Superintendente de Protección de Datos\nPersonales, tendrá carácter reservado para el público en general y para los funcionarios de la\nSPDP, salvo para los de la ICS y el Superintendente o su delegado.\nCAPÍTULO II\nDE LOS CRITERIOS EMPLEADOS PARA LA SELECCIÓN DEL (DE LOS)\nSECTORES Y SUJETOS AUDITADOS",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.poderes"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0005-R-Art-10",
+      "tipo": "articulo",
+      "numero": "10",
+      "titulo": "",
+      "texto_oficial": "Art. 10.- La selección del (de los) sector(es) y sujetos auditados que realicen actividades de\ntratamiento se basará en criterios objetivos.\nHecha la selección, se definirá la cantidad de inspecciones a efectuar sobre la base de los\ncriterios que se establecen seguidamente y sin perjuicio de otros que pudieren corresponder:\n10.1. Alcance del tratamiento en el derecho a la protección de datos personales de los\ntitulares;\n10.2. Impacto y riesgo del tratamiento en el derecho a la protección de datos personales\nde los titulares;\n10.3. Volumen, sensibilidad o categoría especial de los datos personales;\n10.4. Vulnerabilidad de los titulares de datos personales;\n10.5. Cantidad de denuncias recibidas;\n10.6. Criticidad de las denuncias recibidas;\n10.7. Actualizaciones significativas en las regulaciones sectoriales de los sujetos que\nrealizan actividades de tratamiento;\n10.8. Uso de innovación tecnológica en las actividades de tratamiento;\n10.9. Aplicación de procedimientos de control;\n10.10. Disponibilidad de recursos (humanos, financieros, técnicos); y,\n10.11. Cantidad y gravedad de las vulneraciones de seguridad de datos personales\nreportadas.\nCAPÍTULO III\nDEL BOLETÍN INFORMATIVO DE AUDITORÍAS ANUALES",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.poderes"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0005-R-Art-11",
+      "tipo": "articulo",
+      "numero": "11",
+      "titulo": "",
+      "texto_oficial": "Art. 11.- El Boletín Informativo de Auditorías Anuales (“Boletín”) es el mecanismo que se\nutilizará para dar publicidad a la gestión de la SPDP y cumplir el principio de transparencia\nprevisto en la LOPDP.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.poderes"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0005-R-Art-12",
+      "tipo": "articulo",
+      "numero": "12",
+      "titulo": "",
+      "texto_oficial": "Art. 12.- El Boletín deberá contener la siguiente información:\n12.1. Nombre de la autoridad competente;\n12.2. Nombre de la Intendencia encargada de la elaboración del PAA;\n12.3. Ejercicio fiscal dentro del cual será aplicable el PAA;\n12.4. Fecha de aprobación del PAA; y,\n12.5. Sector(es) auditado(s).",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.poderes"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0005-R-Art-13",
+      "tipo": "articulo",
+      "numero": "13",
+      "titulo": "",
+      "texto_oficial": "Art. 13.- Una vez aprobado y suscrito el PAA por el Superintendente o su delegado, la ICS\nelaborará el Boletín y lo remitirá al Superintendente o su delegado para su aprobación.\n\nEn caso de que el Boletín fuere observado por el Superintendente o su delegado, será devuelto\na la ICS para que realice los cambios necesarios dentro del término de cinco (5) días. En el\ndecurso de dicho término, será enviado al Superintendente o su delegado para la aprobación\nfinal.\nUna vez aprobado por el Superintendente o su delegado, será devuelto a la ICS que, a su vez,\nsolicitará a la Intendencia General de Innovación Tecnológica y Seguridad de Datos Personales\n(“IIT”) la publicación del Boletín en la página web institucional para conocimiento de la\nciudadanía. Dicho Boletín deberá permanecer publicado durante todo el ejercicio fiscal al que\nhaga referencia.\nDe igual manera, la página web institucional tendrá un apartado histórico dentro del cual se\npodrán verificar las publicaciones del Boletín de cada ejercicio fiscal.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.poderes"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0005-R-Art-14",
+      "tipo": "articulo",
+      "numero": "14",
+      "titulo": "",
+      "texto_oficial": "Art. 14.- En caso de que el Superintendente, su delegado o la ICS identificaren la necesidad\nde incluir o excluir procesos de auditoría en la planificación, se deberá realizar un informe de\nnecesidad para explicar las razones por las cuales se modificará el PAA y de qué forma esto\ngarantiza el derecho de protección de datos personales.\nEl informe será realizado por la ICS y será remitido al Superintendente o su delegado junto\ncon el PAA modificado y el Boletín actualizado para su revisión y aprobación.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.poderes"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0005-R-Art-15",
+      "tipo": "articulo",
+      "numero": "15",
+      "titulo": "",
+      "texto_oficial": "Art. 15.- Si las modificaciones realizadas al PAA hicieren referencia al ejercicio fiscal\naplicable o al (a los) sector(es) auditado(s), se publicará un Boletín actualizado que deberá\ncontener lo siguiente:\n15.1. Actualización al ejercicio fiscal aplicable:\n15.1.1. Nombre de la autoridad competente;\n15.1.2. Nombre de la intendencia encargada de la elaboración del PAA;\n15.1.3. Fecha de aprobación del PAA original;\n15.1.4. Fecha de aprobación de la actualización del PAA;\n15.1.5. Ejercicio fiscal dentro del cual iba a ser aplicable el PAA;\n15.1.6. Actualización del ejercicio fiscal dentro del cual será aplicable el PAA; y,\n15.1.7. Exposición de argumentos respecto de la procedencia de la modificación.\n15.2. Sector(es) auditado(s):\n15.2.1. Actualización al (a los) sector(es) auditado(s);\n15.2.2. Nombre de la autoridad competente;\n15.2.3. Nombre de la intendencia encargada de la elaboración del PAA;\n15.2.4. Fecha de aprobación del PAA original;\n15.2.5. Fecha de aprobación de la actualización del PAA;\n15.2.6. Ejercicio fiscal dentro del cual será aplicable el PAA;\n15.2.7. Sector(es) auditado(s) inicialmente seleccionado(s) dentro del PAA\noriginal;\n15.2.8. Sector(es) auditado(s) modificado(s) PAA; y,\n15.2.9. Exposición de argumentos respecto de la procedencia de la modificación.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.poderes"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0005-R-DispGen-PRIMERA",
+      "tipo": "disposicion",
+      "numero": "PRIMERA",
+      "titulo": "Disposición General PRIMERA",
+      "texto_oficial": "Primera.- En el marco de las competencias asignadas a la SPDP, la ICS incorporará, dentro\ndel Plan Regulatorio Institucional correspondiente al ejercicio fiscal 2026, la elaboración de un\nreglamento específico que regule el procedimiento de auditoría.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0005-R-DispGen-SEGUNDA",
+      "tipo": "disposicion",
+      "numero": "SEGUNDA",
+      "titulo": "Disposición General SEGUNDA",
+      "texto_oficial": "Segunda.- En el reglamento que regule el procedimiento específico de auditoría, se\nincorporarán mecanismos de retroalimentación institucional que permitan evaluar la eficacia,\neficiencia y pertinencia del proceso de auditoría, con el propósito de identificar oportunidades\nde mejora y optimización continua. La retroalimentación recibida será objeto de análisis, a fin\nde introducir los ajustes y actualizaciones necesarias en el procedimiento, para así garantizar su\nevolución constante y su adecuación a las mejores prácticas en materia de control y supervisión\nde la protección de datos personales.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0005-R-DispTrans-ÚNICA",
+      "tipo": "disposicion",
+      "numero": "ÚNICA",
+      "titulo": "Disposición Transitoria ÚNICA",
+      "texto_oficial": "Por cuanto la SPDP inició sus actividades en la segunda quincena de septiembre del 2024, el\nPAA correspondiente al año fiscal 2025 no seguirá el procedimiento establecido en este\nReglamento y, por ende, será elaborado únicamente a base del informe técnico emitido por la\nICS, aprobado por el Superintendente o su delegado y, posteriormente, publicado a través del\nBoletín en el portal institucional.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0005-R-DispFinal-ÚNICA",
+      "tipo": "disposicion",
+      "numero": "ÚNICA",
+      "titulo": "Disposición Final ÚNICA",
+      "texto_oficial": "Esta resolución entrará en vigencia a partir de su suscripción, sin perjuicio de su publicación en\nel Registro Oficial.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    }
+  ]
+}
