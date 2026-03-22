@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "id": "EC-SPDP-2025-0022-R",
+    "jurisdiccion": "ec",
+    "tipo_fuente": "normativa-secundaria",
+    "nivel_jerarquico": 6,
+    "titulo": "Reglamento para la Aplicación de la Metodología para el Cálculo de las Multas en el Régimen Administrativo Sancionatorio",
+    "numero": "SPDP-SPD-2025-0022-R",
+    "fecha_publicacion": "2025-07-16",
+    "fecha_vigencia": "2025-07-16",
+    "vigente": true,
+    "materia": [
+      "pdp"
+    ],
+    "es_especializada": true,
+    "url_oficial": "https://www.superintendenciadedatos.gob.ec/",
+    "preambulo": "CONSIDERANDO:\nQue el numeral 19 del artículo 66 de la Constitución de la República del Ecuador (“CRE”)\nles reconoce y garantiza a las personas el derecho “a la protección de datos de carácter personal,\nque incluye el acceso y la decisión sobre información y datos de este carácter, así como su\ncorrespondiente protección. La recolección, archivo, procesamiento, distribución o difusión de\nestos datos o información requerirán la autorización del titular o el mandato de la ley”;\nQue el artículo 213 CRE establece que “[l]as superintendencias son organismos técnicos de\nvigilancia, auditoría, intervención y control de las actividades económicas, sociales y\nambientales, y de los servicios que prestan las entidades públicas y privadas, con el propósito\nde que estas actividades y servicios se sujeten al ordenamiento jurídico y atiendan al interés\ngeneral (…)”; que forman parte de la Función de Transparencia y Control Social; y que,\nconforme lo dispone el artículo 204 idem, detentan “personalidad jurídica y autonomía\nadministrativa, financiera, presupuestaria y organizativa (…)”;\nQue a través de la LOPDP se creó la Superintendencia de Protección de Datos Personales\n(“SPDP”) como un órgano de control, con potestad sancionatoria, de administración\ndesconcentrada, con personalidad jurídica y autonomía administrativa, técnica, operativa y\nfinanciera, cuyo máximo titular es, de acuerdo con el inciso primero del artículo 76 ídem, el\nSuperintendente de Protección de Datos Personales;\nQue el artículo 76 de la LOPDP establece que “[l]a Autoridad de Protección de Datos\nPersonales es el órgano de control y vigilancia encargado de garantizar a todos los ciudadanos\nla protección de sus datos personales, y de realizar todas las acciones necesarias para que se\nrespeten los principios, derechos, garantías y procedimientos previstos en la [Ley Orgánica de\nProtección de Datos Personales]”;\nQue los numerales 2 y 5 del artículo 76 de la LOPDP le atribuyen a la SPDP, entre otras\nfunciones, atribuciones y facultades, la de “[e]jercer la potestad sancionadora respecto de\nresponsables, delegados, encargados y terceros (…)”, así como la de “[e]mitir normativa\ngeneral o técnica, criterios y demás actos que sean necesarios para el ejercicio de sus\ncompetencias y la garantía del ejercicio del derecho a la protección de datos personales”;\nQue los artículos 67 y 68 de la LOPDP tipifican las conductas que, respectivamente, son\nconsideradas como infracciones leves e infracciones graves del responsable del tratamiento, de\nla misma manera que lo hacen los artículos 69 y 70, en su orden, respecto del encargado;\nQue los artículos 71 y 72 de la LOPDP señalan cuáles son las sanciones por infracciones\nleves y por infracciones graves, respectivamente, aunque ¾tanto para las unas como para las\notras¾ se determina que la SPDP deberá establecer las multas aplicables en función del\nprincipio de proporcionalidad, en atención a los siguientes presupuestos: (a) La intencionalidad;\n(b) La reiteración de la infracción; (c) La naturaleza del perjuicio ocasionado; y, (d) La\nreincidencia;\nQue tratándose de servidores o funcionarios del sector público, las multas pueden oscilar\nentre uno a diez salarios básicos unificados del trabajador en general, en el caso de infracciones\nleves; y de diez a veinte salarios básicos unificados, cuando las infracciones son graves;\nQue en el caso de responsables, encargados del tratamiento de datos personales o terceros\nque fueren entidades de derecho privado o empresas públicas, las multas por infracciones leves\noscilan entre el 0.1% o el 0.7%; y, cuando son graves, pueden ubicarse entre el 0.7% y el 1%,\nen ambos casos calculadas sobre el volumen de negocio correspondiente al ejercicio\ninmediatamente anterior al de la imposición de la multa;\n\nQue el artículo 73 de la LOPDP ha definido al volumen de negocio como “la cuantía\nresultante de la venta de productos y de la prestación de servicios realizados por operadores\neconómicos, durante el último ejercicio que corresponda a sus actividades, previa deducción\ndel Impuesto al Valor Agregado y de otros impuestos directamente relacionados con la\noperación económica (...)”;\nQue el artículo 135 del Código Orgánico Administrativo (“COA”) determina que “(…) Le\ncorresponde a la Administración Pública, la dirección del procedimiento administrativo en\nejercicio de las competencias que se le atribuyan en el ordenamiento jurídico y en este Código\n(…)”;\nQue mediante resolución N° SPDP-SPDP-2024-0001-R del 2 de agosto del 2024, publicada\nen el Tercer Suplemento del Registro Oficial N° 624 del 19 de agosto del 2024, el\nSuperintendente de Protección de Datos Personales aprobó el Estatuto Orgánico de Gestión\nOrganizacional por Procesos de Arranque de la Superintendencia de Protección de Datos\nPersonales;\nQue la letra b), numeral 2 del artículo 10 de la resolución N° SPDP-SPDP-2024-0001-R\nestablece que a la Intendencia General de Regulación de Protección de Datos Personales (“IRD”)\nle corresponde, entre otras atribuciones y responsabilidades, “[d]irigir y proponer la\nelaboración de las propuestas o proyectos normativos para crear, reformar o derogar los actos\nnormativos, sean estos políticas, directrices, reglamentos, resoluciones, lineamientos, normas\ntécnicas, oficios circulares, etcétera, necesarios para el ejercicio de todas las competencias y\natribuciones propias de la Superintendencia de Protección de Datos Personales, con los previos\ninformes técnicos de las unidades administrativas sustantivas y adjetivas relacionadas con el\námbito de aplicación de tales normas; así como, todos aquellos actos normativos relacionados\ncon el ejercicio, tutela y procedimientos administrativos de gestión que garanticen a las\npersonas naturales la plena vigencia de sus derechos y deberes previstos en dicha ley y su\nreglamento (…)”;\nQue la letra c), numeral 2 del artículo 10 de la resolución N° SPDP-SPDP-2024-0001-R,\nestablece, entre las atribuciones y responsabilidades de la IRD, la de “[d]irigir y proponer la\npresentación al Superintendente de Protección de Datos Personales de las propuestas de\nnormas, reglamentos, directrices, resoluciones, normas técnicas, oficios circulares, etcétera,\nvinculados con la regulación de protección de datos personales, para su expedición (…)”;\nQue a través de la letra a) del artículo 4 de la resolución N° SPDP-SPD-2025-0001-R del 31\nde enero del 2025, publicada en el Registro Oficial N° 750 del 24 de febrero del 2025, mediante\nla cual se expidieron las disposiciones, delegaciones de facultades y atribuciones a las\nautoridades, funcionarios y servidores públicos de la SPDP, se le delegó al Intendente General\nRegulación de Protección de Datos Personales, entre otras, la responsabilidad de “[e]mitir\nnormativa general o técnica, criterios y demás actos que sean necesarios para el ejercicio de\nsus competencias y la garantía del ejercicio del derecho a la protección de datos personales\n(…)”;\nQue la disposición transitoria del Reglamento para la Elaboración y Aprobación del Plan\nRegulatorio Institucional de la SPDP ¾expedido mediante resolución Nº SPDP-SPDP-2024-\n0018-R del 30 de octubre del 2024, publicada en el Segundo Suplemento del Registro Oficial\nNº 679 del 8 de noviembre del 2024¾ establece que “(…) el PRI correspondiente a los años\nfiscales 2024 y 2025 no seguirá el procedimiento establecido en este reglamento y, por ende, se\nelaborará únicamente a base de los informes técnicos emitidos por las Unidades\nAdministrativas correspondientes; validados por la IGRPDP; aprobados por el Superintendente\no su delegado; y, finalmente, publicado en los portales oficiales de la SPDP cuando estén\nhabilitados”;\n\nQue mediante la resolución N° SPDP-SPD-2025-0002-R del 3 de febrero del 2025 se aprobó\nel Plan Regulatorio Institucional del año 2025, dentro del cual se ha establecido la necesidad de\nemitir el Reglamento para la Aplicación de la Metodología para el Cálculo de las Multas en el\nRégimen Administrativo Sancionatorio de la SPDP;\nQue por medio del memorando N° SPDP-IRD-2025-0048-M, suscrito el 28 de marzo del\n2025, la IRD puso en conocimiento de la Dirección de Asesoría Jurídica (“DAJ”) tanto el\nReglamento para la Aplicación de la Metodología para el Cálculo de las Multas en el Régimen\nAdministrativo Sancionatorio de la SPDP, como el informe técnico N° INF-SPDP-IRD-2025-\n0014, para que, dentro del término de diez días, realice las diligencias pertinentes de\nconformidad con lo dispuesto en la resolución N° SPDP-SPDP-2024-0022-R del 31 de\ndiciembre del 2024, que contiene el Reglamento para la Creación, Modificación y Derogatoria\nde la Normativa de la Superintendencia de Protección de Datos Personales, publicado en el\nRegistro Oficial N° 734 del 31 de enero del 2025;\nQue mediante memorando N° SPDP-DAJ-2025-0031-M suscrito el 29 de marzo del 2025, la\nDAJ validó el proyecto de resolución y puso en conocimiento de la IRD el informe jurídico Nº\nINF-SPDP-DAJ-2025-0007, en el cual recomienda “(…) solicitar a quien corresponda la\npublicación a través de la página web institucional e informar su publicación a través de las\nredes sociales institucionales, con la finalidad de que la ciudadanía, las organizaciones de la\nsociedad civil o interesados en general, de manera motivada, puedan remitir sus observaciones\no realizar aportes respecto del contenido, para lo cual se debe indicar la forma para recibir\ndichas observaciones y aportes que será dentro de un término de veinte (20) días contados desde\nsu publicación”;\nQue a través del memorando N° SPDP-IRD-2025-0050-M suscrito el 31 de marzo del 2025,\nla IRD solicitó a las unidades administrativas de la SPDP que procedan con las acciones\npertinentes, a fin de que publiquen el Reglamento para la Aplicación de la Metodología para el\nCálculo de las Multas en el Régimen Administrativo Sancionatorio de la Superintendencia de\nProtección de Datos Personales, en la página web institucional y en las redes sociales de la SPDP,\npara que el proyecto de normativa esté disponible para la ciudadanía, las organizaciones de la\nsociedad civil o los interesados en general desde el 1 al 29 de abril del 2025, con el objeto de\npoder recibir sus observaciones o aportes, siempre que estuvieren debidamente motivados;\nQue, para cumplir con la resolución Nº SPDP-SPDP-2024-0022-R, se ejecutó el proceso de\nsocialización del Reglamento para la Aplicación de la Metodología para el Cálculo de las Multas\nen el Régimen Administrativo Sancionatorio de la Superintendencia de Protección de Datos\nPersonales, dentro del término de veinte días, de conformidad con el artículo 12 de dicha\nresolución;\nQue a través del informe técnico Nº INF-SPDP-IRD-2025-0043, suscrito el 14 de julio del\n2025, la IRD incorporó al informe técnico las observaciones y aportes que se consideraron\nrelevantes y adecuados, previa justificación de las modificaciones realizadas al proyecto\nnormativo;\nQue mediante memorando Nº SPDP-IRD-2025-0122-M, suscrito el 14 de julio del 2025, la\nIRD remitió todo el expediente al suscrito Superintendente de Protección de Datos Personales\npara que realice las observaciones correspondientes o, en su caso, para que lo apruebe;",
+    "anexos": [
+      "ec-spdp-2025-0022-r-anexo-metodologia.pdf"
+    ],
+    "version": "1.0.0"
+  },
+  "unidades": [
+    {
+      "id": "EC-SPDP-2025-0022-R-Art-1",
+      "tipo": "articulo",
+      "numero": "1",
+      "titulo": "",
+      "texto_oficial": "Art. 1.- Este reglamento tiene como objeto establecer la metodología para el cálculo de las\nmultas aplicables a infracciones leves y graves establecidas en la Ley Orgánica de Protección de\nDatos Personales dentro del rango permitido, en ejercicio de la potestad sancionadora de la\nSPDP.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.sanciones"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "definicion",
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0022-R-Art-2",
+      "tipo": "articulo",
+      "numero": "2",
+      "titulo": "",
+      "texto_oficial": "Art. 2.- Este reglamento, con su Anexo I, son de aplicación obligatoria y para el uso de la\nSPDP en su calidad de autoridad competente, al momento de establecer la sanción pecuniaria\naplicable dentro del régimen sancionatorio administrativo.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.sanciones"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0022-R-DispGen-ÚNICA",
+      "tipo": "disposicion",
+      "numero": "ÚNICA",
+      "titulo": "Disposición General ÚNICA",
+      "texto_oficial": "La Superintendencia de Protección de Datos Personales, en cualquier momento, podrá\nmodificar la metodología con la finalidad de mejorar su aplicación, previo informe favorable de\nla Intendencia General de Regulación de Protección de Datos Personales.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.sanciones"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0022-R-DispTrans-ÚNICA",
+      "tipo": "disposicion",
+      "numero": "ÚNICA",
+      "titulo": "Disposición Transitoria ÚNICA",
+      "texto_oficial": "La Intendencia General de Innovación Tecnológica y Seguridad de Datos Personales, en el\nplazo de tres meses contados a partir de la publicación en el Registro Oficial de este reglamento,\ndesarrollará e implementará el sistema informático institucional que permitirá la aplicación del\nAnexo I en los procesos administrativos sancionadores. De igual manera, deberá entregar a la\nIntendencia General de Control y Sanción el Manual de Usuario Final y el Manual de Instalación,\njunto con el software correspondiente.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0022-R-DispFinal-ÚNICA",
+      "tipo": "disposicion",
+      "numero": "ÚNICA",
+      "titulo": "Disposición Final ÚNICA",
+      "texto_oficial": "Esta resolución entrará en vigencia a partir de su suscripción, sin perjuicio de su publicación\nen el Registro Oficial.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    }
+  ]
+}
