@@ -1,0 +1,794 @@
+{
+  "meta": {
+    "id": "EC-SPDP-2024-0013-R",
+    "jurisdiccion": "ec",
+    "tipo_fuente": "normativa-secundaria",
+    "nivel_jerarquico": 6,
+    "titulo": "Reglamento de Denuncias y Solicitudes de la Superintendencia de Protección de Datos Personales",
+    "numero": "SPDP-SPDP-2024-0013-R",
+    "fecha_publicacion": "2024-10-25",
+    "fecha_vigencia": "2024-10-25",
+    "vigente": true,
+    "materia": [
+      "pdp"
+    ],
+    "es_especializada": true,
+    "url_oficial": "https://www.superintendenciadedatos.gob.ec/",
+    "preambulo": "CONSIDERANDO:\nQue el numeral 19 del artículo 66 de la Constitución de la República del Ecuador (“CRE”)\nles reconoce y garantiza a las personas el derecho “a la protección de datos de carácter\npersonal, que incluye el acceso y la decisión sobre información y datos de este carácter, así\ncomo su correspondiente protección. La recolección, archivo, procesamiento, distribución o\ndifusión de estos datos o información requerirán la autorización del titular o el mandato de la\nley”;\nQue el artículo 213 CRE establece que “[l]as superintendencias son organismos técnicos de\nvigilancia, auditoría, intervención y control de las actividades económicas, sociales y\nambientales, y de los servicios que prestan las entidades públicas y privadas, con el propósito\nde que estas actividades y servicios se sujeten al ordenamiento jurídico y atiendan al interés\ngeneral (…)”; que forman parte de la Función de Transparencia y Control Social; y que,\nconforme lo dispone el artículo 204 idem, detentan “personalidad jurídica y autonomía\nadministrativa, financiera, presupuestaria y organizativa (…)”;\nQue el artículo 135 del Código Orgánico Administrativo (“COA”) determina que “(…) Le\ncorresponde a la Administración Pública, la dirección del procedimiento administrativo en\nejercicio de las competencias que se le atribuyan en el ordenamiento jurídico y en este Código\n(…)”;\nQue el artículo 136 COA estatuye que “[l]as administraciones públicas pueden establecer\nformularios de uso obligatorio y determinar los modelos de solicitudes, reclamos, recursos y,\nen general, de cualquier tipo de petición que se le dirija. Los formularios y modelos estarán a\ndisposición de las personas en las dependencias administrativas y se publicarán a través de\nlos medios de difusión institucional. La persona interesada puede acompañar los elementos\nque estime convenientes para precisar o completar los datos del formulario o modelo, los\ncuales no podrán ser inadmitidos y serán valorados por el órgano al momento de resolver\n(…)”;\nQue el artículo 1 de la Ley Orgánica de Protección de Datos Personales (“LOPDP”) declara\nque aquella tiene por objeto y finalidad “garantizar el ejercicio del derecho de protección de\ndatos personales, que incluye el acceso y decisión sobre información y datos de ese carácter,\nasí como su correspondiente protección”, para lo cual, por virtud de esta norma legal, se regulan,\nprevén y desarrollan “principios, derechos, obligaciones y mecanismos de tutela”;\nQue a través de la LOPDP se creó la Superintendencia de Protección de Datos Personales\n(“SPDP”) como un órgano técnico de control, con potestad sancionatoria, de administración\ndesconcentrada, con personalidad jurídica y autonomía administrativa, técnica, operativa y\nfinanciera;\nQue el artículo 63 LOPDP establece que “[l]a Autoridad de Protección de Datos Personales\npodrá iniciar, de oficio o a petición del titular, actuaciones previas con el fin de conocer las\ncircunstancias del caso concreto o la conveniencia o no de iniciar el procedimiento, para lo\ncual se estará conforme a las disposiciones del Código Orgánico Administrativo. (…)”;\nQue el artículo 64 LOPDP determina que “[e]n el caso de que el responsable del tratamiento\nno conteste el requerimiento, en el término establecido en la presente Ley, o éste fuere negado,\nel titular podrá presentar el correspondiente reclamo administrativo ante la Autoridad de\nProtección de Datos Personales, para lo cual se deberá estar conforme al procedimiento\nestablecido en el Código Orgánico Administrativo, la presente Ley y demás normativa emitida\npor la Autoridad de Protección de Datos Personales. Sin perjuicio, el titular podrá presentar\nacciones civiles, penales o constitucionales de las que se crea asistido. (…)”;\n\nQue el inciso primero del artículo 76 LOPDP le encarga a la SPDP garantizarles “a todos los\nciudadanos la protección de sus datos personales”, así como le confiere funciones, atribuciones\ny facultades para “realizar todas las acciones necesarias para que se respeten los principios,\nderechos, garantías y procedimientos previstos en la presente Ley y en su reglamento de\naplicación”;\nQue los numerales 2, 3 y 5 del artículo 76 LOPDP le atribuyen a la SPDP competencias para\n“[e]jercer la potestad sancionadora respecto de responsables, delegados, encargados y terceros\n(…)”; para “[c]onocer, sustanciar y resolver los reclamos interpuestos por el titular o aquellos\niniciados de oficio, así como aplicar las sanciones correspondientes”; y para “[e]mitir\nnormativa general o técnica, criterios y demás actos que sean necesarios para el ejercicio de\nsus competencias y la garantía del ejercicio del derecho a la protección de datos personales”;\nQue el artículo 16 del Reglamento General de la Ley Orgánica de Protección de Datos\nPersonales estatuye que “[e]l titular de datos personales que encuentre motivos para creer que\nse han vulnerado sus derechos con la respuesta que el responsable ha dado a su solicitud, o que\nno haya recibido respuesta en el plazo establecido, podrá acudir a la Autoridad de Protección\nde Datos a presentar su reclamo, el cual se sustanciará conforme al procedimiento previsto en\nel Código Orgánico Administrativo y en la normativa complementaria que, para el efecto, emita\nla Autoridad de Protección de Datos. El procedimiento de reclamo contemplará la debida\nnotificación al responsable a fin de que ejerza su derecho a la defensa (…)”;\nQue mediante resolución Nº SPDP-SPDP-2024-0001-R, publicada en el Tercer Suplemento\ndel Registro Oficial Nº 624 de 19 de agosto del 2024, el Superintendente de Protección de Datos\nPersonales aprobó el Estatuto Orgánico de Gestión Organizacional por Procesos de Arranque de\nla Superintendencia de Protección de Datos Personales;\nQue mediante los literales b) y c) del artículo 5 de la resolución Nº SPDP-SPDP-2024-0007-\nR, se le delegó al Intendente General de Control y Sanción las facultades de ejercer la potestad\nsancionadora respecto de responsables, responsables conjuntos, delegados, encargados y\nterceros, así como la de conocer, sustanciar y resolver los reclamos de los titulares de datos\npersonales;",
+    "anexos": [],
+    "version": "1.0.0"
+  },
+  "unidades": [
+    {
+      "id": "EC-SPDP-2024-0013-R-Art-1",
+      "tipo": "articulo",
+      "numero": "1",
+      "titulo": "",
+      "texto_oficial": "Art. 1.- Este reglamento tiene por objeto regular el proceso de presentación, recepción y\ntrámite de las denuncias o solicitudes ingresadas por los administrados.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "ambito-de-aplicacion.ambito-material"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "definicion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0013-R-Art-2",
+      "tipo": "articulo",
+      "numero": "2",
+      "titulo": "",
+      "texto_oficial": "Art. 2.- El reglamento será aplicable para los administrados que encontraren motivos para\nconsiderar o presumir que:\n2.1. Se ha vulnerado el ejercicio de sus derechos;\n2.2. Se han inaplicado principios generales o específicos de protección de datos\npersonales; o,\n2.3. El responsable o encargado del tratamiento ha incumplido las obligaciones que tengan\nrespecto de los titulares.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia",
+        "derechos-del-titular.acceso"
+      ],
+      "roles": [
+        "autoridad-control",
+        "titular"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0013-R-Art-3",
+      "tipo": "articulo",
+      "numero": "3",
+      "titulo": "",
+      "texto_oficial": "Art. 3.- En los procesos administrativos recogidos en este reglamento se aplicarán los\nsiguientes principios: celeridad, legalidad, oportunidad, transparencia, buena fe, objetividad,\neficacia, eficiencia, calidad; así como los principios y derechos reconocidos en la CRE, en el\n\nCOA, en la LOPDP, en el RGLOPDP, en las regulaciones expedidas por la SPDP y, de ser\nnecesario, en los estándares internacionales aplicables a la materia.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "principios.licitud"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso",
+        "definicion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0013-R-Art-4",
+      "tipo": "articulo",
+      "numero": "4",
+      "titulo": "",
+      "texto_oficial": "Art. 4.- Para la aplicación de este reglamento se establecen las siguientes definiciones:\n4.1. Denuncia: Medio por el cual cualquier persona, natural o jurídica, pone en\nconocimiento de la SPDP hechos que constituyen una presunta infracción a la\nLOPDP, el RGLOPDP, sus regulaciones y demás normativa aplicable. En ella se\npodrían incluir, pero no verse limitada, hechos vinculados con el uso indebido de\ndatos personales, violaciones de seguridad o prácticas ilegales por parte de un\nresponsable o encargado del tratamiento de datos personales.\n4.2. Solicitud: Medio por el cual se pide atender o solucionar un problema específico\nrelacionado con el tratamiento de los datos personales del titular. En ella se podrían\nincluir, pero no verse limitado, situaciones como la falta de respuesta al ejercicio de\nderechos o la insatisfacción en cuanto a la forma en que fueron tratados los datos\npersonales. Su objetivo es obtener una acción por parte del responsable o encargado\ndel tratamiento de datos personales, así como recomendar la imposición de medidas\ncorrectivas o, también, recomendar el inicio de un procedimiento administrativo\nsancionador.\n4.3. Razón de recepción: Es la constancia auténtica, física o digital, con la que se acredita\nla recepción de la denuncia o solicitud. Debe incluir la fecha y hora de presentación.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control",
+        "titular",
+        "responsable"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "definicion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0013-R-Art-5",
+      "tipo": "articulo",
+      "numero": "5",
+      "titulo": "",
+      "texto_oficial": "Art. 5.- Toda denuncia o solicitud podrá ser presentada a través de los siguientes medios:\n5.1. Por escrito: La denuncia o solicitud podrá ser presentada por escrito, esto es, en\nsoporte papel, de manera clara y precisa, junto con los anexos que fueren necesarios,\nen las ventanillas que habilitare la SPDP.\n5.2. Por medios electrónicos: A través de su portal institucional, la SPDP pondrá a\ndisposición de los interesados:\n5.2.1. El “Formulario para la Presentación de Denuncias”, que se integra a esta\nresolución como Anexo 1; y,\n5.2.2. El “Formulario para la Presentación de Solicitudes de Titulares”, que se\nintegra a esta resolución como Anexo 2.\nEn caso de emplearse medios electrónicos, los formularios deberán contar con firma\nelectrónica que pueda ser verificable mediante el aplicativo FirmaEC.\nTÍTULO II\nPRESENTACIÓN, RECEPCIÓN Y TRÁMITE DE LA DENUNCIA",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control",
+        "titular"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0013-R-Art-6",
+      "tipo": "articulo",
+      "numero": "6",
+      "titulo": "",
+      "texto_oficial": "Art. 6.- La denuncia será presentada a través de los medios habilitados para el efecto, de\nconformidad con el artículo 5 de este reglamento.\nSi los hechos o datos asentados en la denuncia ya hubiesen sido conocidos con anterioridad\nen otra denuncia previa, sustanciada a través del respectivo procedimiento y dentro del cual se\nconfigure la identidad subjetiva, objetiva y de causa, la SPDP ordenará el archivo.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "titular",
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0013-R-Art-7",
+      "tipo": "articulo",
+      "numero": "7",
+      "titulo": "",
+      "texto_oficial": "Art. 7.- Una vez presentada la denuncia, la SPDP podrá realizar actuaciones previas o\nimponer medidas provisionales de protección de conformidad con el COA y este reglamento.\nLa denuncia, por sí misma, no constituye ningún elemento o condición que obligue a la SPDP\na iniciar el procedimiento administrativo, salvo que existieren elementos suficientes que lo\ntornen pertinente.\nLa decisión de iniciar o no el procedimiento se comunicará al denunciante.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.poderes"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0013-R-Art-8",
+      "tipo": "articulo",
+      "numero": "8",
+      "titulo": "",
+      "texto_oficial": "Art. 8.- La SPDP realizará el registro formal de todas las denuncias presentadas.\n\nTÍTULO III\nACTUACIONES PREVIAS\nCAPÍTULO I\nDE LAS ACTUACIONES PREVIAS, PROCEDENCIA Y TRÁMITE",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0013-R-Art-9",
+      "tipo": "articulo",
+      "numero": "9",
+      "titulo": "",
+      "texto_oficial": "Art. 9.- La SPDP podrá iniciar, de oficio, actuaciones previas con el fin de:\n9.1. Identificar a la persona que pudiere ser estimada como responsable del cometimiento\nde una posible infracción (“el sujeto investigado” o “los sujetos investigados”);\n9.2. Establecer las circunstancias del caso concreto;\n9.3. Determinar las circunstancias relevantes que concurran; y,\n9.4. Señalar la conveniencia o pertinencia de iniciar o no el procedimiento administrativo.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.poderes"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0013-R-Art-10",
+      "tipo": "articulo",
+      "numero": "10",
+      "titulo": "",
+      "texto_oficial": "Art. 10.- Mediante acto administrativo, la SPDP podrá, en ejercicio de sus atribuciones y\nfacultades, ordenar la investigación, averiguación, auditoría o inspección en contra del sujeto\ninvestigado. Si fueren dos o más los sujetos investigados, tales actuaciones se podrán realizar de\nforma individual o conjunta.\nLas actuaciones previas pueden ser ejecutadas por gestión directa o delegada, de acuerdo con\nel COA y este reglamento.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.poderes"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0013-R-Art-11",
+      "tipo": "articulo",
+      "numero": "11",
+      "titulo": "",
+      "texto_oficial": "Art. 11.- La actuación previa se iniciará con el acto administrativo que la ordene, expedido\npor el Superintendente de Protección de Datos Personales o su delegado, y será notificada al\nsujeto investigado en caso de hallarse identificado o individualizado.\nPracticada la actuación previa, se emitirá un informe preliminar que se pondrá en\nconocimiento del sujeto investigado para que, dentro del término de diez (10) días contado desde\nsu notificación, exprese su criterio y efectúe sus descargos con relación a los documentos y\nhallazgos preliminares.\nUna vez recibido, el criterio y los descargos del sujeto investigado serán valorados por la\nSPDP y tomados en cuenta dentro del informe final, con lo cual concluirá la actuación previa.\nSi el sujeto investigado no aportare su criterio ni efectuare descargos en el término ya\nseñalado, el informe producirá plenos efectos jurídicos como acto de simple administración y\ntendrá la calidad de informe final, con lo cual concluirá la actuación previa.\nLa SPDP podrá calificar, producir y practicar como prueba, dentro de procedimientos\nadministrativos sustanciados por aquella, la información o los documentos obtenidos en las\nactuaciones previas.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.procedimiento-sancionador"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0013-R-Art-12",
+      "tipo": "articulo",
+      "numero": "12",
+      "titulo": "",
+      "texto_oficial": "Art. 12.- Una vez comenzadas las actuaciones previas, la decisión de inicio del procedimiento\nadministrativo se notificará a la persona interesada dentro de un plazo de hasta seis (6) meses,\nque se contará desde la fecha de expedición del acto administrativo con el que se ordenan las\nactuaciones previas, bajo las prevenciones del artículo 179 COA.\nCAPÍTULO II\nMEDIDAS PROVISIONALES DE PROTECCIÓN",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.procedimiento-sancionador"
+      ],
+      "roles": [
+        "autoridad-control",
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0013-R-Art-13",
+      "tipo": "articulo",
+      "numero": "13",
+      "titulo": "",
+      "texto_oficial": "Art. 13.- De oficio o a petición de parte, la SPDP podrá disponer, motivadamente, las\nsiguientes medidas provisionales de protección, necesarias y proporcionadas para salvaguardar\nel derecho fundamental a la protección de los datos de los titulares:\n13.1. Retiro de productos, documentos u otros bienes;\n13.2. Limitaciones o restricciones de acceso;\n13.3. Desalojo de personas;\n\n13.4. Suspensión de la actividad de tratamiento; y/o,\n13.5. Clausura de establecimientos.\nLas medidas antedichas se podrán ordenar de forma individual o conjunta.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.poderes"
+      ],
+      "roles": [
+        "autoridad-control",
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0013-R-Art-14",
+      "tipo": "articulo",
+      "numero": "14",
+      "titulo": "",
+      "texto_oficial": "Art. 14.- Podrán ordenarse las medidas provisionales de protección, antes del inicio del\nprocedimiento administrativo, siempre y cuando concurran las siguientes condiciones:\n14.1. Que se trate de una medida urgente;\n14.2. Que sea necesaria y proporcionada; y,\n14.3. Que la motivación no se fundamente en meras afirmaciones.\nLas medidas provisionales serán confirmadas, modificadas o levantadas en la disposición de\ninicio del procedimiento administrativo.\nTÍTULO IV\nPRESENTACIÓN, RECEPCIÓN Y TRÁMITE DE LA SOLICITUD\nDEL TITULAR DE DATOS PERSONALES\nCAPÍTULO I\nREQUISITOS, PRESENTACIÓN Y ADMISIÓN",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.poderes"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso",
+        "excepcion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0013-R-Art-15",
+      "tipo": "articulo",
+      "numero": "15",
+      "titulo": "",
+      "texto_oficial": "Art. 15.- Los titulares de los datos personales que se consideren afectados por las actuaciones\nu omisiones de los responsables, responsables conjuntos, encargados del tratamiento o terceros,\npodrán presentar una solicitud ante la SPDP de conformidad con las disposiciones contempladas\nen la LOPDP, el RGLOPDP, el COA y este reglamento.\nSin perjuicio de lo previsto en el inciso anterior, la SPDP podrá disponer las actuaciones de\noficio que fueren necesarias para garantizar, con ello, los derechos de los titulares.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "derechos-del-titular.oposicion",
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "titular",
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0013-R-Art-16",
+      "tipo": "articulo",
+      "numero": "16",
+      "titulo": "",
+      "texto_oficial": "Art. 16.- La solicitud deberá cumplir, como mínimo, los siguientes requisitos:\n16.1. Identificación de la autoridad administrativa ante la que cual se la formula.\n16.2. Identificación del solicitante. Se detallarán los nombres y apellidos completos del\ntitular de los datos personales; número de la cédula de ciudadanía, de identidad o, en\nsu caso, el número de pasaporte; correo electrónico, teléfonos de contacto y dirección\ndel domicilio legal. A la solicitud, el titular acompañará una copia legible de su cédula\nde ciudadanía, de identidad o del pasaporte.\nCuando se actúe por interpuesta persona, se harán constar los datos del apoderado\nespecial, procurador judicial o representante legal.\n16.3. Identificación de la persona que realiza el tratamiento de datos personales, que\npresuntamente hubiese:\n16.3.1. Vulnerado el ejercicio de los derechos del titular;\n16.3.2. Incurrido en la falta de aplicación de principios generales o específicos de\nprotección de datos personales; o,\n16.3.3. Incurrido en el incumplimiento de obligaciones que tengan relación con el\ntitular del tratamiento de datos personales.\nSe harán constar los nombres y apellidos completos, así como el número de la cédula\nde ciudadanía, de identidad o, en su caso, el número de pasaporte de quien realiza el\ntratamiento de datos personales, si fuere persona natural; o, si fuere persona jurídica,\nsu razón social, denominación, expresión peculiar o nombre oficial, así como el RUC.\n\nTanto las personas naturales como las personas jurídicas podrán ser identificadas,\ntambién, con las marcas o nombres comerciales de las que se valen para diferenciar\nlos productos o servicios que ofrecen en el mercado.\nAdemás, se deberá consignar, respecto de las personas naturales y de las personas\njurídicas, el correo electrónico, los teléfonos de contacto y la dirección del domicilio\nlegal.\n16.4. Los fundamentos de hecho y de derecho en los que se basa la solicitud del titular que,\nexpuestos con claridad y precisión, deberán ceñirse exclusivamente a los aspectos\nsujetos al ámbito de control y vigilancia de la SPDP.\n16.5. Los medios de prueba que se ofrecen para acreditar los hechos alegados.\n16.6. La petición concreta que se formula.\n16.7. La firma del solicitante o, en su caso, de su apoderado especial, procurador judicial o\nrepresentante legal.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "titular",
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0013-R-Art-17",
+      "tipo": "articulo",
+      "numero": "17",
+      "titulo": "",
+      "texto_oficial": "Art. 17.- Cuando la solicitud se refiera a la falta de respuesta de una solicitud para el ejercicio\nde los derechos establecidos en la LOPDP, o para la aplicación de los principios y el\ncumplimiento de las obligaciones aplicables al tratamiento de datos personales (“la solicitud\noriginaria”), además de los requisitos previstos en el artículo precedente, deberá cumplirse lo\nsiguiente:\n17.1. El titular proporcionará una copia de la solicitud originaria junto con los documentos\nque se adjuntaron para acreditar su identidad. De haber actuado por interpuesta\npersona, acompañará los documentos de quien le representó legal o\nconvencionalmente.\n17.2. Si el titular presuntamente afectado fuere un menor de edad, deberá proporcionar la\ndocumentación que acompañó a la solicitud originaria y, particularmente, la que se\nutilizó para acreditar su representación legal. Se exceptúa el caso del mayor de quince\naños que otorgó su consentimiento explícito para el tratamiento de datos personales.\n17.3. Si el presuntamente afectado fuere una persona fallecida, se deberá aportar la\ndocumentación que se acompañó a la solicitud originaria para acreditar la filiación,\nla condición de herederos o, en su caso, la calidad de persona o institución designada\npor el difunto para el ejercicio de sus derechos. Si el presuntamente afectado ya\nfallecido hubiese sido niña, niño, adolescente o persona que la ley tenía como incapaz,\nse deberá aportar el instrumento que acredite la representación legal de quien hubiese\nsido su último representante.\n17.4. Cuando la solicitud originaria hubiese sido remitida por medios electrónicos o\ndigitales, se deberá adjuntar la copia del documento que acredite la fecha del envío,\nya sea el correo electrónico respectivo o ya fuere la copia del formulario web.\n17.5. Cuando la solicitud originaria se hubiese enviado a través de un canal alternativo, no\nespecíficamente habilitado para el ejercicio de los derechos, se acompañará copia del\ndocumento que pruebe o confirme su recepción.\n17.6. Si la solicitud originaria se hubiese referido al ejercicio del derecho de eliminación o\nde oposición en redes sociales u otros servicios de la sociedad de la información\nequivalentes (portales web, de video, foros, blogs, entre otros), se acompañará una\ncopia de los documentos que fueron presentados ante el prestador del servicio que\njustifiquen que los datos publicados por terceros son inadecuados, inexactos, no\npertinentes, no actualizados, excesivos o que han devenido como tales por el\ntranscurso del tiempo, tomando en cuenta los fines para los que se recogieron o\ntrataron, el tiempo transcurrido y la naturaleza e interés público de la información. Se\nacompañarán o adjuntarán, asimismo, los documentos entregados al prestador del\n\nservicio que sustenten la prevalencia de los derechos del titular por sobre el\nmantenimiento de los datos.\n17.7. Si la solicitud originaria se hubiese referido a la desatención del derecho de\neliminación o de oposición de datos publicados en los sitios web del sector público,\nen los términos del artículo 225 CRE, se adjuntará una copia de la información\naportada que acredite que los datos publicados han devenido, por el transcurso del\ntiempo, como inadecuados, inexactos, no pertinentes, no actualizados o excesivos,\nteniendo en cuenta los fines para los que se publicaron, el tiempo transcurrido y la\nnaturaleza e interés público de la información.\nEn ningún caso la solicitud de los titulares guardará relación alguna con las consultas cuya\nabsolución se ha pedido a la SPDP.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "derechos-del-titular.acceso",
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "titular",
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0013-R-Art-18",
+      "tipo": "articulo",
+      "numero": "18",
+      "titulo": "",
+      "texto_oficial": "Art. 18.- La SPDP analizará los hechos puestos a su conocimiento con el objeto de determinar\nsi son o no de su competencia.\nSi los hechos que son materia de la solicitud ya hubiesen sido conocidos anteriormente en\nuna solicitud previa, sustanciada a través del respectivo procedimiento y dentro del cual se\nconfigure la identidad subjetiva, objetiva y de causa, la SPDP ordenará el archivo.\nDe igual manera, la SPDP podrá archivar la solicitud cuando quien la interpusiere no fuese\ncapaz de acreditar un interés legítimo o un derecho subjetivo conculcado.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0013-R-Art-19",
+      "tipo": "articulo",
+      "numero": "19",
+      "titulo": "",
+      "texto_oficial": "Art. 19.- Si la solicitud no reuniere uno o más de los requisitos previstos en el artículo 16, o\nsi estuviere incompleta, fuese vaga o ambigua en alguna de sus partes o expresiones, el\nSuperintendente de Protección de Datos Personales o su delegado ordenará que se la complete o\naclare dentro del término de cinco (5) días, a contar desde la fecha de notificación. Si ello no\nocurriere, o si su ampliación o aclaración fueren insuficientes, se dispondrá su archivo.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "titular",
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion",
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0013-R-Art-20",
+      "tipo": "articulo",
+      "numero": "20",
+      "titulo": "",
+      "texto_oficial": "Art. 20.- La SPDP, de oficio o a petición de parte, abrirá un término de prueba de hasta treinta\n(30) días.\nCAPÍTULO II\nDEL ANÁLISIS Y TERMINACIÓN",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.procedimiento-sancionador"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso",
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0013-R-Art-21",
+      "tipo": "articulo",
+      "numero": "21",
+      "titulo": "",
+      "texto_oficial": "Art. 21.- Dentro de un término no mayor a veinte (20) días, a contar desde el vencimiento\ndel término probatorio, la SPDP emitirá un informe que contendrá:\n21.1. La recomendación de inicio o no del procedimiento administrativo sancionador; y/o,\n21.2. La recomendación de medidas correctivas a implementar, de ser el caso.\nCAPÍTULO III\nRESPECTO DEL PROCEDIMIENTO ADMINISTRATIVO SANCIONADOR",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.procedimiento-sancionador"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0013-R-Art-22",
+      "tipo": "articulo",
+      "numero": "22",
+      "titulo": "",
+      "texto_oficial": "Art. 22.- El procedimiento administrativo sancionador se regirá por lo dispuesto en el Título\nI, Libro III del COA en todo lo que no se oponga con lo establecido en la LOPDP, el RGLOPDP,\nen las regulaciones expedidas por la SPDP y demás normativa aplicable.\nCAPÍTULO IV\nDE LAS MEDIDAS CORRECTIVAS",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.procedimiento-sancionador"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0013-R-Art-23",
+      "tipo": "articulo",
+      "numero": "23",
+      "titulo": "",
+      "texto_oficial": "Art. 23.- Si en el informe realizado como resultado de la solicitud, se recomienda la\nimplementación de medidas correctivas de conformidad con lo previsto en los artículos 65 y 66\nLOPDP, tales medidas serán debidamente establecidas de acuerdo con los fundamentos de hecho\ny derecho proporcionados para el efecto.\nLa implementación de las medidas correctivas recomendadas se regirá por lo dispuesto en el\nTítulo III, Libro II del COA, en todo lo que no se oponga con lo establecido en la LOPDP, el\nRGLOPDP, en las regulaciones expedidas por la SPDP y demás normativa aplicable.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.poderes",
+        "autoridad-de-control.sanciones"
+      ],
+      "roles": [
+        "autoridad-control",
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso",
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0013-R-DispGen-PRIMERA",
+      "tipo": "disposicion",
+      "numero": "PRIMERA",
+      "titulo": "Disposición General PRIMERA",
+      "texto_oficial": "Primera.- Para los aspectos no contemplados en este reglamento se aplicarán\nsupletoriamente, en todo lo que no se le opongan, las disposiciones de la LOPDP, el RGLOPDP,\nel COA, las regulaciones expedidas por la SPDP y demás normativa aplicable.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "ambito-de-aplicacion.ambito-material"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0013-R-DispGen-SEGUNDA",
+      "tipo": "disposicion",
+      "numero": "SEGUNDA",
+      "titulo": "Disposición General SEGUNDA",
+      "texto_oficial": "Segunda.- La notificación de todas las diligencias reguladas en este reglamento se realizarán\nde conformidad con lo previsto en el Título I, Libro II del COA.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "obligaciones-responsable.transparencia-informacion"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0013-R-DispGen-TERCERA",
+      "tipo": "disposicion",
+      "numero": "TERCERA",
+      "titulo": "Disposición General TERCERA",
+      "texto_oficial": "Tercera.- Las notificaciones estarán a cargo de la Intendencia de Control y Sanción y se\ndejará constancia en el expediente del lugar, el día, la hora, la forma en que fue realizada la\nnotificación y la identificación del funcionario respectivo.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0013-R-DispGen-CUARTA",
+      "tipo": "disposicion",
+      "numero": "CUARTA",
+      "titulo": "Disposición General CUARTA",
+      "texto_oficial": "Cuarta.- El ente sustanciador, en sus respectivas etapas de atención, será el responsable de\nmantener foliado el expediente y ordenar, cronológicamente, los documentos en función de su\nrecepción.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0013-R-DispGen-QUINTA",
+      "tipo": "disposicion",
+      "numero": "QUINTA",
+      "titulo": "Disposición General QUINTA",
+      "texto_oficial": "Quinta.- No podrán introducirse enmendaduras, alteraciones ni agregados en los documentos\nuna vez que se los haya incorporado al expediente.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0013-R-DispGen-SEXTA",
+      "tipo": "disposicion",
+      "numero": "SEXTA",
+      "titulo": "Disposición General SEXTA",
+      "texto_oficial": "Sexta.- En cuanto a la ampliación de los términos y los plazos, así como en lo relacionado\ncon la suspensión del cómputo de los términos y los plazos en el procedimiento, se tendrá en\ncuenta lo previsto en los artículos 161 y 162 COA.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0013-R-DispGen-SÉPTIMA",
+      "tipo": "disposicion",
+      "numero": "SÉPTIMA",
+      "titulo": "Disposición General SÉPTIMA",
+      "texto_oficial": "Séptima.- Los términos establecidos en el presente reglamento correrán a partir del día\nsiguiente a la fecha de recepción o notificación respectiva.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0013-R-DispTrans-ÚNICA",
+      "tipo": "disposicion",
+      "numero": "ÚNICA",
+      "titulo": "Disposición Transitoria ÚNICA",
+      "texto_oficial": "La SPDP, en un plazo de seis (6) meses, habilitará en su página web un apartado para la\nrecepción de solicitudes y denuncias en línea, sin perjuicio de lo cual se las recibirá, de manera\npresencial, en las oficinas donde funcione la entidad.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0013-R-DispFinal-PRIMERA",
+      "tipo": "disposicion",
+      "numero": "PRIMERA",
+      "titulo": "Disposición Final PRIMERA",
+      "texto_oficial": "Primera.- De la ejecución de esta resolución encárguese a la Intendencia General de Control\ny Sanción en el ámbito de sus competencias.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0013-R-DispFinal-SEGUNDA",
+      "tipo": "disposicion",
+      "numero": "SEGUNDA",
+      "titulo": "Disposición Final SEGUNDA",
+      "texto_oficial": "Segunda.- Esta resolución entrará en vigencia a partir de su suscripción, sin perjuicio de su\npublicación en el Registro Oficial.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    }
+  ]
+}
