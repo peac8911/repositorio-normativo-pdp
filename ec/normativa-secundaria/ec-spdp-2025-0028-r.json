@@ -1,0 +1,797 @@
+{
+  "meta": {
+    "id": "EC-SPDP-2025-0028-R",
+    "jurisdiccion": "ec",
+    "tipo_fuente": "normativa-secundaria",
+    "nivel_jerarquico": 6,
+    "titulo": "Reglamento del Delegado de Protección de Datos Personales",
+    "numero": "SPDP-SPD-2025-0028-R",
+    "fecha_publicacion": "2025-08-01",
+    "fecha_vigencia": "2025-08-01",
+    "vigente": true,
+    "materia": [
+      "pdp"
+    ],
+    "es_especializada": true,
+    "url_oficial": "https://www.superintendenciadedatos.gob.ec/",
+    "preambulo": "CONSIDERANDO:\nQue el numeral 19 del artículo 66 de la Constitución de la República del Ecuador (“CRE”) les\nreconoce y garantiza a las personas el derecho “a la protección de datos de carácter personal, que\nincluye el acceso y la decisión sobre información y datos de este carácter, así como su\ncorrespondiente protección. La recolección, archivo, procesamiento, distribución o difusión de estos\ndatos o información requerirán la autorización del titular o el mandato de la ley”;\nQue el artículo 213 CRE establece que “[l]as superintendencias son organismos técnicos de\nvigilancia, auditoría, intervención y control de las actividades económicas, sociales y ambientales,\ny de los servicios que prestan las entidades públicas y privadas, con el propósito de que estas\nactividades y servicios se sujeten al ordenamiento jurídico y atiendan al interés general (…)”; que\nforman parte de la Función de Transparencia y Control Social; y que, conforme lo dispone el artículo\n204 idem, detentan “personalidad jurídica y autonomía administrativa, financiera, presupuestaria\ny organizativa (…)”;\nQue a través de la LOPDP se creó la Superintendencia de Protección de Datos Personales\n(“SPDP”) como un órgano de control, con potestad sancionatoria, de administración desconcentrada,\ncon personalidad jurídica y autonomía administrativa, técnica, operativa y financiera, cuyo máximo\ntitular es, de acuerdo con el inciso primero del artículo 76 ídem, el Superintendente de Protección de\nDatos Personales;\nQue el artículo 76 de la LOPDP establece que “[l]a Autoridad de Protección de Datos Personales\nes el órgano de control y vigilancia encargado de garantizar a todos los ciudadanos la protección\nde sus datos personales, y de realizar todas las acciones necesarias para que se respeten los\nprincipios, derechos, garantías y procedimientos previstos en la [Ley Orgánica de Protección de\nDatos Personales]”;\nQue el numeral 5 de ese mismo artículo 76 de la LOPDP le confiere a la SPDP funciones,\natribuciones y facultades para “[e]mitir normativa general o técnica, criterios y demás actos que\nsean necesarios para el ejercicio de sus competencias y la garantía del ejercicio del derecho a la\nprotección de datos personales”;\nQue la duodécima definición del artículo 4 de la LOPDP describe al delegado de protección de\ndatos personales como la “[p]ersona natural encargada de informar al responsable o al encargado\ndel tratamiento sobre sus obligaciones legales en materia de protección de datos, así como de velar\no supervisar el cumplimiento normativo al respecto, y de cooperar con la Autoridad de Protección\nde Datos Personales, sirviendo como punto de contacto entre esta y la entidad responsable del\ntratamiento de datos”;\nQue el primer párrafo del artículo 48 del Reglamento General de la Ley Orgánica de Protección\nde Datos Personales (“RGLOPDP”) complementa la definición legal antedicha, en el sentido de\nseñalar que el delegado de protección de datos personales “se encarga principalmente de asesorar,\nvelar y supervisar, de manera independiente, el cumplimiento de las obligaciones legales imputables\nal responsable y al encargado del tratamiento de datos personales”;\nQue el último párrafo del artículo 48 del RGLOPDP le otorga a la SPDP atribuciones para “emitir\nla normativa que garantice la independencia del delegado de protección de datos personales en el\ndesempeño de sus funciones en relación con el responsable y encargado”;\nQue el artículo 49 de la LOPDP establece cuáles son las principales funciones que debe cumplir\nel delegado de protección de datos personales, sin perjuicio de las demás que llegare a establecer la\nSPDP “con ocasión de las categorías especiales de datos personales”, tal cual lo señala el numeral\n5 del aquí citado artículo;\nR \nQue el último párrafo del artículo 48 de la LOPDP le atribuye a la SPDP facultades para “definir\nnuevas condiciones en las que deba designarse un delegado de protección de datos personales”,\npara lo cual podrá emitir “las directrices suficientes para su designación”;\nQue el artículo 50 del RGLOPDP prevé que “[l]os grupos empresariales podrán designar a un\núnico delegado de protección de datos personales, en la medida en que pueda ejecutar sus\nactividades y sin que esto genere conflicto de intereses”;\nQue el artículo 51 del RGLOPDP, de manera categórica, les obliga al responsable y al encargado\ndel tratamiento de datos personales a “respetar el trabajo que ejecute el delegado de protección de\ndatos personales”, de tal manera que les queda prohibido aplicarle “sanciones por el hecho de\ndesempeñar y cumplir sus funciones”;\nQue el citado artículo 51 del RGLOPDP prevé que ¾de ser sancionado o removido el delegado\npor el hecho de haber ejecutado sus funciones¾ se “podrá poner este hecho en conocimiento de la\nAutoridad de Protección de Datos Personales, que valorará las circunstancias en las que se produjo\nla desvinculación o sanción y validará las sanciones que correspondan, sin perjuicio de las acciones\nlegales o judiciales a que hubiere a lugar por parte del delegado perjudicado”;\nQue el último párrafo del invocado artículo 51 del RGLOPDP obliga a la SPDP a establecer “el\nprocedimiento de denuncia y las sanciones correspondientes para los casos de remoción o sanción\ninjustificadas del delegado de protección de datos”;\nQue, sin perjuicio de los requisitos que específicamente pudiere establecer la SPDP, el artículo\n55 del RGLOPDP determina cuáles son aquellos de índole general que deben reunirse para poder\ndesempeñar la función de delegado de protección de datos personales, a saber: (a) Hallarse en goce\nde los derechos políticos; (b) Acreditar mayoría de edad; (c) Detentar un título de tercer nivel en\nderecho, sistemas de información, de comunicación o de tecnologías; y, (d) Acreditar experiencia\nprofesional de no menos de cinco años;\nQue a través de la resolución Nº SPDP-SPD-2025-0004-R, publicada en el Registro Oficial Nº\n42 del 20 de mayo del 2025, se aprobó el Reglamento del Programa Profesionalizante de Delegados\nde Protección de Datos Personales;\nQue el artículo 135 del Código Orgánico Administrativo (“COA”) determina que “(…) Le\ncorresponde a la Administración Pública, la dirección del procedimiento administrativo en ejercicio\nde las competencias que se le atribuyan en el ordenamiento jurídico y en este Código (…)”;\nQue mediante resolución N° SPDP-SPDP-2024-0001-R del 2 de agosto del 2024, publicada en\nel Tercer Suplemento del Registro Oficial N° 624 del 19 de agosto del 2024, el Superintendente de\nProtección de Datos Personales aprobó el Estatuto Orgánico de Gestión Organizacional por Procesos\nde Arranque de la Superintendencia de Protección de Datos Personales;\nQue la letra b), numeral 2 del artículo 10 de la resolución N° SPDP-SPDP-2024-0001-R establece\nque a la Intendencia General de Regulación de Protección de Datos Personales (“IRD”) le\ncorresponde, entre otras atribuciones y responsabilidades, “[d]irigir y proponer la elaboración de\nlas propuestas o proyectos normativos para crear, reformar o derogar los actos normativos, sean\nestos políticas, directrices, reglamentos, resoluciones, lineamientos, normas técnicas, oficios\ncirculares, etcétera, necesarios para el ejercicio de todas las competencias y atribuciones propias\nde la Superintendencia de Protección de Datos Personales, con los previos informes técnicos de las\nunidades administrativas sustantivas y adjetivas relacionadas con el ámbito de aplicación de tales\nnormas; así como, todos aquellos actos normativos relacionados con el ejercicio, tutela y\nprocedimientos administrativos de gestión que garanticen a las personas naturales la plena vigencia\nde sus derechos y deberes previstos en dicha ley y su reglamento (…)”;\nQue la letra c), numeral 2 del artículo 10 de la resolución N° SPDP-SPDP-2024-0001-R,\nestablece, entre las atribuciones y responsabilidades de la IRD, la de “[d]irigir y proponer la\npresentación al Superintendente de Protección de Datos Personales de las propuestas de normas,\nR \nreglamentos, directrices, resoluciones, normas técnicas, oficios circulares, etcétera, vinculados con\nla regulación de protección de datos personales, para su expedición (…)”;\nQue a través de la letra a) del artículo 4 de la resolución N° SPDP-SPD-2025-0001-R del 31 de\nenero del 2025, publicada en el Registro Oficial N° 750 del 24 de febrero del 2025, mediante la cual\nse expidieron las disposiciones, delegaciones de facultades y atribuciones a las autoridades,\nfuncionarios y servidores públicos de la SPDP, se le delegó al Intendente General Regulación de\nProtección de Datos Personales, entre otras, la responsabilidad de “[e]mitir normativa general o\ntécnica, criterios y demás actos que sean necesarios para el ejercicio de sus competencias y la\ngarantía del ejercicio del derecho a la protección de datos personales (…)”;\nQue la disposición transitoria del Reglamento para la Elaboración y Aprobación del Plan\nRegulatorio Institucional de la SPDP ¾expedido mediante resolución Nº SPDP-SPDP-2024-0018-\nR del 30 de octubre del 2024, publicada en el Segundo Suplemento del Registro Oficial Nº 679 del\n8 de noviembre del 2024¾ establece que “(…) el PRI correspondiente a los años fiscales 2024 y\n2025 no seguirá el procedimiento establecido en este reglamento y, por ende, se elaborará\núnicamente a base de los informes técnicos emitidos por las Unidades Administrativas\ncorrespondientes; validados por la [IRD]; aprobados por el Superintendente o su delegado; y,\nfinalmente, publicado en los portales oficiales de la SPDP cuando estén habilitados”;\nQue mediante la resolución N° SPDP-SPD-2025-0002-R del 3 de febrero del 2025 se aprobó el\nPlan Regulatorio Institucional del año 2025, dentro del cual se ha establecido la necesidad de expedir\nla normativa para regular el ejercicio de la actividad del delegado de protección de datos, a fin de\ngarantizar su independencia en cumplimiento de la LOPDP y el RGLOPDP;\nQue la IRD, a través del mediante informe técnico Nº INF-SPDP-IRD-2025-0020 del 29 de abril\ndel 2025, justificó la pertinencia y la necesidad de determinar los lineamientos y criterios\nrelacionados con la forma de designación, registro de nombramientos, designaciones obligatorias,\nfunciones adicionales, independencia y cualificación del delegado de protección de datos personales,\npara así cumplir la LOPDP y el RGLOPDP; informe técnico que, en su parte pertinente, expuso que\n“(…) La SPDP en ejercicio de sus funciones y atribuciones está facultada de conformidad con el\nnumeral 5 del artículo 76 de la LOPDP para emitir el Estatuto de Delegados de Protección de Datos\nPersonales”, para lo cual recomendó “(…) iniciar con el proceso de socialización del proyecto de\nEstatuto de Delegados de Protección de Datos Personales, en cumplimiento con lo dispuesto por la\nResolución N° SPDP-SPDP-2024-0022-R para que en el término de veinte (20) días la ciudadanía\npueda realizar sus aportes (…)”;\nQue por medio del memorando N° SPDP-IRD-2025-0067-M, suscrito el 29 de abril del 2025,\nla IRD puso en conocimiento de la Dirección de Asesoría Jurídica (“DAJ”) tanto el proyecto\nnormativo denominado Estatuto de Delegados de Protección de Datos Personales, como el\ninforme técnico N° INF-SPDP-IRD-2025-0020, para que, dentro del término de diez días, se\npronuncie sobre la concordancia con la normativa y la legalidad, de conformidad con lo dispuesto\nen la resolución N° SPDP-SPDP-2024-0022-R del 31 de diciembre del 2024, que contiene el\nReglamento para la Creación, Modificación y Derogatoria de la Normativa de la Superintendencia\nde Protección de Datos Personales, publicado en el Registro Oficial N° 734 del 31 de enero del 2025;\nQue mediante memorando N° SPDP-DAJ-2025-0039-M suscrito el 29 de abril del 2025, la DAJ\ndeterminó que el Estatuto de Delegados de Protección de Datos Personales es congruente con los\nprincipios establecidos en la LOPDP, por cuanto no transgrede o contradice normas matrices, cumple\ncon el principio de legalidad y, por ello, recomienda que “(…) [l]a IRD debe solicitar a quien\ncorresponda la publicación a través de la página web institucional e informar su publicación a\ntravés de las redes sociales institucionales, con la finalidad de que la ciudadanía, las organizaciones\nde la sociedad civil o interesados en general, de manera motivada, puedan remitir sus observaciones\no realizar aportes respecto del contenido (…)”;\nR \nQue, a través de ese mismo memorando N° SPDP-DAJ-2025-0039-M, la DAJ puso en\nconocimiento de la IRD el informe jurídico Nº INF-SPDP-DAJ-2025-0009, así como la validación\nlegal del proyecto de resolución que expide el Estatuto de Delegados de Protección de Datos\nPersonales;\nQue a través del memorando N° SPDP-IRD-2025-0071-M suscrito el 30 de abril del 2025, la\nIRD solicitó a las unidades administrativas de la SPDP que procedan con las acciones pertinentes, a\nfin de que publiquen el borrador del Estatuto de Delegados de Protección de Datos Personales en\nla página web institucional y en las redes sociales de la SPDP, para que el proyecto de normativa\nesté disponible para la ciudadanía, las organizaciones de la sociedad civil o los interesados en general\ndesde el 30 de abril al 30 de mayo del 2025, con el objeto de poder recibir sus observaciones o\naportes, siempre que estuvieren debidamente motivados;\nQue, para cumplir con la resolución Nº SPDP-SPDP-2024-0022-R, se ejecutó el proceso de\nsocialización Estatuto de Delegados de Protección de Datos Personales, dentro del término de\nveinte días, de conformidad con el artículo 12 de dicha resolución; y, como resultado de ese proceso,\nse redefinió la denominación del proyecto como Reglamento del Delegado de Protección de Datos\nPersonales;\nQue a través del informe técnico Nº INF-SPDP-IRD-2025-0047, la IRD incorporó las\nobservaciones y aportes que se consideraron relevantes y adecuados, previa justificación de las\nmodificaciones realizadas al proyecto normativo;\nQue mediante memorando Nº SPDP-IRD-2025-0133-M del 25 de julio del 2025, la IRD remitió\ntodo el expediente al suscrito Superintendente de Protección de Datos Personales para que realice las\nobservaciones correspondientes o, en su caso, para que lo apruebe;\nQue mediante memorando N° SPDP-SPD-2025-0100-M del 29 de julio de 2025, el suscrito\nSuperintendente de Protección de Datos Personales comunicó a la IRD las observaciones que realizó\nal Reglamento del Delegado de Protección de Datos Personales; y, además, solicitó que aquellas\nsean revisadas de conformidad con el artículo 14 del Reglamento para la Creación, Modificación y\nderogatoria de la Normativa de la Superintendencia de Protección de Datos Personales;\nQue mediante memorando N° SPDP-IRD-2025-0138-M del 29 de julio de 2025, la IRD puso\nen conocimiento del Superintendente de Protección de Datos Personales el Reglamento del\nDelegado de Protección de Datos Personales debidamente subsanado, de conformidad con el\nartículo 14 del aludido Reglamento para la Creación, Modificación y derogatoria de la Normativa de\nla Superintendencia de Protección de Datos Personales;",
+    "anexos": [],
+    "version": "1.0.0"
+  },
+  "unidades": [
+    {
+      "id": "EC-SPDP-2025-0028-R-Art-1",
+      "tipo": "articulo",
+      "numero": "1",
+      "titulo": "",
+      "texto_oficial": "Art. 1.- Este reglamento tiene como objeto regular las actividades de los delegados de protección\nde datos personales (“delegado” o “delegados”) en el ejercicio de funciones, para así cumplir con la\nLOPDP y el RGLOPDP.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "obligaciones-responsable.dpd"
+      ],
+      "roles": [
+        "dpd",
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "definicion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0028-R-Art-2",
+      "tipo": "articulo",
+      "numero": "2",
+      "titulo": "",
+      "texto_oficial": "Art. 2.- Este reglamento es aplicable a los integrantes del sistema de protección de datos\npersonales establecidos en la LOPDP.\nTÍTULO II\nDESIGNACIÓN, NOMBRAMIENTO Y REGISTRO\nCAPÍTULO I\nR \nNOMBRAMIENTO",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "obligaciones-responsable.dpd"
+      ],
+      "roles": [
+        "dpd",
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0028-R-Art-3",
+      "tipo": "articulo",
+      "numero": "3",
+      "titulo": "",
+      "texto_oficial": "Art. 3.- El delegado deberá ser designado por quien tuviere la calidad de responsable o, según\ncorresponda, por quien tuviere el rol de encargado del tratamiento, esto es:\n3.1. Por la persona natural, ya sea por sí misma o ya fuere representada por un apoderado\nespecial;\n3.2. Por la persona jurídica de derecho privado, a través de su representante legal o apoderado\ndebidamente autorizado; o,\n3.3. Por la persona jurídica de derecho público, autoridad pública u otro organismo,\nrepresentada por la máxima autoridad que ejerciere la representación legal.\nEn este reglamento el responsable o el encargado podrán ser también aludidos, de manera\nindistinta, como “organización”.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "obligaciones-responsable.dpd"
+      ],
+      "roles": [
+        "responsable",
+        "encargado",
+        "dpd"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0028-R-Art-4",
+      "tipo": "articulo",
+      "numero": "4",
+      "titulo": "",
+      "texto_oficial": "Art. 4.- El nombramiento del delegado contendrá:\n4.1. La fecha de su otorgamiento;\n4.2. El nombre de la persona natural o persona jurídica de derecho público o privado que\ntuviere la calidad de responsable o de encargado del tratamiento, según corresponda, con\nel número del Registro Único de Contribuyentes (RUC) en caso de tener su domicilio en\nla República del Ecuador. Los responsables, conjuntos o no, y encargados extranjeros que\nrealizaren actividades de tratamiento de datos personales y que no estuvieren\ndomiciliados en el país, deberán hacer constar en el nombramiento el número de\nidentificación fiscal o tributaria, dirección, teléfonos, y correos electrónicos de contacto\nde su matriz u oficina principal en el extranjero;\n4.3. Los nombres completos del representante legal o máxima autoridad que ejerciere la\nrepresentación legal con su número de identificación, en el caso de una persona jurídica\nque lo fuere de derecho público o privado;\n4.4. Los nombres completos de la persona natural que ejercerá las funciones de delegado, con\nel número de identificación respectivo;\n4.5. Una mención de las funciones que cumplirá y de los principios establecidos en la\nnormativa de protección de datos personales;\n4.6. El nombre completo y la firma manuscrita o electrónica válida del representante legal o\nde la máxima autoridad que ejerciere la representación legal o, en su caso, de la persona\nnatural;\n4.7. La aceptación del cargo, que se formalizará mediante la firma manuscrita o electrónica\nválida que el delegado designado deberá rubricar o estampar al pie del nombramiento;\n4.8. La copia del nombramiento del representante legal, del poder o mandato, de la acción de\npersonal, de la resolución, del acuerdo o del decreto ejecutivo que acreditare la personería\nde la máxima autoridad, de la representación legal o del apoderado, según correspondiere;\ny,\n4.9. Los documentos que comprueben la existencia legal de la persona jurídica, ya sea aquella\nde derecho público o ya fuere de derecho privado.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "obligaciones-responsable.dpd"
+      ],
+      "roles": [
+        "responsable",
+        "encargado",
+        "dpd"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0028-R-Art-5",
+      "tipo": "articulo",
+      "numero": "5",
+      "titulo": "",
+      "texto_oficial": "Art. 5.- Si el nombramiento se hubiese formalizado a través del uso firmas electrónicas, el\nresponsable o el encargado deberá inscribir el nombramiento en la SPDP, a través del portal web\ninstitucional, dentro del término de quince (15) días posteriores a la fecha de designación del\ndelegado.\nEn los casos en los que el nombramiento se hubiese formalizado en soporte de papel mediante el\nuso de firmas manuscritas, el responsable o el encargado deberá ser presentarlo de manera presencial.\nR \nLa Intendencia General de Innovación Tecnológica y de Seguridad de Datos Personales será la\nresponsable del proceso de inscripción de los nombramientos de los delegados.\nSe aceptarán los nombramientos de los delegados aun después de fenecido el término señalado\nanteriormente; sin embargo, el registro extemporáneo será considerado como incumplimiento de una\nmedida de seguridad de carácter jurídico.\nLos delegados ejercerán sus funciones a partir de la fecha del otorgamiento de sus\nnombramientos.\nCAPÍTULO II\nREGISTRO DE DELEGADOS",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "obligaciones-responsable.dpd"
+      ],
+      "roles": [
+        "dpd"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0028-R-Art-6",
+      "tipo": "articulo",
+      "numero": "6",
+      "titulo": "",
+      "texto_oficial": "Art. 6.- La SPDP, a través del ámbito de competencias de la Intendencia de General de\nInnovación Tecnológica y Seguridad de Datos Personales, gestionará, supervisará, actualizará y\nmantendrá una lista de delegados que será accesible para las consultas de la ciudadanía a través del\nportal web institucional.\nLa inscripción del delegado no constituye, por sí misma, la verificación o validación automática\nde la idoneidad para el ejercicio del cargo. La verificación del cumplimiento de los requisitos\nestablecidos en este reglamento será realizada por la SPDP en el marco de sus facultades de control\ny supervisión, ya sea manera previa o ya fuere en cualquier momento posterior a la inscripción, según\nel procedimiento que se estableciere para el efecto.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "obligaciones-responsable.dpd",
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control",
+        "dpd"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0028-R-Art-7",
+      "tipo": "articulo",
+      "numero": "7",
+      "titulo": "",
+      "texto_oficial": "Art. 7.- Únicamente será accesible, a través del portal web institucional de la SPDP, la siguiente\ninformación:\n7.1. Nombre del responsable o del encargado del tratamiento;\n7.2. Dirección comercial, laboral o profesional del responsable o del encargado del\ntratamiento;\n7.3. Correo electrónico comercial, laboral o profesional del delegado de protección de datos\npersonales; y,\n7.4. Dirección comercial, laboral o profesional del delegado de protección de datos\npersonales.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "obligaciones-responsable.dpd"
+      ],
+      "roles": [
+        "autoridad-control",
+        "dpd"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0028-R-Art-8",
+      "tipo": "articulo",
+      "numero": "8",
+      "titulo": "",
+      "texto_oficial": "Art. 8.- En el caso de los responsables, conjuntos o no, y de los encargados extranjeros que\nrealizaren actividades de tratamiento de datos personales y que no tuvieren su domicilio en la\nRepública del Ecuador, adicionalmente, se mostrará la siguiente información:\n8.1. Nombre completo del apoderado especial; y,\n8.2. Correo electrónico comercial, laboral o profesional del apoderado especial.\nTÍTULO III\nDESIGNACIONES FORZOSAS\nCAPÍTULO I\nSECTOR PÚBLICO",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "obligaciones-responsable.dpd"
+      ],
+      "roles": [
+        "responsable",
+        "encargado",
+        "dpd"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0028-R-Art-9",
+      "tipo": "articulo",
+      "numero": "9",
+      "titulo": "",
+      "texto_oficial": "Art. 9.- Cuando el responsable o el encargado del tratamiento perteneciere al sector público, en\nlos términos del artículo 225 de la CRE, estará obligado a designar un delegado de protección de\ndatos de conformidad con los requisitos establecidos en la normativa vigente.\nLa SPDP, mediante resolución administrativa debidamente motivada, podrá determinar, calificar\ny autorizar cuáles son los casos en los que los organismos, entidades y dependencias del sector\npúblico podrán aplicar un régimen distinto para la designación del delegado y la forma de ejercer de\nsus funciones; ello de conformidad con la estructura administrativa establecida en la Constitución de\nla República del Ecuador o por atribuciones conferidas por una norma con rango de ley, con el\nR \nobjetivo de garantizar el cumplimiento de la LOPDP, el RGLOPDP y demás normativa vigente en\nla materia.\nEn ningún caso se podrá sacrificar la garantía a los derechos y la protección de los datos\npersonales de los titulares por la falta de designación del delegado de protección de datos personales.\nCAPÍTULO II\nCASOS ESPECIALES DE DESIGNACIÓN OBLIGATORIA",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "obligaciones-responsable.dpd"
+      ],
+      "roles": [
+        "responsable",
+        "encargado",
+        "dpd"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0028-R-Art-10",
+      "tipo": "articulo",
+      "numero": "10",
+      "titulo": "",
+      "texto_oficial": "Art. 10.- Además de lo establecido en la LOPDP y el RGLOPDP, estarán obligados a designar\ndelegados los responsables o los encargados del tratamiento que tuvieren por objeto o que se\ndedicaren, de forma habitual, a las siguientes actividades aun cuando no persiguieren fin de lucro:\n10.1. Las instituciones de educación inicial, educación general básica, bachillerato,\nrelacionadas con el sostenimiento público, fiscomisional y particular, con modalidad\npresencial, semi presencial y/o a distancia, o cualquier otra institución que trate datos\nde menores de edad aunque no lo hiciere dentro del ámbito educativo;\n10.2. Las instituciones de educación superior de naturaleza privada o pública, por las\ndiferentes categorías especiales de datos personales que tuvieren que tratar para la\nejecución de sus actividades académicas y/o administrativas;\n10.3. Toda actividad que conllevare el tratamiento datos personales de categorías especiales\nrelacionadas con menores de edad;\n10.4. Las personas jurídicas que realizaren actividades financieras y que, por cualquier\nmotivo, tuvieren acceso o trataren directa o indirectamente datos personales;\n10.5. Las personas jurídicas que realizaren operaciones de seguros, compañías o\nintermediarios de reaseguros, así como los asesores productores de seguros, corredores,\nagentes y prestadores del sector asegurador;\n10.6. Las personas jurídicas que realizaren actividades de publicidad, prospección comercial\no investigación de mercados y, que para tales fines, llevaren a cabo tratamientos de datos\npersonales basados en las preferencias, intereses o comportamientos de los titulares, o\nque implicaren la elaboración de perfiles;\n10.7. Los actores del sistema de salud legalmente obligados al mantenimiento de las historias\nclínicas de los pacientes, a excepción de los profesionales de la salud que ejercieren su\nprofesión de manera particular;\n10.8. Los establecimientos del sector farmacéutico que ejecutaren actividades de producción,\ndistribución y comercialización de productos farmacéuticos, así como los laboratorios,\nlas casas de representación de medicamentos, las de distribuidoras farmacéuticas y las\nfarmacias;\n10.9. Las personas jurídicas de seguridad privada, así como las personas jurídicas de derecho\nprivado o fideicomisos que administraren urbanizaciones o conjuntos residenciales\nprivados o propiedades horizontales, por el tratamiento de datos personales para el\ncontrol de accesos;\n10.10. Las federaciones o asociaciones deportivas profesionales, sociedades anónimas\ndeportivas, clubes profesionales o academias deportivas;\n10.11. Los colegios o gremios de profesionales;\n10.12. Las personas jurídicas de derecho privado que prestaren servicios de\ntelecomunicaciones;\nR \n10.13. Las personas jurídicas de derecho privado que ofertaren o prestaren servicios de video\nvigilancia masiva, de geolocalización o de tecnologías de la información, inclusive las\ndedicadas al desarrollo, implementación o despliegue de inteligencia artificial; y,\n10.14. Las personas jurídicas de derecho público o privado que fueren concesionarias de\nservicios públicos, así como las alianzas público-privadas que distribuyeren,\ncomercializaren y/o suministraren servicios públicos.\nTÍTULO IV\nREQUISITOS, IMPEDIMENTOS, FUNCIONES ADICIONALES E INDEPENDENCIA DEL DELEGADO\nCAPÍTULO I\nREQUISITOS, IMPEDIMENTOS Y CONFLICTOS DE INTERÉS",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "obligaciones-responsable.dpd"
+      ],
+      "roles": [
+        "dpd",
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0028-R-Art-11",
+      "tipo": "articulo",
+      "numero": "11",
+      "titulo": "",
+      "texto_oficial": "Art. 11.- El delegado, además de los requisitos establecidos en el RGLOPDP, para desempeñar\nsus funciones deberá cumplir y aprobar, en forma obligatoria, el contenido mínimo de formación del\nPrograma Profesionalizante de Delegados de Protección de Datos oficializado por la SPDP.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "obligaciones-responsable.dpd"
+      ],
+      "roles": [
+        "dpd"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0028-R-Art-12",
+      "tipo": "articulo",
+      "numero": "12",
+      "titulo": "",
+      "texto_oficial": "Art. 12.- Incluso si prestare sus servicios bajo relación de dependencia, el delegado deberá\nmantener total independencia e imparcialidad en el ejercicio de sus funciones. No obstante, los\nresponsables o los encargados del tratamiento podrán contar con el servicio de delegados mediante\nla suscripción de contratos de prestación de servicios técnicos especializados, así como contratar\nservicios de soporte, asesoría, implementación y/o consultoría en materia de protección de datos\npersonales con personas jurídicas de derecho privado domiciliadas en la República del Ecuador.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "obligaciones-responsable.dpd"
+      ],
+      "roles": [
+        "dpd",
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso",
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0028-R-Art-13",
+      "tipo": "articulo",
+      "numero": "13",
+      "titulo": "",
+      "texto_oficial": "Art. 13.- Además de las funciones y atribuciones previstas en la LOPDP, el delegado deberá\nasesorar o supervisar al responsable, al personal del responsable o al encargado del tratamiento, en:\n13.1. El análisis de riesgos, la evaluación de impacto (cuando proceda) y en la adopción de\nlas medidas de seguridad aplicables en las transferencias de datos personales;\n13.2. La atención de las solicitudes presentadas por los titulares para el ejercicio de los\nderechos establecidos en la LOPDP;\n13.3. La gestión de vulneraciones a la seguridad, así como su notificación al titular de los\ndatos, a la SPDP y a la Agencia de Control y Regulación de Telecomunicaciones,\ncuando corresponda;\n13.4. El control de eficacia y eficiencia de las medidas de seguridad de carácter técnico, físico,\nadministrativo, organizativo y jurídico que se hubieren implementado;\n13.5. El cumplimiento de los registros de actividades de tratamiento, de acuerdo con los\nrequisitos previstos en el RGLOPDP, sin perjuicio de los demás que llegare a establecer\nla SPDP; y,\n13.6. El cumplimiento de la normativa en protección de datos personales en los tratamientos\nde protección de datos personales que se realizaren.\nEl delegado no tendrá responsabilidad por las decisiones finales ejecutadas por parte del\nresponsable o el encargado del tratamiento, siempre que fuere capaz de demostrar que actuó de forma\ndiligente en el cumplimiento de la normativa de protección de datos personales; en caso contrario,\nresponderá administrativa, civil y penalmente, en los términos del último párrafo del artículo 49 de\nla LOPDP.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "obligaciones-responsable.dpd"
+      ],
+      "roles": [
+        "dpd",
+        "responsable",
+        "encargado",
+        "titular"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0028-R-Art-14",
+      "tipo": "articulo",
+      "numero": "14",
+      "titulo": "",
+      "texto_oficial": "Art. 14.- El delegado se limitará a supervisar al responsable, al personal del responsable o al\nencargado del tratamiento para que ejecuten, de manera correcta, el procedimiento de atención de las\nsolicitudes para el ejercicio de derechos que fueren presentadas por los titulares respecto de sus datos\npersonales, de conformidad con lo establecido en la normativa vigente.\nR",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "obligaciones-responsable.dpd"
+      ],
+      "roles": [
+        "dpd"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0028-R-Art-15",
+      "tipo": "articulo",
+      "numero": "15",
+      "titulo": "",
+      "texto_oficial": "Art. 15.- El delegado tiene prohibido cumplir las obligaciones o ejercer las funciones que\ncorresponden exclusivamente al responsable, al personal del responsable o al encargado del\ntratamiento, ni aquellas que pudieren comprometer su independencia e imparcialidad.\nPor consiguiente, tiene impedimento para:\n15.1. Implementar en la organización, de forma directa, la LOPDP, el RGLOPDP y demás\nnormativa relacionada con la materia, puesto que dicha obligación corresponde al\nresponsable, al personal del responsable o al encargado del tratamiento;\n15.2. Ejecutar, de manera directa, la gestión de riesgos o las evaluaciones de impacto en\nmateria de protección de datos, ya que aquellas son responsabilidades del responsable\no del encargado del tratamiento, sin embargo de lo cual el delegado podrá emitir\nobservaciones u orientaciones no vinculantes sobre dichas evaluaciones;\n15.3. Tomar decisiones sobre la finalidad del tratamiento de datos personales, o en relación a\nlos medios para realizarlo;\n15.4. Representar a la organización ante la SPDP en calidad de responsable o de encargado\ndel tratamiento, considerando que tales roles son inseparables de quienes legalmente los\ndetentan y, por ende, que no pueden ser objeto de ningún tipo de delegación, ya fuere\nde carácter administrativo o de cualquier otra índole;\n15.5. Ejercer, simultáneamente, funciones tales como la de oficial de seguridad de la\ninformación, oficial de cumplimiento, implementador u otros cargos que pudieren\ngenerarle conflictos de interés con su función supervisora y de asesoramiento\nindependiente; y,\n15.6. Desempeñar cualquier otra función que, por su naturaleza, pudiere originarle conflictos\nde interés o que fuere capaz de comprometer su independencia, autonomía,\nimparcialidad u objetividad como delegado.\nEn ningún caso el delegado podrá recibir instrucciones del responsable, del personal del\nresponsable o del encargado respecto al ejercicio de sus funciones, ni sufrir represalias por su\nactuación técnica y autónoma.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "obligaciones-responsable.dpd"
+      ],
+      "roles": [
+        "dpd"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "prohibicion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0028-R-Art-16",
+      "tipo": "articulo",
+      "numero": "16",
+      "titulo": "",
+      "texto_oficial": "Art. 16.- Además de los impedimentos establecidos en el RGLOPDP, no podrán ser nombrados\no designados como delegados:\n16.1. Las mismas personas que estuvieren designadas como oficiales de seguridad de la\ninformación dentro de la organización;\n16.2. Las mismas personas que fueren oficiales de cumplimiento dentro de la organización;\n16.3. Los apoderados especiales de responsables, conjuntos o no, y de encargados extranjeros\nque realizaren actividades de tratamiento de datos personales en la República del\nEcuador; y,\n16.4. Las personas que ejercieren cargos del nivel jerárquico superior en el sector público.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "obligaciones-responsable.dpd"
+      ],
+      "roles": [
+        "dpd"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "prohibicion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0028-R-Art-17",
+      "tipo": "articulo",
+      "numero": "17",
+      "titulo": "",
+      "texto_oficial": "Art. 17.- Todo aquel que fuere designado como delegado deberá, de manera previa a la\naceptación del cargo, declarar o hacer manifiesta cualquier situación que pudiere suscitarle un\nconflicto de intereses real, potencial o aparente, en cuyo caso el responsable o el encargado del\ntratamiento deberá adoptar las correspondientes medidas correctivas, tales como la abstención de\ndesignarle, la reestructuración funcional o la revocatoria del nombramiento, según correspondiere.\nSe seguirá el mismo procedimiento establecido en el párrafo precedente en los casos de conflicto\nde interés sobrevenido, esto es, si las causales que lo configuran aparecieren mientras el delegado se\nencuentra en ejercicio de su cargo.\nR",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "obligaciones-responsable.dpd"
+      ],
+      "roles": [
+        "dpd",
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0028-R-Art-18",
+      "tipo": "articulo",
+      "numero": "18",
+      "titulo": "",
+      "texto_oficial": "Art. 18.- Habrá conflicto de interés si el delegado designado o que estuviere ya en ejercicio del\ncargo:\n18.1. Ejecutare una o varias actividades de tratamiento de datos personales, o si participare\nen el desarrollo de su ejecución de forma ocasional o permanente;\n18.2. Ejerciere acciones de asesoría que, ajenas a sus funciones como delegado, tuvieren por\nobjetivo salvaguardar los intereses de la organización; y,\n18.3. Tomare decisiones sobre la organización, sus actividades o sus gestiones internas.\nCAPÍTULO II\nGARANTÍA DE INDEPENDENCIA Y PROTECCIÓN DEL DELEGADO",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "obligaciones-responsable.dpd"
+      ],
+      "roles": [
+        "dpd",
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "definicion",
+        "prohibicion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0028-R-Art-19",
+      "tipo": "articulo",
+      "numero": "19",
+      "titulo": "",
+      "texto_oficial": "Art. 19.- El delegado denunciará al responsable o al encargado de tratamiento ante la SPDP por\ncualquier hecho o situación que, en relacionados con el ejercicio de sus funciones, menoscabare su\nindependencia o constituyere una represalia.\nSin embargo, la falta de denuncia por parte del delegado no servirá para probar que el responsable\no el encargado del tratamiento no vulneró o transgredió su independencia.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "obligaciones-responsable.dpd",
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "dpd",
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0028-R-Art-20",
+      "tipo": "articulo",
+      "numero": "20",
+      "titulo": "",
+      "texto_oficial": "Art. 20.- Al presentar su denuncia, el delegado deberá proporcionar, como mínimo, lo siguiente:\n20.1. Sus nombres y apellidos;\n20.2. Su número de identificación;\n20.3. El nombre o la denominación del responsable o del encargado del cual es o ha sido\ndelegado de protección de datos personales;\n20.4. El número que tuviere el responsable o el encargado en el Registro Único de\nContribuyentes (RUC), en caso de tener su domicilio en la República del Ecuador.\nTratándose de responsables, conjuntos o no, y encargados extranjeros que realizaren\nactividades de tratamiento de datos personales y que no estuvieren domiciliados en el\npaís, se deberá hacer constar el número de identificación fiscal o tributaria, dirección,\nteléfonos, y correos electrónicos de contacto de su matriz u oficina principal en el\nextranjero;\n20.5. La dirección del responsable o del encargado del cual es o ha sido delegado de\nprotección de datos personales;\n20.6. La narración de los hechos suscitados;\n20.7. La copia del documento de identidad;\n20.8. La copia de su nombramiento como delegado; y,\n20.9. Los documentos que sustenten o acrediten los hechos denunciados, en caso de haberlos.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "dpd",
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0028-R-Art-21",
+      "tipo": "articulo",
+      "numero": "21",
+      "titulo": "",
+      "texto_oficial": "Art. 21.- La SPDP llevará a cabo el proceso de investigación de los hechos de acuerdo con la\nnormativa correspondiente. En caso determinar que se ha vulnerado la independencia del delegado\no que ha existido alguna represalia por el ejercicio de sus funciones, podrá imponer las sanciones\ncorrespondientes al responsable o al encargado del tratamiento de conformidad con el ordenamiento\njurídico.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.procedimiento-sancionador"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0028-R-Art-22",
+      "tipo": "articulo",
+      "numero": "22",
+      "titulo": "",
+      "texto_oficial": "Art. 22.- Los responsables o los encargados del tratamiento deberán garantizar la independencia\ne imparcialidad en el ejercicio de las funciones del delegado, mediante la implementación de\nmecanismos de control que evalúen, cuando menos, lo siguiente:\n22.1. El contacto directo con el más alto nivel ejecutivo y de decisión de la organización;\n22.2. La disponibilidad de recursos técnicos, financieros y humanos para la ejecución de las\nfunciones establecidas en la normativa de protección de datos personales;\nR \n22.3. Las observaciones y recomendaciones efectuadas en relación a las actividades de\ntratamiento que ejecutare el responsable, el personal del responsable o el encargado del\ntratamiento; y,\n22.4. Los informes que determinen el nivel de cumplimiento de la normativa de protección\nde datos personales del responsable o del encargado del tratamiento.\nLa evaluación tendrá carácter institucional, no jerárquico y deberá realizarse anualmente. En\nningún caso la evaluación se podrá ejecutar por parte del delegado, ni tampoco utilizarse como un\nmecanismo de presión o control contra aquel.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "obligaciones-responsable.dpd"
+      ],
+      "roles": [
+        "responsable",
+        "encargado",
+        "dpd"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0028-R-Art-23",
+      "tipo": "articulo",
+      "numero": "23",
+      "titulo": "",
+      "texto_oficial": "Art. 23.- Si se determinare que, efectivamente, el responsable o el encargado de tratamiento no\nle dieron o no le garantizaron al delegado la independencia necesaria para el cumplimiento de sus\nfunciones, o si, de cualquier forma, fuere removido, cesado, separado, despedido o sancionado\ninjustificadamente, tales conductas serán penalizadas de conformidad con lo previsto en el régimen\nsancionatorio de la LOPDP.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.sanciones"
+      ],
+      "roles": [
+        "responsable",
+        "encargado",
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso",
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0028-R-DispTrans-PRIMERA",
+      "tipo": "disposicion",
+      "numero": "PRIMERA",
+      "titulo": "Disposición Trans PRIMERA",
+      "texto_oficial": "Primera.- Se considerarán como válidos, y serán registrados, los nombramientos de delegados\notorgados o emitidos con anterioridad a la vigencia de este reglamento, siempre y cuando las\ndesignaciones se hubiesen realizado de acuerdo con lo establecido en el artículo 3.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0028-R-DispTrans-SEGUNDA",
+      "tipo": "disposicion",
+      "numero": "SEGUNDA",
+      "titulo": "Disposición Trans SEGUNDA",
+      "texto_oficial": "Segunda.- En el plazo de tres (3) meses contados a partir de la publicación de este reglamento en\nel Registro Oficial, la Intendencia General de Innovación Tecnológica y Seguridad de Datos\nPersonales desarrollará e implementará el aplicativo o sistema que habrá de permitir el registro digital\ndel nombramiento del delegado del sector privado, con el objeto de que los responsables o los\nencargados del tratamiento realicen tal inscripción en los tiempos establecidos en esta resolución.\nLa administración y el control del aplicativo o sistema estará a cargo de la Intendencia General\nde Innovación Tecnológica y Seguridad de Datos Personales, de acuerdo con las funciones,\natribuciones y competencias determinadas en la resolución N° SPDP-SPDP-2024-0001-R.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0028-R-DispTrans-TERCERA",
+      "tipo": "disposicion",
+      "numero": "TERCERA",
+      "titulo": "Disposición Trans TERCERA",
+      "texto_oficial": "Tercera.- Los responsables o los encargados del tratamiento de datos personales del sector\nprivado que, de conformidad con la LOPDP y el RGLOPDP, deban contar con un delegado, deberán\nrealizar la inscripción de sus respectivos delegados para así cumplir lo que se encuentra establecido\nen el artículo 5. Para ello, los responsables o los encargados podrán registrar los nombramientos de\nsus delegados de manera física, electrónica y/o digital ante la SPDP desde el 1 de noviembre y hasta\nel 31 de diciembre del 2025.\nEl incumplimiento del registro por parte de los responsables o los encargados del tratamiento\npertenecientes al sector privado, dentro del plazo señalado, será considerado como una falta de\ncumplimiento de medidas de seguridad de carácter jurídico, de acuerdo con la LOPDP.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0028-R-DispTrans-CUARTA",
+      "tipo": "disposicion",
+      "numero": "CUARTA",
+      "titulo": "Disposición Trans CUARTA",
+      "texto_oficial": "Cuarta.- En el plazo de seis (6) meses contados a partir de la publicación de este reglamento en\nel Registro Oficial, la Intendencia General de Innovación Tecnológica y Seguridad de Datos\nPersonales deberá desarrollar y habilitar la plataforma institucional que permitirá el ejercicio de la\ndefensa de la independencia del delegado. En todo caso, el control del aplicativo o sistema a\ndesarrollarse corresponderá a la Intendencia General de Control y Sanción, de acuerdo con las\nfunciones, atribuciones y competencias determinadas en la resolución N° SPDP-SPDP-2024-0001-\nR.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0028-R-DispTrans-QUINTA",
+      "tipo": "disposicion",
+      "numero": "QUINTA",
+      "titulo": "Disposición Trans QUINTA",
+      "texto_oficial": "Quinta.- Considerando lo previsto en el número 16.4. del artículo 16, las instituciones del sector\npúblico que ¾por cumplir el numeral 1 del artículo 48 de la LODP, así como el oficio circular N°\nSPDP-SPDP-2024-005-OC (del 10 de diciembre del 2024) y la resolución N° SPDP-SDPP-2025-\n0001-R (publicada en el Segundo Suplemento del Registro Oficial del 20 de enero del 2025)¾,\nnombraron como delegados a quienes ejercen un cargo de nivel jerárquico superior, deberán designar\na las personas que cumplan con los requisitos previstos en la normativa en protección de datos\nR \npersonales; ello dentro de un plazo no mayor a dos (2) meses contados a partir de la publicación de\neste reglamento en el Registro Oficial.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0028-R-DispTrans-SEXTA",
+      "tipo": "disposicion",
+      "numero": "SEXTA",
+      "titulo": "Disposición Trans SEXTA",
+      "texto_oficial": "Sexta.- En el plazo de seis (6) meses contados a partir de la publicación de este reglamento en el\nRegistro Oficial, la Intendencia General de Control y Sanción deberá presentarle a la Intendencia\nGeneral de Regulación de Protección de Datos Personales el proyecto de reglamento que contenga\nel procedimiento de queja para los casos de remoción o sanción injustificada del delegado de\nprotección de datos personales, para su revisión, análisis y/o aprobación.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0028-R-DispTrans-SÉPTIMA",
+      "tipo": "disposicion",
+      "numero": "SÉPTIMA",
+      "titulo": "Disposición Trans SÉPTIMA",
+      "texto_oficial": "Séptima.- Lo dispuesto en el artículo 11 entrará en vigencia a partir del 1 de enero de 2029.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0028-R-DispRef-PRIMERA",
+      "tipo": "disposicion",
+      "numero": "PRIMERA",
+      "titulo": "Disposición Ref PRIMERA",
+      "texto_oficial": "Primera.- En la resolución N° SPDP-SPD-2025-0004-R publicada en Registro Oficial N° 42 del\n20 de mayo del 2025, mediante la cual se aprobó el Reglamento del Programa Profesionalizante de\nDelegados de Protección de Datos Personales, agréguense los siguientes artículos a continuación del\nartículo 3:\n“Art. 4.- Las instituciones de educación superior que tuvieren interés en obtener la\naprobación de su programa profesionalizante de delegados de protección de datos personales\npor parte de la SPDP, deberán seguir este procedimiento:\n4.1. Mediante oficio dirigido a la Intendencia General de Regulación de Protección de\nDatos Personales (“IRD”), presentarán lo siguiente:\n4.1.1. La propuesta del programa profesionalizante, que deberá contemplar los\ncontenidos establecidos en el Anexo I;\n4.1.2. El tiempo de duración del programa profesionalizante; y,\n4.1.3. La nómina del claustro de docentes que impartirán el programa\nprofesionalizante, así como sus acreditaciones específicas de conocimientos\nen la materia.\n4.2. Recibida la solicitud, la IRD revisará los parámetros previstos en el Anexo I, en el\ncontexto de la propuesta del programa profesionalizante presentado por la institución\nde educación superior solicitante.\n4.3. Si la IRD constatare que la propuesta del programa profesionalizante presentada no\ncumple con todos los requisitos establecidos en el Anexo I, devolverá la solicitud con\nlos motivos que dieren lugar a las pertinentes observaciones, lo cual será notificado a\nla administrada. Sin embargo, la institución de educación superior podrá presentar\nnuevamente su propuesta de programa profesionalizante, una vez corregidas las\nobservaciones señaladas por la autoridad para que esta realice una nueva revisión.\nArt. 5.- La IRD, en representación de la SPDP y en ejercicio de sus funciones y competencias,\nmediante acto administrativo, una vez cumplidos los requisitos establecidos y previo informe\ntécnico favorable emitido para el efecto,\n5.1. Autorizará la propuesta de programa profesionalizante de delegados de protección de\ndatos personales presentada por la institución de educación, una vez que se hubiere\nacreditado la implementación los contenidos del Anexo I; y,\n5.2. Otorgará, para dicho programa, el reconocimiento institucional oficial de la\nSuperintendencia de Protección de Datos Personales.\nArt. 6.- La SPDP, en cumplimiento de sus funciones, atribuciones y competencias, podrá dejar\nsin efecto de pleno derecho, sin valor jurídico y sin más trámite la resolución mediante la cual se\nhubiese autorizado la propuesta del programa profesionalizante de la institución de educación\nsuperior, si constata y determina, previo informe técnico de la IRD, el incumplimiento de\nR \ncualesquiera de los requisitos previstos en este reglamento y/o en su Anexo I, inclusive si se\nprodujeren cambios, sin previa notificación, en la nómina de docentes.\nArt. 7.- Las instituciones de educación superior cuyos programas profesionalizantes de\ndelegados de protección de datos personales fueren debidamente aprobados, estarán autorizadas\npara promocionar el reconocimiento concedido por la SPDP mediante el uso del logotipo, isotipo\ny/o imagotipo de la institución, así como a través de la mención de su nombre o denominación\noficial (“imagen institucional”), bajo las siguientes condiciones:\n7.1. La autorización antedicha abarca la utilización de la imagen institucional en\npublicaciones, documentos comerciales y comunicaciones en soporte de papel,\nelectrónicas u orales, sin distinción del medio de comunicación empleado;\n7.2. Queda expresamente prohibido utilizar la imagen institucional en cualquier otro\nprograma de índole académico, sin la previa autorización de la SPDP; y,\n7.3. Todo uso de la imagen institucional se ajustará, de manera irrestricta, a los parámetros\nque fueren establecidos en el Manual de Identidad Corporativa de la SPDP”.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0028-R-DispRef-SEGUNDA",
+      "tipo": "disposicion",
+      "numero": "SEGUNDA",
+      "titulo": "Disposición Ref SEGUNDA",
+      "texto_oficial": "Segunda.- En la resolución N° SPDP-SPDP-2024-0001-R, publicada en el Tercer Suplemento\ndel Registro Oficial Nº 624 del 19 de agosto del 2024, a través de la cual se aprobó el Estatuto\nOrgánico de Gestión Organizacional por Procesos de Arranque de la Superintendencia de Protección\nde Datos Personales, en el numeral 2 (Procesos Sustantivos) del artículo 10, específicamente en lo\nque atañe a las atribuciones y responsabilidades de la Intendencia General de Regulación de\nProtección de Datos Personales:\n2.a. Refórmense el literal g) y el literal i), que, en lo venidero, dirán:\n“g. Aprobar los programas de capacitación o profesionalizantes de delegados de\nprotección de datos personales de acuerdo con la normativa en protección de datos\npersonales dictada para el efecto;”.\n“i. Poner en conocimiento del Superintendente de Protección de Datos Personales sobre\nla aprobación de las mallas y sus contenidos, planes, o proyectos de los programas de\ncapacitación o profesionalizantes de delegados de protección de datos personales;”.\n2.b. Agréguese el literal u), que dirá:\n“u. Autorizar y otorgar el reconocimiento institucional a los programas profesionalizantes\nde delegados de protección de datos personales de las instituciones de educación\nsuperior que cumplan con los requisitos que estuvieren establecidos el procedimiento\nque corresponda;”.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0028-R-DispFinal-ÚNICA",
+      "tipo": "disposicion",
+      "numero": "ÚNICA",
+      "titulo": "Disposición Final ÚNICA",
+      "texto_oficial": "Esta resolución entrará en vigencia a partir de su suscripción, sin perjuicio de su publicación en\nel Registro Oficial.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    }
+  ]
+}
