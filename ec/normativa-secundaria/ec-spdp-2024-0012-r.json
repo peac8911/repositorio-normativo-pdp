@@ -1,0 +1,316 @@
+{
+  "meta": {
+    "id": "EC-SPDP-2024-0012-R",
+    "jurisdiccion": "ec",
+    "tipo_fuente": "normativa-secundaria",
+    "nivel_jerarquico": 6,
+    "titulo": "Reglamento que Establece el Procedimiento para la Atención de las Consultas que se le Formulen a la Superintendencia de Protección de Datos Personales",
+    "numero": "SPDP-SPDP-2024-0012-R",
+    "fecha_publicacion": "2024-10-24",
+    "fecha_vigencia": "2024-10-24",
+    "vigente": true,
+    "materia": [
+      "pdp"
+    ],
+    "es_especializada": true,
+    "url_oficial": "https://www.superintendenciadedatos.gob.ec/",
+    "preambulo": "CONSIDERANDO:\nQue el numeral 19 artículo 66 de la Constitución de la República del Ecuador (“CRE”)\ndetermina “Art. 66.- Se reconoce y garantizará a las personas: (…) 19. El derecho a la\nprotección de datos de carácter personal, que incluye el acceso y la decisión sobre información\ny datos de este carácter, así como su correspondiente protección. La recolección, archivo,\nprocesamiento, distribución o difusión de estos datos o información requerirán la autorización\ndel titular o el mandato de la ley. (…)”;\nQue el numeral 23 del artículo 66 CRE reconoce “El derecho a dirigir quejas y peticiones\nindividuales y colectivas a las autoridades y a recibir atención o respuestas motivadas. No se\npodrá dirigir peticiones a nombre del pueblo”;\nQue el numeral 9 del artículo 75 de la Ley Orgánica de Protección de Datos Personales\n(“LOPDP”) señala que es facultad de la Autoridad de Protección de Datos Personales la de\n“[a]tender consultas en materia de protección de datos personales”;\nQue el numeral 5 del artículo 76 LOPDP establece que la Superintendencia de Protección de\nDatos Personales detenta, entre otras funciones, atribuciones y facultades, la de expedir\n“normativa general o técnica, criterios y demás actos que sean necesarios para el ejercicio de\nsus competencias y la garantía del ejercicio del derecho a la protección de datos personales\n(…)”;\nQue el numeral 5 del artículo 83 del Reglamento General de la LOPDP determina que al\nSuperintendente de Protección de Datos Personales le compete “[a]probar y expedir normas\ninternas, resoluciones y manuales que sean necesarios para el buen funcionamiento de la\nAutoridad a su cargo (…)”;\nQue mediante resolución Nº SPDP-SPDP-2024-0001-R, publicada en el Tercer Suplemento\ndel Registro Oficial Nº 624 de 19 de agosto del 2024, el Superintendente de Protección de Datos\nPersonales aprobó el Estatuto Orgánico de Gestión Organizacional por Procesos de Arranque de\nla Superintendencia de Protección de Datos Personales;\nQue mediante el literal a) del artículo 4 de la resolución Nº SPDP-SPDP-2024-0007-R se le\ndelegó al Intendente General de Regulación de Protección de Datos Personales la facultad de\nemitir normativa general o técnica, criterios y demás actos que sean necesarios para el ejercicio\nde sus competencias y la garantía del ejercicio del derecho a la protección de datos personales;",
+    "anexos": [],
+    "version": "1.0.0"
+  },
+  "unidades": [
+    {
+      "id": "EC-SPDP-2024-0012-R-Art-1",
+      "tipo": "articulo",
+      "numero": "1",
+      "titulo": "",
+      "texto_oficial": "Art. 1.- La absolución o contestación de consultas por parte de la Superintendencia de\nProtección de Datos Personales (“SPDP” o “institución”) no constituye más que una opinión\nmeramente referencial sobre la Ley Orgánica de Protección de Datos Personales (“LOPDP”), su\nReglamento General (“RGLOPDP”) y demás regulaciones expedidas por la institución, sobre\ncuya aplicación existiere duda o se requiriese inteligenciar su alcance jurídico.\nEl pronunciamiento de la SPDP tratará, exclusivamente, sobre la aplicación de disposiciones\njurídicas in abstracto.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "definicion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0012-R-Art-2",
+      "tipo": "articulo",
+      "numero": "2",
+      "titulo": "",
+      "texto_oficial": "Art. 2.- El contenido de la absolución de una consulta no es un acto administrativo, ni\ntampoco una decisión administrativa; no es vinculante, ni presta valor o mérito probatorio alguno\na favor o en contra de quien la formule o invoque, ya sea en procesos judiciales o ya fuere en\nprocedimientos administrativos; no sirve para convalidar tratamientos de datos personales ya\nrealizados o para autorizar otros que estuvieren en curso o por realizarse, ni impide que la SPDP\npueda ejercer, respecto del consultante, sus funciones, atribuciones y facultades de supervisión,\ncontrol, evaluación y sanción.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control",
+        "responsable",
+        "titular"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "definicion",
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0012-R-Art-3",
+      "tipo": "articulo",
+      "numero": "3",
+      "titulo": "",
+      "texto_oficial": "Art. 3.- Solamente podrán formularle consultas a la institución:\n3.1. Los titulares de datos personales;\n3.2. Los responsables y encargados del tratamiento de datos personales;\n3.3. Los apoderados especiales debidamente registrados de aquellos responsables,\nconjuntos o no, y encargados extranjeros no domiciliados en el territorio de la\nRepública del Ecuador;\n3.4. Los delegados de protección de datos personales; y,\n3.5. Los terceros, de conformidad con la definición que consta en el número 6 del artículo\n4 del RGLOPDP.\nSi la consulta fuere realizada por interpuesta persona, quien la formule deberá acreditar su\npersonería e intervención a través de la presentación del documento auténtico que le legitime\npara actuar a nombre y en representación del respectivo consultante.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "responsable",
+        "encargado",
+        "titular",
+        "dpd",
+        "tercero",
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0012-R-Art-4",
+      "tipo": "articulo",
+      "numero": "4",
+      "titulo": "",
+      "texto_oficial": "Art. 4.- En el texto de la consulta deberá constar, además de una dirección de correo\nelectrónico para las pertinentes notificaciones, la opinión jurídica que tiene el consultante en\nrelación al tema que es la causa de su específica duda. En consecuencia, deberá señalar cuál es\nla posición que particularmente tiene sobre el tema consultado. Dicha opinión deberá expresarse\nmediante un análisis claro, concreto y debidamente fundamentado.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "responsable",
+        "encargado",
+        "titular",
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0012-R-Art-5",
+      "tipo": "articulo",
+      "numero": "5",
+      "titulo": "",
+      "texto_oficial": "Art. 5.- No se podrán realizar consultas en relación:\n5.1. A datos personales cuyo tratamiento no estuviere dentro del ámbito de aplicación\nmaterial de la LOPDP;\n5.2. A normas vigentes respecto de cuya aplicación o alcance ya existiere absolución\nprevia del Superintendente de Protección de Datos Personales o su delegado;\n5.3. A materias, aspectos o temáticas que, a la fecha de presentación de la consulta:\n5.3.1. Fueren objeto de procesos judiciales pendientes de resolución o que\nhubieren sido ya decididos por una autoridad judicial; o,\n5.3.2. No hayan sido aún materia de regulación específica por parte de la SPDP.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "prohibicion",
+        "excepcion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0012-R-Art-6",
+      "tipo": "articulo",
+      "numero": "6",
+      "titulo": "",
+      "texto_oficial": "Art. 6.- Si la consulta no versare sobre la aplicación de disposiciones jurídicas, o si el análisis\nen que deberá basarse la opinión en ella contenida no se adecuare a los supuestos del artículo 4,\nla institución solicitará, por una sola vez, que el consultante replantee la consulta o, en su caso,\nque reformule su análisis.\nSi la consulta fuere realizada por interpuesta persona y no se hubiese acompañado el\ndocumento auténtico al que alude el inciso final del artículo 3, la SPDP requerirá que se lo\npresente.\nEl replanteo, la reformulación o la legitimación de la personería deberán presentarse o\nacreditarse en el término de cinco (5) días a contar desde la fecha en que la institución así lo\nsolicite y notifique.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control",
+        "responsable",
+        "encargado",
+        "titular"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion",
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0012-R-Art-7",
+      "tipo": "articulo",
+      "numero": "7",
+      "titulo": "",
+      "texto_oficial": "Art. 7.- De forma previa a emitir su contestación, la institución —en caso de estimarlo\nconveniente o necesario— podrá solicitar el criterio jurídico:\n\n7.1. De personas jurídicas de derecho público relacionadas con el tema consultado, aunque\ndistintas del consultante, que tuvieren atribuciones o competencias relacionadas con\nlo que es materia de la consulta; y,\n7.2. De personas jurídicas de derecho privado relacionadas con el tema consultado,\naunque distintas del consultante, que poseyeren conocimientos especializados en lo\nque es materia de la consulta.\nLas personas jurídicas deberán remitir su criterio dentro del término de diez (10) días contado\ndesde la fecha en que se les hubiera solicitado.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.poderes"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0012-R-Art-8",
+      "tipo": "articulo",
+      "numero": "8",
+      "titulo": "",
+      "texto_oficial": "Art. 8.- La SPDP emitirá su absolución en el término de treinta (30) días que se contará a\npartir de la presentación de la consulta o, en su caso, inmediatamente después de que el\nconsultante la hubiere replanteado, reformulado o acreditado su personería.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0012-R-Art-9",
+      "tipo": "articulo",
+      "numero": "9",
+      "titulo": "",
+      "texto_oficial": "Art. 9.- Se procederá al inmediato archivo de la consulta:\n9.1. Si estuviere relacionada con uno o más de los supuestos del artículo 5; y,\n9.2. Si no se hubiese procedido al replanteo, la reformulación o la acreditación de\npersonería dentro del término establecido en el artículo 6.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0012-R-Art-10",
+      "tipo": "articulo",
+      "numero": "10",
+      "titulo": "",
+      "texto_oficial": "Art. 10.- Siempre y cuando los expedientes de absolución de consultas estuvieren completos,\nse los despachará en orden cronológico. Únicamente serán considerados como de atención\nprioritaria, sin considerar la fecha de presentación, aquellos que fueren calificados como tales\npor parte del Superintendente de Protección de Datos Personales o su delegado.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion",
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0012-R-Art-11",
+      "tipo": "articulo",
+      "numero": "11",
+      "titulo": "",
+      "texto_oficial": "Art. 11.- Cuando se hubiese procedido al archivo de una consulta se podrá presentar una\nnueva, siempre que cumpla con todos los requerimientos establecidos en esta resolución.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "responsable",
+        "encargado",
+        "titular"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0012-R-DispFinal-ÚNICA",
+      "tipo": "disposicion",
+      "numero": "ÚNICA",
+      "titulo": "Disposición Final ÚNICA",
+      "texto_oficial": "Esta resolución entrará en vigencia a partir de su suscripción, sin perjuicio de su publicación\nen el Registro Oficial.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    }
+  ]
+}
