@@ -25,7 +25,6 @@ Cada archivo contiene una norma con sus artículos como unidades indexadas.
 Relaciones transversales: concordancias entre jurisdicciones y mapeos sectoriales.
 
 ## Esquema de cada artículo
-
 `json
 {
   "id": "EC-LOPDP-Art-13",
