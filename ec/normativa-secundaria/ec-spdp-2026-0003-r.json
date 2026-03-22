@@ -1,0 +1,210 @@
+{
+  "meta": {
+    "id": "EC-SPDP-2026-0003-R",
+    "jurisdiccion": "ec",
+    "tipo_fuente": "normativa-secundaria",
+    "nivel_jerarquico": 6,
+    "titulo": "Norma General para el Tratamiento de Datos Personales en el Marco de Actividades Familiares o Domésticas",
+    "numero": "SPDP-SPD-2026-0003-R",
+    "fecha_publicacion": "2026-01-01",
+    "fecha_vigencia": "2026-01-01",
+    "vigente": true,
+    "materia": [
+      "pdp"
+    ],
+    "es_especializada": true,
+    "url_oficial": "https://www.superintendenciadedatos.gob.ec/",
+    "preambulo": "CONSIDERANDO:\nQue el numeral 19 del artículo 66 de la Constitución de la República del Ecuador (“CRE”)\nles garantiza y reconoce a las personas “[e]l derecho a la protección de datos de carácter\npersonal, que incluye el acceso y la decisión sobre información y datos de este carácter, así\ncomo su correspondiente protección (...)”;\nQue el artículo 213 de la CRE establece que “[l]as superintendencias son organismos\ntécnicos de vigilancia, auditoría, intervención y control de las actividades económicas, sociales\ny ambientales, y de los servicios que prestan las entidades públicas y privadas, con el propósito\nde que estas actividades y servicios se sujeten al ordenamiento jurídico y atiendan al interés\ngeneral (…)”; que forman parte de la Función de Transparencia y Control Social; y que,\nconforme lo dispone el artículo 204 ídem, detentan “personalidad jurídica y autonomía\nadministrativa, financiera, presupuestaria y organizativa (…)”;\nQue el artículo 76 de la LOPDP establece que “[l]a [Superintendencia de] Protección de\nDatos Personales es el órgano de control y vigilancia encargado de garantizar a todos los\nciudadanos la protección de sus datos personales, y de realizar todas las acciones necesarias\npara que se respeten los principios, derechos, garantías y procedimientos previstos en la [Ley\nOrgánica de Protección de Datos Personales]”;\nQue el numeral 5 de ese mismo artículo 76 de la LOPDP le confiere a la SPDP funciones,\natribuciones y facultades para “[e]mitir normativa general o técnica, criterios y demás actos\nque sean necesarios para el ejercicio de sus competencias y la garantía del ejercicio del derecho\na la protección de datos personales”;\nQue el literal a) del artículo 2 de la LOPDP establece que dicha ley no será aplicable a las\n“[p]ersonas naturales que utilicen estos datos en la realización de actividades familiares o\ndomésticas”;\nQue el numeral 1 del artículo 4 del Reglamento General a la Ley Orgánica de Protección de\nDatos Personales (“RGLOPDP”) define a las actividades familiares o domésticas como “(...)\naquellas en las cuales el tratamiento de los datos personales se dé en un entorno de amistad,\nparentesco o grupo personal cercano, en propiedad privada, y que no tenga como finalidad su\ncomunicación o transferencia con fines comerciales”;\nQue mediante sentencia Nº 2064-14-EP/21, la Corte Constitucional del Ecuador reconoció\nque “(…) el marco de protección de un dato personal es independiente al medio en donde esté\ncontenido aquel; es decir, ya sea que el dato esté materializado, al estar contenido en un medio\nfísico o, inclusive, desmaterializado, como en los casos en los que el dato se encuentre contenido\nen un medio digital, el ámbito de protección debe ser el mismo en estas dos circunstancias (…)”;\nQue el artículo 135 del Código Orgánico Administrativo (“COA”) determina que “[l]e\ncorresponde a la Administración Pública, la dirección del procedimiento administrativo en ejercicio\nde las competencias que se le atribuyan en el ordenamiento jurídico y en este Código (…)”;\nQue mediante resolución N° SPDP-SPDP-2024-0001-R del 2 de agosto del 2024, publicada en\nel Tercer Suplemento del Registro Oficial N° 624 del 19 de agosto del 2024, el Superintendente de\nProtección de Datos Personales aprobó el Estatuto Orgánico de Gestión Organizacional por Procesos\nde Arranque de la Superintendencia de Protección de Datos Personales; resolución que fue reformada\nmediante la N° SPDP-IRD-2025-0028-R, a su vez expedida el 30 de julio del 2025 y publicada en\nel Registro Oficial N° 105 del 19 de agosto del 2025;\nQue el artículo 1 de la misma resolución Nº SPDP-SPDP-2024-0001-R, en su Anexo 1, ha\nprevisto que “[l]a Superintendencia de Protección de Datos Personales se alinea con su misión\n\ny define su Estructura Organizacional sustentada en su base normativa y su direccionamiento\nestratégico institucional, los cuales serán determinados en su Planificación Estratégica\nInstitucional, Modelo de Gestión institucional y Matriz de Competencias (…)”;\nQue la letra b), numeral 2 del artículo 10 de la resolución N° SPDP-SPDP-2024-0001-R,\nestablece que a la Intendencia General de Regulación de Protección de Datos Personales (“IRD”)\nle corresponde, entre otras atribuciones y responsabilidades, “[d]irigir y proponer la\nelaboración de las propuestas o proyectos normativos para crear, reformar o derogar los actos\nnormativos, sean estos políticas, directrices, reglamentos, resoluciones, lineamientos, normas\ntécnicas, oficios circulares, etcétera, necesarios para el ejercicio de todas las competencias y\natribuciones propias de la Superintendencia de Protección de Datos Personales, con los previos\ninformes técnicos de las unidades administrativas sustantivas y adjetivas relacionadas con el\námbito de aplicación de tales normas; así como, todos aquellos actos normativos relacionados\ncon el ejercicio, tutela y procedimientos administrativos de gestión que garanticen a las\npersonas naturales la plena vigencia de sus derechos y deberes previstos en dicha ley y su\nreglamento (…)”;\nQue la letra c), numeral 2 del artículo 10 de la resolución N° SPDP-SPDP-2024-0001-R,\nestablece, entre las atribuciones y responsabilidades de la IRD, la de “[d]irigir y proponer la\npresentación al Superintendente de Protección de Datos Personales de las propuestas de\nnormas, reglamentos, directrices, resoluciones, normas técnicas, oficios circulares, etcétera,\nvinculados con la regulación de protección de datos personales, para su expedición (…)”;\nQue a través de la letra a) del artículo 4 de la resolución N° SPDP-SPD-2025-0001-R del 31 de\nenero del 2025, publicada en el Registro Oficial N° 750 del 24 de febrero del 2025, mediante la cual\nse expidieron las disposiciones, delegaciones de facultades y atribuciones a las autoridades,\nfuncionarios y servidores públicos de la SPDP, se le delegó al Intendente General Regulación de\nProtección de Datos Personales, entre otras, la responsabilidad de “[e]mitir normativa general o\ntécnica, criterios y demás actos que sean necesarios para el ejercicio de sus competencias y la\ngarantía del ejercicio del derecho a la protección de datos personales (…)”;\nQue la disposición transitoria del Reglamento para la Elaboración y Aprobación del Plan\nRegulatorio Institucional de la SPDP —expedido mediante resolución Nº SPDP-SPDP-2024-0018-\nR del 30 de octubre del 2024, publicada en el Segundo Suplemento del Registro Oficial Nº 679 del\n8 de noviembre del 2024— establece que “(…) el PRI correspondiente a los años fiscales 2024 y\n2025 no seguirá el procedimiento establecido en este reglamento y, por ende, se elaborará\núnicamente a base de los informes técnicos emitidos por las Unidades Administrativas\ncorrespondientes; validados por la [IRD]; aprobados por el Superintendente o su delegado; y,\nfinalmente, publicado en los portales oficiales de la SPDP cuando estén habilitados”;\nQue mediante la resolución N° SPDP-SPD-2025-0002-R del 3 de febrero del 2025 se aprobó\nel Plan Regulatorio Institucional del año 2025, dentro del cual se ha establecido la necesidad de\nexpedir la normativa para regular el uso adecuado de datos personales en el ámbito familiar\ny doméstico, a fin de establecer los límites de aquel en el goce de la vida privada y la tutela\nefectiva de los derechos y libertades de los titulares de los datos;\nQue mediante memorando Nº SPDP-ICS-2025-0114-M suscrito el 24 de julio del 2025, la\nIntendencia General de Control y Sanción (“ICS”) puso en conocimiento de la IRD el informe\ntécnico N° SPDP-IGCS-2024-002-I suscrito el 30 de octubre del 2024, en el cual se determina\nla necesidad de expedir la Norma General para el Tratamiento de Datos Personales en\nActividades Familiares o Domésticas;\nQue mediante memorando N° SPDP-IRD-2025-0222-M suscrito el 15 de octubre del 2025,\nla IRD solicitó a la ICS que, en cumplimiento de la resolución N° SPDP-SPD-2025-0002-R por\nla que se aprueba el Plan Regulatorio Institucional del año 2025, remita el proyecto normativo\ndenominado Norma General para el Tratamiento de Datos Personales en Actividades\nFamiliares o Domésticas;\n\nQue la ICS, mediante informe técnico N° INF-SPDP-ICS-2025-0025 suscrito el 24 de julio\ndel 2025, justificó la necesidad de “(…) emitir una normativa que precise los alcances de la\nexclusión prevista en la LOPDP respecto a las actividades de carácter estrictamente personal\no doméstico (…), [así como] delimite (…) cuándo una actividad deja de ser doméstica o personal\npara convertirse en una acción de tratamiento de datos sujeta a la [Ley Orgánica de Protección\nde Datos Personales]”;\nQue mediante memorando N° SPDP-ICS-2025-0183-M suscrito el 30 de octubre del 2025,\nla ICS puso en conocimiento de la IRD el proyecto normativo denominado Norma General\npara el Tratamiento de Datos Personales en Actividades Familiares o Domésticas;\nQue la IRD, mediante informe técnico Nº INF-SPDP-IRD-2025-0099 del 27 de noviembre\ndel 2025, justificó la pertinencia y la necesidad de establecer el alcance, directrices y criterios\npara identificar el tratamiento de datos personales en actividades desarrolladas en el ámbito\nfamiliar o doméstico, en concordancia con lo dispuesto en la Ley Orgánica de Protección de\nDatos Personales y su Reglamento General, por lo que, en su parte pertinente, expuso que: “(…)\n[l]a SPDP en ejercicio de sus funciones y atribuciones está facultada de conformidad con el\nnumeral 5 del artículo 76 de la LOPDP para emitir (...) la Norma General para el Tratamiento\nde Datos Personales en Actividades Familiares o Domésticas (…)”; y, por ende, recomendó\n“(…) iniciar con el proceso de socialización en cumplimiento con lo dispuesto por la Resolución\nN° SPDP-SPDP-2024-0022-R para que en el término de veinte (20) días la ciudadanía pueda\nrealizar sus aportes”;\nQue mediante memorando N° SPDP-IRD-2025-0243-M suscrito el 27 de noviembre del\n2025, la IRD puso en conocimiento de la Dirección de Asesoría Jurídica (“DAJ”) el proyecto\nnormativo denominado Norma General para el Tratamiento de Datos Personales en\nActividades Familiares o Domésticas, así como el informe técnico N° INF-SPDP-IRD-2025-\n0099, para que en el término de diez (10) días se pronuncie sobre la concordancia con la\nnormativa y la legalidad, de conformidad con lo dispuesto en la resolución N° SPDP-SPDP-\n2024-0022-R;\nQue la DAJ, mediante informe técnico N° INF-SPDP-DAJ-2025-0060 suscrito el 27 de\nnoviembre del 2025, en su parte pertinente determinó que la Norma General para el\nTratamiento de Datos Personales en Actividades Familiares o Domésticas es congruente con\nlos principios establecidos en la LOPDP, que no transgrede o contradice normas prescritas y que\nse encuentra alineado con las expectativas y directrices que rigen a la SPDP; por todo lo cual\nrecomendó que “[l]a IRD debe disponer a quien corresponda la publicación a través de la\npágina web institucional, e informar su publicación a través de las redes sociales\ninstitucionales, con la finalidad de que la ciudadanía, las organizaciones de la sociedad civil o\ninteresados en general, de manera motivada, puedan remitir sus observaciones o realizar\naportes respecto del contenido (…)”;\nQue mediante memorando N° SPDP-DAJ-2025-0124-M suscrito el 27 de noviembre del\n2025, la DAJ puso en conocimiento de la IRD el informe técnico N° INF-SPDP-DAJ-2025-\n0060, así como la validación legal del proyecto de normativo denominado Norma General para\nel Tratamiento de Datos Personales en Actividades Familiares o Domésticas;\nQue mediante memorando N° SPDP-IRD-2025-0246-M suscrito el 27 de noviembre del\n2025, la IRD solicitó a las unidades administrativas de la SPDP que procedan con las acciones\npertinentes, a fin de que publiquen el borrador de la Norma General para el Tratamiento de\nDatos Personales en Actividades Familiares o Domésticas en la página web institucional y en\nlas redes sociales de la SPDP, para que el proyecto de normativa esté disponible para la\nciudadanía, las organizaciones de la sociedad civil o interesados desde el 28 de noviembre del\n2025 hasta el 29 de diciembre del 2025, inclusive, con el objeto de poder recibir sus\nobservaciones o aportes, siempre que estuvieren debidamente motivados;\n\nQue, para cumplir con la resolución Nº SPDP-SPDP-2024-0022-R, se ejecutó el proceso de\nsocialización de la Norma General para el Tratamiento de Datos Personales en Actividades\nFamiliares o Domésticas dentro del término de veinte (20) días, de conformidad con el artículo\n12 de la mencionada resolución;\nQue a través del informe técnico Nº INF-SPDP-IRD-2025-0114, suscrito el 31 de diciembre\ndel 2025, la IRD incorporó las observaciones y aportes que se consideraron relevantes y\nadecuados, todo ello con la justificación de las modificaciones realizadas al proyecto normativo;\nQue mediante memorando N° SPDP-IRD-2025-0272-M suscrito el 31 de diciembre del\n2025, la IRD remitió todo el expediente al Superintendente de Protección de Datos Personales\npara que realice las observaciones correspondientes o, en su caso, para que lo apruebe;\nQue mediante memorando N° SPDP-SPD-2026-0004-M del 14 de enero del 2026, el\nsuscrito Superintendente de Protección de Datos Personales comunicó a la IRD las\nobservaciones que realizó al proyecto de Norma General para el Tratamiento de Datos\nPersonales en Actividades Familiares o Domésticas; y, además, solicitó que aquellas sean\nrevisadas de conformidad con el artículo 14 del Reglamento para la Creación, Modificación y\nDerogatoria de la Normativa de la SPDP;\nQue mediante memorando N° SPDP-IRD-2026-0004-M del 22 de enero del 2026, la IRD\npuso en conocimiento del Superintendente de Protección de Datos Personales el proyecto que\ncontiene la Norma General para el Tratamiento de Datos Personales en Actividades\nFamiliares o Domésticas debidamente subsanado, de conformidad con el artículo 14 del aludido\nReglamento para la Creación, Modificación y Derogatoria de la Normativa de la SPDP;",
+    "anexos": [],
+    "version": "1.0.0"
+  },
+  "unidades": [
+    {
+      "id": "EC-SPDP-2026-0003-R-Art-1",
+      "tipo": "articulo",
+      "numero": "1",
+      "titulo": "",
+      "texto_oficial": "Art. 1.- Esta norma general tiene por objeto regular el alcance, las directrices y los criterios\npara identificar el tratamiento de datos personales en las actividades que se desarrollen dentro\ndel ámbito familiar o doméstico, en concordancia con lo dispuesto en la LOPDP y el RGLOPDP.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "ambito-de-aplicacion.exclusiones",
+        "ambito-de-aplicacion.ambito-material"
+      ],
+      "roles": [
+        "responsable",
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "definicion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0003-R-Art-2",
+      "tipo": "articulo",
+      "numero": "2",
+      "titulo": "",
+      "texto_oficial": "Art. 2.- Esta norma general será de aplicación obligatoria para los integrantes del sistema de\nprotección de datos personales, cuando el tratamiento de datos personales se efectuare en el\nmarco de actividades familiares o domésticas.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "ambito-de-aplicacion.exclusiones"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0003-R-Art-3",
+      "tipo": "articulo",
+      "numero": "3",
+      "titulo": "",
+      "texto_oficial": "Art. 3.- Para la aplicación de la presente Norma General, se establecen las siguientes definiciones:\n3.1. Difusión pública: Acto mediante el cual los datos personales:\n3.1.1. Son puestos a disposición de un número indeterminado de personas;\n3.1.2. Son accesibles mediante bases de datos de acceso público en formato\nfísico o digital; o,\n3.1.3. Son accesibles a través de repositorios de direcciones, redes sociales y\nplataformas digitales.\n3.2. Entorno digital doméstico: Espacio virtual o digital de interacción, en el cual las\npublicaciones, fotografías, vídeos, mensajes de datos o contenidos son accesibles\núnicamente por el círculo personal o familiar del usuario, entendido aquel como el\nconjunto reducido de personas con quienes mantienen vínculos de amistad,\nparentesco o confianza.\n\nTÍTULO II\nPROCEDENCIA Y APLICABILIDAD",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "ambito-de-aplicacion.exclusiones",
+        "ambito-de-aplicacion.definiciones-clave"
+      ],
+      "roles": [
+        "responsable"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "definicion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0003-R-Art-4",
+      "tipo": "articulo",
+      "numero": "4",
+      "titulo": "",
+      "texto_oficial": "Art. 4.- Para la aplicación de esta norma general, corresponderá a la SPDP evaluar, en cada\ncaso concreto, si el tratamiento de datos personales comprende actividades familiares o\ndomésticas. Para ello, se aplicarán los siguientes criterios en función de los fenómenos\ntecnológicos, sociales y/o culturales que incidan en el tratamiento:\n4.1. Finalidad: La actividad de tratamiento de datos personales perderá su carácter\nfamiliar o doméstico cuando tuviere como finalidad su comunicación o transferencia\ncon fines comerciales.\n4.2. Alcance: La difusión de datos personales a un número indeterminado de personas\nconstituirá un tratamiento sujeto a la LOPDP y al RGLOPDP, sin perjuicio de que la\nactividad se hubiere iniciado en un ámbito familiar o doméstico.\n4.3. Impacto: La actividad de tratamiento de datos personales perderá su carácter familiar\no doméstico cuando generare una violación directa a los derechos y las libertades de\nlos titulares de los datos personales.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "ambito-de-aplicacion.exclusiones",
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control",
+        "responsable"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso",
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0003-R-Art-5",
+      "tipo": "articulo",
+      "numero": "5",
+      "titulo": "",
+      "texto_oficial": "Art. 5.- Cuando del análisis realizado por la SPDP, en cada caso en concreto, se llegare a\ndeterminar que la actividad de tratamiento excedió los límites del ámbito familiar o doméstico, se\ncontinuará con la sustanciación de los procedimientos administrativos de acuerdo con la LOPDP, el\nRGLOPDP y la normativa expedida por la Superintendencia de Protección de Datos Personales.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "ambito-de-aplicacion.exclusiones",
+        "autoridad-de-control.sanciones"
+      ],
+      "roles": [
+        "autoridad-control",
+        "responsable"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion",
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0003-R-DispGen-ÚNICA",
+      "tipo": "disposicion",
+      "numero": "ÚNICA",
+      "titulo": "Disposición Gen ÚNICA",
+      "texto_oficial": "Para la sustanciación de los procedimientos que tutelen los derechos de protección de datos\npersonales de los titulares, se observarán los parámetros y los requisitos previstos en la LOPDP,\nel RGLOPDP y la normativa emitida por la SPDP.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0003-R-DispRef-ÚNICA",
+      "tipo": "disposicion",
+      "numero": "ÚNICA",
+      "titulo": "Disposición Ref ÚNICA",
+      "texto_oficial": "En la resolución N° SPDP-SPDP-2024-0013-R, expedida el 25 de octubre del 2024 y\npublicada en el Registro Oficial N° 683 del 14 de noviembre del 2024, a través de la cual se\naprobó el Reglamento para la Presentación, Recepción y Trámite de Denuncias y Solicitudes, se\nefectúan las siguientes reformas:\na. Los apartados 4.1. y 4.2. dirán:\n“4.1. Denuncia: Medio por el cual cualquier persona, natural o jurídica, pone en\nconocimiento de la SPDP hechos que constituyen una presunta infracción a\nla LOPDP, el RGLOPDP, sus regulaciones y demás normativa aplicable, sin\nque ello constituya o implique el ejercicio de derechos de los titulares de\ndatos personales. En la denuncia se podrían incluir (pero sin limitarse a)\nhechos vinculados con el uso indebido de datos personales, violaciones de\nseguridad o prácticas ilegales por parte de un responsable o encargado del\ntratamiento de datos personales”.\n“4.2. Solicitud: Medio por el cual se requiere atender o tutelar los derechos y las\nlibertades de los titulares en relación con el tratamiento de los datos\npersonales realizado por el responsable o por el encargado. La solicitud\npodrá ser presentada ante SPDP siempre que se configuren cualquiera de los\nsiguientes supuestos:\n4.2.1. Falta de respuesta o respuesta extemporánea al requerimiento\npresentado por el titular ante el responsable del tratamiento de datos\npersonales;\n\n4.2.2. Negativa explícita del responsable para atender el requerimiento\npresentado por el titular; o,\n4.2.3. Si el titular encontrare motivos para considerar que se han vulnerado\nsus derechos con la respuesta que el responsable le hubiese dado a\nsu solicitud.\nLa solicitud tiene por finalidad última activar el ejercicio de la competencia\nde control y sanción por parte de la SPDP en contra del responsable del\ntratamiento de datos personales o el encargado del tratamiento de datos\npersonales, para, de esta manera, habilitar la imposición de las medidas\ncorrectivas necesarias, así como el inicio del procedimiento administrativo\nsancionador, de ser el caso”.\nb. El artículo 5 dirá:\n“Art. 5.- Toda denuncia o solicitud deberá presentarse de forma física o digital, de\nacuerdo con el Anexo 1 (“Formulario para la Presentación de Denuncias”) o con\nel Anexo 2 (“Formulario para la Presentación de Solicitudes de los Titulares”),\nsegún correspondiere.\nEn caso de que una denuncia o solicitud fueren presentadas de forma física, esto\nes, en soporte de papel, deberá constar en aquella la firma manuscrita del\ndenunciante o solicitante; y, de presentarse de forma digital, el denunciante o\nsolicitante deberá utilizar una firma electrónica que pueda ser verificada mediante\nel aplicativo FirmaEC”.\nc. El inciso primero del artículo 6 dirá:\n“La denuncia será presentada a través del formulario que consta en el Anexo 1 y\na través de los medios habilitados para el efecto, de conformidad con el artículo 5\nde este reglamento”.\nd. El inciso tercero del artículo 11 dirá:\n“Una vez recibido, el criterio del sujeto investigado será valorado por la SPDP y\ntomado en cuenta dentro del informe final, en lo que corresponda en derecho, con\nlo cual concluirá la actuación previa”.\ne. El artículo 12 dirá:\n“Art. 12.- Una vez iniciadas las actuaciones previas, la decisión de inicio del\nprocedimiento administrativo sancionador se notificará a la persona interesada\ndentro de un plazo de hasta seis (6) meses. Este plazo empezará a discurrir desde\nla fecha en la que se notifique el acto administrativo con el que se ordena el inicio\nde las actuaciones previas antes indicado, de conformidad con lo previsto en los\nartículos 101 y 179 COA”.\nf. El artículo 15 dirá:\n“Art. 15.- En caso de que el responsable del tratamiento no contestare el\nrequerimiento del titular de los datos, lo contestare negativamente o el titular de\ndatos personales encontrare motivos para considerar que se han vulnerado sus\nderechos con la respuesta que el responsable le ha dado a su solicitud, podrá dicho\ntitular presentar una solicitud ante la SPDP de conformidad con las disposiciones\ncontempladas en la LOPDP, el RGLOPDP, el COA y este reglamento”.\ng. Luego del artículo 15 se agrega el siguiente:\n“Artículo 15.i.- Las solicitudes de los titulares, en relación a los tratamientos que\nexcedieren los límites del ámbito familiar o doméstico, seguirán el siguiente orden:\n\n15.i.1. En primer lugar, ante el responsable del tratamiento, para lo cual:\n15.i.1.1. El titular de datos personales deberá dirigirse a la persona\nnatural o jurídica que publicó o difundió el contenido con\nsus datos personales, con el objeto de ejercer los derechos\nestablecidos en la LOPDP.\n15.i.1.2. El titular de datos personales podrá presentar su solicitud a\ntravés de los medios físicos o digitales puestos a su\ndisposición por parte del responsable del tratamiento.\n15.i.2. En segundo lugar, ante la SPDP, de conformidad con el artículo 15 de\neste reglamento.\nh. El inciso primero del artículo 16 dirá:\n“La solicitud presentada ante la SPDP deberá cumplir, como mínimo, los siguientes\nrequisitos:”\ni. Luego del artículo 19 se agrega el siguiente:\n“Art. 19.i.- Si la solicitud cumpliere con los requisitos establecidos en el artículo 16, la\nSPDP dispondrá la notificación al responsable del tratamiento de datos personales a\nfin de que ejerza su derecho a la defensa dentro el término de cinco (5) días”.\nj. El orden y contenido del Capítulo III y del Capítulo IV, ambos ubicados en el Título\nIV, se modifican y reforman de la siguiente manera:\n“CAPÍTULO III\nDE LAS MEDIDAS CORRECTIVAS\nArt. 22.- Como resultado de la solicitud, la denuncia, y/o las actuaciones previas se podrá\nrecomendar la implementación de medidas correctivas de conformidad con lo previsto\nen los artículos 65 y 66 LOPDP. Tales medidas serán debidamente impuestas de acuerdo\ncon los fundamentos de hecho y de derecho proporcionados para el efecto.\nLas medidas correctivas que fueren dictadas e impuestas se regirán de acuerdo con\nlo dispuesto en el Título III, Libro II del COA, en todo lo que no se oponga con lo\nestablecido en la LOPDP, el RGLOPDP, en las regulaciones expedidas por la SPDP\ny demás normativa aplicable”.\n“CAPÍTULO IV\nDEL PROCEDIMIENTO ADMINISTRATIVO SANCIONADOR\nArt. 23.- El procedimiento administrativo sancionador se regirá por lo dispuesto en\nel Título I, Libro III del COA en todo lo que no se oponga con lo establecido en la\nLOPDP, el RGLOPDP, en las regulaciones expedidas por la SPDP y demás\nnormativa aplicable”.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0003-R-DispFinal-ÚNICA",
+      "tipo": "disposicion",
+      "numero": "ÚNICA",
+      "titulo": "Disposición Final ÚNICA",
+      "texto_oficial": "Esta resolución entrará en vigencia a partir de su publicación en el Registro Oficial.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    }
+  ]
+}
