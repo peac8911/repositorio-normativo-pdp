@@ -1,0 +1,657 @@
+{
+  "meta": {
+    "id": "EC-SPDP-2025-0034-R",
+    "jurisdiccion": "ec",
+    "tipo_fuente": "normativa-secundaria",
+    "nivel_jerarquico": 6,
+    "titulo": "Reglamento del Procedimiento Técnico y Metodológico para la Evaluación y Revisión de la Ley Orgánica de Protección de Datos Personales",
+    "numero": "SPDP-SPD-2025-0034-R",
+    "fecha_publicacion": "2025-09-01",
+    "fecha_vigencia": "2025-09-01",
+    "vigente": true,
+    "materia": [
+      "pdp"
+    ],
+    "es_especializada": true,
+    "url_oficial": "https://www.superintendenciadedatos.gob.ec/",
+    "preambulo": "CONSIDERANDO:\nQue el numeral 19 del artículo 66 de la Constitución de la República del Ecuador (“CRE”)\ngarantiza y reconoce a las personas “[e]l derecho a la protección de datos de carácter personal,\nque incluye el acceso y la decisión sobre información y datos de este carácter, así como su\ncorrespondiente protección (…)”;\nQue por virtud del artículo 4 de la Declaración N° 897 de la Comunidad Andina de Naciones\n“(…) [s]e reconoce y garantiza el derecho que tienen todos los usuarios de la Comunidad\nAndina al debido tratamiento de sus datos personales y a la titularidad sobre los mismos, así\ncomo el derecho de acceso, uso, rectificación, eliminación, cancelación, oposición, limitación\nal tratamiento o circulación de los mismos y a la portabilidad de su información. (…)”;\nQue el artículo 213 de la CRE establece que “[l]as superintendencias son organismos\ntécnicos de vigilancia, auditoría, intervención y control de las actividades económicas, sociales\ny ambientales, y de los servicios que prestan las entidades públicas y privadas, con el propósito\nde que estas actividades y servicios se sujeten al ordenamiento jurídico y atiendan al interés\ngeneral (…)”; que forman parte de la Función de Transparencia y Control Social; y que,\nconforme lo dispone el artículo 204 idem, detentan “personalidad jurídica y autonomía\nadministrativa, financiera, presupuestaria y organizativa (…)”;\nQue a través de la Ley Orgánica de Protección de Datos Personales (“LOPDP”) se creó la\nSuperintendencia de Protección de Datos Personales (“SPDP”), como un órgano de control, con\npotestad sancionatoria, de administración desconcentrada, con personalidad jurídica y\nautonomía administrativa, técnica, operativa y financiera, cuyo máximo titular es, de acuerdo\ncon el inciso primero del artículo 76 idem, el Superintendente de Protección de Datos Personales;\nQue el artículo 1 de la LOPDP declara como su objetivo y finalidad “(…) garantizar el\nejercicio del derecho de protección de datos personales, que incluye el acceso y decisión sobre\ninformación y datos de ese carácter, así como su correspondiente protección (…)”;\nQue el artículo 76 de la LOPDP establece que “[l]a Autoridad de Protección de Datos\nPersonales es el órgano de control y vigilancia encargado de garantizar a todos los ciudadanos\nla protección de sus datos personales, y de realizar todas las acciones necesarias para que se\nrespeten los principios, derechos, garantías y procedimientos previstos en la [Ley Orgánica de\nProtección de Datos Personales]”;\nQue el numeral 5 de ese mismo artículo 76 de la LOPDP le confiere a la SPDP funciones,\natribuciones y facultades para “[e]mitir normativa general o técnica, criterios y demás actos\nque sean necesarios para el ejercicio de sus competencias y la garantía del ejercicio del derecho\na la protección de datos personales”;\nQue la quinta disposición general de la LOPDP establece que “[l]a Autoridad de Protección\nde Datos Personales será responsable de presentar informes anuales de evaluación y revisión\nde la presente Ley, a la ciudadanía”;\nQue el artículo 135 del Código Orgánico Administrativo (“COA”) determina que “[l]e\ncorresponde a la Administración Pública, la dirección del procedimiento administrativo en\nejercicio de las competencias que se le atribuyan en el ordenamiento jurídico y en este Código\n(…)”;\nQue mediante resolución Nº SPDP-SPDP-2024-0001-R, publicada en el Tercer Suplemento\ndel Registro Oficial Nº 624 del 19 de agosto del 2024, se aprobó el Estatuto Orgánico de Gestión\nOrganizacional por Procesos de Arranque de la SPDP, reformado mediante resolución N° SPDP-\nSPD-2025-0028-R, a su vez publicada en el Registro Oficial N° 105 del 19 de agosto del 2025;\nR \nQue el artículo 1 de la misma resolución Nº SPDP-SPDP-2024-0001-R, en su Anexo 1, ha\ndeterminado que “[l]a Superintendencia de Protección de Datos Personales se alinea con su\nmisión y define su Estructura Organizacional sustentada en su base normativa y su\ndireccionamiento estratégico institucional, los cuales serán determinados en su Planificación\nEstratégica Institucional, Modelo de Gestión institucional y Matriz de Competencias (…)”;\nQue la letra b), numeral 2 del artículo 10 de la resolución N° SPDP-SPDP-2024-0001-R\nestablece que a la Intendencia General de Regulación de Protección de Datos Personales (“IRD”)\nle corresponde, entre otras atribuciones y responsabilidades, “[d]irigir y proponer la\nelaboración de las propuestas o proyectos normativos para crear, reformar o derogar los actos\nnormativos, sean estos políticas, directrices, reglamentos, resoluciones, lineamientos, normas\ntécnicas, oficios circulares, etcétera, necesarios para el ejercicio de todas las competencias y\natribuciones propias de la Superintendencia de Protección de Datos Personales, con los previos\ninformes técnicos de las unidades administrativas sustantivas y adjetivas relacionadas con el\námbito de aplicación de tales normas; así como, todos aquellos actos normativos relacionados\ncon el ejercicio, tutela y procedimientos administrativos de gestión que garanticen a las\npersonas naturales la plena vigencia de sus derechos y deberes previstos en dicha ley y su\nreglamento (…)”;\nQue la letra c), numeral 2 del artículo 10 de la resolución N° SPDP-SPDP-2024-0001-R,\nestablece, entre las atribuciones y responsabilidades de la IRD, la de “[d]irigir y proponer la\npresentación al Superintendente de Protección de Datos Personales de las propuestas de\nnormas, reglamentos, directrices, resoluciones, normas técnicas, oficios circulares, etcétera,\nvinculados con la regulación de protección de datos personales, para su expedición (…)”;\nQue a través de la letra a) del artículo 4 de la resolución N° SPDP-SPD-2025-0001-R del 31\nde enero del 2025, publicada en el Registro Oficial N° 750 del 24 de febrero del 2025, mediante\nla cual se expidieron las disposiciones, delegaciones de facultades y atribuciones a las\nautoridades, funcionarios y servidores públicos de la SPDP, se le delegó al Intendente General\nRegulación de Protección de Datos Personales, entre otras, la responsabilidad de “[e]mitir\nnormativa general o técnica, criterios y demás actos que sean necesarios para el ejercicio de\nsus competencias y la garantía del ejercicio del derecho a la protección de datos personales\n(…)”;\nQue mediante la resolución Nº SPDP-SPDP-2024-0018-R, publicada en el Segundo\nSuplemento del Registro Oficial Nº 679 del 8 de noviembre del 2024, se expidió el Reglamento\npara la Elaboración y Aprobación del Plan Regulatorio Institucional de la Superintendencia de\nProtección de Datos Personales, en cuya disposición transitoria quedó previsto que “(…) el PRI\ncorrespondiente a los años fiscales 2024 y 2025 no seguirá el procedimiento establecido en este\nreglamento y, por ende, se elaborará únicamente a base de los informes técnicos emitidos por\nlas Unidades Administrativas correspondientes; validados por la IGRPDP; aprobados por el\nSuperintendente o su delegado; y, finalmente, publicado en los portales oficiales de la SPDP\ncuando estén habilitados”;\nQue la IRD, mediante informe técnico Nº INF-SPDP-IRD-2025-0003 suscrito el 3 de enero\ndel 2025, solicitó al Superintendente de Protección de Datos Personales aprobar el PRI del año\nfiscal 2025, a fin de cumplir con la disposición transitoria de la resolución Nº SPDP-SPDP-2024-\n0018-R, así como para garantizar la transparencia y eficacia de la SPDP;\nQue a través de la resolución N° SPDP-SPD-2025-0002-R del 3 de febrero del 2025 se aprobó\nel Plan Regulatorio Institucional (“PRI”) del año 2025, dentro del cual se ha establecido la\nnecesidad de expedir la normativa para establecer los criterios, estándares, lineamientos y\nprocedimientos para la revisión y evaluación anual de la LOPDP;\nQue la IRD, mediante informe técnico Nº INF-SPDP-IRD-2025-0039 del 30 de junio de\n2025, justificó la pertinencia y la necesidad de establecer un procedimiento administrativo con\nnaturaleza metódica, organizada y clara para viabilizar una evaluación sistemática y transparente\nR \npara supervisar y monitorear el nivel de cumplimiento de la LOPDP; informe en cuya parte\npertinente prevé: “(…) La SPDP en ejercicio de sus funciones y atribuciones está facultada de\nconformidad con el numeral 5 del artículo 76 de la LOPDP para emitir “(...) Reglamento que\naprueba el Procedimiento de Evaluación y Revisión de la Ley Orgánica de Protección de Datos\nPersonales”; y, recomendó: “(…) iniciar con el proceso de socialización en cumplimiento con\nlo dispuesto por la Resolución N° SPDP-SPDP-2024-0022-R para que en el término de veinte\n(20) días la ciudadanía pueda realizar sus aportes”;\nQue mediante memorando N° SPDP-IRD-2025-0114-M suscrito el 30 de junio de 2025, la\nIRD puso en conocimiento de la Dirección de Asesoría Jurídica (“DAJ”) el proyecto normativo\ndenominado Reglamento que aprueba el Procedimiento de Evaluación y Revisión de la Ley\nOrgánica de Protección de Datos Personales, así como el informe técnico N° INF-SPDP-\nIRD-2025-0039, para que en el término de diez (10) días se pronuncie sobre la concordancia\ncon la normativa y la legalidad, de conformidad con lo dispuesto en la resolución N° SPDP-\nSPDP-2025-0022-R;\nQue la DAJ, a través del informe N° INF-SPDP-DAJ-2025-0027 del 30 de junio de 2025,\nen su parte pertinente determinó que el Reglamento que aprueba el Procedimiento de\nEvaluación y Revisión de la Ley Orgánica de Protección de Datos Personales es congruente\ncon los principios establecidos en la LOPDP, no transgrede o contradice normas matrices, y que\ncumple con el principio de legalidad; y, recomendó que “(…) [l]a IRD debe solicitar a quien\ncorresponda la publicación a través de la página web institucional e informar su publicación a\ntravés de las redes sociales institucionales, con la finalidad de que la ciudadanía, las\norganizaciones de la sociedad civil o interesados en general, de manera motivada, puedan\nremitir sus observaciones o realizar aportes respecto del contenido (…)”;\nQue mediante memorando N° SPDP-DAJ-2025-0056-M suscrito el 30 de junio de 2025, la\nDAJ puso en conocimiento de la IRD el informe técnico N° INF-SPDP-DAJ-2025-0027, así\ncomo la validación legal del proyecto de resolución que expide el Reglamento que aprueba el\nProcedimiento de Evaluación y Revisión de la Ley Orgánica de Protección de Datos\nPersonales;\nQue mediante memorando N° SPDP-IRD-2025-00115-M suscrito el 30 de junio de 2025, la\nIRD solicitó a las unidades administrativas de la SPDP que procedan con las acciones pertinentes\na fin de que publiquen el borrador del Reglamento que aprueba el Procedimiento de\nEvaluación y Revisión de la Ley Orgánica de Protección de Datos Personales en la página\nweb institucional y en las redes sociales de la SPDP, para que el proyecto de normativa esté\ndisponible para la ciudadanía, las organizaciones de la sociedad civil y demás interesados desde\nel 1 julio hasta el 28 de julio del 2025, inclusive, con el objeto de poder recibir sus observaciones\no aportes, siempre que estuvieren debidamente motivados;\nQue, en cumplimiento con la resolución Nº SPDP-SPDP-2024-0022-R, se ejecutó el proceso\nde socialización del Reglamento que aprueba el Procedimiento de Evaluación y Revisión de\nla Ley Orgánica de Protección de Datos Personales dentro del término de veinte (20) días, de\nconformidad con el artículo 12 de la misma resolución;\nQue a través del informe técnico Nº INF-SPDP-IRD-2025-0066, suscrito el 26 de agosto del\n2025, la IRD incorporó al informe técnico las observaciones y aportes que se consideraron\nrelevantes y adecuados, previa justificación de las modificaciones realizadas al proyecto\nnormativo;\nQue mediante memorando Nº SPDP-IRD-2025-0160-M, suscrito el 26 de agosto del 2025,\nla IRD remitió todo el expediente al suscrito Superintendente de Protección de Datos Personales\npara que realice las observaciones correspondientes o, en su caso, para que lo apruebe;",
+    "anexos": [],
+    "version": "1.0.0"
+  },
+  "unidades": [
+    {
+      "id": "EC-SPDP-2025-0034-R-Art-1",
+      "tipo": "articulo",
+      "numero": "1",
+      "titulo": "",
+      "texto_oficial": "Art. 1.- Esta resolución tiene por objeto establecer el procedimiento técnico y metodológico\npara ejecutar la evaluación y la revisión de la LOPDP, con el propósito de determinar:\n1.1. Nivel de cumplimiento;\n1.2. Promoción del derecho;\n1.3. Vulneraciones a la seguridad de datos personales;\n1.4. Pertinencia respecto a la implementación por sectores; y,\n1.5. Evaluación a los sujetos regulados.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "definicion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0034-R-Art-2",
+      "tipo": "articulo",
+      "numero": "2",
+      "titulo": "",
+      "texto_oficial": "Art. 2.- Las disposiciones de esta resolución serán de aplicación obligatoria para la SPDP y,\nde manera específica, para las Intendencias Generales y la Unidad de Planificación y Gestión\nEstratégica (“UPGE”), con el objeto de que ejecuten el procedimiento de evaluación y revisión\nde la LOPDP de conformidad con sus respectivas competencias. Este procedimiento no generará\nefectos vinculantes ni impondrá obligaciones para los sujetos regulados.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0034-R-Art-3",
+      "tipo": "articulo",
+      "numero": "3",
+      "titulo": "",
+      "texto_oficial": "Art. 3.- El procedimiento de evaluación y revisión se regirá por los siguientes principios:\n3.1. Eficacia: Determina el nivel de cumplimiento de los actores sujetos a regulación del\nsistema de protección de datos personales, para cumplir cabalmente con los\nprincipios, derechos y obligaciones establecidos en la LOPDP.\n3.2. Eficiencia: Identifica el nivel de cumplimiento de los actores sujetos a regulación del\nsistema de protección de datos personales a través de la optimización de sus recursos\ninternos y la minimización de cargas administrativas, técnicas y económicas, a fin de\npromover los derechos y libertades fundamentales de los titulares.\n3.3. Integralidad: Aborda las dimensiones jurídica, tecnológica, operativa y económica\nde la LOPDP, así como su impacto en los diferentes sectores regulados que ejecutan\ntratamientos de datos personales.\n3.4. Participación: Fomenta la inclusión de los actores del sistema de protección de datos\npersonales, incluidas la academia y la sociedad civil, a fin de promover los derechos\ny libertades fundamentales de los titulares de los datos.\n3.5. Transparencia: Garantiza el acceso a la información pública en relación con el\nprocedimiento de evaluación y revisión de la LOPDP, así como a sus resultados, con\nsujeción a los principios y derechos de la materia en cuestión.\n3.6. Legalidad: La evaluación y revisión de la norma se enmarcará en las competencias\nlegalmente establecidas y respetará el principio de reserva legal en materia de\nderechos fundamentales.\n3.7. Proporcionalidad: Se tomará en cuenta la viabilidad de la implementación de la\nnorma en los distintos sectores y/o sujetos regulados, a fin de asegurar un marco\nnormativo razonable y equilibrado.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "principios.licitud"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0034-R-Art-4",
+      "tipo": "articulo",
+      "numero": "4",
+      "titulo": "",
+      "texto_oficial": "Art. 4.- La evaluación y revisión de la LOPDP se realizará anualmente, en el periodo\ncomprendido entre desde el uno (1) de enero y el treinta y uno (31) de diciembre de cada año.\nSin perjuicio de aquello, de oficio podrán realizarse evaluaciones temáticas cuando existieren\nelementos que justifiquen su pertinencia, tales como reformas a la LOPDP, sentencias con\ncarácter de precedente jurisprudencial o avances tecnológicos significativos.\nR \nTÍTULO II\nACTORES EN EL PROCEDIMIENTO DE EVALUACIÓN Y REVISIÓN",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0034-R-Art-5",
+      "tipo": "articulo",
+      "numero": "5",
+      "titulo": "",
+      "texto_oficial": "Art. 5.- El Superintendente de Protección de Datos Personales —o su delegado— es la\nautoridad competente para aprobar, mediante el acto administrativo pertinente, el Informe de\nEvaluación y Revisión de la Ley Orgánica de Protección de Datos (“Informe”).",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0034-R-Art-6",
+      "tipo": "articulo",
+      "numero": "6",
+      "titulo": "",
+      "texto_oficial": "Art. 6.- El Grupo Técnico de Evaluación y Revisión (“GTER”) es el órgano de carácter\nmultidisciplinario que desarrollará el Informe, para cumplir con los principios en materia de\nprotección de datos y las disposiciones de esta resolución. Las designaciones para la\nconformación de este grupo deberán efectuarse formalmente y publicarse, para efectos de\ntransparencia institucional.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0034-R-Art-7",
+      "tipo": "articulo",
+      "numero": "7",
+      "titulo": "",
+      "texto_oficial": "Art. 7.- El GTER estará conformado por:\n7.1. La Intendencia General de Regulación de Protección de Datos Personales (“IRD”),\nquien realizará la coordinación del grupo;\n7.2. La Intendencia General de Innovación Tecnológica y Seguridad de Datos Personales\n(“IIT”);\n7.3. La UPGE; y,\n7.4. En calidad de observadores:\n7.4.1. Los representantes de la academia;\n7.4.2. Los representantes de las organizaciones de la sociedad civil; y,\n7.4.3. Los expertos de organismos internacionales relevantes en protección de\ndatos personales.\nLos observadores aludidos en los números 7.4.1., 7.4.2. y 7.4.3. serán los que determine la\nIRD y solo tendrán voz consultiva dentro del GTER.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0034-R-Art-8",
+      "tipo": "articulo",
+      "numero": "8",
+      "titulo": "",
+      "texto_oficial": "Art. 8.- La IRD, de conformidad con esta resolución, será la unidad administrativa\ncompetente de la SPDP para coordinar y dirigir el procedimiento de evaluación y revisión de la\nLOPDP.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0034-R-Art-9",
+      "tipo": "articulo",
+      "numero": "9",
+      "titulo": "",
+      "texto_oficial": "Art. 9.- De conformidad con la esta resolución, la UPGE será la unidad administrativa de la\nSPDP que actuará como secretaría técnica del GTER, brindando apoyo operativo y logístico\npara la elaboración, articulación y presentación del Informe.\nTÍTULO III\nPROCEDIMIENTO\nCAPÍTULO I\nCRONOGRAMA ANUAL",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0034-R-Art-10",
+      "tipo": "articulo",
+      "numero": "10",
+      "titulo": "",
+      "texto_oficial": "Art. 10.- El procedimiento de evaluación y revisión de la LOPDP se realizará de conformidad\ncon el siguiente cronograma anual:\n10.1. Del 1 de enero al 28 de febrero: Planificación y Diseño Metodológico.\n10.2. Del 1 al 31 de marzo: Recopilación y Sistematización de la Información.\n10.3. Del 1 de abril al 30 de junio: Análisis y Procesamiento de Datos.\n10.4. Del 1 de julio al 31 de agosto: Elaboración del Informe de Evaluación y Revisión.\n10.5. Del 1 de septiembre al 31 de octubre: Socialización y Validación.\n10.6. Del 1 al 30 de noviembre: Presentación de Resultados.\n10.7. Del 1 al 31 de diciembre: Seguimiento.\nR \nCuando existieren causas justificadas o imprevistos institucionales debidamente motivados,\nla SPDP podrá ajustar los plazos establecidos, siempre que se garantice el cumplimiento del\nprocedimiento dentro del mismo año calendario.\nCAPÍTULO II\nETAPAS",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0034-R-Art-11",
+      "tipo": "articulo",
+      "numero": "11",
+      "titulo": "",
+      "texto_oficial": "Art. 11.- El GTER aprobará el Plan de Evaluación y Revisión, que constituye el mecanismo\ntécnico institucional cuyo objeto consiste en determinar la forma en que se ejecutará la\nevaluación y revisión de la LOPDP, a través de los siguientes elementos:\n11.1. Objetivos;\n11.2. Cronograma;\n11.3. Alcance;\n11.4. Metodología;\n11.5. Indicadores de evaluación específicos, medibles, relevantes y temporales (SMART),\nque permitan evaluar el cumplimiento, la pertinencia normativa y la eficacia de la\nLOPDP en sus dimensiones jurídica, institucional, tecnológica y ciudadana. Su\ndefinición y aplicación constarán en un anexo técnico del Informe;\n11.6. Medios de recolección y análisis de información en relación con los sujetos regulados;\n11.7. Preguntas de evaluación alineadas a los objetivos del plan;\n11.8. Fuentes de información;\n11.9. Matriz de evaluación de pertinencia normativa, que defina criterios e indicadores para\nanalizar la alineación jurídica, adecuación tecnológica y aplicabilidad institucional de\nla LOPDP.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0034-R-Art-12",
+      "tipo": "articulo",
+      "numero": "12",
+      "titulo": "",
+      "texto_oficial": "Art. 12.- El diseño metodológico será desarrollado y elaborado por la UPGE, con la\ncoordinación de la IRD y en articulación con el GTER, para lo cual se deberá detallar el enfoque\nde investigación, las técnicas de recolección, los tipos de información, así como el análisis de\nlos datos.\nEl diseño metodológico deberá contemplar el desarrollo de las líneas de base sectoriales,\ndiferenciando las características propias de los sectores y/o sujetos regulados según el grado de\ndigitalización, el volumen y la sensibilidad de datos tratados, los marcos normativos aplicables\ny los riesgos inherentes. Asimismo, se establecerán umbrales diferenciados de cumplimiento o\nmadurez regulatoria; y, además, se podrá incluir la elaboración de informes técnicos sectoriales\ny/o sujetos regulados cuando ello se justifique por los hallazgos obtenidos.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0034-R-Art-13",
+      "tipo": "articulo",
+      "numero": "13",
+      "titulo": "",
+      "texto_oficial": "Art. 13.- El GTER, a través de la UPGE, levantará —por medio de encuestas, entrevistas a\nprofundidad, grupos focales, documentación, análisis de bases de datos, peritajes técnicos y/o\nconsultas a expertos nacionales e internacionales— la siguiente información:\n13.1. Informes de gestión y ejecución de la SPDP (resoluciones, sanciones, reclamos\natendidos);\n13.2. Estudios sobre el nivel de conocimiento y ejercicio de los derechos por parte de los\ntitulares de datos;\n13.3. Análisis de la adopción de medidas de seguridad y buenas prácticas por parte de\nresponsables y encargados del tratamiento;\n13.4. Datos sobre incidentes de seguridad de datos y su gestión;\n13.5. Evaluaciones del cumplimiento de principios por parte de entidades públicas y\nprivadas;\nR \n13.6. Informes de auditoría relacionados con la protección de datos; y,\n13.7. Análisis de las legislaciones y regulaciones internacionales.\nLa información recopilada deberá seleccionarse a base de los criterios de confiabilidad,\npertinencia y trazabilidad metodológica.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0034-R-Art-14",
+      "tipo": "articulo",
+      "numero": "14",
+      "titulo": "",
+      "texto_oficial": "Art. 14.- La IIT ejecutará la sistematización de la información levantada por el GTER. Para\nello, empleará fuentes primarias y secundarias, incluidos normativa, registros institucionales,\nresoluciones administrativas, encuestas y entrevistas a actores relevantes.\nLa información será clasificada, validada y normalizada en bases de datos estructuradas, de\nconformidad con los lineamientos metodológicos aprobados por el GTER. Cuando la\nsistematización implique el tratamiento de categorías especiales de datos personales y datos\nsensibles, se deberán aplicar medidas técnicas, organizativas y jurídicas adecuadas, incluida la\nevaluación de impacto, si ello correspondiere de acuerdo con la normativa vigente.\nSiempre que se ejecutare un tratamiento de datos personales de carácter sensible, aquel deberá\nrealizarse de conformidad con los principios, derechos y medidas de seguridad establecidas en\nla materia de protección de datos personales.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0034-R-Art-15",
+      "tipo": "articulo",
+      "numero": "15",
+      "titulo": "",
+      "texto_oficial": "Art. 15.- El GTER analizará la información sistematizada a la luz de objetivos e indicadores\ndefinidos en el Plan de Evaluación y Revisión, para lo cual utilizará herramientas de análisis\njurídico, técnico y/o de políticas públicas.\nEl procesamiento de la data identificará los avances logrados en la garantía de los derechos,\nlas mejores prácticas implementadas, las limitaciones normativas o de infraestructura, los\ndesafíos en la aplicación de la LOPDP, los riesgos emergentes y las oportunidades de mejora. El\nanálisis deberá sustentarse en criterios técnicos objetivos, verificables y metodológicamente\ntrazables.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0034-R-Art-16",
+      "tipo": "articulo",
+      "numero": "16",
+      "titulo": "",
+      "texto_oficial": "Art. 16.- El contenido del documento mencionado deberá contener, como mínimo, lo\nsiguiente:\n16.1. Un resumen ejecutivo.\n16.2. La descripción de la metodología empleada.\n16.3. Los hallazgos principales, desagregados por dimensiones de análisis.\n16.4. Las conclusiones, que reflejen la valoración del impacto y la eficacia de la LOPDP.\n16.5. Las recomendaciones, sustentadas en los hallazgos del informe, que podrán referirse\na:\n16.5.1. La reforma de la LOPDP y/o su reglamento;\n16.5.2. La adecuación o mejora de normativa secundaria, políticas públicas, o\nlineamientos institucionales;\n16.5.3. Propuestas de desarrollo tecnológico o fortalecimiento de capacidades; y/o,\n16.5.4. Propuestas de nuevos indicadores o mecanismos de seguimiento y\nevaluación, si se considerare pertinente.\n16.6. Y un análisis de la pertinencia normativa de la LOPDP, que se desarrollará a través\nde una matriz de criterios técnicos e indicadores definidos metodológicamente.\nEl informe, que deberá redactarse con rigor técnico, claridad y objetividad, estará disponible\nen distintos formatos y se publicará en el sitio web institucional.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0034-R-Art-17",
+      "tipo": "articulo",
+      "numero": "17",
+      "titulo": "",
+      "texto_oficial": "Art. 17.- La UPGE será el órgano responsable de la redacción de los documentos técnicos\ndel proceso de evaluación y revisión, especialmente del Informe, bajo la coordinación técnica\nR \ndel GTER y la supervisión de la IRD. El informe preliminar deberá cumplir con los parámetros\nmetodológicos aprobados y será remitido al GTER para su revisión.\nEl GTER contará con un término de diez (10) días para revisar la coherencia de la\ninformación, la pertinencia de las conclusiones y el cumplimiento de la normativa aplicable. En\ncaso de inconsistencias, podrá solicitar a la UPGE que incorpore las observaciones. Una vez\nrecibido el informe con las observaciones, la UPGE tendrá un término de cinco (5) días para\nincorporar los ajustes y remitir la versión corregida a la IRD.\nLa IRD contará con un término de quince (15) días para verificar el cumplimiento de los\ncriterios técnicos y aprobar el informe. Aprobado el documento, la IRD notificará a la unidad\ncorrespondiente para su publicación institucional a través de las plataformas digitales de la\nSPDP.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0034-R-Art-18",
+      "tipo": "articulo",
+      "numero": "18",
+      "titulo": "",
+      "texto_oficial": "Art. 18.- El borrador del informe será sometido a un proceso de socialización, que deberá\nejecutarse del 1 al 30 de septiembre de cada año. La socialización deberá incluir, al menos, un\ncanal público de participación digital, habilitado para recibir aportes durante el plazo señalado.\nAdicionalmente, la IRD podrá convocar a reuniones técnicas públicas, siempre y cuando lo\nconsidere pertinente, como un mecanismo de carácter complementario. Los aportes recibidos\ndeberán ser sistematizados y podrán ser considerados por el GTER en los casos que fueren\npertinentes para la elaboración del Informe final.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0034-R-Art-19",
+      "tipo": "articulo",
+      "numero": "19",
+      "titulo": "",
+      "texto_oficial": "Art. 19.- Las observaciones y/o los aportes que fuese recibidos serán organizados y\nsistematizados por la UPGE, para que los notifique a la IRD para su debida aprobación en el\ntérmino de diez (10) días; término que discurrirá desde la culminación del proceso de\nsocialización.\nPara ello, la IRD deberá emitir las instrucciones que correspondan en relación con las\nobservaciones y/o los aportes sistematizados que serán acogidos dentro del Informe, sustentando\ntécnica y objetivamente su acogida, lo cual será notificado a la UPGE para que, dentro del\ntérmino de diez (10) días, los incorpore en el borrador de Informe.\nRecibidas las instrucciones antes señaladas, la UPGE deberá incorporar al Informe las\nobservaciones y/o los aportes que la IRD hubiese considerado pertinentes; y, luego, notificará\nsu cumplimiento a dicha unidad administrativa. Estas actividades deberán ejecutarse dentro del\ntérmino de diez (10) días.\nFinalmente, recibido el Informe, la IRD deberá notificarlo dentro del término de cinco (5)\ndías al Superintendente de Protección de Datos Personales para su debida aprobación.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0034-R-Art-20",
+      "tipo": "articulo",
+      "numero": "20",
+      "titulo": "",
+      "texto_oficial": "Art. 20.- Previo a expedirse el Informe, se ejecutará el siguiente proceso:\n20.1. De la notificación: Culminada la fase de Socialización y Validación, la IRD deberá\nnotificarle al Superintendente de Protección de Datos Personales el Informe hasta el\n30 de noviembre.\n20.2. De la revisión final: Una vez que el Superintendente de Protección de Datos\nPersonales hubiese recibido el Informe, dispondrá de un término de diez (10) días\npara solicitar que se realicen las modificaciones pertinentes.\n20.3. De las modificaciones: A partir de la notificación realizada por el Superintendente\nde Protección de Datos Personales para que se ejecuten las modificaciones solicitadas,\nla UPGE dispondrá de un término de tres (3) días para realizarlas y remitir el Informe\na la IRD para su revisión.\nLa IRD tendrá un término de cinco (5) días para realizar la revisión de las\nmodificaciones solicitadas, así como para remitir el Informe al Superintendente de\nProtección de Datos Personales para su debida aprobación.\nR \n20.4. De la aprobación: Notificado el Informe a la máxima autoridad, esta última\ndispondrá de un término de cinco (5) días para aprobarlo, así como para solicitarle, a\nla competente unidad administrativa de la SPDP, que se lo publique en las plataformas\noficiales institucionales.\nUna vez aprobado el Informe, se lo podrá utilizar como un insumo técnico para orientar\ndecisiones regulatorias futuras, incluidas reformas normativas, planificación institucional y la\nformulación de políticas públicas en materia de protección de datos personales.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0034-R-Art-21",
+      "tipo": "articulo",
+      "numero": "21",
+      "titulo": "",
+      "texto_oficial": "Art. 21.- De forma permanente, la UPGE realizará el monitoreo y seguimiento de la ejecución\nde las recomendaciones derivadas del proceso de revisión y evaluación de la LOPDP, cuyos\nresultados, en lo tocante a los avances logrados y los obstáculos enfrentados, serán informados\nal Superintendente de Protección de Datos Personales y a la ciudadanía hasta el 31 de diciembre\nde cada año. Dicha información deberá constar en un informe de conocimiento público, que\ndetalle las acciones adoptadas, las acciones pendientes y las barreras identificadas; informe que\ndeberá publicarse a través de las plataformas institucionales.\nTÍTULO IV\nFINANCIAMIENTO Y PUBLICIDAD",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0034-R-Art-22",
+      "tipo": "articulo",
+      "numero": "22",
+      "titulo": "",
+      "texto_oficial": "Art. 22.- La SPDP deberá asignar los recursos necesarios del Plan Operativo Anual para el\ncumplimiento de las responsabilidades derivadas de esta resolución. Dichos recursos deberán\nser suficientes, proporcionales y oportunamente ejecutables, e incluirán personal técnico\nespecializado, herramientas informáticas, así como recursos logísticos y financieros, de acuerdo\ncon los requerimientos del procedimiento.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0034-R-Art-23",
+      "tipo": "articulo",
+      "numero": "23",
+      "titulo": "",
+      "texto_oficial": "Art. 23.- Tanto esta resolución como el Informe de Evaluación y Revisión de la LOPDP y\nsus anexos técnicos, serán publicados en la plataforma digital institucional de la SPDP con el\nobjeto de posibilitar su libre acceso y difusión. Dicha publicación deberá realizarse en el término\nde quince (15) días posteriores a su aprobación y mantenerse de forma permanente y accesible\nen formatos abiertos, que faciliten su consulta y reutilización por parte de los diferentes actores.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0034-R-DispGen-ÚNICA",
+      "tipo": "disposicion",
+      "numero": "ÚNICA",
+      "titulo": "Disposición Gen ÚNICA",
+      "texto_oficial": "La UPGE deberá elaborar la Guía Metodológica, así como el Procedimiento de Monitoreo y\nSeguimiento del Informe de Evaluación y Revisión de la LOPDP, en el plazo de tres meses\ncontados a partir de la publicación de esta resolución en el Registro Oficial. Dichos instrumentos\npodrán ser considerados para el desarrollo y elaboración del Informe de Evaluación y Revisión\nde los ejercicios fiscales 2024, 2025 y 2026.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0034-R-DispTrans-PRIMERA",
+      "tipo": "disposicion",
+      "numero": "PRIMERA",
+      "titulo": "Disposición Trans PRIMERA",
+      "texto_oficial": "Primera.- Dado que el funcionamiento institucional de la SPDP empezó en septiembre del\n2024 —y con el objetivo de cumplir con la quinta disposición general de la LOPDP—, el\nProcedimiento de Evaluación y Revisión de la Ley Orgánica de Protección de Datos Personales\ncorrespondiente a los ejercicios fiscales 2024, 2025, 2026 y 2027 se ejecutará mediante un\nproceso excepcional.\nTal proceso incluirá, únicamente, las siguientes fases: (i) Metodología; (ii) Recopilación de\nInformación; (iii) Análisis; (iv) Elaboración del Informe; y, (v) Presentación de Resultados.\nLas fases omitidas serán incorporadas a partir del ejercicio fiscal 2028.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0034-R-DispTrans-SEGUNDA",
+      "tipo": "disposicion",
+      "numero": "SEGUNDA",
+      "titulo": "Disposición Trans SEGUNDA",
+      "texto_oficial": "Segunda.- La UPGE elaborará la Guía Metodológica para la elaboración del Informe de\nEvaluación y Revisión de la Ley Orgánica de Protección de Datos Personales, para la aprobación\ndel Superintendente de Protección de Datos Personales. Esta Guía Metodológica se aplicará a\npartir del proceso de evaluación correspondiente al año 2028 y deberá estar concluida dentro del\nplazo de doce (12) meses contados desde la publicación de esta resolución en el Registro Oficial.\nR",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0034-R-DispTrans-TERCERA",
+      "tipo": "disposicion",
+      "numero": "TERCERA",
+      "titulo": "Disposición Trans TERCERA",
+      "texto_oficial": "Tercera.- La IRD identificará y designará a los actores de la sociedad civil y a los expertos\nde las organizaciones nacionales e internacionales que considere idóneos para integrar el GTER,\nde conformidad con los criterios de selección y el procedimiento establecido en esta resolución,\npara lo cual habrá de garantizar transparencia y justificación técnica de las decisiones adoptadas.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0034-R-DispFinal-ÚNICA",
+      "tipo": "disposicion",
+      "numero": "ÚNICA",
+      "titulo": "Disposición Final ÚNICA",
+      "texto_oficial": "Esta resolución entrará en vigencia a partir de su suscripción, sin perjuicio de su publicación\nen el Registro Oficial.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    }
+  ]
+}
