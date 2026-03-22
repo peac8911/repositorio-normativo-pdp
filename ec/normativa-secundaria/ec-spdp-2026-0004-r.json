@@ -1,0 +1,2124 @@
+{
+  "meta": {
+    "id": "EC-SPDP-2026-0004-R",
+    "jurisdiccion": "ec",
+    "tipo_fuente": "normativa-secundaria",
+    "nivel_jerarquico": 6,
+    "titulo": "Norma General de Transferencias o Comunicaciones Nacionales e Internacionales de Datos Personales",
+    "numero": "SPDP-SPD-2026-0004-R",
+    "fecha_publicacion": "2026-01-01",
+    "fecha_vigencia": "2026-01-01",
+    "vigente": true,
+    "materia": [
+      "pdp"
+    ],
+    "es_especializada": true,
+    "url_oficial": "https://www.superintendenciadedatos.gob.ec/",
+    "preambulo": "CONSIDERANDO:\nQue el numeral 19 del artículo 66 de la Constitución de la República del Ecuador (“CRE”)\nles reconoce y garantiza, a todas las personas, el derecho “a la protección de datos de carácter\npersonal, que incluye el acceso y la decisión sobre información y datos de este carácter, así\ncomo su correspondiente protección”;\nQue el artículo 213 CRE establece que “[l]as superintendencias son organismos técnicos de\nvigilancia, auditoría, intervención y control de las actividades económicas, sociales y\nambientales, y de los servicios que prestan las entidades públicas y privadas, con el propósito\nde que estas actividades y servicios se sujeten al ordenamiento jurídico y atiendan al interés\ngeneral (…)”; que forman parte de la Función de Transparencia y Control Social; y que,\nconforme lo dispone el artículo 204 idem, detentan “personalidad jurídica y autonomía\nadministrativa, financiera, presupuestaria y organizativa (…)”;\nQue el artículo 3 de la Decisión N° 897 de la Comunidad Andina (“CAN”), publicada en la\nGaceta Oficial del Acuerdo de Cartagena N° 4499 del 14 de julio del 2022, define como usuario\na la “[p]ersona natural o jurídica que en forma eventual o permanente, use algún servicio de\ntelecomunicaciones, de conformidad con la normativa interna de los Países Miembros”;\nQue el artículo 4 de la indicada Decisión N° 897 de la CAN les reconoce y garantiza a todos\nlos usuarios de la CAN “el derecho que tienen todos los usuarios de la Comunidad Andina al\ndebido tratamiento de sus datos personales y a la titularidad sobre los mismos, así como el\nderecho de acceso, uso, rectificación, eliminación, cancelación, oposición, limitación al\ntratamiento o circulación de los mismos y a la portabilidad de su información”;\nQue a través de la Ley Orgánica de Protección de Datos Personales (“LOPDP”) se creó la\nSuperintendencia de Protección de Datos Personales (“SPDP”) como un órgano de control, con\npotestad sancionatoria, de administración desconcentrada, con personalidad jurídica y\nautonomía administrativa, técnica, operativa y financiera, cuyo máximo titular es, de acuerdo\ncon el inciso primero del artículo 76 ídem, el Superintendente de Protección de Datos Personales;\nQue el artículo 76 de la LOPDP establece que “[l]a [Superintendencia de] Protección de\nDatos Personales es el órgano de control y vigilancia encargado de garantizar a todos los\nciudadanos la protección de sus datos personales, y de realizar todas las acciones necesarias\npara que se respeten los principios, derechos, garantías y procedimientos previstos en la [Ley\nOrgánica de Protección de Datos Personales]”;\nQue el numeral 5 de ese mismo artículo 76 de la LOPDP le confiere a la SPDP funciones,\natribuciones y facultades para “[e]mitir normativa general o técnica, criterios y demás actos\nque sean necesarios para el ejercicio de sus competencias y la garantía del ejercicio del derecho\na la protección de datos personales”;\nQue el numeral 10 del señalado artículo 76 de la LOPDP le atribuye a la SPDP, además, la\nfacultad de “[e]jercer el control y emitir las resoluciones de autorización para la transferencia\ninternacional de datos”;\nQue varios aspectos relacionados con la transferencia o comunicación de datos personales\nestán definidos y regulados por los artículos 4, 12, 17 de la LOPDP, así como por el capítulo V\nde este mismo cuerpo legal;\nQue, de igual manera, los artículos que van del 55 al 61, inclusive, de la LOPDP, regulan de\nforma específica la transferencia internacional de datos personales;\n\nQue los artículos 21, 22, 23, 38 del Reglamento General de la LOPDP (“RGLOPDP”), así\ncomo los que están contenidos en su capítulo XII, precisan los procedimientos y criterios para\nla transferencia nacional e internacional de datos personales, entre los cuales se incluyen la\nobligación de obtener el consentimiento del titular o contar con una causal legal de excepción;\nla exigencia de registrar las actividades de tratamiento, cuando corresponda; los aspectos que\ndeben estimarse para determinar el nivel adecuado de protección de países, organizaciones\ninternacionales, personas jurídicas o territorios económicos internacionales; y la validez de\ninstrumentos jurídicos tales como las normas corporativas vinculantes, las cláusulas\ncontractuales tipo, los códigos de conducta y los mecanismos de certificación;\nQue la SPDP es miembro de pleno derecho de la Red Iberoamericana de Protección de Datos\nPersonales (“RIPD”), con voz y voto, de acuerdo con la resolución unánimemente acordada en\nla Sesión Cerrada del 27 de mayo del 2024, que se llevó a cabo en el marco del XXI Encuentro\nIberoamericano 2024 de la RIPD realizado en Cartagena de Indias, Colombia;\nQue, de acuerdo con el literal a) del artículo 1 de su Reglamento, la RIPD persigue, entre\notros objetivos, “[p]romover la cooperación, el diálogo y el uso compartido de la información\npara el desarrollo de iniciativas y políticas de protección de datos y privacidad”;\nQue en el marco del XV Encuentro Iberoamericano de la RIPD se aprobaron y presentaron,\nel 20 de junio del 2017, los Estándares de Protección de Datos Personales de los Estados\nIberoamericanos (“Estándares Iberoamericanos”), que constituyen “un conjunto de directrices\norientadoras que contribuyan a la emisión de iniciativas regulatorias de protección de datos\npersonales en la región iberoamericana de aquellos países que aún no cuentan con estos\nordenamientos, o en su caso, [que] sirvan como referente para la modernización y actualización\nde las legislaciones existentes”;\nQue el artículo 36 de los Estándares Iberoamericanos instituyen, entre otros aspectos, las\nreglas generales para las transferencias de datos personales, mientras que el literal c) del apartado\n36.1. prevé, como uno de los supuestos para realizarlas, el hecho de que “[e]l exportador y\ndestinatario suscriban cláusulas contractuales o cualquier otro instrumento jurídico que ofrezca\ngarantías suficientes y que permita demostrar el alcance del tratamiento de los datos\npersonales, las obligaciones y responsabilidades asumidas por las partes y los derechos de los\ntitulares”;\nQue la RIPD tiene publicada la Guía de Implementación de Cláusulas Contractuales Modelo\npara la Transferencia Internacional de Datos Personales (“Guía de Implementación”), cuyo\nanexo contiene, en su primer apartado, el denominado “acuerdo modelo de transferencia\ninternacional de datos personales entre responsable y responsable”;\nQue, no obstante lo anterior, en la Guía de Implementación se declara que aquella “no\nreemplaza a las normativas nacionales ni a las orientaciones o criterios expresados por las\ndistintas autoridades de protección de datos de la región en el ejercicio de sus facultades”;\nQue a través de la resolución Nº SPDP-SPDP-2024-0022-R, publicada en el Registro Oficial\nNº 734 del 31 de enero del 2025, se expidió el Reglamento para la Creación, Modificación y\nDerogatoria de la Normativa de la SPDP;\nQue mediante la resolución N° SPDP-SPD-2025-0002-R del 3 de febrero del 2025 se aprobó\nel Plan Regulatorio Institucional del año 2025, en el cual se estableció la necesidad de expedir\nla normativa aplicable a las transferencias o comunicaciones de datos personales;\nQue la Intendencia de Regulación de Protección de Datos Personales (“IRD”), a través del\ninforme técnico Nº INF-SPDP-IRD-2025-0082 del 29 de septiembre del 2025, justificó la\npertinencia y la necesidad de emitir la Norma General de Transferencias o Comunicaciones\nNacionales e Internacionales de Datos Personales; informe técnico que, en su parte pertinente,\nseñala: “[l]a SPDP en ejercicio de sus funciones y atribuciones está facultada de conformidad\ncon el numeral 5 del artículo 76 de la LOPDP para emitir la Norma General de Transferencias\n\no Comunicaciones Nacionales e Internacionales de Datos Personales con el fin de regular los\nmecanismos, procedimientos y garantías aplicables a las transferencias o comunicaciones de\ndatos personales dentro y fuera del Territorio de la República del Ecuador.”; y, recomendó:\n“(…) iniciar con el proceso de socialización del proyecto de la Norma General de\nTransferencias o Comunicaciones Nacionales e Internacionales de Datos Personales, en\ncumplimiento con lo dispuesto por la Resolución N° SPDP-SPDP-2024-0022-R para que en el\ntérmino de veinte (20) días la ciudadanía pueda realizar sus aportes”;\nQue por medio del memorando N° SPDP-IRD-2025-0188-M, suscrito el 29 de septiembre\ndel 2025, la IRD puso en conocimiento de la Dirección de Asesoría Jurídica (“DAJ”) tanto el\nproyecto normativo denominado Norma General de Transferencias o Comunicaciones\nNacionales e Internacionales se Datos Personales, como el informe técnico N° INF-SPDP-\nIRD-2025-0082, para que, dentro del término de diez días, se pronuncie sobre la concordancia\ncon la normativa y la legalidad, de conformidad con lo dispuesto en la resolución N° SPDP-\nSPDP-2024-0022-R del 31 de diciembre del 2024, que contiene el Reglamento para la Creación,\nModificación y Derogatoria de la Normativa de la Superintendencia de Protección de Datos\nPersonales, publicado en el Registro Oficial N° 734 del 31 de enero del 2025;\nQue a través del informe jurídico N° INF-SPDP-DAJ-2025-0044, remitido a la IRD\nmediante memorando N° SPDP-DAJ-2025-0087-M suscrito el 29 de septiembre del 2025, la\nDAJ determinó que el proyecto de Norma General de Transferencias o Comunicaciones\nNacionales e Internacionales de Datos Personales es congruente con los principios\nestablecidos en la LOPDP, por cuanto no transgrede o contradice normas matrices, cumple con\nel principio de legalidad y, por ello, recomendó que “[l]a IRD debe disponer a quien\ncorresponda la publicación a través de la página web institucional e informar su publicación a\ntravés de las redes sociales institucionales, con la finalidad de que la ciudadanía, las\norganizaciones de la sociedad civil o interesados en general, de manera motivada, puedan\nremitir sus observaciones o realizar aportes respecto del contenido, para lo cual se debe indicar\nla forma para recibir dichas observaciones y aportes que será dentro de un término de veinte\n(20) días contados desde su publicación (…)”;\nQue mediante memorando N° SPDP-IRD-2025-0189 suscrito el 29 de septiembre del 2025,\nla IRD solicitó a las unidades administrativas de la SPDP que procedan con las acciones\npertinentes, a fin de que publiquen el proyecto que contiene la Norma General de\nTransferencias o Comunicaciones Nacionales e Internacionales de Datos Personales, en la\npágina web institucional y en las redes sociales de la SPDP, para que el proyecto de normativa\nesté disponible para la ciudadanía, las organizaciones de la sociedad civil o los interesados en\ngeneral, desde el 1 al 29 de octubre del 2025, con el objeto de poder recibir sus observaciones\no aportes, siempre que estuvieren debidamente motivados;\nQue, para cumplir con la resolución Nº SPDP-SPDP-2024-0022-R, se ejecutó el proceso de\nsocialización del proyecto que contiene la Norma General de Transferencias o\nComunicaciones Nacionales e Internacionales de Datos Personales, dentro del término de\nveinte días, de conformidad con el artículo 12 de dicha resolución;\nQue a través del informe técnico Nº INF-SPDP-IRD-2025-0113, suscrito el 30 de diciembre\ndel 2025, la IRD incorporó las observaciones y aportes que se consideraron relevantes y\nadecuados, previa justificación de las modificaciones realizadas al proyecto normativo;\nQue mediante memorando N° SPDP-IRD-2025-0271-M suscrito el 31 de diciembre del\n2025, la IRD remitió todo el expediente al suscrito Superintendente de Protección de Datos\nPersonales para que realice las observaciones correspondientes o, en su caso, para que lo\napruebe;\nQue mediante memorando N° SPDP-SPD-2026-0002-M del 9 de enero del 2026, el suscrito\nSuperintendente de Protección de Datos Personales comunicó a la IRD las observaciones que\nrealizó al proyecto de Norma General de Transferencias o Comunicaciones Nacionales e\n\nInternacionales de Datos Personales; y, además, solicitó que aquellas sean revisadas de\nconformidad con el artículo 14 del Reglamento para la Creación, Modificación y derogatoria de\nla Normativa de la Superintendencia de Protección de Datos Personales;\nQue mediante memorando N° SPDP-IRD-2026-0007-M del 27 de enero del 2026, la IRD\npuso en conocimiento del Superintendente de Protección de Datos Personales el proyecto que\ncontiene la Norma General de Transferencias o Comunicaciones Nacionales e\nInternacionales de Datos Personales debidamente subsanado, de conformidad con el artículo\n14 del aludido Reglamento para la Creación, Modificación y derogatoria de la Normativa de la\nSuperintendencia de Protección de Datos Personales;",
+    "anexos": [],
+    "version": "1.0.0"
+  },
+  "unidades": [
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-1",
+      "tipo": "articulo",
+      "numero": "1",
+      "titulo": "",
+      "texto_oficial": "Art. 1.- Esta norma general tiene por objeto regular los procedimientos y requisitos técnicos\ny jurídicos, que procuran garantizar el ejercicio de los derechos de protección de datos en las\ntransferencias o comunicaciones nacionales e internacionales de datos personales.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas",
+        "ambito-de-aplicacion.ambito-material"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "definicion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-2",
+      "tipo": "articulo",
+      "numero": "2",
+      "titulo": "",
+      "texto_oficial": "Art. 2.- Las disposiciones de esta norma general son de cumplimiento obligatorio para los\nresponsables del tratamiento que formen parte en las acciones de transferencia o comunicación\nde datos personales ya sean nacionales o internacionales, de acuerdo con el artículo 3 de la\nLOPDP.\nDe igual manera, estarán sujetos a esta norma los encargados que, a nombre y por cuenta del\nresponsable del tratamiento, nacional o internacionalmente transfieran o comuniquen datos\npersonales.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas",
+        "ambito-de-aplicacion.ambito-subjetivo"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-3",
+      "tipo": "articulo",
+      "numero": "3",
+      "titulo": "",
+      "texto_oficial": "Art. 3.- En esta norma general se entenderá por flujo transfronterizo de datos personales a la\ntransferencia o comunicación internacional realizada a un destinatario situado en un país distinto\nal del origen de los datos personales, sin importar el soporte en que aquellos se encuentren, los\nmedios por los cuales se efectuó la transferencia ni el tratamiento que reciban, siempre y cuando\nse realice en el marco de un organismo internacional de integración supranacional.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "ambito-de-aplicacion.definiciones-clave",
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "definicion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-4",
+      "tipo": "articulo",
+      "numero": "4",
+      "titulo": "",
+      "texto_oficial": "Art. 4.- Todo responsable o encargado deberá mantener, durante al menos tres (3) años, la\ndocumentación que respalde, demuestre y acredite la legalidad y legitimidad de la transferencia\no comunicación, tales como contratos, evaluaciones de impacto, medidas de seguridad\nadoptadas, entre otros, los cuales deberán ser puestos a disposición de la Superintendencia de\nProtección de Datos Personales (“SPDP”) si fueren requeridos.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-5",
+      "tipo": "articulo",
+      "numero": "5",
+      "titulo": "",
+      "texto_oficial": "Art. 5.- El responsable del tratamiento deberá facilitarles a los titulares el derecho a la\ninformación que está reconocido en la Ley Orgánica de Protección de Datos Personales\n(“LOPDP”).\nTÍTULO II\nTRANSFERENCIAS O COMUNICACIONES NACIONALES DE\nDATOS PERSONALES A TERCEROS",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transparencia-informacion.aviso-de-privacidad",
+        "derechos-del-titular.acceso"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-6",
+      "tipo": "articulo",
+      "numero": "6",
+      "titulo": "",
+      "texto_oficial": "Art. 6.- Las transferencias nacionales de datos personales deberán sujetarse a las siguientes\ncondiciones:\n6.1. Que exista una finalidad lícita, legítima y determinada, vinculada a las funciones del\nresponsable y del tercero;\n6.2. Que se cuente con una base de legitimación de conformidad con la LOPDP; y,\n\n6.3. Que se disponga del consentimiento informado del titular, salvo en los casos de\nexcepción previstos en la LOPDP.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-7",
+      "tipo": "articulo",
+      "numero": "7",
+      "titulo": "",
+      "texto_oficial": "Art. 7.- Cuando la transferencia se fundamente en el consentimiento del titular, aquel deberá\notorgarse de manera previa, libre, específica, informada e inequívoca, luego de haber sido\ninformado sobre la finalidad de la comunicación, la identidad o categoría del tercero destinatario\ny las garantías aplicables. El consentimiento podrá revocarse en cualquier momento.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-8",
+      "tipo": "articulo",
+      "numero": "8",
+      "titulo": "",
+      "texto_oficial": "Art. 8.- Se deberán implementar, en todo momento, medidas que garanticen la protección de\nlos datos transferidos, entre las que podrán considerarse:\n8.1. Limitar la transferencia a los datos estrictamente necesarios para el cumplimiento de\nla finalidad legítima previamente declarada;\n8.2. Emplear mecanismos de transferencia o comunicación seguros, incluidos el cifrado u\notras técnicas que preserven la confidencialidad e integridad de los datos personales;\n8.3. Formalizar un acuerdo escrito con el tercero o el destinatario en el que este último se\ncomprometa a utilizar los datos personales solo para los fines autorizados, así como\na aplicar un nivel de protección equivalente y abstenerse de comunicarlos\nulteriormente sin legitimación para ello; y,\n8.4. Limitar o controlar transferencias o comunicaciones ulteriores.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas",
+        "seguridad-del-tratamiento.medidas-seguridad"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-9",
+      "tipo": "articulo",
+      "numero": "9",
+      "titulo": "",
+      "texto_oficial": "Art. 9.- Cuando un titular ejerciere sus derechos respecto de datos que hayan sido\ntransferidos, el responsable del tratamiento deberá notificárselo al destinatario para que adopte\nlos mecanismos necesarios para garantizar la rectificación, actualización, supresión u oposición.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "derechos-del-titular.oposicion",
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "titular",
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "derecho",
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-10",
+      "tipo": "articulo",
+      "numero": "10",
+      "titulo": "",
+      "texto_oficial": "Art. 10.- El destinatario que reciba datos personales asume la calidad de responsable del\ntratamiento y, por ello, quedará obligado a:\n10.1. Respetar las finalidades para las que se le comunicaron los datos;\n10.2. Aplicar íntegramente la normativa nacional de protección de datos;\n10.3. Atender directamente las solicitudes de derechos de los titulares o, en su caso,\ncooperar con el responsable que efectuó la transferencia; y,\n10.4. Abstenerse de transferir posteriormente los datos sin legitimación adecuada.\nTÍTULO III\nTRANSFERENCIAS O COMUNICACIONES INTERNACIONALES\nCAPÍTULO I\nDECLARATORIA DE NIVEL ADECUADO DE PROTECCIÓN",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-11",
+      "tipo": "articulo",
+      "numero": "11",
+      "titulo": "",
+      "texto_oficial": "Art. 11.- El reconocimiento de nivel adecuado de protección podrá efectuarse, de oficio, por\nla SPDP, o también a petición de países, organizaciones internacionales, personas jurídicas o\nterritorios económicos internacionales.\nEn caso de peticiones cursadas por países, organizaciones internacionales, personas jurídicas\no territorios económicos internacionales, la solicitud deberá presentarse debidamente motivada\ny acompañada de información suficiente que acredite y demuestre:\n11.1. Detalle de la legislación nacional y normativa sectorial del país, que tuviere\nincidencia en materia de protección de datos personales;\n11.2. Detalle de la legislación en materia de seguridad nacional, pública y, en general,\naquella que tuviere relación con la defensa y seguridad del Estado, así como la\nlegislación en materia penal. Se debe hacer especial énfasis en las disposiciones que\nhabiliten el acceso a datos personales por parte de las autoridades del país, la\norganización internacional, la persona jurídica o el territorio económico\ninternacional;\n\n11.3. Detalle de la normativa sobre transferencias o comunicaciones ulteriores de datos\npersonales a terceros países, organizaciones o personas jurídicas;\n11.4. Detalle de la jurisprudencia vinculada a la protección de datos personales;\n11.5. Detalle de los derechos y de los mecanismos reconocidos a favor de los titulares\npara que los puedan ejercer de manera efectiva;\n11.6. Detalle de los deberes y obligaciones de los responsables y encargados del\ntratamiento de datos personales en el país u organización internacional;\n11.7. La existencia de una autoridad de protección de datos personales o similar, que sea\nindependiente y que tenga competencias de control y vigilancia del cumplimiento\nde la normativa en materia de protección de datos personales, así como de\ncompetencia para aplicar el régimen sancionatorio respectivo en el caso del\ncometimiento de infracciones en esta materia. Adicionalmente, se deberá especificar\nsi la autoridad brinda asistencia y asesoría a los titulares, así como si coopera con\ninstituciones y organismos internacionales y sus pares a nivel internacional;\n11.8. Detalle de los compromisos internacionales asumidos por el país, organización\ninternacional, persona jurídica o territorio económico internacional en cuanto a la\nmateria de protección de datos personales;\n11.9. Todo otro elemento que demuestre la existencia de un nivel de protección\nequivalente o superior al ecuatoriano; y,\n11.10. Domicilio electrónico para notificaciones.\nToda la información remitida deberá indicar el lugar y la forma en que pueda ser verificada.\nSin perjuicio de lo anterior, la SPDP podrá requerir información complementaria y/o realizar\nconsultas con la autoridad de protección de datos del Estado del solicitante, así como con\norganismos internacionales especializados en la materia.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.decision-de-adecuacion"
+      ],
+      "roles": [
+        "autoridad-control",
+        "responsable"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "definicion",
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-12",
+      "tipo": "articulo",
+      "numero": "12",
+      "titulo": "",
+      "texto_oficial": "Art. 12.- El procedimiento para el reconocimiento de nivel adecuado de protección se\ndesarrollará de conformidad con las siguientes fases, bajo la competencia de la SPDP y de sus\nunidades administrativas correspondientes:\n12.1. Admisión de la solicitud: La Intendencia General de Regulación de Protección de\nDatos Personales (“IRD”) calificará la petición presentada por el país, organización\ninternacional, persona jurídica o territorio económico internacional, previa\nverificación del cumplimiento de los requisitos formales previstos en el artículo\nprecedente.\n12.2. Subsanación: En caso de determinarse omisiones o incumplimientos relacionados\ncon los requisitos respectivos, se concederá al solicitante el término improrrogable\nde treinta (30) días para su subsanación, con la advertencia de que, en caso de no\nhacerlo o no haber acreditado suficientemente lo requerido, se dispondrá el archivo\ndel expediente, sin perjuicio de que lo pueda volver a presentar después de\ntranscurridos seis (6) meses desde la notificación de archivo.\n12.3. Requerimiento de información adicional: Cuando la documentación presentada\nresultare insuficiente para un análisis integral o surgieren dudas sobre el\ncumplimiento de los requisitos, la IRD podrá requerirle al solicitante que remita la\ninformación faltante o la que fuere complementaria, para lo cual habrá de señalar,\nde manera expresa, el alcance de lo solicitado y el plazo concedido para su entrega.\n12.4. Informe técnico: Una vez que la solicitud estuviere completa, o que aquella hubiese\nsido completada satisfactoriamente en caso de subsanación, la SPDP tendrá un plazo\nde hasta seis (6) meses para declarar al país, organización internacional, persona\n\njurídica, o territorio económico internacional con nivel adecuado de protección o,\nen su caso, negar la solicitud. La IRD elaborará un informe técnico, debidamente\nmotivado, en el cual verificará si el solicitante reúne los criterios y condiciones para\nrecibir la calificación de nivel adecuado de protección de datos personales.\nEl informe deberá analizar si la documentación remitida es pertinente, suficiente y\ncoherente con los estándares establecidos en la LOPDP y el RGLOPDP.\nA base de dicho análisis, la IRD deberá recomendarle al Superintendente de\nProtección de Datos Personales (“Superintendente”), de manera expresa, la\nprocedencia o no de declarar el nivel adecuado de protección.\n12.5. Decisión jerárquica: El expediente será remitido al Superintendente, quien\ndispondrá que la DAJ que elabore el proyecto de resolución, el cual deberá ser\npreparado y remitido a la máxima autoridad en el término de diez (10) días. A base\nde dicho proyecto, el Superintendente podrá expedir una resolución motivada para\nreconocer o, en su caso, negar el nivel adecuado de protección; resolución que será\nnotificada al solicitante de acuerdo con las normas de procedimiento administrativo\naplicables.\n12.6. Registro y publicidad: Expedida la resolución, será remitida a la Intendencia\nGeneral de Innovación Tecnológica y Seguridad de Datos Personales (“IIT”) para\nque se inscriba en el Registro Nacional de Datos Personales.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.decision-de-adecuacion"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-13",
+      "tipo": "articulo",
+      "numero": "13",
+      "titulo": "",
+      "texto_oficial": "Art. 13.- Cuando la SPDP actúe de oficio para reconocer el nivel adecuado de protección de\nun país, organización internacional, persona jurídica o territorio económico internacional, el\nprocedimiento se desarrollará conforme a las siguientes fases:\n13.1. Determinación inicial: La IRD identificará, por propia iniciativa, países,\norganizaciones internacionales, personas jurídicas o territorios económicos\ninternacionales respecto de los cuales existan antecedentes relevantes que\njustifiquen la evaluación de su nivel de protección de datos personales, para cuyos\nefectos emitirá el informe técnico respectivo.\n13.2. Apertura del expediente: Emitido el informe técnico antes señalado, la IRD\ndispondrá la apertura de un expediente administrativo, en el que se consignarán las\nfuentes de información iniciales a fin de cumplir con los requisitos establecidos en\nel RGLOPDP.\n13.3. Recolección de información: La IRD recabará, de manera directa o mediante\nrequerimientos formales a organizaciones internacionales, personas jurídicas\npúblicas o a las privadas que considerare necesarias, información oficial disponible\nsobre:\n13.3.1. Detalle de la legislación nacional y normativa sectorial del país o\nterritorio económico internacional, que tuviere incidencia en materia de\nprotección de datos personales;\n13.3.2. Detalle de la legislación en materia de seguridad nacional, pública y, en\ngeneral, aquella que tuviere relación con la defensa y seguridad del\nEstado, así como la legislación en materia penal. Se hará especial énfasis\nen las disposiciones que habiliten el acceso a datos personales por parte\nde las autoridades del país, organización o persona jurídica al que se le\npudiere reconocer, de oficio, el nivel adecuado de protección;\n13.3.3. Detalle de la normativa sobre transferencias ulteriores de datos\npersonales a terceros países, organizaciones o personas jurídicas;\n\n13.3.4. Detalle de la jurisprudencia vinculada a la protección de datos\npersonales;\n13.3.5. Detalle de los derechos y de los mecanismos reconocidos a favor de los\ntitulares para que los puedan ejercer de manera efectiva;\n13.3.6. Detalle de los deberes y obligaciones de los responsables y encargados\ndel tratamiento de datos personales en el país u organización\ninternacional;\n13.3.7. Verificación de la existencia de una autoridad de protección de datos\npersonales que sea independiente y que tenga competencias de control y\nvigilancia del cumplimiento de la normativa en materia protección de\ndatos personales, así como la competencia para aplicar el régimen\nsancionatorio en caso del cometimiento de infracciones en esta materia.\nAdicionalmente, se debe especificar si la autoridad brinda asistencia y\nasesoría a los titulares y cooperan con instituciones internacionales y/o\nsus pares a nivel internacional;\n13.3.8. Detalle de los compromisos internacionales asumidos por el país,\norganización internacional persona jurídica o territorio económico\ninternacional en cuanto a la materia de protección de datos personales; y,\n13.3.9. Cualquier otro elemento que demuestre la existencia de un nivel de\nprotección equivalente o superior al ecuatoriano.\nLa IRD podrá solicitarles a las instituciones de educación superior con quienes\ntuviere suscrito un acuerdo de entendimiento, que realicen la recolección de\ninformación.\n13.4. Consulta especializada: La IRD podrá requerir la intervención técnica de la\nIntendencia General de Control y Sanción (“ICS”), así como recabar informes de\norganismos internacionales, autoridades extranjeras homólogas, entidades\nacadémicas o centros de investigación especializados, en particular de universidades\ncon las que la SPDP mantuviere convenios de cooperación interinstitucional\nvigentes, dentro de los términos adecuados establecidos por dicha unidad\nadministrativa. Dichos informes deberán incorporarse íntegramente al expediente\nadministrativo respectivo, en caso de ser recibidos.\n13.5. Informe técnico: Una vez realizada la recolección de información, la SPDP tendrá\nhasta seis (6) meses para declarar a un país, organización internacional, persona\njurídica o territorio económico internacional con nivel adecuado de tratamiento de\ndatos personales. La IRD elaborará un informe motivado que verificará el\ncumplimiento de los criterios para otorgar la calificación de nivel adecuado.\nEl informe deberá analizar si se cumple de forma suficiente con los estándares\nestablecidos en la LOPDP y el RGLOPDP.\nA base de dicho análisis, la IRD deberá recomendarle al Superintendente, de manera\nexpresa, la procedencia o no de declarar el nivel adecuado de protección.\n13.6. Decisión jerárquica: El expediente será remitido al Superintendente, quien\ndispondrá que la DAJ elabore el proyecto de resolución, el cual deberá ser remitido\na la máxima autoridad en el término de diez (10) días. A base de dicho proyecto, el\nSuperintendente podrá expedir una resolución motivada para reconocer o, en su\ncaso, negar el nivel adecuado de protección; resolución que se notificará de acuerdo\ncon las normas del procedimiento administrativo aplicable.\n\n13.7. Registro y publicidad: Expedida la resolución, será remitida a la IIT para que se\ninscriba en el Registro Nacional de Datos Personales.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.decision-de-adecuacion"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-14",
+      "tipo": "articulo",
+      "numero": "14",
+      "titulo": "",
+      "texto_oficial": "Art. 14.- La resolución motivada que se expida para reconocer o negar el nivel adecuado de\nprotección, deberá, como mínimo, contener:\n14.1. La identificación del país, organización internacional, persona jurídica o territorio\neconómico internacional;\n14.2. El alcance del reconocimiento, incluidas las categorías de datos y finalidades de\ntratamiento autorizadas, en caso de haberlas;\n14.3. Las condiciones y limitaciones específicas;\n14.4. La vigencia del reconocimiento, que no podrá exceder de cuatro (4) años; y,\n14.5. La obligación de revisión anual, de acuerdo con la normativa aplicable.\nLa resolución se mandará a publicar en el Registro Oficial así como en el portal institucional\nde la SPDP. Se inscribirá, además, en el Registro Nacional de Protección de Datos Personales,\nque contendrá el listado público de países, organizaciones internacionales, personas jurídicas o\nterritorios económicos internacionales declarados con nivel adecuado de protección.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.decision-de-adecuacion"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-15",
+      "tipo": "articulo",
+      "numero": "15",
+      "titulo": "",
+      "texto_oficial": "Art. 15.- Las resoluciones de reconocimiento de nivel adecuado de protección tendrán una\nvigencia máxima de cuatro (4) años, contados desde su expedición; sin embargo, la SPDP\nrevisará su cumplimiento anualmente.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.decision-de-adecuacion"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-16",
+      "tipo": "articulo",
+      "numero": "16",
+      "titulo": "",
+      "texto_oficial": "Art. 16.- La SPDP cada año revisará, de oficio o a petición de parte —o también en cualquier\nmomento— si existieren circunstancias supervinientes que pudieren afectar las condiciones que\nmotivaron el reconocimiento.\nPara ejecutar dicha revisión, se seguirá el procedimiento de revisión establecido en estas\nnormas generales; y, en caso de que se determinare que han dejado de existir las condiciones\nfácticas o jurídicas que motivaron la declaratoria de nivel adecuado, la SPDP iniciará\nprocedimiento de revocatoria.\nUna vez expedida la resolución de revocatoria, deberán cesar, de manera inmediata, las\ntransferencias o comunicaciones hacia el país, organización internacional, persona jurídica o\nterritorio económico internacional, salvo que las transferencias se encontraren amparadas en\ngarantías adecuadas o en otros fundamentos previstos en la normativa de protección de datos\npersonales.\nLa revocatoria se mandará a publicar en el Registro Oficial y surtirá efectos desde su\nnotificación, aunque sin retroactividad respecto de las transferencias o comunicaciones\nrealizadas de manera anterior.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.decision-de-adecuacion"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-17",
+      "tipo": "articulo",
+      "numero": "17",
+      "titulo": "",
+      "texto_oficial": "Art. 17.- Cada año la SPDP realizará, de oficio o de manera extraordinaria (cuando existieren\ncircunstancias supervinientes que lo justifiquen), una revisión de los países, organizaciones\ninternacionales, personas jurídicas o territorios económicos internacionales reconocidos con\nnivel adecuado de protección, de acuerdo con el siguiente procedimiento:\n17.1. Apertura de la revisión: La IRD dispondrá la apertura del expediente de revisión\nmediante oficio motivado, fundado en el cumplimiento del plazo de vigencia o en\nla existencia de circunstancias nuevas o imprevistas que generen dudas razonables\nsobre la continuidad del nivel adecuado de protección.\n17.2. Recopilación de información: La IRD recabará información actualizada relativa al\ncumplimiento continuo de la LOPDP y el RGLOPDP, aunque no en forma\nexclusiva, especialmente cuando existieren:\n\n17.2.1. Modificaciones legislativas o regulatorias en materia de protección de\ndatos personales;\n17.2.2. Cambios institucionales o funcionales en la autoridad de control\nextranjera;\n17.2.3. Informes de organismos internacionales, autoridades homólogas y\nentidades académicas; y,\n17.2.4. Antecedentes recientes de vulneraciones, brechas de seguridad o\nsanciones relevantes.\n17.3. Consulta especializada: La IRD podrá solicitar a la IIT, así como a la ICS, la\nelaboración de informes técnicos destinados a evaluar la eficacia práctica del marco\nde protección de datos personales, así como las vulneraciones que, a su criterio,\nresultaren relevantes. De igual manera, podrá incorporar como fuentes los informes\nelaborados por organismos internacionales, entidades académicas y, en particular,\ncon las instituciones de educación superior con las que la SPDP mantuviere\nacuerdos de entendimiento, además de las organizaciones de la sociedad civil, para\nque analicen la efectividad real de dicho marco de protección.\n17.4. Informe preliminar y fase de observaciones: La IRD elaborará un informe\npreliminar con las conclusiones de la revisión, que será puesto a consideración del\npaís, organización internacional, persona jurídica o territorio económico\ninternacional para que solicite las aclaraciones que estimare necesarias; ello de\nconformidad con las siguientes reglas:\n17.4.1. Revisión cuando la evaluación inicial del nivel adecuado se hubiese\nrealizado por petición: El informe será notificado al país, organización\ninternacional, persona jurídica o territorio económico internacional\nsolicitante, otorgándole un término de treinta (30) días para presentar su\ncontestación, observaciones o descargos;\n17.4.2. Revisión cuando la evaluación inicial del nivel adecuado se hubiese\nrealizado de oficio: El informe preliminar será publicado en el portal\ninstitucional de la SPDP por un término de treinta (30) días, con el fin de\nque cualquier interesado pueda presentar observaciones, objeciones o\npruebas documentales que considere pertinentes.\nEn ambos casos, las observaciones recibidas se incorporarán al expediente y serán\nanalizadas en el informe final.\n17.5. Informe final: Sobre la base de la información recabada y de las observaciones\nrecibidas, la IRD elaborará un informe final motivado en el que se recomendará:\n17.5.1. Mantener el reconocimiento;\n17.5.2. Modificar las condiciones del reconocimiento; o,\n17.5.3. Revocar el reconocimiento del nivel adecuado de protección de datos\npersonales.\nEl informe final será elevado al Superintendente.\n17.6. Resolución de aprobación: El Superintendente, luego de la revisión del informe\nfinal remitido por la IRD, dispondrá que la DAJ elabore el proyecto de resolución\ncorrespondiente para que lo remita en el término de diez (10) días.\n17.7. Registro y publicidad: La resolución de revisión será notificada al país,\norganización internacional, persona jurídica o territorio económico internacional.\nDe igual manera, se la mandará a publicar en el Registro Oficial y será remitida a la\n\nIIT para su inscripción en el Registro Nacional de Protección de Datos, con el objeto\nde facilitar su disponibilidad para la ciudadanía.\nCAPÍTULO II\nTRANSFERENCIAS O COMUNICACIONES A PAÍSES, ORGANIZACIONES INTERNACIONALES,\nPERSONAS JURÍDICAS O TERRITORIOS ECONÓMICOS INTERNACIONALES\nCON NIVEL ADECUADO",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.decision-de-adecuacion"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-18",
+      "tipo": "articulo",
+      "numero": "18",
+      "titulo": "",
+      "texto_oficial": "Art. 18.- En la transferencia o comunicación a países declarados con nivel adecuado de\nprotección, el responsable del tratamiento, sin perjuicio de lo dispuesto en último inciso de este\nartículo, deberá:\n18.1. Verificar y constatar que el destinatario figure en el listado de países, organizaciones\ninternacionales, personas jurídicas o territorios económicos internacionales con\nnivel adecuado de protección y que la resolución no haya sido revocada o\nsuspendida a la fecha de la transferencia o comunicación;\n18.2. Adoptar medidas contractuales y técnicas para garantizar que el destinatario cumpla\ncon las obligaciones y principios de la LOPDP, incluidas aquellas cláusulas que\npropendan a garantizar la integridad, disponibilidad y confidencialidad de la\ninformación, la protección de los derechos de los titulares y la limitación de\ntransferencias o comunicaciones ulteriores;\n18.3. Mantener un registro actualizado de las transferencias o comunicaciones realizadas,\nque incluya las categorías de los datos, las finalidades y los destinatarios;\n18.4. Informar a los titulares de los datos sobre las transferencias o comunicaciones y los\nmecanismos de protección existentes; y,\n18.5. Cumplir con el registro de información sobre transferencias internacionales en el\nRegistro Nacional de Protección de Datos, de conformidad con el RGLOPDP.\nEstas mismas obligaciones las deberán cumplir los encargados que, a nombre y por cuenta\ndel responsable del tratamiento, transfirieren o comunicaren datos personales nacional o\ninternacionalmente.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-19",
+      "tipo": "articulo",
+      "numero": "19",
+      "titulo": "",
+      "texto_oficial": "Art. 19.- En las transferencias o comunicaciones de datos personales hacia países,\norganizaciones internacionales, personas jurídicas o territorios económicos internacionales que\nhubiesen sido declarados con nivel adecuado de protección, el destinatario deberá:\n19.1. Cumplir, en todo momento, con la normativa de protección de datos personales\nvigente en su jurisdicción y con los estándares reconocidos en la resolución de\nadecuación; y,\n19.2. Respetar las finalidades para las cuales recibió los datos, así como abstenerse de\ntransferirlos a otros destinatarios, salvo que contare con una base legal válida y\ncumpliere con las mismas condiciones de protección.\nCAPÍTULO III\nTRANSFERENCIAS O COMUNICACIONES POR GARANTÍAS ADECUADAS",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-20",
+      "tipo": "articulo",
+      "numero": "20",
+      "titulo": "",
+      "texto_oficial": "Art. 20.- Cuando el país, organización internacional, persona jurídica, territorio económico\ninternacional o destinatario no contare con un nivel adecuado de protección de datos personales,\nlas transferencias o comunicaciones sólo podrán efectuarse si el responsable o el encargado del\ntratamiento implementaren garantías adecuadas, que aseguren la protección efectiva de los\nderechos de los titulares.\nSe entenderán como garantías adecuadas:\n20.1. Las cláusulas contractuales tipo adoptadas o reconocidas por la SPDP, por\norganismos internacionales de los que el Ecuador fuere parte, o por autoridades de\n\nprotección de datos de los países con los que la SPDP hubiere suscrito acuerdos de\ncooperación;\n20.2. Las normas corporativas vinculantes por grupos empresariales, filiales o joint\nventures, aprobadas por la SPDP de conformidad con el procedimiento aplicable;\n20.3. Los códigos de conducta con carácter vinculante, que contaren con la aprobación de\nla SPDP; y,\n20.4. Los mecanismos de certificación emitidos por entidades acreditadas, que incluyan\ncompromisos jurídicamente exigibles y que aseguren el cumplimiento permanente\nde los estándares de la LOPDP y el RGLOPDP.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "autoridad-control",
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "permiso",
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-21",
+      "tipo": "articulo",
+      "numero": "21",
+      "titulo": "",
+      "texto_oficial": "Art. 21.- Las garantías adecuadas señaladas en el artículo anterior deberán cumplir, al menos,\nlas siguientes condiciones:\n21.1. Vinculatoriedad y oponibilidad jurídica: Deben ser jurídicamente exigibles,\nclaras, escritas y garantizarán el cumplimiento cabal de las obligaciones asumidas y\nla protección efectiva de los derechos de los titulares;\n21.2. Principios de protección de datos: Deben asegurar la observancia de los principios\nprevistos en la LOPDP;\n21.3. Supervisión y cumplimiento: Deben incorporar mecanismos de supervisión que\npermitan verificar, periódicamente, la observancia de las obligaciones asumidas;\n21.4. Derechos de los titulares: Deben reconocer los derechos previstos en la Ley\nOrgánica de Protección de Datos Personales y establecer procedimientos claros para\nsu ejercicio, así como establecer los plazos y canales para ejercerlos tanto ante el\ndestinatario como, en su caso, ante la Superintendencia de Protección de Datos\nPersonales;\n21.5. Transferencias o comunicaciones ulteriores: Deben garantizar que las\ntransferencias o comunicaciones ulteriores a terceros países u organizaciones\ninternacionales, sólo se podrán realizar si cumplen con los mismos requisitos y\ngarantías previstas en la LOPDP, el RGLOPDP y esta norma general;\n21.6. Aceptación de jurisdicción: Deben contemplar, de manera expresa, la obligación\nde que el destinatario acepte y se someta voluntariamente a la jurisdicción, a la\nnormativa y a las decisiones o resoluciones que dictare la SPDP, así como a las\nprovidencias judiciales y resoluciones de los jueces, tribunales y cortes ecuatorianos\nque fueren expedidos o dictados en materia de protección de datos personales; y,\n21.7. Reparación efectiva: Deben incluir mecanismos de responsabilidad y reparación\nintegral a favor de los titulares, en caso de vulneración de sus derechos.\nCAPÍTULO IV\nCLÁUSULAS CONTRACTUALES MODELO – TIPO",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-22",
+      "tipo": "articulo",
+      "numero": "22",
+      "titulo": "",
+      "texto_oficial": "Art. 22.- En lo que atañe a las transferencias de datos personales, la SPDP —en su calidad\nde miembro de pleno derecho de la RIPD— reconoce como propias las cláusulas contractuales\nmodelo-tipo (“CCM”) emitidas por y vigentes en el marco de dicha Red, específicamente las\nque están recogidas en el llamado “acuerdo modelo de transferencia internacional de datos\npersonales entre responsable y responsable”, que constan en anexo de la Guía de\nImplementación de Cláusulas Contractuales Modelo para la Transferencia Internacional de\nDatos Personales; y, en consecuencia, las considera como válidas y suficientes para legitimar las\ntransferencias o comunicaciones internacionales de los responsables o encargados hacia los\ndestinatarios, con excepción de lo previsto en el artículo siguiente.\n\nLas cláusulas contractuales modelo-tipo de la RIPD vigentes a la fecha, son las que constan\nen el Anexo I de esta norma general.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "encargado-del-tratamiento.contrato-encargo",
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-23",
+      "tipo": "articulo",
+      "numero": "23",
+      "titulo": "",
+      "texto_oficial": "Art. 23.- De conformidad con la legislación ecuatoriana, el encargo de tratamiento no\nconstituye una transferencia ni comunicación de datos personales. En consecuencia, las CCM\nentre responsables y encargados, emitidas por la RIPD, no son aplicables en la República del\nEcuador.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-24",
+      "tipo": "articulo",
+      "numero": "24",
+      "titulo": "",
+      "texto_oficial": "Art. 24.- Sin perjuicio de lo establecido en el artículo anterior, cuando se usaren las CCM\npor parte de un responsable en un encargo de tratamiento, dicho uso de lo tendrá como una buena\npráctica dentro del marco dado por el principio de responsabilidad proactiva, en cuanto\ncoadyuvan a la transparencia, seguridad jurídica y fortalecimiento de las obligaciones\ncontractuales en materia de protección de datos personales.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-25",
+      "tipo": "articulo",
+      "numero": "25",
+      "titulo": "",
+      "texto_oficial": "Art. 25.- En caso de que las CCM no cumplieren con alguno de los requisitos de validez\nprevistos en esta norma general, para que puedan ser consideradas válidas deberán incorporarse\nlas disposiciones necesarias a fin de garantizar el cumplimiento de los estándares establecidos\npor la normativa ecuatoriana de protección de datos personales.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-26",
+      "tipo": "articulo",
+      "numero": "26",
+      "titulo": "",
+      "texto_oficial": "Art. 26.- La SPDP podrá verificar el cumplimiento y la adecuada implementación de las\nCCM en el marco de sus facultades de control y supervisión. El incumplimiento de las\nobligaciones derivadas de dichas cláusulas constituirá una infracción de acuerdo con lo previsto\nen la LOPDP.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-27",
+      "tipo": "articulo",
+      "numero": "27",
+      "titulo": "",
+      "texto_oficial": "Art. 27.- La SPDP podrá reconocer y actualizar los modelos de cláusulas contractuales tipo\nadoptados en el marco de la RIPD o en otros foros internacionales especializados, siempre que\nresulten compatibles con la normativa nacional y coadyuven al fortalecimiento de la protección\nde datos personales en la República del Ecuador.\nCAPÍTULO V\nNORMAS CORPORATIVAS VINCULANTES",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "autoridad-control",
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "permiso",
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-28",
+      "tipo": "articulo",
+      "numero": "28",
+      "titulo": "",
+      "texto_oficial": "Art. 28.- Las normas corporativas vinculantes son de obligatorio cumplimiento y exigibilidad\npara todas las empresas de un grupo empresarial o económico que actúen como responsables del\ntratamiento, así como para sus encargados del tratamiento y el personal involucrado. Dichas\nnormas deberán integrarse de manera coherente e integral en todos los giros de negocio del grupo\nempresarial; y, por ello, deberán reflejarse en sus políticas internas, contratos laborales o\ninstrumentos equivalentes.\nLas normas corporativas vinculantes deberán cumplir con las obligaciones establecidas en el\nartículo 58 de la LOPDP, así como con los demás artículos concordantes del RGLOPDP.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "definicion",
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-29",
+      "tipo": "articulo",
+      "numero": "29",
+      "titulo": "",
+      "texto_oficial": "Art. 29.- El grupo empresarial deberá, como parte de su gobernanza de datos personales:\n29.1. Designar a la empresa que se encuentre domiciliada en el Ecuador como entidad\nprincipal responsable de la implementación, supervisión y respuesta frente a\ntitulares y/o ante la SPDP para el cumplimiento de las normas corporativas\nvinculantes aprobadas, sin perjuicio de la responsabilidad de las demás empresas\nque formaren parte del grupo;\n29.2. Designar un delegado de protección de datos personales, cuyos datos de contacto\ndeberán mantenerse disponibles y actualizados en el portal del grupo empresarial;\ny,\n29.3. Designar un apoderado especial cuando el grupo no cuente con establecimiento en\nel Ecuador, de acuerdo con la normativa de protección de datos personales. En todo\ncaso, el apoderado especial no servirá para suplir al delegado de protección de datos\npersonales; tampoco decidirá sobre el tratamiento, ni podrá desempeñar las\nfunciones de delegado de protección de datos personales.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-30",
+      "tipo": "articulo",
+      "numero": "30",
+      "titulo": "",
+      "texto_oficial": "Art. 30.- La aprobación de las normas corporativas vinculantes por parte de la SPDP tendrá\nun plazo de vigencia de cuatro (4) años. El grupo deberá informar a la SPDP sobre cualquier\nmodificación sustancial que se realizare en las normas corporativas vinculantes o en la estructura\ndel grupo empresarial. La SPDP podrá suspender o revocar la aprobación por incumplimientos\nde la normativa de protección de datos personales, o que pudieren generar riesgos sistémicos.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-31",
+      "tipo": "articulo",
+      "numero": "31",
+      "titulo": "",
+      "texto_oficial": "Art. 31.- Para la autorización de las normas corporativas vinculantes se cumplirá el siguiente\nprocedimiento:\n31.1. Presentación de la solicitud: El responsable del tratamiento que pretendiere\nrealizar una transferencia o comunicación internacional prevalido de normas\ncorporativas vinculantes, deberá presentar una solicitud motivada ante la SPDP y\nacompañada de la siguiente documentación:\n31.1.1. El proyecto de normas corporativas vinculantes desarrolladas para el\ngrupo específico, las cuales deben cumplir con la LOPDP, el RGLOPDP,\nesta norma general y la demás normativa que emitiere la SPDP;\n31.1.2. El análisis de riesgos y, si fuese exigible de acuerdo con el artículo 42 de\nla LOPDP, la evaluación de impacto;\n31.1.3. La estructura y composición del grupo, en los que deberán identificarse\ntodas las empresas cubiertas por las normas corporativas vinculantes, así\ncomo la identificación de la empresa principal responsable de su\nimplementación y cumplimiento; y,\n31.1.4. El detalle de los procesos y de las categorías de datos, en los que se\ndescribirán la naturaleza y finalidad de las transferencias o\ncomunicaciones entre las empresas, las categorías de los datos que se\ntransferirán y las categorías de los titulares a quienes corresponden.\n31.2. Revisión técnica: La IRD analizará la solicitud y verificará que el instrumento\npresentado cumpla con las condiciones mínimas establecidas en la LOPDP, el\nRGLOPDP, esta norma general y la demás normativa aplicable.\n31.3. Informe consolidado: La SPDP dispondrá de un plazo de hasta dos (2) meses, que\nse contarán desde que la solicitud hubiese sido presentada en forma completa, para\naprobar, disponer la subsanación o negar la petición. Sobre la base de la\ndocumentación presentada, la IRD elaborará un informe consolidado donde\nconstarán el análisis y los resultados de la revisión técnica realizada, así como la\nrecomendación de aprobar, subsanar o negar las normas corporativas vinculantes.\nEn caso de que se dispusiere la subsanación de las normas corporativas vinculantes,\nel responsable del tratamiento que hubiere presentado la solicitud tendrá el término\nde treinta (30) días para ajustarlas y presentarlas a la SPDP. Si no se llegase a\npresentar la subsanación en la forma solicitada, se archivará la solicitud de\nautorización, sin perjuicio de que las pueda volver a presentar en el término de\ntreinta (30) días contados desde que se emitiere la resolución de negativa o de\narchivo, según correspondiere.\n31.4. Resolución de aprobación: En caso de que el informe recomiende la aprobación\nde las normas corporativas vinculantes, el expediente será remitido al\nSuperintendente, quien dispondrá que la DAJ elabore el proyecto de resolución\ncorrespondiente para que lo remita en el término de diez (10) días contado desde la\nfecha de la notificación de dicha disposición.\nEl Superintendente expedirá una resolución motivada en virtud de la cual podrá:\n31.4.1. Aprobar las normas corporativas vinculantes propuestas; o,\n\n31.4.2. Negar la aprobación cuando no se cumplieren las condiciones\nestablecidas.\n31.5. Registro y publicidad: La resolución de aprobación será remitida a la IIT para que\nla haga constar en el Registro Nacional de Protección de Datos.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "responsable",
+        "encargado",
+        "autoridad-control"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-32",
+      "tipo": "articulo",
+      "numero": "32",
+      "titulo": "",
+      "texto_oficial": "Art. 32.- Para la revisión o, en su caso, para la revocatoria de la aprobación de las normas\ncorporativas vinculantes, se cumplirá el siguiente procedimiento:\n32.1. Inicio del procedimiento: La ICS podrá iniciar, de oficio o a petición de parte, el\nprocedimiento de revisión y posible revocatoria cuando existieren indicios\nrazonables de que el grupo empresarial, ya sea una empresa o ya fueren varias\nintegrantes del mismo grupo, incumplieron los requisitos establecidos en las normas\ncorporativas vinculantes aprobadas.\nSobre la base de tales indicios, la ICS deberá verificar la existencia del\nincumplimiento mediante el inicio de una actuación previa. Concluido dicho\nproceso, y de verificarse que el grupo empresarial o una de sus empresas se\nencontrare incursa en alguna causal de revocatoria o hubiere incumplido la\nnormativa de protección de datos personales, se remitirá a la IRD un informe técnico\nen el que evidenciará cuál ha sido el incumplimiento constatado.\nSi el incumplimiento fuere de aquellos constitutivos de infracción de acuerdo con\nla LOPDP, la ICS podrá continuar con la actuación previa y, eventualmente,\ndisponer que se implementen medidas correctivas.\n32.2. Causales de revocatoria: Constituyen causales de revocatoria:\n32.2.1. El incumplimiento de las condiciones mínimas previstas en la LOPDP,\nel RGLOPDP, esta norma general y la demás normativa que emitiere la\nSPDP;\n32.2.2. La comprobación de vulneraciones graves o reiteradas de datos\npersonales que afecten a los derechos y las libertades de los titulares;\n32.2.3. La ausencia de mecanismos internos efectivos de supervisión o auditoría\nfrente a incumplimientos;\n32.2.4. La negativa expresa o la imposibilidad del destinatario de sujetarse a la\njurisdicción ecuatoriana; y,\n32.2.5. La existencia de resoluciones internacionales o informes que evidencien\ndeficiencias estructurales en la protección de datos del destinatario.\n32.3. Informe técnico: Una vez que la IRD reciba el informe técnico emitido por la ICS,\ncomenzará a discurrir el plazo de dos (2) meses para la emisión de la resolución\ncorrespondiente.\nLuego de que la IRD tenga la información, elaborará un informe motivado en virtud\ndel cual podrá recomendar que se rectifique la aprobación de las normas\ncorporativas vinculantes, que se dispongan modificaciones o, en su caso, que la\nautorización sea revocada.\n32.4. Modificación: En caso de que se concluyere modificar las normas corporativas\nvinculantes, el grupo empresarial o las empresas que correspondan deberán\nmodificarlas en un término de treinta (30) días. Al efecto, se cumplirá el mismo\nprocedimiento establecido para la autorización.\n32.5. Resolución: Se le notificará al Superintendente con el informe técnico que\nrecomiende la revocatoria o la rectificación, quien dispondrá que la DAJ elabore el\nproyecto de resolución correspondiente para que lo remita en el término de diez (10)\n\ndías contado desde la fecha de la notificación de su disposición. Hecho lo anterior,\nel Superintendente expedirá una resolución motivada en virtud de la cual podrá:\n32.5.1. Ratificar las normas corporativas vinculantes;\n32.5.2. Modificarlas, en cuyo caso el proceso volverá a la etapa prevista en el\napartado 32.3.; o,\n32.5.3. Revocar la aprobación de las normas corporativas vinculantes.\n32.6. Efectos de la revocatoria: Expedida la resolución de revocatoria, el grupo\nempresarial deberá cesar inmediatamente, sin dilación alguna, las transferencias o\ncomunicaciones internacionales amparadas en las normas corporativas vinculantes\nrevocadas, salvo que pudiere justificar dicha transferencia o comunicación a través\nde otro mecanismo legal previsto en la LOPDP.\n32.7. Registro y publicidad: La resolución de revocatoria será notificada al grupo\nempresarial y a la IIT para su registro y publicación en el portal institucional de la\nSPDP, con el objeto de facilitar su acceso público.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-33",
+      "tipo": "articulo",
+      "numero": "33",
+      "titulo": "",
+      "texto_oficial": "Art. 33.- A través de la ICS, y mientras se lleve a cabo el proceso de revisión o revocatoria,\nla SPDP podrá disponer, mediante resolución motivada, la suspensión temporal de la aplicación\nde las normas corporativas vinculantes previamente aprobadas, siempre y cuando existieren\nindicios razonables de que dicha garantía no asegura un nivel de protección equivalente al\nprevisto en la LOPDP y el RGLOPDP.\nLa suspensión tendrá carácter preventivo y se mantendrá vigente hasta la conclusión del\nprocedimiento de revisión o revocatoria correspondiente.\nDurante el período de suspensión, el grupo empresarial únicamente podrá realizar\ntransferencias o comunicaciones internacionales que no se fundamenten en la garantía\nsuspendida. Las transferencias o comunicaciones previamente efectuadas sobre la base de dicha\ngarantía serán objeto de un control posterior o ex post facto.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-34",
+      "tipo": "articulo",
+      "numero": "34",
+      "titulo": "",
+      "texto_oficial": "Art. 34.- Las normas corporativas vinculantes deberán incluir, al menos, los elementos\nesenciales que permitan demostrar su cumplimiento efectivo, con la posibilidad de adaptar su\nestructura según el tamaño, naturaleza y complejidad del grupo empresarial.\nLos contenidos mínimos serán los siguientes:\n34.1. Objeto y alcance de aplicación;\n34.2. Principios y obligaciones generales;\n34.3. Derechos de los titulares de datos y sus mecanismos de atención;\n34.4. Estructura del grupo empresarial y roles de responsabilidad;\n34.5. Datos de contacto de todas las empresas del grupo;\n34.6. Procedimientos internos de cumplimiento, supervisión y reporte;\n34.7. Auditorías y verificaciones periódicas internas;\n34.8. Medidas de transparencia, control y cooperación con autoridades;\n34.9. Compromiso de formación y cultura organizacional en protección de datos\npersonales; y,\n34.10. Anexos o listados actualizables de filiales y encargados.\nCAPÍTULO VI\nPROCEDIMIENTO PARA LA APROBACIÓN DE CÓDIGOS DE CONDUCTA",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-35",
+      "tipo": "articulo",
+      "numero": "35",
+      "titulo": "",
+      "texto_oficial": "Art. 35.- Podrán presentar proyectos de códigos de conducta para la aprobación de la SPDP\ncualquier persona natural o jurídica, asociación, gremio, cámara, federación, consorcio, grupo\nde empresas o entidad que, debido a sus actividades, intervengan en operaciones de tratamiento\nde datos personales.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "responsable",
+        "encargado",
+        "autoridad-control"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-36",
+      "tipo": "articulo",
+      "numero": "36",
+      "titulo": "",
+      "texto_oficial": "Art. 36.- Todo proyecto de código de conducta deberá contener obligatoriamente, y como\nmínimo, lo siguiente:\n36.1. Una exposición de motivos que describa, de forma clara y comprensible, los\nobjetivos del código y la forma en que facilitará el cumplimiento de la normativa de\nprotección de datos personales;\n36.2. El ámbito de aplicación que, de manera específica, determine:\n36.2.1. Las operaciones de tratamiento reguladas;\n36.2.2. Los responsables o encargados a los que se aplica de acuerdo con el giro\ndel negocio o sector; y,\n36.2.3. Las materias o riesgos específicos que aborda, incluidas unas soluciones\nprácticas proporcionales.\n36.3. Los mecanismos de supervisión y control que aseguren el cumplimiento efectivo\ndel código, con la identificación de los órganos responsables y que permitan\nestructuras internas adaptadas a la escala del sector o actividad;\n36.4. Las medidas de protección de derechos que establezcan procedimientos claros,\naccesibles y gratuitos para que los titulares ejerzan sus derechos, así como los\nmecanismos para la gestión de reclamaciones y resolución de conflictos;\n36.5. Las reglas de transparencia que obliguen a los responsables y encargados adheridos\na informar a los titulares sobre su adhesión al código y las garantías que aquel les\nofrece;\n36.6. Los mecanismos de adhesión que describan cómo las entidades podrán adherirse al\ncódigo, las condiciones de admisibilidad y las obligaciones derivadas de dicha\nadhesión;\n36.7. Las medidas internas de advertencia, suspensión o exclusión en casos de\nincumplimiento;\n36.8. Los mecanismos de auditoría y verificación anual que permitan evaluar el\ncumplimiento del código, con la obligación de emitir informes internos y externos\ncuyos resultados podrán ser solicitados por la SPDP, sin perjuicio de que la\nautoridad pueda disponer, en cualquier momento, la realización de una auditoría\ncuando lo considere necesario;\n36.9. El compromiso de cooperación mediante el cual el órgano de supervisión del código\nse obligará a remitir informes cuando le fueren requeridos, así como a cooperar con\nla SPDP;\n36.10. Los procedimientos de actualización y revisión que garanticen la adecuación\npermanente del código a los cambios normativos, tecnológicos y de buenas prácticas\ninternacionales en materia de protección de datos;\n36.11. El modelo de gobernanza del código, que incluya:\n36.11.1. Los órganos internos de supervisión;\n36.11.2. Los procedimientos de toma de decisiones; y,\n36.11.3. Los mecanismos de control del cumplimiento.\n\n36.12. Una cláusula de publicidad que obligue a difundir el código aprobado en medios\naccesibles al público, así como un listado de las entidades adheridas que deberá\nmantenerse actualizado.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-37",
+      "tipo": "articulo",
+      "numero": "37",
+      "titulo": "",
+      "texto_oficial": "Art. 37.- El proyecto de código de conducta podrá presentarse en formato electrónico ante la\nSPDP a través de su portal web institucional o en forma física, de ser el caso, con las debidas\nfirmas de responsabilidad\nLa SPDP, dentro del término de treinta (30) días, verificará el cumplimiento de la\npresentación de los requisitos formales previstos en el artículo anterior y, en caso de hallarlos\ncumplidos, la IDR expedirá un acto de simple administración para notificarle tal particular al\nproponente, además de disponer la evaluación de fondo del proyecto.\nDe no cumplirse los requisitos formales, la SPDP dispondrá al proponente subsanar o aclarar\nla información en un término de treinta (30) días, para lo cual se identificarán expresamente los\ndefectos o disconformidades observados.\nSi el proponente no subsanare, no aclarare o lo hiciere de manera incompleta o errónea, la\nSPDP ordenará el archivo de la solicitud, sin perjuicio de que se la pueda volver a presentar en\nel término de treinta (30) días contados desde que se notifique el oficio en el que se informa tal\narchivo.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-38",
+      "tipo": "articulo",
+      "numero": "38",
+      "titulo": "",
+      "texto_oficial": "Art. 38.- Admitido a trámite el proyecto de código de conducta, la SPDP, dentro del término\nde sesenta (60) días, evaluará y verificará su conformidad con la normativa vigente,\nconsiderando la naturaleza del sector y las obligaciones de los responsables o encargados\ncomprendidos.\nAdemás de los criterios establecidos en la LOPDP, la SPDP analizará los siguientes aspectos:\n38.1. Relevancia sectorial: El código deberá responder a una necesidad específica del\nsector o actividad de tratamiento, además de aportar con valor práctico a la\naplicación de la normativa;\n38.2. Participación representativa: El código reflejará la intervención de actores\nrelevantes del sector que apliquen prácticas comunes y legítimas;\n38.3. Claridad y coherencia interna: Las disposiciones del código deberán ser claras,\nconsistentes y armonizadas con la LOPDP, el RGLOPDP, esta norma general y la\ndemás normativa aplicable expedida por la SPDP;\n38.4. Proporcionalidad: Las obligaciones previstas en el código deberán ser adecuadas\ny proporcionales al nivel de riesgo que implique el tratamiento de los datos;\n38.5. Mecanismos de adhesión y desvinculación: En el código deberán preverse reglas\nclaras para la adhesión voluntaria de entidades, así como procedimientos de\nsuspensión o exclusión en caso de incumplimiento;\n38.6. Supervisión independiente y eficaz: Los órganos o mecanismos de supervisión\nestablecidos en el código deberán contar con independencia funcional,\nprocedimientos transparentes, recursos suficientes y competencias claras para\ngarantizar el cumplimiento;\n38.7. Gestión de reclamaciones: En el código se deberán asegurar canales accesibles y\ngratuitos para los titulares;\n38.8. Auditorías y control periódico: Deberán preverse auditorías internas o externas\nperiódicas y sistemas de reporte que permitan verificar, objetivamente, el\ncumplimiento del código de conducta;\n\n38.9. Medidas correctivas: Se deberán establecer mecanismos correctivos en caso de\nincumplirse el código de conducta (como máxima medida se puede contemplar la\nexclusión);\n38.10. Transparencia: Se deberá disponer la obligación de informar públicamente sobre\nel código aprobado, sus adherentes y los mecanismos de supervisión, para así\nasegurarles a los titulares el acceso a esta información;\n38.11. Adaptabilidad: Deberán contemplar mecanismos de revisión y actualización\nperiódica del código frente a los cambios tecnológicos, regulatorios o de prácticas\nsectoriales; y,\n38.12. Cooperación institucional: Se deberá prever la coordinación y cooperación\npermanente con la SPDP y, cuando sea pertinente, con los organismos\ninternacionales en la materia.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-39",
+      "tipo": "articulo",
+      "numero": "39",
+      "titulo": "",
+      "texto_oficial": "Art. 39.- Todo código de conducta deberá prever mecanismos adecuados y eficaces de\nsupervisión, que podrán incluir:\n39.1. Auditorías periódicas internas o externas;\n39.2. Requisitos de presentación de informes de cumplimiento;\n39.3. Procedimientos de gestión de reclamaciones de titulares;\n39.4. Mecanismos de solución de conflictos;\n39.5. Medidas correctivas específicas en caso de incumplimiento al código de conducta;\ny,\n39.6. Canales para la denuncia de incumplimientos.\nLos resultados de las auditorías e informes deberán ser puestos en conocimiento del órgano\nde supervisión del código de conducta, del responsable o encargado del tratamiento auditado y,\nen caso así ser requerido, a la SPDP.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-40",
+      "tipo": "articulo",
+      "numero": "40",
+      "titulo": "",
+      "texto_oficial": "Art. 40.- Sobre la base del análisis de fondo antes detallado, la IRD elaborará un informe\ntécnico que contendrá la recomendación de aprobación del código de conducta o, de ser el caso,\nde modificación.\nEn caso de que se ordenare modificar el texto propuesto, el proponente que lo hubiese\npresentado tendrá el término de treinta (30) días para ajustar los textos a las normas vigentes y\npresentarlos a la SPDP. Si no se llegase a presentar el texto modificado, se archivará la solicitud\nde aprobación, sin perjuicio de que se pueda volver a presentar una nueva en el término de treinta\n(30) días contados desde que se notifique la resolución que dispone tal archivo.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-41",
+      "tipo": "articulo",
+      "numero": "41",
+      "titulo": "",
+      "texto_oficial": "Art. 41.- En caso de que el informe recomiende la aprobación del código de conducta, el\nexpediente será remitido al Superintendente, quien dispondrá que la DAJ elabore el proyecto de\nresolución para que lo remita en el término de diez (10) días contado desde la fecha de la\nnotificación de su disposición. Hecho lo anterior, el Superintendente expedirá una resolución\nmotivada en virtud de la cual podrá:\n41.1. Aprobar el código de conducta propuesto; o,\n41.2. Negarlo, si no se cumplieren las condiciones establecidas.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-42",
+      "tipo": "articulo",
+      "numero": "42",
+      "titulo": "",
+      "texto_oficial": "Art. 42.- La resolución de aprobación será remitida a la IIT para su inscripción en el Registro\nNacional de Protección de Datos de la Superintendencia de Protección de Datos Personales y\npublicada en el portal institucional, a fin de que la ciudadanía pueda conocer los instrumentos\nautorizados.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-43",
+      "tipo": "articulo",
+      "numero": "43",
+      "titulo": "",
+      "texto_oficial": "Art. 43.- Los códigos de conducta tendrán una vigencia de cuatro (4) años contados a partir\nde la resolución de aprobación; sin embargo, deberán ser revisados y, de ser necesario,\n\nactualizados para garantizar su adecuación a las reformas normativas o cambios sustanciales o\nsupervivientes en las operaciones de tratamiento que regulen.\nToda actualización deberá ser presentada ante la SPDP, que seguirá el procedimiento previsto\nen este capítulo.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-44",
+      "tipo": "articulo",
+      "numero": "44",
+      "titulo": "",
+      "texto_oficial": "Art. 44.- Los órganos de supervisión de cada código de conducta deberán cooperar\nactivamente con la SPDP, para lo cual habrán de informar, cuando les fuere requerido, sobre su\naplicación, los resultados de auditorías y las medidas correctivas implementadas.\nLa SPDP ejercerá sus facultades de supervisión y control de los códigos de conducta\naprobados, para lo cual podrá requerir información, en cualquier momento, a través de la ICS.\nCAPÍTULO VII\nCERTIFICACIÓN",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "permiso",
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-45",
+      "tipo": "articulo",
+      "numero": "45",
+      "titulo": "",
+      "texto_oficial": "Art. 45.- Podrán acogerse a los procesos de certificación relativos a las transferencias o\ncomunicaciones internacionales, los responsables o encargados del tratamiento que participen\nen transferencias o comunicaciones nacionales o internacionales de datos personales.\nLa certificación podrá referirse a operaciones específicas de tratamiento, a sistemas de gestión\nde protección de datos o a procesos determinados vinculados o relacionados con la transferencia\no comunicación de datos personales.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-46",
+      "tipo": "articulo",
+      "numero": "46",
+      "titulo": "",
+      "texto_oficial": "Art. 46.- La certificación no eximirá al responsable, en ninguna circunstancia, de sus\nobligaciones legales en materia de protección de datos personales.\nLa certificación servirá como garantía adecuada en el marco de las transferencias o\ncomunicaciones internacionales de datos personales, siempre y cuando cumplieren con las\ncondiciones de validez establecidas en esta norma general y en la demás normativa aplicable que\nexpidiere la SPDP.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-47",
+      "tipo": "articulo",
+      "numero": "47",
+      "titulo": "",
+      "texto_oficial": "Art. 47.- Las certificaciones expedidas en el marco de esta norma general serán reconocidas\ncomo garantías adecuadas, siempre y cuando cumplieren los requisitos establecidos en la\nnormativa específica aplicable que, para el efecto, dictare la SPDP.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-48",
+      "tipo": "articulo",
+      "numero": "48",
+      "titulo": "",
+      "texto_oficial": "Art. 48.- Los responsables certificados estarán sujetos a la supervisión permanente de la\nSPDP, sin perjuicio de las auditorías o evaluaciones que deban realizar los organismos\ncertificadores acreditados.\nCAPÍTULO VIII\nPROCEDIMIENTO PARA LA AUTORIZACIÓN DE TRANSFERENCIAS O COMUNICACIONES",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-49",
+      "tipo": "articulo",
+      "numero": "49",
+      "titulo": "",
+      "texto_oficial": "Art. 49.- Se regirán por el procedimiento establecido en este capítulo todas las transferencias\no comunicaciones internacionales de datos personales que no se encuentren amparadas por una\nresolución de nivel adecuado de protección, o de garantías adecuadas reconocidas en esta norma\ngeneral.\nLa obligación de solicitar autorización corresponderá al responsable del tratamiento o, de ser\nel caso, al encargado del tratamiento que ejecute la transferencia. En cualquier circunstancia,\nsolamente la deberá solicitar quien realizare la transferencia o comunicación.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "autoridad-control",
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-50",
+      "tipo": "articulo",
+      "numero": "50",
+      "titulo": "",
+      "texto_oficial": "Art. 50.- La solicitud, dirigida a la SPDP, se presentará de manera física o electrónica a través\ndel portal institucional. Aquella deberá contener:\n50.1. Identificación de intervinientes y destino: Datos completos del responsable del\ntratamiento establecido en el Ecuador; país de destino, organización internacional,\npersona jurídica o territorio económico internacional que será el receptor de los\ndatos;\n\n50.2. Justificación legal y técnica: Exposición de la necesidad, finalidad y\nproporcionalidad de la transferencia o comunicación respecto de la causal aplicada\no invocada;\n50.3. Análisis de riesgos: Para cada transferencia o comunicación de datos personales, y\nen todos los casos, se deberá realizar y ejecutar un análisis de riesgos que incluirá\nsu resultado;\n50.4. Evaluación de impacto: En todos los casos se deberá realizar, en forma obligatoria,\nuna evaluación de impacto, además de señalarse las medidas de mitigación\ncorrespondientes;\n50.5. Medidas de seguridad: Descripción detallada de las medidas técnicas,\norganizativas, administrativas y jurídicas aplicadas para garantizar la\nconfidencialidad, integridad y disponibilidad de los datos personales transferidos;\n50.6. Instrumento contractual: Copia del contrato o del acuerdo de transferencia o\ncomunicación con el destinatario, el cual deberá contener las obligaciones\ncorrespondientes establecidas en la LOPDP, el RGLOPDP, especialmente las de\ngarantizar los derechos de los titulares de datos personales; establecer las medidas\nde seguridad para garantizar la transferencia de datos personales con las mayores\nmedidas de seguridad posibles y posibles para cada caso concreto; sometimiento de\ntodo tratamiento a la normativa y jurisdicción de la República del Ecuador, entre\notras;\n50.7. Consentimiento del titular y vías de reclamación: Certificación del responsable\nde haber solicitado el consentimiento al titular respecto a la transferencia o\ncomunicación, así como de haberle informado la finalidad del tratamiento, sus\nderechos, los mecanismos eficaces de reclamación y tutela, los contactos del\ndelegado de protección de datos personales y la información de los posibles riesgos;\n50.8. Supuestos del RGLOPDP: Acreditar que se encuentra en uno de los dos supuestos\ndel artículo 77 del RGLOPDP; y,\n50.9. Motivación de imposibilidad: Explicación motivada acerca de la imposibilidad de\ncumplir la transferencia internacional de datos personales por garantías adecuadas\no por nivel adecuado de protección.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "responsable",
+        "encargado",
+        "autoridad-control"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-51",
+      "tipo": "articulo",
+      "numero": "51",
+      "titulo": "",
+      "texto_oficial": "Art. 51.- La IRD realizará una evaluación integral y rigurosa de la solicitud, para lo cual\ntendrá el plazo de tres (3) meses contados a partir de que la solicitud hubiese sido recibida en\nforma completa, considerando la totalidad de la información y la documentación presentada, y\ncon la previa verificación de que se cumplen los requisitos señalados en el artículo anterior.\nEn caso de advertirse omisiones o incumplimientos, se concederá al solicitante el término\nimprorrogable de treinta (30) días para su subsanación, con la condición de que, de no hacerlo,\nse dispondrá el archivo del expediente y de la solicitud presentada, sin perjuicio de que la pueda\nvolver a presentar después de transcurrido el plazo de un (1) mes contado desde la notificación\nde tal archivo.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-52",
+      "tipo": "articulo",
+      "numero": "52",
+      "titulo": "",
+      "texto_oficial": "Art. 52.- La IRD elaborará un informe técnico que deberá contener, como mínimo, lo\nsiguiente:\n52.1. Antecedentes;\n52.2. Base legal;\n52.3. Identificación de los datos personales a transferirse o comunicarse, lo que incluye\nel tipo de datos y su categoría, destinatario, país al que se transfieren, finalidad;\n52.4. Análisis de verificación del cumplimiento de los requisitos;\n\n52.5. Justificación de la aceptación o del rechazo de la autorización;\n52.6. Conclusiones; y,\n52.7. Recomendaciones.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-53",
+      "tipo": "articulo",
+      "numero": "53",
+      "titulo": "",
+      "texto_oficial": "Art. 53.- El expediente será enviado al Superintendente, quien dispondrá que la DAJ elabore\nel proyecto de resolución para que lo prepare y remita en el término de diez (10) días contado\ndesde la fecha de la notificación de su disposición. Hecho lo anterior, el Superintendente\nexpedirá una resolución motivada en virtud de la cual podrá autorizar o rechazar la solicitud. La\nresolución será notificada al solicitante de conformidad con las normas del procedimiento\nadministrativo aplicables.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-54",
+      "tipo": "articulo",
+      "numero": "54",
+      "titulo": "",
+      "texto_oficial": "Art. 54.- Expedida y notificada la resolución aprobatoria, será remitida a la IIT para su\ninscripción en el Registro Nacional de Protección de Datos, con el objeto de facilitar su\ndisponibilidad para la ciudadanía.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-55",
+      "tipo": "articulo",
+      "numero": "55",
+      "titulo": "",
+      "texto_oficial": "Art. 55.- Una vez otorgada la autorización, el responsable del tratamiento estará sujeto a las\nsiguientes obligaciones:\n55.1. Notificar los incidentes de seguridad a la SPDP de acuerdo con lo establecido en la\nLOPDP; y,\n55.2. Informarle a la SPDP los cambios materiales que se produjeren respecto de las\ncondiciones de la transferencia o comunicación, el contrato suscrito con el\ndestinatario o los cambios normativos en el país de destino que pudieren afectar a\nla protección de los datos personales.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-56",
+      "tipo": "articulo",
+      "numero": "56",
+      "titulo": "",
+      "texto_oficial": "Art. 56.- En circunstancias excepcionales, las resoluciones de autorización para las\ntransferencias o comunicaciones internacionales tendrán una vigencia específica que será\nestablecida en función de las finalidades de cada caso concreto; vigencia que no podrá ser mayor\na un (1) año. Dicha autorización, bajo ningún caso, podrá ser otorgada por un tiempo indefinido.\nLa SPDP podrá ejercer sus facultades de control en caso de que lo considere necesario, o de\nque se llegase a tener indicios de incumplimiento de las garantías a los derechos de protección\nde datos personales de los titulares. Para tal efecto, la SPDP podrá revocar la autorización en\nforma directa.\nUna vez emitida la resolución de revocatoria, deberán cesar, de manera inmediata, las\ntransferencias o comunicaciones hacia el país, organización internacional, persona jurídica o\nterritorio económico internacional, salvo que las transferencias o comunicaciones se encontraren\namparadas en garantías adecuadas o en otros fundamentos previstos en la normativa de\nprotección de datos personales.\nLa revocatoria se publicará en la página web institucional y surtirá efectos desde su\nnotificación, aunque sin retroactividad respecto de las transferencias o comunicaciones\nrealizadas de manera anterior.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-57",
+      "tipo": "articulo",
+      "numero": "57",
+      "titulo": "",
+      "texto_oficial": "Art. 57.- Para la revisión o, en su caso, para la revocatoria de las resoluciones de aprobación\nde las transferencias y comunicaciones, se cumplirá el siguiente procedimiento:\n57.1. Inicio del procedimiento: La ICS podrá iniciar, de oficio o a petición de parte, el\nprocedimiento de revisión y posible revocatoria cuando existieren indicios\nrazonables de incumplimiento de los requisitos de la solicitud que se presentó para\nobtener la autorización.\nSobre la base de tales indicios, la ICS deberá verificar la existencia del\nincumplimiento mediante el inicio de una actuación previa. Concluido dicho\nproceso, y de verificarse que el responsable o encargado se encuentra en una causal\nde revocatoria o ha incumplido la normativa de protección de datos personales, se\n\nremitirá a la IRD un informe técnico en el que evidenciará cuál ha sido el\nincumplimiento constatado.\nSi el incumplimiento fuere de aquellos constitutivos de infracción de acuerdo con\nla LOPDP, la ICS podrá continuar con la actuación previa y, eventualmente,\ndisponer que se implementen medidas correctivas.\n57.2. Causales de revocatoria: Constituyen causales de revocatoria cualquiera de las\nsiguientes:\n57.2.1. El incumplimiento de las condiciones mínimas previstas en la LOPDP,\nel RGLOPDP, esta norma general y la demás normativa que emitiere la\nSPDP;\n57.2.2. La comprobación de vulneraciones de datos personales;\n57.2.3. La ausencia o ineficacia de mecanismos de tutela de los derechos de los\ntitulares de datos personales;\n57.2.4. El incumplimiento o la inobservancia, por parte del destinatario, de\naquellas obligaciones contractuales que debe contraer con el responsable\ndel tratamiento y que le compelen:\n57.2.4.1. A acatar la normativa de protección de datos personales\necuatoriana, así como las resoluciones expedidas por la\nSPDP;\n57.2.4.2. A abstenerse de presentar oposición, manifestar rechazo o\nargumentar la incompetencia de la SPDP o la falta de\njurisdicción de los jueces, tribunales y cortes ecuatorianos;\ny,\n57.2.4.3. A hacer efectivo que, en el país donde se encontrare\nestablecido, se garantice el derecho de protección de datos\npersonales de los titulares o el derecho a la tutela judicial\nefectiva en materia de protección de datos personales.\n57.2.5. La existencia de resoluciones internacionales o informes que evidencien\ndeficiencias estructurales en el régimen de protección de datos aplicable\nal destinatario.\n57.3. Informe técnico: Una vez recibida la documentación, la IRD tendrá el plazo de tres\n(3) meses para emitir un informe técnico que recomiende revocar o ratificar la\nautorización. A base de la documentación obtenida, la IRD elaborará un informe\ntécnico motivado que establecerá si se ratifica la autorización o si se la revoca.\n57.4. Resolución: Se le notificará al Superintendente con el informe técnico que\nrecomiende la revocatoria o la rectificación, quien dispondrá que la DAJ elabore el\nproyecto de resolución correspondiente para que lo remita en el término de diez (10)\ndías contado desde la fecha de la notificación de su disposición. Hecho lo anterior,\nel Superintendente expedirá una resolución motivada en virtud de la cual podrá:\n57.4.1. Ratificar la autorización; o,\n57.4.2. Revocarla.\n57.5. Efectos de la revocatoria: Emitida la resolución de revocatoria, el responsable del\ntratamiento deberá cesar inmediatamente las transferencias o comunicaciones\ninternacionales, salvo que pudieren sustentarse en otro mecanismo legal previsto en\nla LOPDP.\n\n57.6. Registro y publicidad: La resolución de revocatoria será notificada al responsable\ndel tratamiento y a la IIT para su registro y publicación en el portal institucional de\nla SPDP, con el objeto de facilitar su disponibilidad para la ciudadanía.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-58",
+      "tipo": "articulo",
+      "numero": "58",
+      "titulo": "",
+      "texto_oficial": "Art. 58.- A través de la ICS, y mientras se lleve a cabo el proceso de revisión o revocatoria,\nla SPDP podrá disponer, mediante resolución motivada, la suspensión temporal de la\nautorización de transferencia internacional, siempre y cuando existieren indicios razonables de\nque no se están asegurando los niveles de protección equivalentes a los previstos en la LOPDP\ny el RGLOPDP.\nLa suspensión tendrá carácter preventivo y se mantendrá vigente hasta la conclusión del\nprocedimiento de revisión o revocatoria correspondiente.\nDurante el período de suspensión, el responsable del tratamiento no podrá ampararse en la\nautorización ya suspendida para realizar nuevas transferencias o comunicaciones\ninternacionales. Las transferencias o comunicaciones efectuadas de forma previa a la suspensión\nserán objeto de un control posterior o ex post facto.\nTÍTULO IV\nFLUJOS TRANSFRONTERIZOS, MECANISMOS DE TRANSPARENCIA,\nREGISTRO Y REGULARIZACIÓN\nCAPÍTULO I\nRÉGIMEN ESPECIAL “INTRA-CAN” PARA LA COMUNIDAD ANDINA",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-59",
+      "tipo": "articulo",
+      "numero": "59",
+      "titulo": "",
+      "texto_oficial": "Art. 59.- Las transferencias o comunicaciones internacionales hacia los países miembros de\nla Comunidad Andina se considerarán, por mandato comunitario, como flujos transfronterizos\nde datos personales y, en consecuencia, dichos Estados serán reconocidos como países con nivel\nadecuado de protección sin necesidad de evaluación adicional por parte de la SPDP, salvo que\nse verificaren deficiencias graves en el cumplimiento de la normativa comunitaria o nacional\nque fuere aplicable.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "permiso",
+        "excepcion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-60",
+      "tipo": "articulo",
+      "numero": "60",
+      "titulo": "",
+      "texto_oficial": "Art. 60.- En las transferencias o comunicaciones de datos personales realizadas dentro de la\nComunidad Andina, el responsable del tratamiento deberá garantizarle al titular el derecho a la\ninformación en los términos del artículo 12 de la LOPDP, especialmente en relación a:\n60.1. La identidad del responsable y el destinatario;\n60.2. La categoría y los tipos de datos personales transferidos o comunicados;\n60.3. La finalidad de la transferencia o comunicación;\n60.4. La duración del tratamiento; y,\n60.5. La posibilidad de revocar el consentimiento en cualquier momento.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-61",
+      "tipo": "articulo",
+      "numero": "61",
+      "titulo": "",
+      "texto_oficial": "Art. 61.- Los responsables y encargados del tratamiento que realizaren transferencias bajo el\nrégimen especial Intra-CAN, deberán adoptar y acreditar la adopción de medidas documentales\nque demuestren el cumplimiento de las obligaciones de protección de datos, incluidos contratos,\npolíticas internas, análisis de riesgos, evaluaciones de impacto y reportes de seguridad.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas",
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "responsable",
+        "encargado",
+        "autoridad-control"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-62",
+      "tipo": "articulo",
+      "numero": "62",
+      "titulo": "",
+      "texto_oficial": "Art. 62.- Cada bienio la SPDP elaborará un informe consolidado sobre el estado de las\ntransferencias internacionales dentro de la Comunidad Andina, incluidas las estadísticas, las\nvulneraciones reportadas y las medidas adoptadas. Este informe será remitido a la Secretaría\nGeneral de la CAN para efectos de supervisión y cooperación regional.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.decision-de-adecuacion"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-63",
+      "tipo": "articulo",
+      "numero": "63",
+      "titulo": "",
+      "texto_oficial": "Art. 63.- Si la SPDP detectare o determinare que un Estado miembro de la Comunidad\nAndina incumple con las garantías de protección de datos previstas en la Decisión N° 897,\niniciará un proceso de verificación de acuerdo con el procedimiento de evaluación de país\nadecuado y, de ser lo procedente, podrá recomendarle al Consejo Andino de Ministros de\n\nRelaciones Exteriores la adopción de medidas correctivas, sin perjuicio de ejercer sus facultades\nde control posterior o ex post facto dentro de la República del Ecuador.\nCAPÍTULO II\nREGISTRO Y TRANSPARENCIA",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-64",
+      "tipo": "articulo",
+      "numero": "64",
+      "titulo": "",
+      "texto_oficial": "Art. 64.- Los responsables o encargados del tratamiento que realizaren transferencias\ninternacionales de datos personales deberán inscribirlas, obligatoriamente, en el Registro\nNacional de Protección de Datos, de conformidad con las siguientes reglas:\n64.1. Información sujeta a registro: Todas las transferencias o comunicaciones\ninternacionales de datos personales se sujetarán estrictamente a lo dispuesto en el\nartículo 78 del RGLOPDP.\n64.2. Transferencias sujetas a inscripción individual: Se inscribirán, caso por caso, las\ntransferencias o comunicaciones internacionales realizadas basadas en:\n64.2.1. Las autorizaciones conferidas para casos excepcionales; y,\n64.2.2. Flujos transfronterizos realizados bajo régimen especial Intra-CAN.\nPara las trasferencias o comunicaciones sujetas a inscripción individual, la\ninscripción deberá realizarse con un término mínimo de diez (10) días previo a la\noperación; y, en caso de transferencias o comunicaciones continuas, desde el inicio\nde su ejecución.\n64.3. Transferencias o comunicaciones sujetas a reporte agregado: Las operaciones\nde transferencias o comunicaciones realizadas hacia países, organizaciones\ninternacionales, personas jurídicas o territorios económicos internacionales con\nnivel adecuado de protección reconocido por la SPDP, o que se efectuaren mediante\nla implementación de garantías adecuadas, no requerirán inscripción individual. En\nestos casos, el responsable o encargado del tratamiento deberá presentarle un reporte\nconsolidado anual a la SPDP, dentro del primer trimestre de cada año, que incluya\nlas salvaguardias adoptadas en pro de los derechos y libertades de los titulares, así\ncomo los demás elementos establecidos en el artículo 78 del RGLOPDP.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-65",
+      "tipo": "articulo",
+      "numero": "65",
+      "titulo": "",
+      "texto_oficial": "Art. 65.- La inscripción o reporte será requisito para acreditar la licitud de la transferencia o\ncomunicación. La SPDP podrá verificar la veracidad de la información, solicitar aclaraciones y\nrequerir documentación adicional en el marco de sus facultades de control.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-66",
+      "tipo": "articulo",
+      "numero": "66",
+      "titulo": "",
+      "texto_oficial": "Art. 66.- La SPDP publicará en su portal electrónico un extracto del Registro Nacional de\nTransferencias Internacionales, que contendrá el nombre del país, organización internacional,\npersona jurídica o territorio económico internacional hacia los cuales se hubieren realizado\ntransferencias internacionales o comunicaciones.\nLa publicación no incluirá información sensible, datos personales, secretos empresariales ni\notros elementos que pudieren comprometer la seguridad de los titulares o de los responsables y\nencargados del tratamiento.\nCAPÍTULO III\nACUERDOS DE ENTENDIMIENTO CON INSTITUCIONES DE EDUCACIÓN SUPERIOR",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-67",
+      "tipo": "articulo",
+      "numero": "67",
+      "titulo": "",
+      "texto_oficial": "Art. 67.- Los acuerdos de entendimiento son los instrumentos jurídicos de cooperación\ninterinstitucional —celebrados entre la SPDP, a través de la IRD, y las instituciones de educación\nsuperior— que tienen por objeto exclusivo la preparación de informes técnicos acerca del nivel\nde protección de datos personales que tienen los países, las organizaciones internacionales, las\npersonas jurídicas o los territorios económicos internacionales; todo ello con miras al posible\nreconocimiento del nivel adecuado de protección o, en su caso, para la revisión o revocatoria del\nnivel adecuado de protección que ya estuviere reconocido.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "permiso",
+        "definicion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-68",
+      "tipo": "articulo",
+      "numero": "68",
+      "titulo": "",
+      "texto_oficial": "Art. 68.- La necesidad de suscribir un acuerdo de entendimiento podrá originarse de oficio o\na petición de parte, siempre que se identifique la necesidad y el interés de la institución de\neducación superior.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-69",
+      "tipo": "articulo",
+      "numero": "69",
+      "titulo": "",
+      "texto_oficial": "Art. 69.- Para la suscripción de un acuerdo de entendimiento se seguirá el siguiente\nprocedimiento:\n69.1. Informe técnico de necesidad: La IRD elaborará un informe técnico de necesidad,\nque contendrá, al menos, lo siguiente:\n69.1.1. Antecedentes y justificación del acuerdo de entendimiento;\n69.1.2. Procedencia y necesidad de la suscripción del acuerdo de entendimiento;\n69.1.3. País, organización internacional, persona jurídica o territorio económico\ninternacional que será objeto de evaluación por parte institución de\neducación superior;\n69.1.4. Objeto del acuerdo de entendimiento;\n69.1.5. Metodología propuesta;\n69.1.6. Alcance previsto;\n69.1.7. Cronograma de ejecución;\n69.1.8. Obligaciones y compromisos de la institución de educación superior; y,\n69.1.9. Recomendación expresa sobre la procedencia o no de suscribir el\nacuerdo.\n69.2. Determinación: De oficio, la IRD iniciará el procedimiento para la suscripción del\nacuerdo de entendimiento, siempre y cuando verifique, en su informe técnico de\nnecesidad, la idoneidad de contar con un estudio técnico sobre el nivel adecuado de\nprotección de datos personales en un país, organización internacional, persona\njurídica o territorio económico internacional.\n69.3. Presentación de la solicitud a la institución de educación superior: Con el objeto\nde comunicar la necesidad de suscribir el acuerdo de entendimiento, la IRD le\ncursará a la institución de educación superior una solicitud en la que constará la\npropuesta de suscripción y su finalidad.\n69.4. Contestación de la institución de educación superior: La institución de educación\nsuperior dispondrá de un término de veinte (20) días para responder, afirmativa o\nnegativamente, la solicitud cursada por la SPDP. Vencido el término, la falta de\nrespuesta expresa se la tendrá como negativa.\nSi se aceptare la solicitud, la SPDP preparará y remitirá el proyecto del acuerdo de\nentendimiento a la institución de educación superior.\nDesde la fecha del envío del proyecto empezará a discurrir un término de sesenta\n(60) días para suscribir el acuerdo de entendimiento, incluido el tiempo que las\npartes empleen en las revisiones y los ajustes que quisieren realizarle al texto del\nborrador. En caso de que no se suscribiere el acuerdo de entendimiento dentro del\ntérmino señalado, se entenderá que las partes han desistido de celebrarlo.\n69.5. Contenido del acuerdo de entendimiento: El acuerdo de entendimiento contendrá\nel siguiente clausulado:\n69.5.1. Antecedentes;\n69.5.2. Objeto;\n69.5.3. Obligaciones;\n\n69.5.4. Responsabilidades;\n69.5.5. Acuerdo de confidencialidad;\n69.5.6. Acuerdo de tratamiento adecuado de datos personales;\n69.5.7. Vigencia;\n69.5.8. Plazo para el cumplimiento de la entrega del informe técnico del país, la\norganización internacional, la persona jurídica o el territorio económico\ninternacional que es objeto del análisis; y,\n69.5.9. Aceptación y firmas.\n69.6. Suscripción: Una vez autorizado, el acuerdo de entendimiento será suscrito por el\nIntendente General de Regulación de Protección de Datos Personales (o por el\nfuncionario delegado de la IRD) y el representante legal o convencional de la\ninstitución de educación superior.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "autoridad-control",
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-70",
+      "tipo": "articulo",
+      "numero": "70",
+      "titulo": "",
+      "texto_oficial": "Art. 70.- La institución de educación superior deberá entregar el informe técnico\ndebidamente sustentado en un plazo máximo de noventa (90) días contado desde la suscripción\ndel acuerdo de entendimiento, salvo que en el instrumento se hubiere estipulado un plazo\ndiferente por razones justificadas.\nEn el informe técnico se deberá concluir si el país, organización internacional, persona\njurídica o territorio económico internacional evaluado tiene o no un nivel adecuado de protección\nde datos personales.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "autoridad-control",
+        "encargado"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-71",
+      "tipo": "articulo",
+      "numero": "71",
+      "titulo": "",
+      "texto_oficial": "Art. 71.- Los informes técnicos tendrán carácter consultivo y servirán como fuentes en los\nprocedimientos de reconocimiento, revisión o revocatoria de niveles adecuados de protección,\nsin que por ello se sustituya la competencia exclusiva de la IRD.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-72",
+      "tipo": "articulo",
+      "numero": "72",
+      "titulo": "",
+      "texto_oficial": "Art. 72.- Las instituciones de educación superior podrán solicitar, a través de su representante\nlegal, la suscripción de un acuerdo de entendimiento con la SPDP a través de la IRD, para\ncooperar en la investigación y análisis internacional sobre el nivel adecuado de protección de\ndatos personales de un país, organización internacional, persona jurídica o territorio económico\ninternacional.\nLa solicitud así presentada será tramitada de acuerdo con el siguiente procedimiento:\n72.1. Solicitud de cooperación interinstitucional: La petición, debidamente motivada,\nserá dirigida al Superintendente. Junto con la solicitud deberán presentarse los\nsiguientes documentos:\n72.1.1. Acreditación de la representación de quien suscribe la solicitud, para lo\ncual se adjuntará una copia certificada del acta de designación,\nnombramiento, poder o cualquier otro documento equivalente;\n72.1.2. Certificado de inscripción en el Registro Único de Contribuyentes;\n72.1.3. Dirección de correo electrónico para notificaciones; y,\n72.1.4. Los demás documentos que la naturaleza del acuerdo requiriese.\n72.2. Calificación de la solicitud: La IRD calificará la solicitud dentro del término de\nveinte (20) días contados a partir haber sido recibida, para lo cual verificará el\ncumplimiento de los requisitos formales y la pertinencia del pedido.\n72.3. Subsanación: Si se detectaren omisiones, inconsistencias o falta de requisitos o\ndocumentos, la IRD se lo hará saber a la institución solicitante mediante\nnotificación, para lo cual le concederá un término de treinta (30) días con el objeto\nde que proceda a subsanar lo que corresponda. Vencido el término, la solicitud será\narchivada de no haberse subsanado, aunque podrá presentarse nuevamente.\n\n72.4. Informe técnico de necesidad: Una vez admitida la solicitud, la IRD elaborará un\ninforme técnico de necesidad, dentro del término de treinta (30) días, que contendrá:\n72.4.1. Antecedentes y justificación del acuerdo de entendimiento;\n72.4.2. Procedencia y necesidad de la suscripción del acuerdo de entendimiento;\n72.4.3. País, organización internacional, persona jurídica o territorio económico\ninternacional solicitado para la evaluación de la institución de educación\nsuperior;\n72.4.4. Objeto del acuerdo de entendimiento;\n72.4.5. Metodología propuesta;\n72.4.6. Alcance previsto;\n72.4.7. Cronograma de ejecución;\n72.4.8. Obligaciones y compromisos de la institución de educación superior; y,\n72.4.9. Recomendación expresa sobre la procedencia o no de la suscripción del\nacuerdo.\n72.5. Aprobación del acuerdo de entendimiento: Una vez realizado el informe técnico\nde necesidad, será remitido al Superintendente junto con el proyecto del acuerdo de\nentendimiento.\nEl Superintendente dispondrá que la DAJ elabore el proyecto de resolución, el cual\ndeberá ser remitido a la máxima autoridad en el término de cinco (5) días. A base\nde dicho proyecto, el Superintendente podrá expedir una resolución motivada para\naprobar o, en su caso, negar la suscripción del acuerdo de entendimiento. En todo\ncaso, dicha resolución será notificada a la institución solicitante.\nSi se negare la suscripción del acuerdo de entendimiento, se dispondrá el archivo de\nla solicitud sin perjuicio de poder volverla a presentar.\n72.6. Suscripción del acuerdo de entendimiento: Una vez revisado y aprobado, el\nacuerdo de entendimiento será suscrito por el Intendente General de Regulación de\nProtección de Datos Personales (o por el funcionario delegado de la IRD) y el\nrepresentante legal o convencional de la institución de educación superior, dentro\nde un término no mayor a veinte (20) días contados desde la notificación de la\naprobación.\nEn caso de que no se suscribiere el acuerdo de entendimiento dentro del término\nseñalado, se entenderá que las partes han desistido de celebrarlo.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "encargado",
+        "autoridad-control"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-73",
+      "tipo": "articulo",
+      "numero": "73",
+      "titulo": "",
+      "texto_oficial": "Art. 73.- La institución de educación superior deberá entregar el informe técnico\ndebidamente sustentado en un plazo máximo de noventa (90) días contado desde la suscripción\ndel acuerdo de entendimiento, salvo que en el instrumento se hubiere estipulado un plazo\ndiferente por razones justificadas.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "autoridad-control",
+        "encargado"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-Art-74",
+      "tipo": "articulo",
+      "numero": "74",
+      "titulo": "",
+      "texto_oficial": "Art. 74.- Los informes técnicos tendrán carácter consultivo y servirán como referencias en\nlos procedimientos de reconocimiento, revisión o revocatoria de niveles adecuados de\nprotección, sin que por ello se sustituya la competencia exclusiva de la IRD.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transferencias-internacionales.garantias-apropiadas"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [
+        "transferencia",
+        "comunicacion"
+      ],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-DispTrans-PRIMERA",
+      "tipo": "disposicion",
+      "numero": "PRIMERA",
+      "titulo": "Disposición Trans PRIMERA",
+      "texto_oficial": "Primera.- Las transferencias o comunicaciones internacionales de datos personales\nefectuadas con anterioridad a la vigencia de la LOPDP, o realizadas antes de la vigencia de esta\nnorma general, deberán acogerse al siguiente procedimiento de regularización:\n\n1.a. Notificación inicial: Dentro de los doce (12) meses posteriores a la vigencia de esta\nnorma general, los responsables y encargados del tratamiento deberán notificarle a la\nSPDP la existencia de transferencias o comunicaciones internacionales previas, para\nlo cual especificarán:\n1.a.1. País o entidad destinataria;\n1.a.2. Categorías de datos transferidos;\n1.a.3. Finalidad de la transferencia o comunicación; y,\n1.a.4. Instrumento jurídico o práctica vigente que acredite la transferencia o\ncomunicación.\n1.b. Presentación del plan de adecuación: La notificación incluirá un plan de\nadecuación que contendrá:\n1.b.1. Medidas de control y mitigación de riesgos adoptadas durante el período\ntransitorio;\n1.b.2. Mecanismo mediante el cual se ajustará la transferencia o comunicación ya\nsea por nivel adecuado, garantías adecuadas, o supuestos excepcionales; y,\n1.b.3. Plazo máximo de implementación.\nLa IRD acusará recibo de la recepción de la información antes señalada; sin embargo, no será\nnecesaria la emisión de ningún acto administrativo para ejecutar el presente proceso. En caso de\nque, por la información remitida, se pudiere presumir la existencia de riesgos respecto de una\ntransferencia o comunicación internacional, la IRD elaborará un informe técnico motivado e\niniciará las actividades que considere necesarias.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-DispTrans-SEGUNDA",
+      "tipo": "disposicion",
+      "numero": "SEGUNDA",
+      "titulo": "Disposición Trans SEGUNDA",
+      "texto_oficial": "Segunda.- Mientras discurran los doce (12) meses posteriores a la vigencia de esta norma\ngeneral, no se impondrán sanciones por incumplimiento de la obligación de regularización,\nsiempre que los responsables y encargados del tratamiento:\n2.a. Cumplieren con la notificación inicial prevista en el apartado 1.a. de la primera\ndisposición transitoria;\n2.b. Presentaren, ante la SPDP, el plan de adecuación respectivo; y,\n2.c. Ejecutaren las medidas contempladas en dicho plan de adecuación.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-DispTrans-TERCERA",
+      "tipo": "disposicion",
+      "numero": "TERCERA",
+      "titulo": "Disposición Trans TERCERA",
+      "texto_oficial": "Tercera.- Transcurrido el plazo para acogerse al procedimiento de regularización, las\ntransferencias o comunicaciones internacionales de datos personales realizadas con anterioridad\na la entrada en vigencia de la LOPDP que no se hubiesen regularizado, estarán sujetas a las\nsanciones y medidas correctivas establecidas en la normativa exigible, sin perjuicio de las demás\nresponsabilidades que fueren aplicables de acuerdo con el ordenamiento jurídico vigente.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-DispTrans-CUARTA",
+      "tipo": "disposicion",
+      "numero": "CUARTA",
+      "titulo": "Disposición Trans CUARTA",
+      "texto_oficial": "Cuarta.- La IIT implementará el Registro Nacional de Datos Personales y el portal\nelectrónico correspondiente en un plazo máximo de doce (12) meses contados a partir de la\nvigencia de este norma general.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0004-R-DispFinal-ÚNICA",
+      "tipo": "disposicion",
+      "numero": "ÚNICA",
+      "titulo": "Disposición Final ÚNICA",
+      "texto_oficial": "Esta resolución entrará en vigencia a partir de su publicación en el Registro Oficial.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    }
+  ]
+}
