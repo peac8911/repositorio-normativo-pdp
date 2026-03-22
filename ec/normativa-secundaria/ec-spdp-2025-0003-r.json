@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "id": "EC-SPDP-2025-0003-R",
+    "jurisdiccion": "ec",
+    "tipo_fuente": "normativa-secundaria",
+    "nivel_jerarquico": 6,
+    "titulo": "Resolución de Aprobación de la Guía de Gestión de Riesgos y Evaluación de Impacto del Tratamiento de Datos Personales",
+    "numero": "SPDP-SPD-2025-0003-R",
+    "fecha_publicacion": "2025-04-29",
+    "fecha_vigencia": "2025-04-29",
+    "vigente": true,
+    "materia": [
+      "pdp"
+    ],
+    "es_especializada": true,
+    "url_oficial": "https://www.superintendenciadedatos.gob.ec/",
+    "preambulo": "CONSIDERANDO:\nQue el numeral 19 del artículo 66 de la Constitución de la República del Ecuador garantiza y\nreconoce a las personas “[e]l derecho a la protección de datos de carácter personal, que incluye el\nacceso y la decisión sobre información y datos de este carácter, así como su correspondiente\nprotección (…)”;\nQue el artículo 1 de la Ley Orgánica de Protección de Datos Personales (“LOPDP”) declara, como\nsu objetivo y finalidad, “(…) garantizar el ejercicio del derecho de protección de datos personales,\nque incluye el acceso y decisión sobre información y datos de ese carácter, así como su\ncorrespondiente protección (…)”;\nQue a través de la LOPDP se creó la Superintendencia de Protección de Datos Personales,\n(“SPDP”), como un órgano de control, con potestad sancionatoria, de administración desconcentrada,\ncon personalidad jurídica y autonomía administrativa, técnica, operativa y financiera, cuyo máximo\ntitular es, de acuerdo con el inciso primero del artículo 76 ídem, el Superintendente de Protección de\nDatos Personales;\nQue el artículo 40 de la LOPDP determina “(…) [p]ara el análisis de riesgos, (…) el responsable\ny el encargado del tratamiento de los datos personales deberán utilizar una metodología que\nconsidere, entre otras: 1) Las particularidades del tratamiento; 2) Las particularidades de las partes\ninvolucradas; y, 3) Las categorías y el volumen de datos personales objeto de tratamiento”;\nQue, por un lado, el artículo 42 de la LOPDP exige al responsable del tratamiento de datos realizar\n“(…) una evaluación de impacto del tratamiento de datos personales cuando se haya identificado la\nprobabilidad de que dicho tratamiento, por su naturaleza, contexto o fines, conlleve un alto riesgo\npara los derechos y libertades del titular o cuando la Autoridad de Protección de Datos Personales\nlo requiera”; y, por otro, determina que [l]a evaluación de impacto relativa a la protección de los\ndatos será de carácter obligatoria en caso de: a) Evaluación sistemática y exhaustiva de aspectos\npersonales de personas físicas que se base en un tratamiento automatizado, como la elaboración de\nperfiles, y sobre cuya base se tomen decisiones que produzcan efectos jurídicos para las personas\nnaturales; b) Tratamiento a gran escala de las categorías especiales de datos, o de los datos\npersonales relativos a condenas e infracciones penales, o c) Observación sistemática a gran escala\nde una zona de acceso público. (…)”;\nQue el artículo 29 del Reglamento General de la Ley Orgánica de Protección de Datos Personales,\n(RGLOPDP), respecto a la evaluación de impacto señala que “(…) consiste en un análisis preventivo,\nde naturaleza técnica, mediante el cual el responsable valora los impactos reales del tratamiento de\ndatos personales, a efecto de identificar y mitigar posibles riesgos relacionados con el cumplimiento\nde los principios y el respeto de los derechos y de las obligaciones establecidas en la Ley Orgánica\nde Protección de Datos Personales, este Reglamento y demás normativa aplicable”;\nQue el artículo 30 del RGLOPDP establece que “(…) La evaluación de impacto tiene por objeto:\n1. Identificar y describir los riesgos potenciales y probables de determinados tratamientos de datos\npersonales;2. Describir las acciones concretas para la gestión de los riesgos identificados; 3. Actuar\nde forma preventiva en el cumplimiento de las obligaciones establecidas en la Ley, su Reglamento y\ndemás normativa aplicable; y, 4. Propiciar lineamientos para la construcción de una cultura\npreventiva de la protección de datos personales de la organización”;\nQue el artículo 31 del RGLOPDP señala que “(…) [l]as evaluaciones de impacto del tratamiento\nde datos serán obligatorias en los casos establecidos en la Ley y deberán realizarse de forma previa\nal inicio del tratamiento de datos personales (…)”;\nQue el artículo 32 del RGLOPDP prevé que “(…) [e]n los casos en que sea obligatoria, la\nevaluación de impacto será presentada ante la Autoridad de Protección de Datos Personales y\ncontendrá, al menos, lo siguiente: 1. La descripción sistemática de las operaciones de tratamiento y\nlas finalidades de ese tratamiento; 2. La justificación de la necesidad de llevar a cabo esas\n\noperaciones de tratamiento, así como su proporcionalidad con respecto de la finalidad; 3. La\nevaluación de riesgos a los derechos y libertades de los titulares; y, 4. Las medidas previstas para\nhacer frente a los riesgos, las garantías, medidas de seguridad y mecanismos destinados a\nsalvaguardar y demostrar el respeto al derecho de los titulares a la protección de sus datos\npersonales. La información otorgada en virtud de los numerales precedentes debe limitarse a la que\nsea necesaria para respaldar la evaluación y no incluir detalles potencialmente confidenciales\nrelacionados con las implementaciones de seguridad o la información confidencial”;\nQue el numeral 5 del artículo 76 de la LOPDP dispone que “(…) [l]a Autoridad de Protección\nde Datos Personales es el órgano de control y vigilancia encargado de garantizar a todos los\nciudadanos la protección de sus datos personales, y de realizar todas las acciones necesarias para\nque se respeten los principios, derechos, garantías y procedimientos previstos en la presente Ley y\nen su reglamento de aplicación, para lo cual le corresponde las siguientes funciones, atribuciones y\nfacultades: (…) 5) Emitir normativa general o técnica, criterios y demás actos que sean necesarios\npara el ejercicio de sus competencias y la garantía del ejercicio del derecho a la protección de datos\npersonales (…)”;\nQue el numeral 16 del artículo 76 de la LOPDP le confiere a la SPDP funciones, atribuciones y\nfacultades para “(…) [p]romover e incentivar el ejercicio del derecho a la protección de datos\npersonales, así como la concientización en las personas y la comprensión de los riesgos, normas,\ngarantías y derechos, en relación con el tratamiento y uso de sus datos personales, con especial\nénfasis en actividades dirigidas a grupos de atención prioritaria tales como niñas niños y\nadolescentes (…)”;\nQue el numeral 7 del artículo 80 del RGLOPDP prescribe que “(…) [l]a Autoridad de Protección\nde Datos Personales, además de las [atribuciones] señaladas en la Ley de la materia, tendrá las\nsiguientes: (…) 7. Emitir guías de referencias que ayuden a los responsables y encargados del\ntratamiento de datos en el proceso de adecuación y cumplimiento de la normativa de protección de\ndatos personales (…)”;\nQue mediante resolución Nº SPDP-SPDP-2024-0001-R, publicada en el Tercer Suplemento del\nRegistro Oficial Nº 624 de agosto 19 de 2024, se aprobó el Estatuto Orgánico de Gestión\nOrganizacional por Procesos de Arranque de la SPDP (“Estatuto SPDP”);\nQue el artículo 1 del Estatuto SPDP, en su Anexo 1, declara que “[l]a Superintendencia de\nProtección de Datos Personales se alinea con su misión y define su Estructura Organizacional\nsustentada en su base normativa y su direccionamiento estratégico institucional, los cuales serán\ndeterminados en su Planificación Estratégica Institucional, Modelo de Gestión institucional y Matriz\nde Competencias (…)”;\nQue el literal b, numeral 2 del artículo 10 del Estatuto SPDP faculta a la Intendencia General de\nInnovación Tecnológica y Seguridad de Datos Personales (“IIT”) a “(…) [p]roponer y supervisar la\nimplementación de política, lineamientos y mejores prácticas en materia de seguridad de la\ninformación y protección de datos personales, en concordancia con los estándares nacionales e\ninternacionales (…)”;\nQue mediante Memorando N° SPDP-IGITS-2024-0013-M de diciembre 18 de 2024, la IIT puso\nen conocimiento de la Intendencia General de Regulación de Protección de Datos Personales\n(“IRD”), que la Guía de Gestión de Riesgos y Evaluación de Impacto de Tratamiento de Datos\nPersonales no podría expedida en diciembre del 2024 a pesar de lo dispuesto mediante resolución\nNº SPDP-SPDP-2024-0020-R, en razón a los siguientes motivos: “(…) 1. Si bien el texto ha sido\nconcluido en alrededor de 40 fojas, estamos creando gráficos e ilustraciones en coordinación con\nrelaciones públicas, con la finalidad de que el texto sea más fácil de comprender para responsables\ny encargados del tratamiento de datos personales. 2. La guía agregará dos tutoriales aplicados de\nevaluaciones de impacto del tratamiento en el Anexo. 3. Dada la importancia de la guía, mi\nrecomendación es culminar estos últimos hitos y hacer una revisión. Cabe considerar que todas las\nguías que en adelante desarrollemos acerca de controles de riesgos de protección de datos\naplicados, tendrán a esta guía como dependencia”;\n\nQue el literal b) del numeral 2 del artículo 10 de la antedicha resolución Nº SPDP-SPDP-2024-\n0001-R, establece las atribuciones y responsabilidades de la Intendencia General de Regulación de\nProtección de Datos Personales (“IRD”), entre las que consta la de “(…) [d]irigir y proponer la\nelaboración de las propuestas o proyectos normativos para crear, reformar o derogar los actos\nnormativos, sean estos políticas, directrices, reglamentos, resoluciones, lineamientos, normas\ntécnicas, oficios circulares, etcétera, necesarios para el ejercicio de todas las competencias y\natribuciones propias de la Superintendencia de Protección de Datos Personales, con los previos\ninformes técnicos de las unidades administrativas sustantivas y adjetivas relacionadas con el ámbito\nde aplicación de tales normas; así como, todos aquellos actos normativos relacionados con el\nejercicio, tutela y procedimientos administrativos de gestión que garanticen a las personas naturales\nla plena vigencia de sus derechos y deberes previstos en dicha ley y su reglamento (…)”;\nQue mediante resolución Nº SPDP-SPD-2025-0001-R del 31 de enero del 2025, publicada en\nRegistro Oficial N° 750 del 24 de febrero del 2025, se establecieron las disposiciones, delegaciones\nde facultades y atribuciones a las autoridades, funcionarios y servidores públicos de la SPDP, en\ncuyo literal a), artículo 4, se le ha delegado a la IRD, entre otras, la responsabilidad de “[e]mitir\nnormativa general o técnica, criterios y demás actos que sean necesarios para el ejercicio de sus\ncompetencias y la garantía del ejercicio del derecho a la protección de datos personales”;\nQue mediante resolución Nº SPDP-SPDP-2024-0018-R, publicada en el Segundo Suplemento del\nRegistro Oficial Nº 679 del 8 de noviembre del 2024, se expidió el Reglamento para la Elaboración\ny Aprobación del Plan Regulatorio Institucional de la Superintendencia de Protección de Datos\nPersonales, en cuya disposición transitoria se ha previsto que “(…) el PRI correspondiente a los años\nfiscales 2024 y 2025 no seguirá el procedimiento establecido en este reglamento y, por ende, se\nelaborará únicamente a base de los informes técnicos emitidos por las Unidades Administrativas\ncorrespondientes; validados por la IGRPDP; aprobados por el Superintendente o su delegado; y,\nfinalmente, publicado en los portales oficiales de la SPDP cuando estén habilitados”;\nQue la IRD, mediante informe técnico Nº INF-SPDP-IRD-2025-0003 suscrito el 3 de enero del\n2025, solicitó al Superintendente de Protección de Datos Personales la aprobación del Plan\nRegulatorio Institucional (“PRI”) del año fiscal 2025, a fin de cumplir con la disposición transitoria\nde la resolución Nº SPDP-SPDP-2024-0018-R, así como para garantizar la transparencia y eficacia\nde la SPDP;\nQue mediante resolución N° SPDP-SPD-2025-0002-R del 3 de febrero del 2025 se aprobó el PRI\ndel año 2025, dentro del cual se estableció la necesidad de emitir la Guía de Gestión de Riesgos y\nEvaluación de Impacto de Tratamiento de Datos Personales;\nQue la IIT, a través del informe técnico N° SPDP-IGITS-2025-001-I suscrito en el 21 de febrero\ndel 2025, evidenció la necesidad de emitir la Guía de Gestión de Riesgos y Evaluación de Impacto\nde Tratamiento de Datos Personales, para garantizar los derechos y libertades fundamentales de los\ntitulares y establecer tanto lineamientos obligatorios como optativos para el cumplimiento de los\nresponsables y encargados del tratamiento;\nQue mediante memorando N° SPDP-IIT-2025-0017-M suscrito en el 21 de febrero del 2025, la\nIIT puso en conocimiento de la IRD tanto el proyecto normativo denominado Guía de Gestión de\nRiesgos y Evaluación de Impacto del Tratamiento de Datos Personales, como el informe técnico N°\nSPDP-IGITS-2025-001-I, elaborados por el Intendente General de Innovación Tecnológica y\nSeguridad de Datos Personales, señor doctor don Luis Enríquez Álvarez;\nQue la IRD, en atención al informe técnico N° SPDP-IGITS-2025-001-I, emitió el informe\ntécnico Nº INF-SPDP-IRD-2025-0009, que contiene el análisis de la procedencia del proyecto\npresentado por la IIT; y, en atención a ello, recomendó continuar con el procedimiento establecido\nen la resolución Nº SPDP-SPDP-2024-0018-R, publicada en el Segundo Suplemento Registro\nOficial Nº 679 del 8 de noviembre del 2024, que contiene el Reglamento para la Elaboración y\nAprobación del Plan Regulatorio Institucional de la Superintendencia de Protección de Datos\nPersonales, respecto del proyecto normativo denominado Guía de Gestión de Riesgos y Evaluación\nde Impacto de Tratamiento de Datos Personales, de acuerdo con lo establecido en los artículos 40 y\n42 de la LODPD, los artículos 29, 30 y 31 del RGLOPDP, así como con el literal b), numeral 2, del\n\nartículo 10 de la resolución N° SPDP-SPDP-2024-0001-R, con el objetivo de garantizar el adecuado\ntratamiento de los datos personales de los titulares en el análisis de riesgos y la evaluación de\nimpacto;\nQue mediante memorando N° SPDP-IRD-2025-0023-M suscrito el 27 de febrero del 2025, la\nIRD puso en conocimiento de la Dirección de Asesoría Jurídica (“DAJ”) tanto la Guía de Gestión de\nRiesgos y Evaluación de Impacto de Tratamiento de Datos Personales, como el informe técnico N°\nINF-SPDP-IRD-2025-0009, para que en el término de diez (10) días realice las diligencias\npertinentes de conformidad con lo dispuesto en la resolución N° SPDP-SPDP-2024-0022-R;\nQue a través del informe técnico N° INF-SPDP-DAJ-2025-0006 suscrito el 27 de febrero del\n2025, la DAJ determinó que la Guía de Gestión de Riesgos y Evaluación de Impacto de Tratamiento\nde Datos Personales es congruente con los principios establecidos en la LOPDP, no transgrede o\ncontradice normas matrices, cumple con el principio de legalidad y, por ello, recomendó que “(…)\n[l]a IRD debe disponer a quien corresponda la publicación a través de la página web institucional\ne informar su publicación a través de las redes sociales institucionales, con la finalidad de que la\nciudadanía, las organizaciones de la sociedad civil o interesados en general, de manera motivada,\npuedan remitir sus observaciones o realizar aportes respecto del contenido (…)”;\nQue mediante memorando N° SPDP-DAJ-2025-0020-M suscrito el 27 de febrero del 2025, la\nDAJ puso en conocimiento de la IRD el informe técnico N° INF-SPDP-DAJ-2025-0006, así como\nla validación legal del proyecto de resolución que viabilizaría la expedición de la Guía de Gestión\nde Riesgos y Evaluación de Impacto de Tratamiento de Datos Personales;\nQue en el memorando N° SPDP-IRD-2025-0024-M suscrito el 27 de febrero del 2025, la IRD\nsolicitó a las unidades administrativas de la SPDP que procedan con las acciones pertinentes a fin de\nque publiquen la Guía de Gestión de Riesgos y Evaluación de Impacto de Tratamiento de Datos\nPersonales en la página web institucional y en las redes sociales de la SPDP, para que el proyecto de\nnormativa esté disponible para la ciudadanía, las organizaciones de la sociedad civil o interesados en\ngeneral desde el 3 de marzo del 2025 hasta el 1 de abril del 2025, con el objeto de poder recibir sus\nobservaciones o aportes, siempre que estuvieren debidamente motivados;\nQue a través del informe técnico Nº INF-SPDP-IRD-2025-0018, suscrito el 28 de abril del 2025,\nla IRD incorporó al informe técnico las observaciones y aportes que se consideraron relevantes y\nadecuados, previa justificación de las modificaciones realizadas al proyecto normativo;\nQue mediante memorando Nº SPDP-IRD-2025-0065-M, suscrito el 28 de abril del 2025, la IRD\nremitió todo el expediente al suscrito Superintendente de Protección de Datos Personales para que\nrealice las observaciones correspondientes o, en su caso, para que lo apruebe;",
+    "anexos": [
+      "ec-spdp-2025-0003-r-guia-riesgos-eipd.pdf"
+    ],
+    "version": "1.0.0"
+  },
+  "unidades": [
+    {
+      "id": "EC-SPDP-2025-0003-R-Art-1",
+      "tipo": "articulo",
+      "numero": "1",
+      "titulo": "",
+      "texto_oficial": "Art. 1.- Aprobar la Guía de Gestión de Riesgos y Evaluación de Impacto del Tratamiento de\nDatos Personales, cuya autoría corresponde al señor doctor don Luis Enríquez Álvarez, Intendente\nGeneral de Innovación Tecnológica y Seguridad de Datos Personales, en concordancia con lo\nestablecido en los artículos 40 y 42 de la LODPD, los artículos 29, 30, 31 y 32 del RGLOPDP, así\ncomo con el literal b), numeral 2, del artículo 10 de la resolución N° SPDP-SPDP-2024-0001-R; ello\ncon el objetivo de precautelar el adecuado tratamiento de los datos personales de los titulares respecto\nal análisis de riesgos y la evaluación de impacto.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "obligaciones-responsable.evaluacion-impacto"
+      ],
+      "roles": [
+        "responsable",
+        "encargado",
+        "autoridad-control"
+      ],
+      "ciclo": [
+        "uso",
+        "almacenamiento"
+      ],
+      "deontico": [
+        "permiso",
+        "obligacion"
+      ],
+      "factores_riesgo": [
+        "extension-alcance.gran-escala"
+      ],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0003-R-Art-2",
+      "tipo": "articulo",
+      "numero": "2",
+      "titulo": "",
+      "texto_oficial": "Art. 2.- El capítulo I de la Guía de Gestión de Riesgos y Evaluación de Impacto del Tratamiento\nde Datos Personales será de obligatorio cumplimiento para los responsables y encargados del\ntratamiento de datos personales; el capítulo II tendrá un carácter meramente referencial, por lo que\nserá de carácter optativo u orientativo, y, por ende, la metodología de riesgos en protección de datos\npersonales podrá ser seleccionada al libre arbitrio del responsable y encargado del tratamiento de\n\ndatos personales. No obstante, se deja expresamente establecido que el análisis de riesgos y la\nevaluación de impacto son de obligatorio cumplimiento de conformidad con la LOPDP, el\nRGLOPDP y demás normativa en la materia.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "obligaciones-responsable.evaluacion-impacto"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [
+        "uso"
+      ],
+      "deontico": [
+        "obligacion",
+        "permiso"
+      ],
+      "factores_riesgo": [
+        "extension-alcance.gran-escala"
+      ],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0003-R-DispGen-ÚNICA",
+      "tipo": "disposicion",
+      "numero": "ÚNICA",
+      "titulo": "Disposición General ÚNICA",
+      "texto_oficial": "En el plazo de un (1) año contado a partir de la publicación de esta resolución en el Registro\nOficial, la IIT ejecutará la revisión y evaluación del contenido de la Guía de Gestión de Riesgos y\nEvaluación de Impacto del Tratamiento de Datos Personales, con el objeto de garantizar la mejora\ncontinua del documento en mención; y, dentro de idéntico lapso, preparará el informe técnico\npertinente que deberá poner en conocimiento del Superintendente de Protección de Datos Personales.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "obligaciones-responsable.evaluacion-impacto"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0003-R-DispTrans-PRIMERA",
+      "tipo": "disposicion",
+      "numero": "PRIMERA",
+      "titulo": "Disposición Transitoria PRIMERA",
+      "texto_oficial": "Primera.- De conformidad con la resolución Nº SPDP-SPDP-2024-0020-R y la resolución Nº\nSPDP-SPDP-2024-0022-R, la SPDP emitirá la normativa técnica en materia de riesgos y evaluación\nde impacto en protección de datos personales que considere necesaria para precautelar los derechos\ny libertades fundamentales de los titulares.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0003-R-DispTrans-SEGUNDA",
+      "tipo": "disposicion",
+      "numero": "SEGUNDA",
+      "titulo": "Disposición Transitoria SEGUNDA",
+      "texto_oficial": "Segunda.- La Guía de Gestión de Riesgos y Evaluación de Impacto del Tratamiento de Datos\nPersonales, de conformidad con las funciones, atribuciones y competencias de la SPDP establecidas\nen la LOPDP, el RGLOPDP y demás normativa aplicable, podrá reformarse de conformidad con la\nresolución Nº SPDP-SPDP-2024-0022-R.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0003-R-DispFinal-ÚNICA",
+      "tipo": "disposicion",
+      "numero": "ÚNICA",
+      "titulo": "Disposición Final ÚNICA",
+      "texto_oficial": "Esta resolución entrará en vigencia a partir de su suscripción, sin perjuicio de su publicación en\nel Registro Oficial.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    }
+  ]
+}
