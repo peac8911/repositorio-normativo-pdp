@@ -1,0 +1,504 @@
+{
+  "meta": {
+    "id": "EC-SPDP-2024-0022-R",
+    "jurisdiccion": "ec",
+    "tipo_fuente": "normativa-secundaria",
+    "nivel_jerarquico": 6,
+    "titulo": "Reglamento para la Elaboración, Aprobación, Modificación y Derogatoria de Normativa de la Superintendencia de Protección de Datos Personales",
+    "numero": "SPDP-SPDP-2024-0022-R",
+    "fecha_publicacion": "2024-12-31",
+    "fecha_vigencia": "2024-12-31",
+    "vigente": true,
+    "materia": [
+      "pdp"
+    ],
+    "es_especializada": true,
+    "url_oficial": "https://www.superintendenciadedatos.gob.ec/",
+    "preambulo": "CONSIDERANDO:\nQue el artículo 213 de la Constitución de la República del Ecuador (“CRE”) dispone que\n“[l]as superintendencias son organismos técnicos de vigilancia, auditoría, intervención y\ncontrol de las actividades económicas, sociales y ambientales, y de los servicios que prestan las\nentidades públicas y privadas, con el propósito de que estas actividades y servicios se sujeten al\nordenamiento jurídica y atiendan al interés general (...)”; que forman parte de la Función de\nTransparencia y Control Social; y que, conforme lo determinado por el artículo 204 ídem,\ndetentan “personalidad jurídica y autonomía administrativa, financiera, presupuestaria y\norganizativa (...)”;\nQue el artículo 226 CRE establece que “[l]as instituciones del Estado, sus organismos,\ndependencias, las servidoras o servidores públicos que actúen en virtud de una potestad estatal\nejercerán solamente las competencias y facultades que les sean atribuidas en la Constitución y\nla ley tendrán el deber de coordinar acciones para el cumplimiento de sus fines y hacer efectivo\nel goce y ejercicio de los derechos reconocidos en la Constitución (…)”;\nQue a través de la Ley Orgánica de Protección de Datos Personales (“LOPDP”) se creó la\nSuperintendencia de Protección de Datos Personales (“SPDP”) como un órgano de control, con\npotestad sancionatoria, de administración desconcentrada, con personalidad jurídica y\nautonomía administrativa, técnica, operativa y financiera, cuyo máximo titular es, de acuerdo\ncon el inciso primero del artículo 76 ídem, el Superintendente de Protección de Datos Personales;\nQue el artículo 76 LOPDP señala que la SPDP “es el órgano de control y vigilancia\nencargado de garantizar a todos los ciudadanos la protección de sus datos personales, y de\nrealizar todas las acciones necesarias para que se respeten los principios, derechos, garantías\ny procedimientos”, a la par que el numeral 5 idem le atribuye la facultad de “[e]mitir normativa\ngeneral o técnica, criterios y demás actos que sean necesarios para el ejercicio de sus\ncompetencias (…)”;\nQue el artículo 79 del Reglamento de la Ley Orgánica de Protección de Datos Personales\n(“RGLOPDP”) estatuye que la SPDP “goza de autonomía administrativa, técnica, operativa y\nfinanciera. Estará́ a cargo del Superintendente de Protección de Datos Personales y tendrá́ su\nsede en el Distrito Metropolitano de Quito (…)”;\nQue el los numerales 4 y 7 del artículo 80 RGLOPDP le otorgan a la SPDP atribuciones para\n“[e]mitir regulaciones para la protección de datos personales” y “[e]mitir guías de referencias\nque ayuden a los responsables y encargados del tratamiento de datos en el proceso de\nadecuación y cumplimiento de la normativa de protección de datos personales”;\nQue los numerales 1 y 4 del artículo 83 RGLOPDP le confieren al Superintendente de\nProtección de Datos Personales atribuciones para “®epresentar legal y judicialmente a la\n[Superintendencia de] Protección de Datos Personales, en todos los actos, contratos y\nrelaciones jurídicas sujetas a su competencia”, así como para “[a]probar y expedir normas\ninternas, resoluciones y manuales que sean necesarios para el buen funcionamiento de la\n[Superintendencia] a su cargo (…)”;\nQue mediante resolución Nº SPDP-SPDP-2024-0001-R, publicada en el Tercer Suplemento\ndel Registro Oficial Nº 624 del 19 de agosto del 2024, se aprobó el Estatuto Orgánico de Gestión\nOrganizacional por Procesos de Arranque de la SPDP;\nQue el artículo 1 de la misma resolución Nº SPDP-SPDP-2024-0001-R, en su Anexo 1, ha\nprevisto que “[l]a Superintendencia de Protección de Datos Personales se alinea con su misión\ny define su Estructura Organizacional sustentada en su base normativa y su direccionamiento\n\nestratégico institucional, los cuales serán determinados en su Planificación Estratégica\nInstitucional, Modelo de Gestión institucional y Matriz de Competencias (…)”;\nQue el literal b) del numeral 2 del artículo 10 de la antedicha resolución Nº SPDP-SPDP-\n2024-0001-R, establece las atribuciones y responsabilidades de la Intendencia General de\nRegulación de Protección de Datos Personales, entre las que consta “(…) Dirigir y proponer la\nelaboración de las propuestas o proyectos normativos para crear, reformar o derogar los actos\nnormativos, sean estos políticas, directrices, reglamentos, resoluciones, lineamientos, normas\ntécnicas, oficios circulares, etcétera, necesarios para el ejercicio de todas las competencias y\natribuciones propias de la Superintendencia de Protección de Datos Personales, con los previos\ninformes técnicos de las unidades administrativas sustantivas y adjetivas relacionadas con el\námbito de aplicación de tales normas; así como, todos aquellos actos normativos relacionados\ncon el ejercicio, tutela y procedimientos administrativos de gestión que garanticen a las\npersonas naturales la plena vigencia de sus derechos y deberes previstos en dicha ley y su\nreglamento (…)”;\nQue mediante memorando Nº SPDP-INT-0002-2024-DS del 13 de septiembre del 2024, se\nexpidieron las acciones de personal de los funcionarios que ocupan los niveles jerárquicos\nsuperiores de las Intendencias Generales y Direcciones;\nQue mediante resolución Nº SPDP-SPDP-2024-0007-R, publicada en el Primer Suplemento\nNº 679 del Registro Oficial del 8 de noviembre del 2024, fueron expedidas las disposiciones,\ndelegaciones de facultades y atribuciones a las autoridades, funcionarios y servidores públicos\nde la SPDP;\nQue el artículo 1 de la aludida resolución Nº SPDP-SPDP-2024-0007-R dispone “(…)\noperativizar la delegación de las competencias, facultades, funciones, atribuciones y\nresponsabilidades legalmente establecidas para el Superintendente de Protección de Datos\nPersonales como máxima autoridad institucional, a favor de las distintas autoridades\ninstitucionales de grado jerárquico inferior de la Superintendencia de Protección de Datos\nPersonales; emitir disposiciones para el correcto desenvolvimiento de las actividades inherentes\na la Superintendencia de Protección de Datos Personales, así como designar ordenadores de\ngasto y pago y otras calidades necesarias para la gestión de los aspectos administrativo-\nfinancieros de la institución, de conformidad con el marco jurídico vigente”;\nQue en virtud del literal a) del artículo 4 de la misma resolución Nº SPDP-SPDP-2024-0007-\nR se le han delegado al Intendente General de Regulación de Protección de Datos Personales,\nentre otras atribuciones y responsabilidades, la de “[e]mitir normativa general o técnica,\ncriterios y demás actos que sean necesarios para el ejercicio de sus competencias y la garantía\ndel ejercicio del derecho a la Protección de datos personales (…)”;\nQue mediante la resolución Nº SPDP-SPDP-2024-0018-R, publicada en el Segundo\nSuplemento del Registro Oficial Nº 679 de 8 de noviembre del 2024, se expidió el Reglamento\npara la Elaboración y Aprobación del Plan Regulatorio Institucional de la Superintendencia de\nProtección de Datos Personales (“REAPRI”), en cuya disposición transitoria única se ha previsto\nque “el PRI correspondiente a los años fiscales 2024 y 2025 no seguirá el procedimiento\nestablecido en este reglamento y, por ende, se elaborará únicamente a base de los informes\ntécnicos emitidos por las Unidades Administrativas correspondientes; validados por la\nIGRPDP; aprobados por el Superintendente o su delegado; y, finalmente, publicado en los\nportales oficiales de la SPDP cuando estén habilitados”;\nQue mediante resolución N° SPDP-SPDP-2024-0020-R del 9 de diciembre del 2024 se\naprobó el Plan Regulatorio Institucional del año 2024, dentro del cual se ha establecido la\nnecesidad de emitir el Reglamento para la Creación, Modificación y Derogatoria de la Normativa\nde la Superintendencia de Protección de Datos Personales;",
+    "anexos": [],
+    "version": "1.0.0"
+  },
+  "unidades": [
+    {
+      "id": "EC-SPDP-2024-0022-R-Art-1",
+      "tipo": "articulo",
+      "numero": "1",
+      "titulo": "Objeto y ámbito",
+      "texto_oficial": "Art. 1.- Objeto y ámbito.- Este reglamento establece el marco regulatorio para la creación,\nmodificación y derogatoria de la normativa en materia de protección de datos personales, así\ncomo de aquella que permita y viabilice el cumplimiento de las obligaciones constitucionales,\nlegales y reglamentarias de la Superintendencia de Protección de Datos Personales.\nPara el cumplimiento del objeto del presente Reglamento, la Intendencia General de\nRegulación de Protección de Datos Personales aplicará un mecanismo de clasificación y\nevaluación de conformidad con sus competencias, previo a la aprobación de la normativa a ser\nexpedida por el Superintendente de Protección de Datos Personales.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "ambito-de-aplicacion.ambito-material"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "definicion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0022-R-Art-2",
+      "tipo": "articulo",
+      "numero": "2",
+      "titulo": "Términos y definiciones",
+      "texto_oficial": "Art. 2.- Términos y definiciones.- Las palabras, siglas y acrónimos enlistados a continuación\na efectos de este Reglamento tendrán el siguiente significado:\n2.1. IGRPDP: Intendencia General de Regulación de Protección de Datos Personales o,\nsegún el contexto, el Intendente General de Regulación de Protección de Datos\nPersonales.\n2.2. Informe técnico: Acto de simple administración que, basado en criterios, métodos,\nprotocolos o procedimientos, determina la pertinencia y la necesidad de aprobar la\nemisión de regulaciones en materia de protección de datos personales o para el\ncumplimiento de las obligaciones constitucionales, legales y reglamentarias de la\nentidad.\n2.3. Normas matrices: Conjunto de normativa que hace alusión a la Constitución de la\nRepública del Ecuador, el Código Orgánico Administrativo, la Ley Orgánica de\nProtección de Datos Personales, el Reglamento General de la Ley Orgánica de\nProtección de Datos Personales y demás normativa emitida por la Superintendencia\nde Protección de Datos Personales.\n2.4. Regulación: Conjunto de lineamientos emitidos por la Superintendencia de\nProtección de Datos Personales para regular las actividades de los integrantes del\nsistema de protección de datos personales, de acuerdo con lo previsto en el\nordenamiento jurídico.\n2.5. SPDP: La Superintendencia de Protección de Datos Personales. Podrá también\naludírsela como “la institución” o “la entidad”.\n2.6. Superintendente: La máxima autoridad de la SPDP.\n2.7. Unidades administrativas: El conjunto de Intendencias Generales, Direcciones y\nResponsables de áreas de la SPDP.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "ambito-de-aplicacion.definiciones-clave"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "definicion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0022-R-Art-3",
+      "tipo": "articulo",
+      "numero": "3",
+      "titulo": "Principios",
+      "texto_oficial": "Art. 3.- Principios.- Toda normativa sujeta a creación, modificación o derogatoria deberá\nmantener concordancia en relación a los principios, derechos y obligaciones establecidos en el\nordenamiento jurídico ecuatoriano.\nTÍTULO II\nPROCEDIMIENTO DE ELABORACIÓN, INICIO Y EVALUACIÓN DE\nPROPUESTAS NORMATIVAS",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "principios.licitud"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0022-R-Art-4",
+      "tipo": "articulo",
+      "numero": "4",
+      "titulo": "Requerimiento de inicio",
+      "texto_oficial": "Art. 4.- Requerimiento de inicio.- Las unidades administrativas de la SPDP deberán\nelaborar las propuestas de normativa referentes a la protección de datos personales o relacionadas\ncon el cumplimiento de las obligaciones establecidas en las normas matrices.\n\nAl efecto, las unidades administrativas de la SPDP deberán generar un memorando que\ncontendrá el requerimiento para la creación, modificación o derogatoria, junto con el proyecto o\nborrador de la propuesta normativa en formato de resolución, así como el informe técnico de\nnecesidad que justifique la pertinencia y necesidad de tal propuesta. Todos estos documentos\nserán remitidos a la IGRPDP.\nEl informe técnico de necesidad se elaborará de conformidad con el formato de cada unidad\nadministrativa de la SPDP y será remitido con las firmas electrónicas de responsabilidad\ncorrespondientes.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0022-R-Art-5",
+      "tipo": "articulo",
+      "numero": "5",
+      "titulo": "Elaboración de la propuesta de normativa",
+      "texto_oficial": "Art. 5.- Elaboración de la propuesta de normativa.- Antes de desarrollar la propuesta de\nnormativa, cada unidad administrativa deberá examinar y analizar las fuentes normativas,\njurisprudenciales, doctrinales, bibliográficas y técnicas existentes, tanto a nivel nacional e\ninternacional, que pudieren ser aplicables al tema que será objeto de regulación.\nLas propuestas de normativa en materia de protección de datos personales podrán considerar,\nde manera referencial, las regulaciones expedidas en jurisdicciones internacionales, siempre y\ncuando su técnica jurídica y pertinencia aporten al desarrollo del ordenamiento interno y puedan\nser fácilmente adaptadas al entorno local, lo cual deberá justificarse en el informe técnico de\nnecesidad.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0022-R-Art-6",
+      "tipo": "articulo",
+      "numero": "6",
+      "titulo": "Contenido del informe técnico de necesidad",
+      "texto_oficial": "Art. 6.- Contenido del informe técnico de necesidad.- El informe técnico de necesidad\ndeberá tener los siguientes apartados:\n6.1. Antecedentes, competencia, normativa aplicable, entre otros aspectos;\n6.2. Justificación de la necesidad;\n6.3. Identificación del proyecto normativo;\n6.4. Análisis de legislación comparada, jurisprudencia, doctrina, bibliografía, datos\ntécnicos y análisis económico, en caso de existir;\n6.5. Firmas de responsabilidad (elaborado, revisado y aprobado); y,\n6.6. El proyecto o borrador de normativa en formato de resolución.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0022-R-Art-7",
+      "tipo": "articulo",
+      "numero": "7",
+      "titulo": "Clasificación y evaluación propuestas de normativa",
+      "texto_oficial": "Art. 7.- Clasificación y evaluación propuestas de normativa.- La IGRPDP receptará los\nproyectos de regulación de normativa de protección de datos personales e iniciará el proceso de\nevaluación de conformidad con el siguiente método:\n7.1. Se receptarán las propuestas de normativa de las unidades administrativas únicamente\ncon los siguientes documentos:\n7.1.1. Memorando;\n7.1.2. Informe técnico de necesidad; y,\n7.1.3. Propuesta de normativa en formato de resolución.\n7.2. Se clasificarán las propuestas de normativa en orden cronológico; no obstante, y\nsiempre que se justifique la urgencia en el informe técnico de necesidad, las que\nfueren consideradas como prioritarias serán despachadas de manera anticipada por\nparte de la IGRPDP.\n7.3. Se evaluarán las propuestas de normativa y, según corresponda, se optará por alguna\nde estas alternativas:\n7.3.1. Modificación u observaciones: Si las propuestas de normativa son vagas,\nambiguas u omiten el contenido de las normas matrices.\n7.3.2. Aprobación: Si las propuestas de normativa no incurren en los supuestos\nanteriormente detallados.\n\n7.3.3. Archivo: Si las propuestas de normativa no cumplen con los principios u\nobjetivos de la LOPDP, o si se considera que no aportan al desarrollo y\ngarantía de los derechos de los titulares de datos personales.\nLa IGRPDP notificará a las unidades administrativas sobre la aprobación, modificación o\narchivo de la propuesta de normativa en un término de treinta (30) días, con el objeto de que se\nejecuten las acciones que pertinentes.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion",
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0022-R-Art-8",
+      "tipo": "articulo",
+      "numero": "8",
+      "titulo": "Modificación de la propuesta de normativa",
+      "texto_oficial": "Art. 8.- Modificación de la propuesta de normativa.- Ante el pronunciamiento de\nmodificación, las unidades administrativas tendrán un término de diez (10) días para subsanar\nlas observaciones que hubiese señalado la IGRPDP o, en su caso, para modificar su propuesta\ninicial.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0022-R-Art-9",
+      "tipo": "articulo",
+      "numero": "9",
+      "titulo": "Archivo de la propuesta de normativa",
+      "texto_oficial": "Art. 9.- Archivo de la propuesta de normativa.- En caso de que la propuesta de normativa\nno cumpliere con los principios u objetivos de la LOPDP, o si se estimare que no aportan al\ndesarrollo y garantía de los derechos de los titulares de datos personales, la IGRPDP emitirá un\ninforme técnico en el que habrá de evidenciarse aquello y, en consecuencia, se procederá al\narchivo del proyecto.\nTÍTULO III\nPROCEDIMIENTO DE APROBACIÓN DE NORMATIVA",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0022-R-Art-10",
+      "tipo": "articulo",
+      "numero": "10",
+      "titulo": "Aceptación del proyecto normativo",
+      "texto_oficial": "Art. 10.- Aceptación del proyecto normativo.- En caso de que la propuesta fuere aceptada,\nla IGRPDP elaborará un informe técnico en el que deberá analizarse la necesidad y la pertinencia\npara la emisión de la normativa. Una vez aprobado el proyecto, la IGRPDP remitirá a la\nDirección de Asesoría Jurídica el expediente que deberá contener los siguientes documentos:\n10.1. Memorando de la unidad administrativa requirente;\n10.2. Informe técnico de necesidad de la unidad administrativa requirente;\n10.3. Propuesta de normativa, en formato de resolución, preparada por la unidad\nadministrativa requirente;\n10.4. Informe técnico donde conste la aprobación de la IGRPDP; y,\n10.5. Memorando de la IGRPDP que servirá para enviar los documentos a la Dirección de\nAsesoría Jurídica y solicitar la validación legal e informe jurídico sobre el proyecto\nnormativo.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0022-R-Art-11",
+      "tipo": "articulo",
+      "numero": "11",
+      "titulo": "Revisión por parte de la Dirección de Asesoría Jurídica",
+      "texto_oficial": "Art. 11.- Revisión por parte de la Dirección de Asesoría Jurídica.- Una vez remitido el\nexpediente del proyecto normativo por parte de la IGRPDP, la Dirección de Asesoría Jurídica,\ndentro del término de diez (10) días, deberá emitir un informe en el que se constate que tal\nproyecto cumple el principio de legalidad; que no vulnera ni contradice a las normas matrices; y\nque, efectivamente, coadyuva al cumplimiento de los objetivos de la SPDP.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0022-R-Art-12",
+      "tipo": "articulo",
+      "numero": "12",
+      "titulo": "Comunicación del proyecto normativo",
+      "texto_oficial": "Art. 12.- Comunicación del proyecto normativo.- Una vez recibido el proyecto normativo\njunto con el informe jurídico, la IGRPDP dispondrá que el contenido de tal proyecto sea\npublicado a través de la página web institucional e informada su publicación a través de las redes\nsociales institucionales, con la finalidad de que la ciudadanía, las organizaciones de la sociedad\ncivil o interesados en general, de manera motivada, puedan remitir sus observaciones o realizar\naportes respecto del contenido, para lo cual se abrirá un término de veinte (20) días contados\ndesde su publicación.\nTales observaciones o aportes no serán vinculantes para la SPDP; no obstante, serán\nrevisados, analizados y, de estimárselo como conveniente o necesario, incorporados por la\nIGRPDP a su informe técnico.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0022-R-Art-13",
+      "tipo": "articulo",
+      "numero": "13",
+      "titulo": "Aprobación por parte del Superintendente",
+      "texto_oficial": "Art. 13.- Aprobación por parte del Superintendente.- Una vez cumplido el término\ndescrito en el artículo precedente, la IGRPDP incorporará al informe técnico las observaciones\n\no aportes, de haberlos; y, en caso de existir alguna modificación al proyecto normativo, se lo\nhará constar, justificadamente, en ese mismo informe.\nCuando estuviere listo el proyecto normativo final y el informe técnico respectivo, serán\nremitidos a la máxima autoridad junto con todo el expediente, a través de un memorando, en el\ntérmino de diez (10) días.\nDesde que el Superintendente reciba el expediente del proyecto normativo dispondrá de un\ntérmino de diez (10) días para asentar sus observaciones o para aprobarlo.\nSolo se entenderá aprobado el proyecto normativo una vez que fuere firmado por el\nSuperintendente, quien dispondrá su publicación en los medios de la SPDP y, de ser lo\npertinente, en el Registro Oficial.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion",
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0022-R-Art-14",
+      "tipo": "articulo",
+      "numero": "14",
+      "titulo": "Observaciones al proyecto normativo por parte del Superintendente",
+      "texto_oficial": "Art. 14.- Observaciones al proyecto normativo por parte del Superintendente.- En caso\nde que existieren observaciones al proyecto normativo, el Superintendente las remitirá a la\nIGRPDP para que, en el término de cinco (5) días, solicite a la unidad administrativa requirente\nque solvente las observaciones, asimismo dentro del término de cinco (5) días. Solventadas tales\nobservaciones, serán remitidas a la IGRPDP para su revisión; y, en caso de que se estime\nnecesario, se volverá a enviar a la Dirección Jurídica para los fines previstos en el artículo 11.\nHecho lo anterior, se procederá de acuerdo con lo previsto en este Título.\nTÍTULO IV\nPROCEDIMIENTO DE MODIFICACIÓN Y DEROGATORIA DE LAS RESOLUCIONES EXPEDIDAS\nPOR LA",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion",
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0022-R-Art-15",
+      "tipo": "articulo",
+      "numero": "15",
+      "titulo": "Documentos para la modificación y derogatoria",
+      "texto_oficial": "Art. 15.- Documentos para la modificación y derogatoria.- Para modificar o extinguir las\nnormativas expedidas por la SPDP, la unidad administrativa requirente deberá enviar los\nsiguientes documentos a la IGRPDP:\n15.1. Memorando dirigido al Superintendente;\n15.2. Informe técnico; y,\n15.3. Documento que contenga la modificación de las regulaciones expedidas por la SPDP.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0022-R-Art-16",
+      "tipo": "articulo",
+      "numero": "16",
+      "titulo": "Evaluación de la documentación",
+      "texto_oficial": "Art. 16.- Evaluación de la documentación.- Recibidos los documentos que se detallan en\nel artículo precedente, corresponderá a la IGRPDP proceder conforme con lo establecido en el\napartado 7.3. de este reglamento.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0022-R-Art-17",
+      "tipo": "articulo",
+      "numero": "17",
+      "titulo": "Modificaciones u observaciones a la propuesta de modificación o derogatoria",
+      "texto_oficial": "Art. 17.- Modificaciones u observaciones a la propuesta de modificación o derogatoria.-\nLas modificaciones u observaciones a la propuesta de modificación o derogatoria se regirá de\nconformidad con lo dispuesto con el artículo 8. En caso de que el término no se cumpliere o no\nse remitieren las modificaciones u observaciones dispuestas por la IGRPDP, se le pondrá fin al\nprocedimiento y se ordenará el archivo.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion",
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0022-R-Art-18",
+      "tipo": "articulo",
+      "numero": "18",
+      "titulo": "Aprobación",
+      "texto_oficial": "Art. 18.- Aprobación.- El procedimiento de aprobación se regirá por lo dispuesto en el Título\nIII de este reglamento.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.competencia"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0022-R-DispGen-PRIMERA",
+      "tipo": "disposicion",
+      "numero": "PRIMERA",
+      "titulo": "Disposición General PRIMERA",
+      "texto_oficial": "Primera.- Por cuanto la implementación y funcionamiento de la SPDP se inició en la segunda\nquincena de septiembre del 2024; y, además, tomando en cuenta lo establecido en la resolución\nN° SPDP-SPDP-2024-0018-R, considérese, en consecuencia, que este reglamento forma parte\ndel Plan Regulatorio Institucional (“PRI”) del año fiscal 2024, con lo que se deja señalada\nconstancia de su cumplimiento.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0022-R-DispGen-SEGUNDA",
+      "tipo": "disposicion",
+      "numero": "SEGUNDA",
+      "titulo": "Disposición General SEGUNDA",
+      "texto_oficial": "Segunda.- Aprobada esta resolución, notifíquese con su contenido a las unidades\nadministrativas competentes de la SPDP.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2024-0022-R-DispFinal-ÚNICA",
+      "tipo": "disposicion",
+      "numero": "ÚNICA",
+      "titulo": "Disposición Final ÚNICA",
+      "texto_oficial": "La presente resolución entrará en vigencia a partir del 31 de enero del 2025, sin perjuicio de\nsu publicación en el Registro Oficial.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    }
+  ]
+}
