@@ -1,0 +1,548 @@
+{
+  "meta": {
+    "id": "EC-SPDP-2026-0005-R",
+    "jurisdiccion": "ec",
+    "tipo_fuente": "normativa-secundaria",
+    "nivel_jerarquico": 6,
+    "titulo": "Norma General sobre el Tratamiento de Datos Personales a Gran Escala",
+    "numero": "SPDP-SPD-2026-0005-R",
+    "fecha_publicacion": "2026-01-01",
+    "fecha_vigencia": "2026-01-01",
+    "vigente": true,
+    "materia": [
+      "pdp"
+    ],
+    "es_especializada": true,
+    "url_oficial": "https://www.superintendenciadedatos.gob.ec/",
+    "preambulo": "CONSIDERANDO:\nQue el numeral 19 del artículo 66 de la Constitución de la República del Ecuador (“CRE”)\nles garantiza y reconoce a las personas “[e]l derecho a la protección de datos de carácter\npersonal, que incluye el acceso y la decisión sobre información y datos de este carácter, así\ncomo su correspondiente protección (…)”;\nQue el artículo 92 de la CRE consagra el derecho de toda persona a conocer de la existencia\nde sus datos personales en archivos públicos o privados, así como a solicitar su acceso gratuito,\nactualización, rectificación, eliminación o anulación, especialmente tratándose de datos\nsensibles, con la adopción de las medidas de seguridad necesarias;\nQue el artículo 213 de la CRE establece que “[l]as superintendencias son organismos\ntécnicos de vigilancia, auditoría, intervención y control de las actividades económicas, sociales\ny ambientales, y de los servicios que prestan las entidades públicas y privadas, con el propósito\nde que estas actividades y servicios se sujeten al ordenamiento jurídico y atiendan al interés\ngeneral (…)”; que forman parte de la Función de Transparencia y Control Social; y que,\nconforme lo dispone el artículo 204 ídem, detentan “personalidad jurídica y autonomía\nadministrativa, financiera, presupuestaria y organizativa (…)”;\nQue a través de la Ley Orgánica de Protección de Datos Personales (“LOPDP”) se creó la\nSuperintendencia de Protección de Datos Personales (“SPDP”) como un órgano de control, con\npotestad sancionatoria, de administración desconcentrada, con personalidad jurídica y\nautonomía administrativa, técnica, operativa y financiera, cuyo máximo titular es, de acuerdo\ncon el inciso primero del artículo 76 ídem, el Superintendente de Protección de Datos Personales;\nQue el artículo 76 de la LOPDP establece que “[l]a [Superintendencia de] Protección de\nDatos Personales es el órgano de control y vigilancia encargado de garantizar a todos los\nciudadanos la protección de sus datos personales, y de realizar todas las acciones necesarias\npara que se respeten los principios, derechos, garantías y procedimientos previstos en la [Ley\nOrgánica de Protección de Datos Personales]”;\nQue el numeral 5 de ese mismo artículo 76 de la LOPDP le confiere a la SPDP funciones,\natribuciones y facultades para “[e]mitir normativa general o técnica, criterios y demás actos\nque sean necesarios para el ejercicio de sus competencias y la garantía del ejercicio del derecho\na la protección de datos personales”;\nQue, por un lado, el artículo 42 de la LOPDP exige al responsable del tratamiento de datos\nrealizar “(…) una evaluación de impacto del tratamiento de datos personales cuando se haya\nidentificado la probabilidad de que dicho tratamiento, por su naturaleza, contexto o fines,\nconlleve un alto riesgo para los derechos y libertades del titular o cuando la [Superintendencia\nde Protección de Datos Personales] lo requiera”; y, por otro, determina que “[l]a evaluación de\nimpacto relativa a la protección de los datos será de carácter obligatoria [en los casos de] (…)\n[t]ratamiento a gran escala de las categorías especiales de datos (…)” y de “[o]bservación\nsistemática a gran escala de una zona de acceso público”;\nQue, de conformidad con el numeral 3 del artículo 48 de la LOPDP, es obligatoria la\ndesignación del delegado de protección de datos en supuestos de tratamiento a gran escala de\ncategorías especiales de datos personales;\nQue la antedicha obligación evidencia que, para la LOPDP, los tratamientos considerados de\ngran escala pueden entrañar riesgos elevados, cuestión que impone mayores responsabilidades\ny controles, a tal punto que el mencionado cuerpo legal faculta a la SPDP para que pueda definir\nnuevas condiciones en las que sea obligatoria la designación del delegado de protección de datos\n\npersonales, lo cual refuerza la necesidad de determinar el alcance del concepto jurídico gran\nescala;\nQue el numeral 7 del artículo 4 del Reglamento General de la Ley Orgánica de Protección de\nDatos Personales (“RGLOPDP”) define al tratamiento a gran escala como “aquel que afecta a\nuna gran cantidad de datos, referentes a un elevado número de titulares, procedentes de una\namplia diversidad geográfica, y que pueden entrañar un riesgo a sus derechos y libertades\n(…)”;\nQue el citado numeral 7 del artículo 4 del RGLOPDP determina cuáles son los aspectos\ngenerales que la SPDP y los responsables del tratamiento deberán considerar para poder\ndeterminar cuándo se está en presencia de un tratamiento a gran escala;\nQue, sin perjuicio de tales aspectos generales, el mismo numeral 7 del artículo 4 del\nRGLOPDP establece cuáles son los tratamientos específicos que, de por sí, están considerados,\nde manera predeterminada, como de gran escala;\nQue el artículo 54 del RGLOPDP faculta a la SPDP para establecer otros factores para definir\nqué tipos de tratamientos de datos de categorías especiales pueden ser considerados como de\ngran escala;\nQue la SPDP es miembro de pleno derecho de la Red Iberoamericana de Protección de Datos\nPersonales (“RIPD”), con voz y voto, de acuerdo con la resolución unánimemente acordada en\nla Sesión Cerrada del 27 de mayo del 2024, que se llevó a cabo en el marco del XXI Encuentro\nIberoamericano 2024 de la RIPD realizado en Cartagena de Indias, Colombia;\nQue, de acuerdo con el literal a) del artículo 1 de su Reglamento, la RIPD persigue, entre\notros objetivos, “[p]romover la cooperación, el diálogo y el uso compartido de la información\npara el desarrollo de iniciativas y políticas de protección de datos y privacidad”;\nQue en el marco del XV Encuentro Iberoamericano de la RIPD se aprobaron y presentaron,\nel 20 de junio del 2017, los Estándares de Protección de Datos Personales de los Estados\nIberoamericanos (“Estándares Iberoamericanos”), que constituyen “un conjunto de directrices\norientadoras que contribuyan a la emisión de iniciativas regulatorias de protección de datos\npersonales en la región iberoamericana de aquellos países que aún no cuentan con estos\nordenamientos, o en su caso, [que] sirvan como referente para la modernización y actualización\nde las legislaciones existentes”;\nQue el considerando 10 de los Estándares Iberoamericanos señala que, en un contexto de\ncontinua innovación tecnológica, es preciso adoptar “instrumentos regulatorios que garanticen,\npor una parte, la protección de las personas físicas con relación al tratamiento de sus datos\npersonales y, por la otra, el libre flujo de los datos personales que actualmente constituyen la\nbase para el desarrollo, fortalecimiento e intercambio de bienes y servicios en una economía\nglobal y digital, sobre los cuales se erigen las economías de los Estados Iberoamericanos”;\nQue, a su vez, el considerando 13 de los Estándares Iberoamericanos reconoce expresamente\n“(…) los riesgos potenciales que pueden derivarse en la esfera de las personas físicas con\nmotivo del tratamiento de sus datos personales a gran escala efectuado por parte de organismos\npúblicos y privados y, en particular, teniendo en cuenta la especial vulnerabilidad de las niñas,\nniños y adolescentes, quienes demandan de garantías adecuadas y suficientes de protección\nfrente a usos indebidos o arbitrarios de su información personal, preservando de esta manera\nsu interés superior, el libre desarrollo de su personalidad, su seguridad y otros valores que son\nobjeto de máxima protección por parte de los Estados Iberoamericanos”;\nQue la Organización para la Cooperación y el Desarrollo Económicos (“OCDE”) ha\nadvertido en sus informes que existe una tendencia creciente a recopilar, procesar e intercambiar\ndatos personales a gran escala (v.g. datos conductuales y de salud), de manera cada vez más\n\ninvasiva, lo cual implica formas de vigilancia masiva con potencial impacto negativo en la\nprivacidad;\nQue, ante ello, la OCDE y otros organismos internacionales instan a los Estados a\nimplementar marcos regulatorios que garanticen salvaguardas sólidas de protección de datos en\ncontextos de macrodatos (big data) y tratamientos masivos, de forma que se preserve la\nconfianza ciudadana en la economía digital;\nQue mediante resolución N° SPDP-SPDP-2024-0001-R del 2 de agosto del 2024, publicada\nen el Tercer Suplemento del Registro Oficial N° 624 del 19 de agosto del 2024, el\nSuperintendente de Protección de Datos Personales aprobó el Estatuto Orgánico de Gestión\nOrganizacional por Procesos de Arranque de la Superintendencia de Protección de Datos\nPersonales; resolución que fue reformada mediante la N° SPDP-IRD-2025-0028-R, a su vez\nexpedida el 30 de julio del 2025 y publicada en el Registro Oficial N° 105 del 19 de agosto del\n2025;\nQue el artículo 1 de la misma resolución Nº SPDP-SPDP-2024-0001-R, en su Anexo 1, ha\nprevisto que “[l]a Superintendencia de Protección de Datos Personales se alinea con su misión\ny define su Estructura Organizacional sustentada en su base normativa y su direccionamiento\nestratégico institucional, los cuales serán determinados en su Planificación Estratégica\nInstitucional, Modelo de Gestión institucional y Matriz de Competencias (…)”;\nQue la letra b), numeral 2 del artículo 10 de la resolución N° SPDP-SPDP-2024-0001-R,\nestablece que a la Intendencia General de Regulación de Protección de Datos Personales (“IRD”)\nle corresponde, entre otras atribuciones y responsabilidades, “[d]irigir y proponer la\nelaboración de las propuestas o proyectos normativos para crear, reformar o derogar los actos\nnormativos, sean estos políticas, directrices, reglamentos, resoluciones, lineamientos, normas\ntécnicas, oficios circulares, etcétera, necesarios para el ejercicio de todas las competencias y\natribuciones propias de la Superintendencia de Protección de Datos Personales, con los previos\ninformes técnicos de las unidades administrativas sustantivas y adjetivas relacionadas con el\námbito de aplicación de tales normas; así como, todos aquellos actos normativos relacionados\ncon el ejercicio, tutela y procedimientos administrativos de gestión que garanticen a las\npersonas naturales la plena vigencia de sus derechos y deberes previstos en dicha ley y su\nreglamento (…)”;\nQue la letra c), numeral 2 del artículo 10 de la resolución N° SPDP-SPDP-2024-0001-R,\nestablece, entre las atribuciones y responsabilidades de la IRD, la de “[d]irigir y proponer la\npresentación al Superintendente de Protección de Datos Personales de las propuestas de\nnormas, reglamentos, directrices, resoluciones, normas técnicas, oficios circulares, etcétera,\nvinculados con la regulación de protección de datos personales, para su expedición (…)”;\nQue a través de la letra a) del artículo 4 de la resolución N° SPDP-SPD-2025-0001-R del 31\nde enero del 2025, publicada en el Registro Oficial N° 750 del 24 de febrero del 2025, mediante\nla cual se expidieron las disposiciones, delegaciones de facultades y atribuciones a las\nautoridades, funcionarios y servidores públicos de la SPDP, se le delegó al Intendente General\nRegulación de Protección de Datos Personales, entre otras, la responsabilidad de “[e]mitir\nnormativa general o técnica, criterios y demás actos que sean necesarios para el ejercicio de\nsus competencias y la garantía del ejercicio del derecho a la protección de datos personales\n(…)”;\nQue la disposición transitoria del Reglamento para la Elaboración y Aprobación del Plan\nRegulatorio Institucional de la SPDP —expedido mediante resolución Nº SPDP-SPDP-2024-\n0018-R del 30 de octubre del 2024, publicada en el Segundo Suplemento del Registro Oficial\nNº 679 del 8 de noviembre del 2024— establece que “(…) el PRI correspondiente a los años\nfiscales 2024 y 2025 no seguirá el procedimiento establecido en este reglamento y, por ende, se\nelaborará únicamente a base de los informes técnicos emitidos por las Unidades\nAdministrativas correspondientes; validados por la [IRD]; aprobados por el Superintendente o\n\nsu delegado; y, finalmente, publicado en los portales oficiales de la SPDP cuando estén\nhabilitados”;\nQue a través de la resolución Nº SPDP-SPDP-2024-0022-R, publicada en el Registro Oficial\nNº 734 del 31 de enero del 2025, se expidió el Reglamento para la Creación, Modificación y\nDerogatoria de la Normativa de la SPDP;\nQue mediante la resolución N° SPDP-SPD-2025-0002-R del 3 de febrero del 2025 se aprobó\nel Plan Regulatorio Institucional del año 2025, dentro del cual se ha establecido la necesidad de\nexpedir la normativa para guiar a los administrados respecto del correcto tratamiento de\ndatos personales a gran escala;\nQue por medio del memorando N° SPDP-IRD-2025-0213-M, suscrito el 30 de octubre del\n2025, la IRD puso en conocimiento de la Dirección de Asesoría Jurídica (“DAJ”) tanto el\nproyecto normativo denominado Norma General sobre el Tratamiento de Datos Personales\na Gran Escala, como el informe técnico N° INF-SPDP- IRD-2025-0093, para que, dentro del\ntérmino de diez días, se pronuncie sobre la concordancia con la normativa y la legalidad, de\nconformidad con el artículo 12 de la resolución N° SPDP-SPDP-2024-0022-R;\nQue a través del informe jurídico N° INF-SPDP-DAJ-2025-0051, remitido a la IRD\nmediante memorando N° SPDP-DAJ-2025-0108-M suscrito el 31 de octubre del 2025, la DAJ\ndeterminó que el proyecto denominado Norma General sobre el Tratamiento de Datos\nPersonales a Gran Escala, es congruente con los principios establecidos en la LOPDP, por\ncuanto no transgrede o contradice normas matrices, cumple con el principio de legalidad y, por\nello, recomendó que “[l]a IRD debe disponer a quien corresponda la publicación a través de la\npágina web institucional e informar su publicación a través de las redes sociales institucionales,\ncon la finalidad de que la ciudadanía, las organizaciones de la sociedad civil o interesados en\ngeneral, de manera motivada, puedan remitir sus observaciones o realizar aportes respecto del\ncontenido, para lo cual se debe indicar la forma para recibir dichas observaciones y aportes\nque será dentro de un término de veinte (20) días contados desde su publicación(…)”;\nQue mediante el memorando N° SPDP-IRD-2025-0217 suscrito el 31 de octubre del 2025,\nla IRD solicitó a las unidades administrativas de la SPDP que procedan con las acciones\npertinentes, a fin de que publiquen el proyecto que contiene la Norma General sobre el\nTratamiento de Datos Personales a Gran Escala, en la página web institucional y en las redes\nsociales de la SPDP, para que esté disponible para la ciudadanía, las organizaciones de la\nsociedad civil o los interesados en general, desde el 5 de noviembre al 2 de diciembre del 2025,\ninclusive, con el objeto de poder recibir sus observaciones o aportes, siempre que estuvieren\ndebidamente motivados;\nQue, para cumplir con la resolución Nº SPDP-SPDP-2024-0022-R, se ejecutó el proceso de\nsocialización del proyecto de Norma General sobre el Tratamiento de Datos Personales a\nGran Escala, dentro del término de veinte (20) días, de conformidad con el artículo 12 de la\nmencionada resolución;\nQue mediante memorando N° SPDP-IRD-2025-0273-M suscrito el 31 de diciembre del\n2025, la IRD remitió todo el expediente al Superintendente de Protección de Datos Personales\npara que realice las observaciones correspondientes o, en su caso, para que lo apruebe;\nQue mediante memorando N° SPDP-SPD-2026-0008-M del 16 de enero del 2026, el\nsuscrito Superintendente de Protección de Datos Personales comunicó a la IRD las\nobservaciones que realizó al proyecto de Norma General sobre el Tratamiento de Datos\nPersonales a Gran Escala, y, además, solicitó que aquellas sean revisadas de conformidad con\nel artículo 14 del Reglamento para la Creación, Modificación y Derogatoria de la Normativa de\nla SPDP;\nQue mediante memorando N° SPDP-IRD-2026-0010-M del 28 de enero del 2026, la IRD\npuso en conocimiento del Superintendente de Protección de Datos Personales el proyecto que\n\ncontiene la Norma General sobre el Tratamiento de Datos Personales a Gran Escala,\ndebidamente subsanado, de conformidad con el artículo 14 del aludido Reglamento para la\nCreación, Modificación y Derogatoria de la Normativa de la SPDP;",
+    "anexos": [],
+    "version": "1.0.0"
+  },
+  "unidades": [
+    {
+      "id": "EC-SPDP-2026-0005-R-Art-1",
+      "tipo": "articulo",
+      "numero": "1",
+      "titulo": "",
+      "texto_oficial": "Art. 1.- Esta norma general tendrá por objeto establecer las directrices y criterios técnicos\npara identificar y gestionar los tratamientos de datos personales a gran escala, de manera que\ndichos tratamientos se efectúen en concordancia con la LOPDP y el RGLOPDP, en garantía de\nlos principios y la protección efectiva de los derechos y libertades de los titulares de los datos\npersonales.\nLos tratamientos predeterminados como de gran escala en el RGLOPDP deberán cumplir,\nobligatoriamente, las regulaciones específicas de esta norma general.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "seguridad-del-tratamiento.evaluacion-impacto",
+        "ambito-de-aplicacion.ambito-material"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "definicion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0005-R-Art-2",
+      "tipo": "articulo",
+      "numero": "2",
+      "titulo": "",
+      "texto_oficial": "Art. 2.- Las disposiciones de esta norma general son de cumplimiento obligatorio para todos\nlos responsables —así como para los encargados que tuvieren acceso, visibilidad o control\nefectivo de los datos objeto de tratamiento— que realicen tratamientos de datos personales a\ngran escala, de conformidad con la LOPDP, el RGLOPDP y las resoluciones aplicables\nexpedidas por la SPDP.\nSu ámbito de aplicación comprende tanto a las actividades de tratamiento efectuadas dentro\ndel territorio de la República del Ecuador, como aquellas realizadas fuera de dicho espacio\nterritorial cuando les resultaren aplicables los criterios de territorialidad previstos en la LOPDP\ny el RGLOPDP.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "seguridad-del-tratamiento.evaluacion-impacto",
+        "ambito-de-aplicacion.ambito-subjetivo"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0005-R-Art-3",
+      "tipo": "articulo",
+      "numero": "3",
+      "titulo": "",
+      "texto_oficial": "Art. 3.- Sin perjuicio de las definiciones establecidas en la LOPDP y el RGLOPDP, para los\nefectos de esta norma general se adoptan las siguientes definiciones específicas:\n3.1. Alcance geográfico: Extensión o impacto territorial del tratamiento de datos\npersonales, considerando la ubicación de los titulares, de las actividades o de las\noperaciones del tratamiento. El alcance geográfico se clasifica, al menos, como local,\nnacional, transfronterizo o global.\n3.2. Alcance geográfico global: Tratamiento realizado en más de un país, en más de una\norganización internacional, en más de una persona jurídica o territorio económico\ninternacional.\n3.3. Alcance geográfico local: Tratamiento realizado dentro de una provincia, cantón o\nciudad.\n3.4. Alcance geográfico nacional: Tratamiento realizado en más de una provincia, cantón\no ciudad.\n3.5. Alcance geográfico transfronterizo: Tratamiento realizado en un país, en una\norganización internacional, en una persona jurídica o en un territorio económico\ninternacional.\n3.6. Categorías de datos personales: Clasificación de los datos tal cual se encuentran\nestablecidas en la LOPDP y el RGLOPDP.\n3.7. Frecuencia del tratamiento: Regularidad o continuidad con la que se realizan las\noperaciones de tratamiento, considerando la repetición, acumulación y continuidad\n\nde dichas operaciones. La frecuencia se clasificará como única, periódica o continua,\nsegún la intensidad y constancia del tratamiento.\n3.8. Número de titulares de datos personales: Cantidad total única de titulares de datos\npersonales involucrados en un determinado tratamiento, calculada sobre un período\nde tiempo referencial de doce (12) meses por tratamiento, de manera que cada titular\nsea contado una sola vez dentro del cálculo.\n3.9. Permanencia del tratamiento: Tiempo durante el cual los datos personales están\nsometidos a operaciones de tratamiento activas, excluidos los periodos de\nconservación en archivo o bloqueo, los cuales se regirán por la normativa aplicable.\nLa permanencia se clasifica como ocasional, temporal o prolongada.\n3.10. Permanencia de tratamiento ocasional: Tratamiento que se realiza de manera\nexcepcional, puntual o esporádico.\n3.11. Permanencia de tratamiento prolongada: Tratamiento que se realiza por un\nperíodo desde tres (3) años en adelante.\n3.12. Permanencia de tratamiento temporal: Tratamiento que se realiza por un período\nmenor a tres (3) años.\n3.13. Volumen de datos: Se entenderá por volumen de datos la cantidad total de datos\npersonales tratados en un determinado tratamiento por parte de un responsable o\nencargado, considerando, principalmente, el número de titulares afectados y la\ncantidad de datos personales asociados a cada uno.\nTÍTULO II\nCRITERIOS DE IDENTIFICACIÓN DEL TRATAMIENTO A GRAN ESCALA",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "ambito-de-aplicacion.definiciones-clave",
+        "seguridad-del-tratamiento.evaluacion-impacto"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "definicion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0005-R-Art-4",
+      "tipo": "articulo",
+      "numero": "4",
+      "titulo": "",
+      "texto_oficial": "Art. 4.- Con la finalidad de poder determinar si un tratamiento de datos personales se realizare\na gran escala, el responsable o el encargado que tenga acceso, visibilidad o control efectivo sobre\nlos datos personales que son objeto de tal tratamiento, deberá evaluar, entre otros, los criterios\ncuantitativos establecidos el RGLOPDP y los de esta norma general, así como el número de\ntitulares y el volumen de datos personales tratados, los cuales deberán estar incluidos de manera\nclara, específica y detallada en el registro de actividades de tratamiento (“RAT”).",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "seguridad-del-tratamiento.evaluacion-impacto"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0005-R-Art-5",
+      "tipo": "articulo",
+      "numero": "5",
+      "titulo": "",
+      "texto_oficial": "Art. 5.- Para la determinación del nivel de riesgo del tratamiento de datos personales, el\nresponsable del tratamiento o el encargado que tuviere acceso, visibilidad o control efectivo\nsobre los datos personales tratados, deberá evaluar, como mínimo, los siguientes criterios\ncualitativos:\n5.1. La permanencia del tratamiento;\n5.2. Las categorías de datos personales tratados:\n5.3. La frecuencia del tratamiento; y,\n5.4. El alcance geográfico del tratamiento.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "seguridad-del-tratamiento.evaluacion-impacto"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0005-R-Art-6",
+      "tipo": "articulo",
+      "numero": "6",
+      "titulo": "",
+      "texto_oficial": "Art. 6.- El responsable o el encargado que tuviere acceso, visibilidad o control efectivo sobre\nlos datos personales tratados, deberá actualizar y modificar el RAT al menos una vez al año o\ncuando se produjeren cambios que incidieren en los criterios que determinan la existencia de un\ntratamiento a gran escala o el nivel de riesgo asociado a dicho tratamiento, de conformidad con\nla normativa vigente.\nAdemás, el responsable o el encargado deberán conservar evidencia del cálculo, la fecha de\nla última actualización del RAT y del Modelo Técnico de Gran Escala (“MTGE”), a efectos de\ngarantizar la trazabilidad y el principio de responsabilidad proactiva.\n\nAnte la omisión de la actualización o modificación del RAT, se sancionará al responsable o,\nen su caso, al encargado que tuviere acceso, visibilidad o control efectivo; ello de acuerdo con\nel régimen sancionatorio previsto en la LOPDP y su normativa aplicable.\nTÍTULO III\nFÓRMULA DE IDENTIFICACIÓN Y CÁLCULO PARA EL\nTRATAMIENTO DE DATOS PERSONALES A GRAN ESCALA",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "seguridad-del-tratamiento.evaluacion-impacto"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0005-R-Art-7",
+      "tipo": "articulo",
+      "numero": "7",
+      "titulo": "",
+      "texto_oficial": "Art. 7.- Para determinar objetivamente cuándo un tratamiento de datos personales puede ser\nconsiderado como de gran escala, se establece el MTGE como un instrumento de carácter\ntécnico-jurídico que permite valorar —mediante el análisis conjunto de los criterios cuantitativos\ny cualitativos previstos en el RGLOPDP y esta norma general— el nivel de riesgo y la magnitud\nde un determinado tratamiento de datos personales.\nEl MTGE se basa en la suma de estos seis (6) componentes o variables, que reflejan las\ndimensiones esenciales del tratamiento de datos personales:\n7.1. Número de titulares de datos personales;\n7.2. Volumen de datos personales;\n7.3. Categorías de datos personales;\n7.4. Frecuencia del tratamiento de datos personales;\n7.5. Permanencia del tratamiento de datos personales; y,\n7.6. Alcance geográfico del tratamiento.\nEl resultado del MTGE deberá constar de forma expresa y verificable en el RAT; y, además,\nhabrá de mantenerse actualizado frente a cualquier cambio sustancial del tratamiento, sin\nperjuicio de las facultades de control y verificación de la SPDP.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "seguridad-del-tratamiento.evaluacion-impacto"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "definicion",
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0005-R-Art-8",
+      "tipo": "articulo",
+      "numero": "8",
+      "titulo": "",
+      "texto_oficial": "Art. 8.- Cada variable del MTGE se evaluará de acuerdo con los siguientes parámetros\nestandarizados, aplicables a todos los sectores económicos y administrativos:\n8.1. Número de titulares en doce (12) meses por tratamiento:\n8.1.1. De 0 a 1.000 titulares tendrá la equivalencia de un (1) punto;\n8.1.2. De 1.001 a 10.000 titulares equivaldrán a dos (2) puntos;\n8.1.3. De 10.001 a 100.000 titulares, tres (3) puntos; y,\n8.1.4. Desde 101.000 o más titulares, cuatro (4) puntos.\n8.2. Volumen de datos personales tratados:\n8.2.1. Hasta 10 tipos de datos por titular, el volumen representará cinco décimas\n(0,5) de un punto;\n8.2.2. Entre 11 y 30 tipos de datos, un (1) punto;\n8.2.3. Entre 31 y 100 tipos de datos, dos (2) puntos; y,\n8.2.4. Desde 101 o más tipos de datos, tres (3) puntos.\n8.3. Categorías de datos personales tratados:\n8.3.1. Únicamente las categorías de datos básicos, esto es, los que no fueren\nconsiderados como categorías especiales de datos, equivaldrán a cinco\ndécimas (0,5) de un punto;\n8.3.2. El tratamiento que incluya una categoría especial equivaldrá a dos (2)\npuntos; y,\n\n8.3.3. El tratamiento que incluya más de una categoría especial, datos de grupos\nvulnerables o datos de naturaleza penal o infracciones, equivaldrán tres\n(3) puntos.\n8.4. Frecuencia del tratamiento:\n8.4.1. Un tratamiento puntual representará, para la determinación de gran\nescala, a cinco décimas (0,5) de un punto;\n8.4.2. La frecuencia periódica o recurrente representará un (1) punto; y,\n8.4.3. La continua o en tiempo real, dos (2) puntos.\n8.5. Permanencia del tratamiento:\n8.5.1. Cuando fuere ocasional representará, para la determinación de gran\nescala, a cinco décimas (0,5) de un punto;\n8.5.2. La temporal representará un (1) punto; y,\n8.5.3. La prolongada, dos (2) puntos.\n8.6. Alcance geográfico del tratamiento:\n8.6.1. Con alcance local tendrá la equivalencia de un (1) punto;\n8.6.2. Nacional, dos (2) puntos; y,\n8.6.3. Global o transfronterizo, tres (3) puntos.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "seguridad-del-tratamiento.evaluacion-impacto"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0005-R-Art-9",
+      "tipo": "articulo",
+      "numero": "9",
+      "titulo": "",
+      "texto_oficial": "Art.9.- El puntaje total del MTGE se calculará de acuerdo con la siguiente expresión\nmatemática:\nP = Ttitulares + Tvolumen + Tcategorías + Tfrecuencia + Tpermanencia + Tgeografía\nDonde “P” representa el puntaje acumulado del tratamiento de datos personales, resultante\nde la sumatoria de las seis variables descritas.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "seguridad-del-tratamiento.evaluacion-impacto"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0005-R-Art-10",
+      "tipo": "articulo",
+      "numero": "10",
+      "titulo": "",
+      "texto_oficial": "Art.10.- El tratamiento de datos personales será considerado de gran escala cuando el valor\ntotal fuere igual o superior al valor de seis (6) puntos, que es el que constituye el umbral de\ncalificación. Cuando el valor obtenido fuere inferior a seis (6), el tratamiento no será calificado\ncomo de gran escala.\nLa SPDP podrá ajustar el umbral de calificación mediante resolución técnica motivada,\nconsiderando los cambios tecnológicos, la evolución del mercado y los estándares\ninternacionales.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "seguridad-del-tratamiento.evaluacion-impacto"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0005-R-Art-11",
+      "tipo": "articulo",
+      "numero": "11",
+      "titulo": "",
+      "texto_oficial": "Art.11.- El puntaje del umbral de calificación con equivalencia a seis (6) puntos, ha sido\ndeterminado de conformidad con un análisis de sensibilidad y proporcionalidad que equilibra la\ndetección de tratamientos de alto impacto con la exclusión de operaciones de bajo riesgo, en\nparticular:\n11.1. Tratamientos con combinación de magnitud media-alta (v. g., más de 10.000 titulares,\nfrecuencia continua y ámbito nacional) tienden a superar el umbral y, así, aseguran\nsu clasificación como gran escala.\n11.2. Tratamientos de magnitud baja (v. g., hasta 1.000 titulares, 10 tipos de datos y datos\nno sensibles), no alcanzan, en condiciones ordinarias, el umbral de seis (6) puntos,\naun cuando el tratamiento fuere prolongado o de alcance nacional, lo que evita\nclasificaciones desproporcionadas de bajo impacto.\nLa aplicación del umbral de calificación de seis (6) puntos maximiza la correspondencia entre\nla magnitud del tratamiento, el riesgo real y la carga regulatoria, en coherencia con los principios\nde necesidad y proporcionalidad de la LOPDP.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "seguridad-del-tratamiento.evaluacion-impacto"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "definicion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0005-R-Art-12",
+      "tipo": "articulo",
+      "numero": "12",
+      "titulo": "",
+      "texto_oficial": "Art.12.- El resultado del cálculo efectuado de acuerdo con el MTGE será vinculante para los\nsiguientes efectos jurídicos:\n12.1. Determinar la obligación de realizar una evaluación de impacto del tratamiento de\ndatos personales previa;\n12.2. Exigir la designación obligatoria de un delegado de protección de datos personales;\n12.3. Incorporar el tratamiento de datos personales en el RAT; y,\n12.4. Activar las medidas reforzadas de responsabilidad proactiva, seguridad y supervisión\nestablecidas en esta norma general.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "seguridad-del-tratamiento.evaluacion-impacto"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0005-R-Art-13",
+      "tipo": "articulo",
+      "numero": "13",
+      "titulo": "",
+      "texto_oficial": "Art.13.- El responsable o el encargado que tuviere acceso, visibilidad o control efectivo sobre\nlos datos personales tratados, deberá revisar y actualizar, periódicamente, los valores de las\nvariables del MTGE y recalcular el puntaje total cuando se produjeren variaciones sustanciales\nque puedan modificar la determinación del tratamiento a gran escala o el nivel de riesgo\nasociado.\nTÍTULO IV\nCASOS DE CALIFICACIÓN DIRECTA OBLIGATORIA DE TRATAMIENTO A GRAN ESCALA",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "seguridad-del-tratamiento.evaluacion-impacto",
+        "obligaciones-responsable.dpd"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0005-R-Art-14",
+      "tipo": "articulo",
+      "numero": "14",
+      "titulo": "",
+      "texto_oficial": "Art. 14.- Constituirá tratamiento de datos personales a gran escala —de manera directa y\nobligatoria, sin necesidad de aplicar el MTGE—, a más de los establecidos en el RGLOPDP,\ncuando el responsable o, en su caso, el encargado con acceso, visibilidad o control efectivo de\nlos datos objeto de tratamiento, realizaren las siguientes actividades:\n14.1. Los tratamientos relativos a la salud, en particular cuando se realizare en el marco de\nsistemas sanitarios, asistenciales, de seguridad social o de gestión de historiales\nclínicos, así como los relativos a otras categorías especiales de datos personales, como\nlos que realicen tratamientos de datos sensibles;\n14.2. La evaluación sistemática y exhaustiva de aspectos personales de personas naturales\nbasada en tratamientos automatizados, tales como el perfilamiento, predicción o\nmonitoreo de comportamientos, en la medida en que, de dicha evaluación, se\nderivaren decisiones que produzcan efectos jurídicos o que afectaren los derechos y\nlibertades de los titulares de los datos personales;\n14.3. La observación, vigilancia o monitoreo sistemático de personas en zonas o espacios\nde acceso público, realizada mediante sistemas de videovigilancia u otros\nmecanismos tecnológicos de supervisión continua;\n14.4. Todo tratamiento de datos biométricos, así como todo tratamiento que ejecutare\nactividades de geolocalización a los titulares de datos personales;\n14.5. El tratamiento estructural de datos personales en el marco de sistemas de información\ncrediticia, financiera o de evaluación de riesgo económico, destinados a valorar el\ncumplimiento de obligaciones dinerarias, la solvencia patrimonial o el\ncomportamiento financiero de las personas naturales;\n14.5. El tratamiento sistemático de datos personales de niñas, niños y adolescentes, cuando\nse realizare en entornos institucionales, educativos, digitales o de prestación de\nservicios dirigidos a estos grupos de atención prioritaria;\n14.6. La realización de transferencias sistemáticas de datos personales, cuando aquellas\nformaren parte de flujos continuos o estructurales de información entre responsables,\nencargados u otros destinatarios, dentro o fuera del territorio nacional; o,\n14.7. El tratamiento de datos personales en servicios de mensajería acelerada, expresa o\ncourier.\n\nTÍTULO V\nOBLIGACIONES DERIVADAS DEL TRATAMIENTO A GRAN ESCALA",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "seguridad-del-tratamiento.evaluacion-impacto"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0005-R-Art-15",
+      "tipo": "articulo",
+      "numero": "15",
+      "titulo": "",
+      "texto_oficial": "Art. 15.- El responsable o el encargado que tuviere acceso, visibilidad o control efectivo de\nlos datos personales tratados deberá mantener el RAT con la información de los tratamientos de\ngran escala, incluidos los siguientes criterios que son adicionales a los que constan establecidos\nen el RGLOPDP:\n15.1. Descripción del tratamiento;\n15.2. Categorías y tipos de datos personales;\n15.3. Titulares de datos personales de quienes se trata información;\n15.4. Frecuencia del tratamiento;\n15.5. Permanencia del tratamiento; y,\n15.6. Medidas de seguridad implementadas.\nLa SPDP podrá requerir el acceso a dicha información en el marco de sus competencias,\naunque limitada a aquella que estimare como pertinente, necesaria y proporcional, con aplicación\nde las medidas que considere suficientes para proteger la información confidencial, los secretos\nindustriales y la propiedad intelectual.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "seguridad-del-tratamiento.evaluacion-impacto",
+        "seguridad-del-tratamiento.medidas-seguridad"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0005-R-Art-16",
+      "tipo": "articulo",
+      "numero": "16",
+      "titulo": "",
+      "texto_oficial": "Art. 16.- Los responsables y los encargados que tuvieren acceso, visibilidad o control\nefectivo de los datos tratados deberán garantizar que, antes y durante el tratamiento a gran escala,\nse apliquen medidas de privacidad desde el diseño y por defecto, para lo cual estarán sujetos a\nla normativa correspondiente y específica que fuere expedida por la SPDP.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "seguridad-del-tratamiento.evaluacion-impacto",
+        "obligaciones-responsable.registro-actividades"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0005-R-Art-17",
+      "tipo": "articulo",
+      "numero": "17",
+      "titulo": "",
+      "texto_oficial": "Art. 17.- Todo responsable y encargado que tuviere acceso, visibilidad o control efectivo\nsobre los datos personales objeto de tratamiento, y que realizare tratamientos de datos personales\na gran escala, deberá someterse, al menos una vez cada doce (12) meses, a auditorías internas o\nexternas. Asimismo, deberá hacerlo cuando se produjeren cambios significativos en la\nnaturaleza, el alcance, las circunstancias o los fines del tratamiento, en las tecnologías utilizadas\no en el nivel de riesgo identificado, siempre que no cuente con procesos de auditoría,\nevaluaciones de cumplimiento o certificaciones vigentes que cubran de manera equivalente\ndichas obligaciones.\nLas auditorías podrán realizarse a base de estándares, metodologías o certificaciones\nreconocidas, siempre que permitan evaluar de forma adecuada el cumplimiento de las\nobligaciones previstas en la LOPDP y el RGLOPDP.\nEn el caso de los encargados del tratamiento, la obligación de someterse a auditorías será\nexigible únicamente respecto de los procesos y actividades sobre los cuales tuvieren control o\nresponsabilidad directa, de conformidad con la naturaleza del servicio prestado y las\ninstrucciones impartidas por el responsable.\nEl informe resultante de cada auditoría deberá conservarse por un período mínimo de cinco\n(5) años, en un formato que garantice su integridad, confidencialidad y disponibilidad, y deberá\nestar siempre disponible para la SPDP cuando ella lo requiera, en el ejercicio de sus facultades\nde supervisión y control.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "seguridad-del-tratamiento.evaluacion-impacto"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0005-R-Art-18",
+      "tipo": "articulo",
+      "numero": "18",
+      "titulo": "",
+      "texto_oficial": "Art. 18.- Los responsables o los encargados que tuvieren acceso, visibilidad o control\nefectivo de los datos objeto de tratamiento a gran escala deberán identificar, expresamente,\ndichos tratamientos en sus políticas de privacidad, e indicarán sus finalidades principales, las\ncategorías de datos personales tratados, las categorías de titulares afectados y los derechos que\nles asisten; políticas que deberán estar siempre disponibles y ser fácilmente accesibles para los\ntitulares de los datos personales, de conformidad con la LOPDP.\n\nAsimismo, los responsables y, cuando correspondiere, los encargados deberán elaborar y\nconservar informes anuales de cumplimiento, en los que se documenten las actividades de\ncontrol interno, los resultados de las auditorías realizadas, las revisiones del MTGE, las\nactualizaciones de las evaluaciones de impacto y las medidas de mejora implementadas.\nDichos informes deberán conservarse por un período mínimo de cinco (5) años y deberán\nestar disponibles para la SPDP cuando ella los requiera.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "autoridad-de-control.sanciones",
+        "seguridad-del-tratamiento.evaluacion-impacto"
+      ],
+      "roles": [
+        "autoridad-control",
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso",
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0005-R-DispGen-PRIMERA",
+      "tipo": "disposicion",
+      "numero": "PRIMERA",
+      "titulo": "Disposición Gen PRIMERA",
+      "texto_oficial": "Primera.- La SPDP podrá emitir guías sectoriales, instructivos técnicos y recomendaciones\ndirigidas a los responsables y encargados del tratamiento a gran escala, con el fin de facilitar el\ncumplimiento normativo y promover buenas prácticas en sectores específicos.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0005-R-DispGen-SEGUNDA",
+      "tipo": "disposicion",
+      "numero": "SEGUNDA",
+      "titulo": "Disposición Gen SEGUNDA",
+      "texto_oficial": "Segunda.- Las obligaciones, responsabilidades y efectos jurídicos previstos en esta norma\ngeneral serán exigibles al encargado únicamente respecto de aquellos tratamientos, operaciones\no fases del tratamiento sobre los cuales tenga acceso, visibilidad o control efectivo de los datos\npersonales objeto de tratamiento, de conformidad con la naturaleza del servicio prestado y las\ninstrucciones impartidas por el responsable del tratamiento.\nEn ningún caso esta disposición podrá interpretarse como una exoneración general de\nresponsabilidades del encargado del tratamiento, sino únicamente como una delimitación\nfuncional y proporcional de las obligaciones derivadas de esta norma general, en observancia de\nlos principios de responsabilidad proactiva, necesidad y proporcionalidad.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0005-R-DispTrans-ÚNICA",
+      "tipo": "disposicion",
+      "numero": "ÚNICA",
+      "titulo": "Disposición Trans ÚNICA",
+      "texto_oficial": "Los responsables y encargados que, por aplicación de las directrices, los criterios y la MTGE,\nidentificaren que realizan actividades de tratamiento de gran escala, dispondrán de noventa días\n(90) contados desde la vigencia de esta norma general para designar a sus delegados de\nprotección de datos personales y registrarlos en la SPDP.\nQuedan excluidos del plazo antes concedido quienes, oportunamente, debieron haber\nprocedido a la designación y registro de sus delegados de protección de datos, en cumplimiento\nde los literales a), b), c), d), e) y f) del artículo 4 del RGLOPDP, que, de manera predeterminada,\nconstituyen los casos de calificación directa obligatoria de tratamiento a gran escala.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2026-0005-R-DispFinal-ÚNICA",
+      "tipo": "disposicion",
+      "numero": "ÚNICA",
+      "titulo": "Disposición Final ÚNICA",
+      "texto_oficial": "Esta resolución entrará en vigencia a partir de su publicación en el Registro Oficial.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    }
+  ]
+}
