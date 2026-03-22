@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "id": "EC-SPDP-2025-0041-R",
+    "jurisdiccion": "ec",
+    "tipo_fuente": "normativa-secundaria",
+    "nivel_jerarquico": 6,
+    "titulo": "Normativa General para la Aplicación del Interés Legítimo como Base de Legitimación del Tratamiento de Datos Personales",
+    "numero": "SPDP-SPD-2025-0041-R",
+    "fecha_publicacion": "2025-10-01",
+    "fecha_vigencia": "2025-10-01",
+    "vigente": true,
+    "materia": [
+      "pdp"
+    ],
+    "es_especializada": true,
+    "url_oficial": "https://www.superintendenciadedatos.gob.ec/",
+    "preambulo": "CONSIDERANDO:\nQue el numeral 19 del artículo 66 de la Constitución de la República del Ecuador (“CRE”)\nles garantiza y reconoce a las personas “[e]l derecho a la protección de datos de carácter\npersonal, que incluye el acceso y la decisión sobre información y datos de este carácter, así\ncomo su correspondiente protección (…)”;\nQue por virtud del artículo 4 de la Declaración N° 897 de la Comunidad Andina de Naciones,\n“[s]e reconoce y garantiza el derecho que tienen todos los usuarios de la Comunidad Andina al\ndebido tratamiento de sus datos personales y a la titularidad sobre los mismos, así como el\nderecho de acceso, uso, rectificación, eliminación, cancelación, oposición, limitación al\ntratamiento o circulación de estos y a la portabilidad de su información (…)”;\nQue los Estándares de Protección de Datos Personales para los Estados Iberoamericanos,\naprobados por la Red Iberoamericana de Protección de Datos (“RIPD”), expedidos en el 2017,\npromueven la adopción de principios tales como la responsabilidad proactiva, la evaluación\nprevia de los riesgos, la proporcionalidad del tratamiento y la revisión periódica de las medidas\nadoptadas; principios que son plenamente aplicables a los tratamientos basados en el interés\nlegítimo y observados por la Superintendencia de Protección de Datos Personales (“SPDP”),\nadmitida como miembro de pleno derecho de la RIPD a partir del 3 de junio del 2024;\nQue el artículo 213 de la CRE establece que “[l]as superintendencias son organismos\ntécnicos de vigilancia, auditoría, intervención y control de las actividades económicas, sociales\ny ambientales, y de los servicios que prestan las entidades públicas y privadas, con el propósito\nde que estas actividades y servicios se sujeten al ordenamiento jurídico y atiendan al interés\ngeneral (…)”; que forman parte de la Función de Transparencia y Control Social; y que,\nconforme lo dispone el artículo 204 idem, detentan “personalidad jurídica y autonomía\nadministrativa, financiera, presupuestaria y organizativa (…)”;\nQue a través de la Ley Orgánica de Protección de Datos Personales (“LOPDP”) se creó la\nSPDP como un órgano de control, con potestad sancionatoria, de administración desconcentrada,\ncon personalidad jurídica y autonomía administrativa, técnica, operativa y financiera, cuyo\nmáximo titular es, de acuerdo con el inciso primero del artículo 76 ídem, el Superintendente de\nProtección de Datos Personales;\nQue el artículo 1 de la LOPDP tiene por objetivo y finalidad “(…) garantizar el ejercicio del\nderecho de protección de datos personales, que incluye el acceso y decisión sobre información\ny datos de ese carácter, así como su correspondiente protección (…)”;\nQue el numeral 8 del artículo 7 de la LOPDP considera como lícito y legítimo aquel\ntratamiento que se lleva a cabo “[p]ara satisfacer un interés legítimo del responsable de\ntratamiento o de tercero, siempre que no prevalezca el interés o derechos fundamentales de los\ntitulares al amparo de lo dispuesto en esta norma”;\nQue, a su vez, el artículo 9 de la LOPDP señala que el tratamiento que se basa en el interés\nlegítimo está sujeto a las siguientes condiciones: “a) Únicamente podrán ser tratados los datos\nque sean estrictamente necesarios para la realización de la finalidad; b) El responsable debe\ngarantizar que el tratamiento sea transparente para el titular; c) La [Superintendencia de\nProtección de Datos Personales] puede requerir al responsable un informe con (sic) de riesgo\npara la protección de datos en el cual se verificará si no hay amenazas concretas a las\nexpectativas legítimas de los titulares y a sus derechos fundamentales”;\nQue el numeral 3 del artículo 16 de la LOPDP le confiere al titular el derecho a oponerse o\nnegarse al tratamiento de sus datos, entre otros casos, “[c]uando no sea necesario su\n\nconsentimiento para el tratamiento como consecuencia de la concurrencia de un interés\nlegítimo, (…)y se justifique en una situación concreta personal del titular, siempre que una ley\nno disponga lo contrario”;\nQue el artículo 76 de la LOPDP establece que “[l]a Autoridad de Protección de Datos\nPersonales es el órgano de control y vigilancia encargado de garantizar a todos los ciudadanos\nla protección de sus datos personales, y de realizar todas las acciones necesarias para que se\nrespeten los principios, derechos, garantías y procedimientos previstos en la [Ley Orgánica de\nProtección de Datos Personales]”;\nQue el numeral 5 de ese mismo artículo 76 de la LOPDP le confiere a la SPDP funciones,\natribuciones y facultades para “[e]mitir normativa general o técnica, criterios y demás actos\nque sean necesarios para el ejercicio de sus competencias y la garantía del ejercicio del derecho\na la protección de datos personales”;\nQue el numeral 3 del artículo 7 del Reglamento General de la Ley Orgánica de Protección de\nDatos Personales (“RGLOPDP”), establece que, en caso de invocarse el interés legítimo como\nbase de legitimación, “se aplicará la regla de ponderación, siempre que no prevalezcan los\nintereses o derechos y libertades del titular”;\nQue, en los términos de la misma citada norma, la ponderación antedicha “(…) se realizará\na través de una evaluación meticulosa que atienda los siguientes factores: a. Evaluación del\ninterés legítimo del responsable del tratamiento o del tercero interesado que deberá ser\nnecesario y proporcionado; b. Impacto sobre los titulares que mida las consecuencias reales o\npotenciales derivadas del tratamiento; c. Equilibrio provisional, que contemple las medidas\nadoptadas por el responsable del tratamiento para cumplir sus obligaciones en términos de\nproporcionalidad y transparencia: y, d. Garantías adicionales aplicadas por el responsable del\ntratamiento para impedir cualquier impacto indebido sobre los titulares (…)”;\nQue el artículo 135 del Código Orgánico Administrativo (“COA”) determina que “[l]e\ncorresponde a la Administración Pública, la dirección del procedimiento administrativo en\nejercicio de las competencias que se le atribuyan en el ordenamiento jurídico y en este Código\n(…)”;\nQue mediante resolución N° SPDP-SPDP-2024-0001-R del 2 de agosto del 2024, publicada\nen el Tercer Suplemento del Registro Oficial N° 624 del 19 de agosto del 2024, el\nSuperintendente de Protección de Datos Personales aprobó el Estatuto Orgánico de Gestión\nOrganizacional por Procesos de Arranque de la Superintendencia de Protección de Datos\nPersonales, reformada mediante resolución N° SPDP-IRD-2025-0028-R, a su vez expedida el\n30 de julio del 2025 y publicada en el Registro Oficial N° 105 del 19 de agosto del 2025;\nQue el artículo 1 de la misma resolución Nº SPDP-SPDP-2024-0001-R, en su Anexo 1, ha\nprevisto que “[l]a Superintendencia de Protección de Datos Personales se alinea con su misión\ny define su Estructura Organizacional sustentada en su base normativa y su direccionamiento\nestratégico institucional, los cuales serán determinados en su Planificación Estratégica\nInstitucional, Modelo de Gestión institucional y Matriz de Competencias (…)”;\nQue la letra b), numeral 2 del artículo 10 de la resolución N° SPDP-SPDP-2024-0001-R\nestablece que a la Intendencia General de Regulación de Protección de Datos Personales (“IRD”)\nle corresponde, entre otras atribuciones y responsabilidades, “[d]irigir y proponer la\nelaboración de las propuestas o proyectos normativos para crear, reformar o derogar los actos\nnormativos, sean estos políticas, directrices, reglamentos, resoluciones, lineamientos, normas\ntécnicas, oficios circulares, etcétera, necesarios para el ejercicio de todas las competencias y\natribuciones propias de la Superintendencia de Protección de Datos Personales, con los previos\ninformes técnicos de las unidades administrativas sustantivas y adjetivas relacionadas con el\námbito de aplicación de tales normas; así como, todos aquellos actos normativos relacionados\ncon el ejercicio, tutela y procedimientos administrativos de gestión que garanticen a las\n\npersonas naturales la plena vigencia de sus derechos y deberes previstos en dicha ley y su\nreglamento (…)”;\nQue la letra c), numeral 2 del artículo 10 de la resolución N° SPDP-SPDP-2024-0001-R,\nestablece, entre las atribuciones y responsabilidades de la IRD, la de “[d]irigir y proponer la\npresentación al Superintendente de Protección de Datos Personales de las propuestas de\nnormas, reglamentos, directrices, resoluciones, normas técnicas, oficios circulares, etcétera,\nvinculados con la regulación de protección de datos personales, para su expedición (…)”;\nQue a través de la letra a) del artículo 4 de la resolución N° SPDP-SPD-2025-0001-R del 31\nde enero del 2025, publicada en el Registro Oficial N° 750 del 24 de febrero del 2025, mediante\nla cual se expidieron las disposiciones, delegaciones de facultades y atribuciones a las\nautoridades, funcionarios y servidores públicos de la SPDP, se le delegó al Intendente General\nRegulación de Protección de Datos Personales, entre otras, la responsabilidad de “[e]mitir\nnormativa general o técnica, criterios y demás actos que sean necesarios para el ejercicio de\nsus competencias y la garantía del ejercicio del derecho a la protección de datos personales\n(…)”;\nQue la disposición transitoria del Reglamento para la Elaboración y Aprobación del Plan\nRegulatorio Institucional de la SPDP —expedido mediante resolución Nº SPDP-SPDP-2024-\n0018-R del 30 de octubre del 2024, publicada en el Segundo Suplemento del Registro Oficial\nNº 679 del 8 de noviembre del 2024— establece que “(…) el PRI correspondiente a los años\nfiscales 2024 y 2025 no seguirá el procedimiento establecido en este reglamento y, por ende, se\nelaborará únicamente a base de los informes técnicos emitidos por las Unidades\nAdministrativas correspondientes; validados por la [IRD]; aprobados por el Superintendente o\nsu delegado; y, finalmente, publicado en los portales oficiales de la SPDP cuando estén\nhabilitados”;\nQue mediante la resolución N° SPDP-SPD-2025-0002-R del 3 de febrero del 2025 se aprobó\nel Plan Regulatorio Institucional del año 2025, dentro del cual se ha establecido la necesidad de\nexpedir la normativa para regular la aplicación y uso del interés legítimo como base\nlegitimadora y, de esta manera, guiar a los administrados respecto de su uso correcto;\nQue la IRD, mediante informe técnico Nº INF-SPDP-IRD-2025-0067 suscrito el 26 de\nagosto del 2025, justificó la pertinencia y la necesidad de emitir el Reglamento para la\naplicación del interés legítimo como base de legitimación para el tratamiento de datos\npersonales dentro del territorio de la República del Ecuador, así como el proyecto de\nresolución que lo contiene para que se lo publique;\nQue mediante memorando N° SPDP-IRD-2025-0161-M suscrito el 26 de agosto del 2025,\nla IRD puso en conocimiento de la Dirección de Asesoría Jurídica (“DAJ”) el proyecto\nnormativo denominado Reglamento para la aplicación del interés legítimo como base de\nlegitimación para el tratamiento de datos personales dentro del territorio de la República\ndel Ecuador, así como el informe técnico N° INF-SPDP-IRD-2025-0067, para que, en el\ntérmino de diez (10) días y de acuerdo con la resolución N° SPDP-SPDP-2024-0022-R, se emita\nel informe en el que se constate que tal proyecto cumple con el principio de legalidad; que no\nvulnera ni contradice las normas matrices; y que coadyuva al cumplimiento de los objetivos de\nla SPDP;\nQue mediante memorando N° SPDP-DAJ-2025-0072-M suscrito el 27 de agosto del 2025,\nla DAJ puso en conocimiento de la IRD el informe técnico N° INF-SPDP-DAJ-2025-0039, así\ncomo la validación legal del proyecto de resolución que servirá para expedir el Reglamento\npara la aplicación del interés legítimo como base de legitimación para el tratamiento de\ndatos personales dentro del territorio de la República del Ecuador;\nQue en el referido informe técnico N° INF-SPDP-DAJ-2025-0039, también suscrito el 27\nde agosto del 2025, la DAJ determinó, en su parte pertinente, que el proyecto normativo\n\ndenominado Reglamento para la aplicación del interés legítimo como base de legitimación\npara el tratamiento de datos personales dentro del territorio de la República del Ecuador,\nes congruente con los principios establecidos en la LOPDP, ya que se orienta a garantizar que el\ntratamiento de datos personales cumpla con las disposiciones legales y se adopten prácticas\nadecuadas en su manejo, por lo que recomendó que “[l]a IRD [disponga] a quien corresponda\nla publicación a través de la página web institucional e informar su publicación a través de las\nredes sociales institucionales, con la finalidad de que la ciudadanía, las organizaciones de la\nsociedad civil o interesados en general, de manera motivada, puedan remitir sus observaciones\no realizar aportes respecto del contenido, para lo cual se debe indicar la forma para recibir\ndichas observaciones y aportes que será dentro de un término de veinte (20) días contados desde\nsu publicación”;\nQue mediante memorando N° SPDP-IRD-2025-0162-M suscrito el 27 de agosto del 2025,\nla IRD solicitó a las unidades administrativas de la SPDP que procedan con las acciones\npertinentes, a fin de que publiquen el proyecto de Reglamento para la aplicación del interés\nlegítimo como base de legitimación para el tratamiento de datos personales dentro del\nterritorio de la República del Ecuador en la página web institucional, para que tal proyecto\nesté disponible para la ciudadanía, las organizaciones de la sociedad civil o interesados desde el\n27 de agosto hasta el 24 de septiembre del 2025, inclusive, y así recibir sus observaciones o\naportes, siempre que estuvieren debidamente motivados;\nQue para cumplir con el artículo 12 de la resolución Nº SPDP-SPDP-2024-0022-R, se\nejecutó el proceso de socialización del proyecto normativo durante el término de veinte (20)\ndías; y, hecho lo anterior, a tal proyecto se le dio de baja el 25 de septiembre del 2025 de la\npágina web institucional;\nQue, como resultado del proceso descrito previamente, se redefinió la denominación del\nproyecto como Normativa general para la aplicación del interés legítimo como base de\nlegitimación para el tratamiento de datos personales dentro del territorio de la República\ndel Ecuador;\nQue a través del técnico Nº INF-SPDP-IRD-2025-0091 del 24 de octubre del 2025, la IRD\nincorporó al informe técnico las observaciones y los aportes que se consideraron relevantes y\nadecuados, previa justificación de las modificaciones realizadas al proyecto normativo;\nQue mediante memorando N° SPDP-IRD-2025-0210-M suscrito el 24 de octubre del 2025,\nla IRD remitió todo el expediente al suscrito Superintendente de Protección de Datos Personales\npara que realice en observaciones correspondientes o, en su caso, para que lo apruebe;",
+    "anexos": [],
+    "version": "1.0.0"
+  },
+  "unidades": [
+    {
+      "id": "EC-SPDP-2025-0041-R-Art-1",
+      "tipo": "articulo",
+      "numero": "1",
+      "titulo": "",
+      "texto_oficial": "Art. 1.- Esta normativa general tiene por objeto regular y determinar el ámbito de aplicación\ndel interés legítimo como base de legitimación para el tratamiento de datos personales, de\nacuerdo con lo previsto en la LOPDP, el RGLOPDP y los criterios técnicos emitidos por la\nSPDP.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "bases-de-licitud.interes-legitimo",
+        "ambito-de-aplicacion.ambito-material"
+      ],
+      "roles": [
+        "responsable"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "definicion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0041-R-Art-2",
+      "tipo": "articulo",
+      "numero": "2",
+      "titulo": "",
+      "texto_oficial": "Art. 2.- Esta normativa general es de cumplimiento obligatorio para todos los responsables\nque apliquen el interés legítimo como base de legitimación en sus actividades de tratamiento de\ndatos personales.\n\nEsta base de legitimación solo podrá aplicarse en el sector privado.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "bases-de-licitud.interes-legitimo",
+        "ambito-de-aplicacion.ambito-subjetivo"
+      ],
+      "roles": [
+        "responsable"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0041-R-Art-3",
+      "tipo": "articulo",
+      "numero": "3",
+      "titulo": "",
+      "texto_oficial": "Art. 3.- Las palabras enlistadas a continuación tendrán los siguientes significados:\n3.1. Interés legítimo: Es una base de legitimación que le permite a una persona natural,\na una persona jurídica o a otro organismo de derecho privado, tratar datos personales\nsin necesidad de obtener previamente el consentimiento de su titular, siempre que se\nverifique la prevalencia de los derechos y libertades del titular.\n3.2. Evaluación de ponderación: Es el análisis debidamente motivado y documentado\nque permite valorar si está justificado el tratamiento que el responsable pretende\naplicar sobre la base del interés legítimo, en garantía de los principios, los derechos y\nlas libertades del titular de los datos.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "ambito-de-aplicacion.definiciones-clave",
+        "bases-de-licitud.interes-legitimo"
+      ],
+      "roles": [
+        "responsable"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "definicion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0041-R-Art-4",
+      "tipo": "articulo",
+      "numero": "4",
+      "titulo": "",
+      "texto_oficial": "Art. 4.- El interés legítimo deberá ser:\n4.1. Lícito: El tratamiento no podrá tener como propósito una actividad que esté prohibida\nen el territorio ecuatoriano. No se podrá utilizar el interés legítimo para justificar\nactividades que incumplan la legislación vigente.\n4.2. Real y concreto: Deberá ser específico, determinado, identificable y responder a una\nnecesidad cierta, actual y comprobable. No podrán aplicarse circunstancias\nhipotéticas producto del imaginario del responsable del tratamiento, ni motivarse en\nsuposiciones, posibilidades o hechos futuros o inciertos. El interés legítimo podrá\naplicarse en finalidades continuas, propias del giro ordinario del responsable, siempre\nque se encuentren debidamente justificadas.\n4.3. Proporcional: El uso de los datos personales deberá ser adecuado, necesario,\noportuno, relevante y no excesivo respecto de los derechos del titular frente al interés\ndel responsable del tratamiento. Si dicho tratamiento causare un daño o perjuicio al\ntitular de los datos, respecto al beneficio particular que busca alcanzar el responsable\ndel tratamiento, no se podrá aplicar el interés legítimo como base de legitimación.\n4.4. Compatible con las expectativas razonables del titular: El tratamiento de datos\nbasado en el interés legítimo deberá ser informado al titular de manera clara,\ndiferenciada y accesible; podrá brindarse por capas, pero siempre en lenguaje claro,\naccesible, sencillo y en español. El responsable, de forma previa a su ejecución,\ndeberá proporcionar la información de toda actividad de tratamiento que se base en\nel interés legítimo; y, además, tal información será incluida en la política de\nprivacidad que, a su vez, deberá hallarse permanentemente disponible en medios\naccesibles para el titular. Cualquier modificación en el tratamiento o uso de datos\npersonales para una nueva finalidad deberá ser informada al titular de manera previa\na su ejecución.\nLa expectativa razonable del titular se determinará atendiendo a parámetros objetivos,\ntales como la naturaleza de los datos tratados, la relación previa entre el titular y el\nresponsable, el contexto en que se recopilaron y la finalidad comunicada. Dicha\nexpectativa se extinguirá cuando el titular manifestare su negativa a que se traten sus\ndatos personales o si ejerciere su derecho de oposición.\nTÍTULO II\nCRITERIOS Y EVALUACIÓN PARA LA APLICACIÓN DEL INTERÉS LEGÍTIMO",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "bases-de-licitud.interes-legitimo"
+      ],
+      "roles": [
+        "responsable"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0041-R-Art-5",
+      "tipo": "articulo",
+      "numero": "5",
+      "titulo": "",
+      "texto_oficial": "Art. 5.- Todo tratamiento que se pretenda basar en el interés legítimo, requerirá una\nevaluación de ponderación previa, motivada, documentada y disponible tanto para la SPDP\ncomo para el titular de los datos personales.\n\nSin perjuicio de lo anterior, de manera excepcional se podrá realizar una evaluación de\nponderación simplificada para tratamientos de bajo riesgo que sean recurrentes u homogéneos,\nmediante plantillas internas que contenga los parámetros mínimos del Anexo 1.\nCada tratamiento deberá cumplir con esta obligación de manera individual.\nEn caso de que la Superintendencia de Protección de Datos Personales, en el ejercicio de su\ncompetencia administrativa de control, llegare a determinar que el responsable ha aplicado una\nevaluación de ponderación simplificada en tratamientos de datos personales de riesgo medio,\nalto o crítico, para evitar el cumplimiento de la norma general que consta en el primer inciso de\neste artículo, dicha conducta constituirá una infracción grave y se impondrá la sanción más alta\nprevista en el régimen sancionatorio vigente.\nPara los efectos de esta normativa general, el responsable que prevea aplicar el interés\nlegítimo como base de legitimación de un determinado tratamiento, deberá ser capaz de justificar\nel cumplimiento de todos los principios reconocidos en la LOPDP. El cumplimiento deberá\nacreditarse con evidencias existentes.\nÚnicamente se podrá aplicar el interés legítimo como base de legitimación, siempre y cuando\nel responsable del tratamiento demuestre y acredite, de manera fehaciente, que el resultado de la\nevaluación de ponderación garantiza, en todo momento, los derechos y las libertades de los\ntitulares, en concordancia con los principios establecidos en la LOPDP.\nEn caso de que existiese duda sobre si el interés del responsable afecta o no a los derechos\ndel titular, prevalecerán, en todo momento, los derechos del titular frente a cualquier otro interés.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "bases-de-licitud.interes-legitimo"
+      ],
+      "roles": [
+        "responsable"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0041-R-Art-6",
+      "tipo": "articulo",
+      "numero": "6",
+      "titulo": "",
+      "texto_oficial": "Art. 6.- La evaluación de ponderación deberá redactarse en lenguaje claro, accesible, sencillo\ny en español. Además, deberá incluir lo siguiente:\n6.1. Idoneidad del interés legítimo: Se deberá describir el interés que motiva al\nresponsable a tratar los datos personales. Este interés debe ser lícito, concreto, real,\nproporcional y vinculado con una finalidad legítima y determinada.\n6.2. Justificación de la necesidad del tratamiento: Se deberá explicar por qué el\ntratamiento de los datos personales es indispensable para alcanzar la finalidad\nlegítima identificada. Para ello, el responsable deberá justificar y demostrar que no\nexiste otra forma menos invasiva para alcanzar ese mismo objetivo.\n6.3. Ponderación: Se deberá evaluar si la finalidad del tratamiento es adecuada,\nnecesaria, oportuna, relevante y no excesiva respecto de los derechos y libertades del\ntitular. Para ello, se deberán analizar, al menos, los siguientes aspectos:\n6.3.1. Naturaleza de los datos: Identificar si se trata de datos personales básicos\no de categorías especiales o sensibles. A mayor nivel de sensibilidad o de\nriesgo, se requerirán garantías reforzadas y, en su caso, una evaluación de\nimpacto en la protección de datos previa a su implementación.\n6.3.2. Categorías de titulares: Identificar si los datos pertenecen a grupos\nvulnerables, en especial niñas, niños y adolescentes, en cuyo caso habrá de\ngarantizarse, en todo caso, el interés superior del menor mediante medidas\nadicionales reforzadas.\n6.3.3. Contexto y expectativas razonables: Analizar la relación entre el titular y\nel responsable, así como el contexto en el que se recaban y utilizan los datos,\npara determinar si el tratamiento es previsible para el titular en atención a la\nfinalidad que lo motiva.\n6.3.4. Volumen y transferencias: Considerar el volumen de datos tratados y la\nexistencia de comunicaciones o transferencias internacionales, atendiendo\nlos riesgos asociados.\n\n6.3.5. Gestión de riesgos: Incorporar un análisis documentado de los riesgos y las\nmedidas de mitigación que deberán adoptarse.\n6.4. Resultado de la evaluación: Una vez realizados los análisis, el responsable del\ntratamiento deberá justificar y demostrar, de manera documentada, que el tratamiento\nes admisible y acreditará las condiciones de su proporcionalidad.\nLa evaluación deberá desarrollarse, por lo menos, mediante el cumplimiento de la\nMetodología para la Evaluación de Ponderación en Tratamientos, que consta en el Anexo 1 y\nque establece las etapas, elementos y evidencias mínimas requeridas.\nPodrá emplearse una metodología equivalente únicamente cuando se acreditare, de manera\nobjetiva, su equivalencia técnica y trazabilidad, de conformidad con los lineamientos emitidos\npor la SPDP.\nLa omisión de la evaluación de ponderación constituirá una infracción grave, de conformidad\ncon lo previsto en la LOPDP.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "bases-de-licitud.interes-legitimo"
+      ],
+      "roles": [
+        "responsable"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0041-R-Art-7",
+      "tipo": "articulo",
+      "numero": "7",
+      "titulo": "",
+      "texto_oficial": "Art. 7.- Se deberá evaluar si el tratamiento pudiese afectar a los derechos y libertades de los\ntitulares, así como al ordenamiento jurídico vigente. Esta evaluación deberá realizarse de\nacuerdo con lo establecido en la LOPDP, el RGLOPDP y la normativa especializada emitida por\nla Superintendencia de Protección de Datos Personales.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "bases-de-licitud.interes-legitimo"
+      ],
+      "roles": [
+        "responsable"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0041-R-Art-8",
+      "tipo": "articulo",
+      "numero": "8",
+      "titulo": "",
+      "texto_oficial": "Art. 8.- Deberán detallarse las acciones o mecanismos que el responsable implementará para\nminimizar o eliminar cualquier riesgo identificado en el análisis de la gestión de riesgo y la\nevaluación de impacto previstos en los artículos precedentes. Estas medidas deberán ser\nproporcionales y eficaces.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "bases-de-licitud.interes-legitimo"
+      ],
+      "roles": [
+        "responsable"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0041-R-Art-9",
+      "tipo": "articulo",
+      "numero": "9",
+      "titulo": "",
+      "texto_oficial": "Art. 9.- El responsable del tratamiento deberá mantener disponible, de manera física y\nelectrónica, la evaluación de ponderación tanto para el titular de datos como para la\nSuperintendencia de Protección de Datos Personales.\nPara cumplir con el principio de transparencia —sin que, por ello, se dejen de respetar la\ninformación reservada, los secretos comerciales o los de seguridad empresarial del responsable\ndel tratamiento—, la información del titular deberá ser comunicada en un lenguaje claro,\naccesible, sencillo y en español. La versión íntegra estará disponible en todo momento para la\nSPDP, sin restricción alguna.\nTÍTULO III\nSUPUESTOS ADMISIBLES Y PROHIBICIONES",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "bases-de-licitud.interes-legitimo",
+        "obligaciones-responsable.registro-actividades"
+      ],
+      "roles": [
+        "responsable"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0041-R-Art-10",
+      "tipo": "articulo",
+      "numero": "10",
+      "titulo": "",
+      "texto_oficial": "Art. 10.- El interés legítimo podrá constituir una base de legitimación para el tratamiento de\ndatos personales, exclusivamente en los casos previstos en este título, siempre que dicho\ntratamiento supere satisfactoriamente la evaluación de ponderación.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "bases-de-licitud.interes-legitimo",
+        "datos-sensibles.salud"
+      ],
+      "roles": [
+        "responsable"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion",
+        "excepcion"
+      ],
+      "factores_riesgo": [
+        "tipos-datos.datos-sensibles"
+      ],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0041-R-Art-11",
+      "tipo": "articulo",
+      "numero": "11",
+      "titulo": "",
+      "texto_oficial": "Art. 11.- Se podrá ejecutar el tratamiento de datos personales para fines de mercadotecnia\ndirecta, siempre y cuando:\n11.1. El tratamiento no afecte los derechos y las libertades fundamentales de los titulares\nde los datos;\n11.2. En el tratamiento no se utilicen datos personales de niñas, niños y adolescentes, ni\ndatos sensibles (ideología, religión, afiliación sindical, creencias, origen racial o etnia,\nvida sexual, datos genéticos o biométricos, entre otros);\n11.3. El tratamiento estuviere dirigido a aquellos titulares:\n11.3.1. Con los que el responsable mantenga o hubiese mantenido una relación\ncontractual previa; o,\n\n11.3.2. Con los que exista una expectativa razonable de contacto, considerando su\nrelación con el responsable y el contexto en que los datos fueron obtenidos,\nen cumplimiento del principio de juridicidad.\nEl responsable del tratamiento, de conformidad con la LOPDP, deberá informar\npreviamente al titular en lenguaje claro, accesible, sencillo y en español, sobre el uso\nde sus datos personales para las actividades de tratamiento que son los propios de la\nmercadotecnia directa, lo que podrá cumplirse mediante notificación de la política de\nprivacidad o del tratamiento en sí.\nSe admite la segmentación y elaboración de perfiles con fines de mercadotecnia\ndirecta, siempre que no produzcan efectos jurídicos significativos, ni se afecten de\nmanera grave los derechos del titular.\n11.4. Se proporcione, en cada comunicación, un mecanismo visible, gratuito y eficaz para\nque el titular ejerza su derecho de oposición al tratamiento; oposición que deberá\natenderse sin dilación y con efecto inmediato, sin necesidad de exigírsele justificación\nadicional.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "bases-de-licitud.interes-legitimo"
+      ],
+      "roles": [
+        "responsable"
+      ],
+      "ciclo": [
+        "uso"
+      ],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0041-R-Art-12",
+      "tipo": "articulo",
+      "numero": "12",
+      "titulo": "",
+      "texto_oficial": "Art. 12.- Se podrá ejecutar el tratamiento de datos para la prevención, la detección y el reporte\nde fraudes, lavado de activos, financiamiento del terrorismo y delitos conexos, siempre y cuando\nse limite a los datos estrictamente necesarios para identificar, analizar o reportar operaciones\nsospechosas, patrones irregulares o intentos de fraude o lavado de activos, financiamiento del\nterrorismo y delitos conexos.\nEn caso de tratamiento de datos crediticios, se deberá observar lo que estuviere previsto en la\nLOPDP y en la normativa sectorial aplicable.\nPodrán conservarse listas de bloqueo y evidencias por el tiempo estrictamente necesario para\nprevenir reincidencias y defender reclamaciones relativas a la Ley de Prevención de Lavados de\nActivos y del Financiamiento de Delitos.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "bases-de-licitud.interes-legitimo"
+      ],
+      "roles": [
+        "responsable"
+      ],
+      "ciclo": [
+        "uso"
+      ],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0041-R-Art-13",
+      "tipo": "articulo",
+      "numero": "13",
+      "titulo": "",
+      "texto_oficial": "Art. 13.- Se podrá ejecutar el tratamiento de datos personales para la comunicación interna\nentre personas jurídicas de un mismo grupo empresarial, siempre que se cumplan las siguientes\ncondiciones:\n13.1. Acreditación del grupo empresarial: La existencia de un grupo empresarial podrá\nacreditarse con cualquiera de los siguientes mecanismos:\n13.1.1. Certificación de actos societarios inscritos;\n13.1.2. Certificado de información general o nómina de accionistas, emitidos por la\nautoridad competente;\n13.1.3. Declaración suscrita por el representante legal, respaldada por registros\nmercantiles o equivalentes; o,\n13.1.4. Certificación o documento equivalente que acredite control directo o\nindirecto.\nLa SPDP podrá requerir cualquier información adicional, si lo estimare necesario.\n13.2. Finalidad y proporcionalidad: La comunicación o transferencia dentro del grupo\ndeberá limitarse a los datos personales estrictamente necesarios para la ejecución de\ngestiones internas legítimas, tales como auditoría, control interno, servicios\ncorporativos compartidos, gestión financiera o administrativa, entre otros.\nEn caso de transferencias internacionales dentro del mismo grupo empresarial,\naquellas deberán sujetarse a las reglas de adecuación o a la existencia de garantías\nadecuadas de acuerdo con la LOPDP, el RGLOPDP y demás normativa aplicable.\n\n13.3. Transparencia para el titular: El responsable garantizará, en todo momento, que el\ntitular conozca oportunamente cómo se configura el flujo de sus datos dentro del\ngrupo empresarial, para lo cual habrá de ser informado sobre:\n13.3.1. Las finalidades específicas del tratamiento;\n13.3.2. La identidad de los responsables y encargados involucrados;\n13.3.3. Las medidas de seguridad y protección aplicables; y,\n13.3.4. Los mecanismos, vías o canales para ejercer sus derechos.\nLa información para el titular podrá proporcionarse mediante esquemas de\ninformación por capas, siempre que aquella fuese clara.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "bases-de-licitud.interes-legitimo"
+      ],
+      "roles": [
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0041-R-Art-14",
+      "tipo": "articulo",
+      "numero": "14",
+      "titulo": "",
+      "texto_oficial": "Art. 14.- Se podrá ejecutar el tratamiento de datos personales para la seguridad de redes y\nsistemas de tecnologías de la información y comunicación (“TIC”), siempre y cuando:\n14.1. El responsable adopte controles técnicos y medidas organizativas de acuerdo con\nresultado de los riesgos identificados, siguiendo los preceptos determinados en la\nnormativa de análisis de riegos y evaluación de impacto emitida por la SPDP;\n14.2. Las medidas adoptadas, siguiendo la lógica del número anterior, se encuentren\norientadas a reducir la probabilidad de ocurrencia y la magnitud del impacto en los\ntitulares de datos personales por posibles ataques informáticos de confidencialidad,\nintegridad o disponibilidad;\n14.3. Las medidas contemplen los paradigmas de privacidad por diseño y por defecto, así\ncomo el paradigma PETs (por Privacy Enhancing Technologies); y,\n14.4. Las medidas de seguridad se sustenten en protocolos de ciberseguridad adoptados por\nel responsable, que podrán incluir políticas de gestión de incidentes, planes de\ncontinuidad operativa y controles de acceso físico y lógico, así como medidas de\nseguridad técnicas necesarias para la detección, prevención y respuesta.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "bases-de-licitud.interes-legitimo"
+      ],
+      "roles": [
+        "responsable"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0041-R-Art-15",
+      "tipo": "articulo",
+      "numero": "15",
+      "titulo": "",
+      "texto_oficial": "Art. 15.- Se podrá ejecutar el tratamiento de datos personales para sistemas de\nvideovigilancia, siempre y cuando:\n15.1. El tratamiento tuviere por finalidad la seguridad de personas, bienes o instalaciones,\nsin perjuicio de observar, en todo momento, los principios de necesidad y\nproporcionalidad, y sin dejar de incluir mecanismos claros, accesibles y gratuitos para\nque el titular pueda ejercer sus derechos; y,\n15.2. La instalación de los sistemas de videovigilancia se justifique en necesidades\nconcretas, tales como la prevención de delitos, el control de accesos, el resguardo de\ninstalaciones críticas o la supervisión de zonas vulnerables. En ningún caso se podrán\nvideovigilar zonas que conlleven la vulneración de la intimidad y privacidad de los\ntitulares de datos personales, tales como baños, vestidores, lactarios, comedores,\netcétera.\nQueda prohibida la aplicación del interés legítimo como fundamento para la grabación de\naudio en sistemas de videovigilancia. En ningún caso podrá utilizarse grabación de audio para\nfines de supervisión, de control del desempeño laboral ni para captar conversaciones privadas o\nsensibles. Esta práctica se considera una afectación ilegítima a los derechos de intimidad y\nlibertad de expresión, además de contraria a la protección de los datos personales de los\ntrabajadores.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "bases-de-licitud.interes-legitimo"
+      ],
+      "roles": [
+        "responsable"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0041-R-Art-16",
+      "tipo": "articulo",
+      "numero": "16",
+      "titulo": "",
+      "texto_oficial": "Art. 16.- Se prohíbe la aplicación del interés legítimo como base de legitimación para el\ntratamiento de datos personales en los siguientes casos:\n16.1. Datos sensibles.\n\n16.2. Categorías especiales de datos, salvo que:\n16.2.1. El tratamiento sea estrictamente indispensable para el cumplimiento de la\nfinalidad;\n16.2.2. El resultado de la evaluación de ponderación garantice, en todo momento,\nlos derechos y las libertades de los titulares; y,\n16.2.3. Se apliquen medidas reforzadas de seguridad y protección de derechos.\n16.3. Cuando se elaboren perfiles totalmente automatizados que produzcan efectos\njurídicos significativos o que pudieren afectar gravemente los derechos de los\ntitulares.\nDe manera excepcional, esto es, en la medida en que se implementen medidas de\nseguridad reforzadas, se podrán elaborar perfiles para los sectores financieros,\nbancarios y seguros, siempre que:\n16.3.1. Cumpla, especialmente, los principios de transparencia, pertinencia y\nminimización, proporcionalidad y seguridad de datos personales;\n16.3.2. Exista un mecanismo de tutela para el derecho de oposición; y,\n16.3.3. Exista una revisión humana y supervisión de la autoridad competente.\n16.4. En datos personales de niñas, niños y adolescentes. Solo se podrá aplicar el interés\nlegítimo si existiere una justificación expresa vinculada al interés superior del niño,\nque conste en la evaluación de ponderación o, cuando corresponda, en la evaluación\nde impacto, con medidas reforzadas de protección.\n16.5. En tratamientos masivos o en la reutilización de datos personales, cuando la nueva\nfinalidad sea incompatible con la finalidad original para la que se recopilaron, salvo\nlo previsto en el artículo 11 de esta resolución.\nTÍTULO IV\nDERECHOS DEL TITULAR",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "bases-de-licitud.interes-legitimo",
+        "datos-sensibles.salud"
+      ],
+      "roles": [
+        "responsable"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "prohibicion"
+      ],
+      "factores_riesgo": [
+        "tipos-datos.datos-sensibles"
+      ],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0041-R-Art-17",
+      "tipo": "articulo",
+      "numero": "17",
+      "titulo": "",
+      "texto_oficial": "Art. 17.- El titular de los datos personales podrá ejercer, en todo momento, su derecho de\noposición, de acuerdo con la LOPDP y el RGLOPDP.\nUna vez que el titular ejerza su derecho de oposición y/o de suspensión, el responsable del\ntratamiento deberá atender dichos derechos de manera inmediata, de conformidad con lo\ndispuesto en la LOPDP.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "derechos-del-titular.oposicion",
+        "bases-de-licitud.interes-legitimo"
+      ],
+      "roles": [
+        "titular",
+        "responsable"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "derecho",
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0041-R-Art-18",
+      "tipo": "articulo",
+      "numero": "18",
+      "titulo": "",
+      "texto_oficial": "Art. 18.- El responsable deberá mantener un registro ordenado, accesible y actualizado de\ntodas las evaluaciones de ponderación realizadas. Este registro estará disponible en todo\nmomento para el titular de los datos y para la Superintendencia de Protección de Datos\nPersonales.\nEn garantía del derecho de acceso, el titular de los datos personales podrá solicitar que se le\nproporcione la evaluación de ponderación, que deberá ser entregada de forma completa, en un\nlenguaje claro, sencillo, accesible y en español. Aunque la información reservada o que\ncontuviere secretos comerciales del responsable podrá no ser comunicada al titular de datos\npersonales, la versión íntegra estará disponible, en todo momento, para la SPDP, sin restricción\nalguna.\nSerá obligatorio revisar, modificar y/o actualizar la evaluación de ponderación en el plazo de\nun (1) año contando desde el ultimo registro; no obstante lo anterior, el responsable del\ntratamiento podrá revisar, modificar y actualizar, en cualquier momento, la evaluación de\nponderación. La evaluación perderá vigencia y validez automáticamente cuando se modifiquen\nla finalidad, la categoría de los datos, el tipo de titulares o los riesgos identificados.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "obligaciones-responsable.registro-actividades",
+        "bases-de-licitud.interes-legitimo"
+      ],
+      "roles": [
+        "responsable"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0041-R-Art-19",
+      "tipo": "articulo",
+      "numero": "19",
+      "titulo": "",
+      "texto_oficial": "Art. 19.- Toda información sobre el tratamiento basado en interés legítimo deberá estar\nredactada en lenguaje claro, accesible, sencillo y en español, de tal manera que pueda ser\nfácilmente entendible para cualquier persona que no posea conocimientos jurídicos o técnicos.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "transparencia-informacion.aviso-de-privacidad",
+        "bases-de-licitud.interes-legitimo"
+      ],
+      "roles": [
+        "responsable"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0041-R-DispGen-ÚNICA",
+      "tipo": "disposicion",
+      "numero": "ÚNICA",
+      "titulo": "Disposición Gen ÚNICA",
+      "texto_oficial": "El Anexo 1 de esta resolución contendrá los criterios mínimos para la evaluación de\nponderación para la aplicación del interés legítimo como base de legitimación.\nSu contenido debe implementarse de acuerdo con la metodología de riesgos del responsable\ny según el nivel de riesgo del tratamiento, permitiéndose la utilización de metodologías\nequivalentes, siempre que aquellas contemplen los elementos esenciales previstos en el Anexo\n1 y se justifique su aplicación con la documentación correspondiente.\nLa SPDP podrá actualizar, cada vez que lo considere necesario, el Anexo 1 de este\ninstrumento, con la previa emisión del informe técnico de justificación de la IRD, en el cual se\nmotivará la expedición de la resolución de actualización que corresponda. La actualización\ndeberá publicarse en el Registro Oficial y en los portales oficiales institucionales\ncorrespondientes.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0041-R-DispFinal-ÚNICA",
+      "tipo": "disposicion",
+      "numero": "ÚNICA",
+      "titulo": "Disposición Final ÚNICA",
+      "texto_oficial": "Esta resolución entrará en vigencia a partir de su suscripción, sin perjuicio de su publicación\nen el Registro Oficial.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    }
+  ]
+}
