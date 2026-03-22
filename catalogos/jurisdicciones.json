@@ -1,0 +1,46 @@
+{
+  "version": "1.0.0",
+  "jurisdicciones": [
+    {
+      "id": "ec",
+      "label": "Ecuador",
+      "estado": "activo",
+      "autoridad_control": "Superintendencia de Protección de Datos Personales",
+      "sigla_autoridad": "SPDP",
+      "ley_principal": "EC-LOPDP",
+      "familia_juridica": "civil-law",
+      "tipos_fuente_aplicables": [
+        "constitucion",
+        "jurisprudencia-constitucional",
+        "ley-organica",
+        "ley-ordinaria",
+        "reglamento",
+        "normativa-secundaria",
+        "pronunciamiento",
+        "jurisprudencia",
+        "doctrina"
+      ],
+      "notas": "Distingue entre ley orgánica y ley ordinaria. La LOPDP es ley orgánica. La Superintendencia de Protección de Datos Personales es la autoridad de control especializada."
+    },
+    {
+      "id": "cl",
+      "label": "Chile",
+      "estado": "en-construccion",
+      "autoridad_control": "Agencia de Protección de Datos Personales",
+      "sigla_autoridad": "APDP",
+      "ley_principal": "CL-LPDP",
+      "familia_juridica": "civil-law",
+      "tipos_fuente_aplicables": [
+        "constitucion",
+        "jurisprudencia-constitucional",
+        "ley",
+        "reglamento",
+        "normativa-secundaria",
+        "pronunciamiento",
+        "jurisprudencia",
+        "doctrina"
+      ],
+      "notas": "Chile no distingue entre ley orgánica y ley ordinaria en materia de PDP. La Agencia de Protección de Datos Personales fue creada por la Ley 21.096 de 2018 y su implementación está en proceso."
+    }
+  ]
+}

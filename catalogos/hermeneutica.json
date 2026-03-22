@@ -1,0 +1,49 @@
+{
+  "version": "1.0.0",
+  "descripcion": "Reglas de interpretación normativa. Este archivo se consulta únicamente cuando Claude detecta una posible contradicción o conflicto entre normas. No se carga en consultas normativas ordinarias.",
+  "reglas": [
+    {
+      "id": "lex-superior",
+      "label": "Jerarquía normativa",
+      "principio": "La norma de mayor jerarquía prevalece sobre la de menor jerarquía.",
+      "aplicacion": "Comparar el campo nivel_jerarquico de cada norma. La de menor número prevalece. Ejemplo: una ley orgánica (nivel 3) prevalece sobre un reglamento (nivel 5).",
+      "prioridad": 1
+    },
+    {
+      "id": "lex-specialis",
+      "label": "Especialidad normativa",
+      "principio": "La norma especializada prevalece sobre la norma general del mismo nivel jerárquico.",
+      "aplicacion": "Comparar el campo es_especializada y materia de cada norma. Si una norma es especializada en PDP y la otra es transversal o general, prevalece la especializada aunque sean del mismo nivel jerárquico.",
+      "prioridad": 2
+    },
+    {
+      "id": "lex-posterior",
+      "label": "Temporalidad",
+      "principio": "La norma posterior prevalece sobre la anterior del mismo nivel jerárquico y especialidad.",
+      "aplicacion": "Comparar el campo fecha_vigencia. La más reciente prevalece cuando las normas son del mismo nivel y especialidad.",
+      "prioridad": 3
+    },
+    {
+      "id": "tension-superior-specialis",
+      "label": "Tensión entre jerarquía y especialidad",
+      "principio": "Cuando una norma general de mayor jerarquía entra en conflicto con una norma especial de menor jerarquía, el análisis debe hacerse caso a caso.",
+      "aplicacion": "Preferir la norma especial si el legislador la creó precisamente para regular ese supuesto específico. Preferir la norma de mayor jerarquía si la norma especial contradice un principio constitucional o un mandato expreso de la ley superior. Siempre señalar explícitamente la tensión y el criterio aplicado.",
+      "prioridad": "caso-a-caso"
+    },
+    {
+      "id": "interpretacion-pro-titular",
+      "label": "Interpretación pro titular",
+      "principio": "En materia de protección de datos, ante duda interpretativa, debe preferirse la interpretación que mejor proteja los derechos del titular.",
+      "aplicacion": "Aplicar cuando existan dos interpretaciones igualmente válidas de una norma. Optar por la que amplíe derechos del titular o restrinja facultades del responsable. Documentar la duda y el criterio aplicado.",
+      "prioridad": 4
+    },
+    {
+      "id": "coherencia-sistematica",
+      "label": "Coherencia sistemática",
+      "principio": "Las normas deben interpretarse en coherencia con el sistema normativo en su conjunto, no de forma aislada.",
+      "aplicacion": "Usar las concordancias del artículo para identificar normas relacionadas. Interpretar el artículo en el contexto de la norma completa y del sistema PDP de la jurisdicción. Consultar el preámbulo de la norma si existe.",
+      "prioridad": 5
+    }
+  ],
+  "instruccion_de_uso": "Cuando identifiques normas en conflicto: (1) determina los niveles jerárquicos de cada norma, (2) evalúa la especialidad de cada una, (3) compara fechas de vigencia, (4) aplica las reglas en orden de prioridad, (5) si hay tensión entre jerarquía y especialidad aplica análisis caso a caso, (6) señala siempre explícitamente qué regla aplicaste y por qué."
+}

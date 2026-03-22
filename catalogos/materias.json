@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "descripcion": "Materias regulatorias que puede cubrir el repositorio. El campo materia en cada norma y artículo indica a qué materia pertenece. Permite escalar el repositorio más allá de PDP.",
+  "materias": [
+    {
+      "id": "pdp",
+      "label": "Protección de Datos Personales",
+      "descripcion": "Normas que regulan el tratamiento de datos personales, los derechos de los titulares y las obligaciones de responsables y encargados.",
+      "estado": "activo"
+    },
+    {
+      "id": "ia",
+      "label": "Inteligencia Artificial",
+      "descripcion": "Normas que regulan el desarrollo, despliegue y uso de sistemas de inteligencia artificial, incluyendo sistemas de alto riesgo y decisiones automatizadas.",
+      "estado": "planificado"
+    },
+    {
+      "id": "datos-menores",
+      "label": "Datos de Niñas, Niños y Adolescentes",
+      "descripcion": "Normas que regulan específicamente el tratamiento de datos de personas menores de edad, incluyendo requisitos de consentimiento parental y restricciones de uso.",
+      "estado": "planificado"
+    },
+    {
+      "id": "ciberseguridad",
+      "label": "Ciberseguridad",
+      "descripcion": "Normas que regulan la seguridad de sistemas de información, gestión de incidentes y obligaciones de reporte ante ataques o vulneraciones.",
+      "estado": "planificado"
+    },
+    {
+      "id": "transversal",
+      "label": "Transversal",
+      "descripcion": "Normas que no son especializadas en ninguna materia concreta pero tienen incidencia relevante en una o más materias del repositorio. Ejemplo: leyes de comercio electrónico, telecomunicaciones o transparencia con artículos sobre datos personales.",
+      "estado": "activo"
+    }
+  ]
+}

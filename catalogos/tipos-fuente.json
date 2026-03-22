@@ -1,0 +1,60 @@
+{
+  "version": "1.0.0",
+  "descripcion": "Jerarquía normativa global. El campo nivel_jerarquico determina la prelación entre normas. A menor número, mayor jerarquía.",
+  "tipos": [
+    {
+      "id": "constitucion",
+      "label": "Constitución",
+      "nivel_jerarquico": 1,
+      "descripcion": "Norma suprema del ordenamiento jurídico. Toda norma inferior debe ser compatible con ella."
+    },
+    {
+      "id": "jurisprudencia-constitucional",
+      "label": "Jurisprudencia Constitucional",
+      "nivel_jerarquico": 2,
+      "descripcion": "Sentencias y resoluciones del tribunal o corte constitucional con efecto vinculante general. Interpreta y desarrolla la Constitución."
+    },
+    {
+      "id": "ley-organica",
+      "label": "Ley Orgánica",
+      "nivel_jerarquico": 3,
+      "descripcion": "Ley que regula materias de especial relevancia constitucional. En Ecuador requiere mayoría absoluta para su aprobación. Prevalece sobre la ley ordinaria."
+    },
+    {
+      "id": "ley-ordinaria",
+      "label": "Ley Ordinaria",
+      "nivel_jerarquico": 4,
+      "descripcion": "Ley aprobada por el órgano legislativo por mayoría simple. Subordinada a la ley orgánica en materias donde esta tiene reserva."
+    },
+    {
+      "id": "reglamento",
+      "label": "Reglamento",
+      "nivel_jerarquico": 5,
+      "descripcion": "Norma emitida por el ejecutivo para desarrollar y ejecutar la ley. No puede contradecir ni exceder la ley que reglamenta."
+    },
+    {
+      "id": "normativa-secundaria",
+      "label": "Normativa Secundaria",
+      "nivel_jerarquico": 6,
+      "descripcion": "Resoluciones, acuerdos, circulares y normas técnicas emitidas por autoridades administrativas o de control en ejercicio de sus competencias regulatorias."
+    },
+    {
+      "id": "pronunciamiento",
+      "label": "Pronunciamiento / Criterio no vinculante",
+      "nivel_jerarquico": 7,
+      "descripcion": "Criterios, guías, recomendaciones y opiniones emitidos por la autoridad de control. No son obligatorios pero tienen alto valor interpretativo y orientan la práctica."
+    },
+    {
+      "id": "jurisprudencia",
+      "label": "Jurisprudencia Ordinaria",
+      "nivel_jerarquico": 8,
+      "descripcion": "Sentencias y resoluciones de tribunales ordinarios en materia de protección de datos. Valor interpretativo según el sistema de precedentes de cada jurisdicción."
+    },
+    {
+      "id": "doctrina",
+      "label": "Doctrina / Comentario propio",
+      "nivel_jerarquico": 9,
+      "descripcion": "Análisis, criterios interpretativos y comentarios elaborados por PDP Expert. No son fuente del derecho pero orientan el criterio de consultoría."
+    }
+  ]
+}

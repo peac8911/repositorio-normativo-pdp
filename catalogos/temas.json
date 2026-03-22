@@ -1,0 +1,167 @@
+{
+  "version": "1.0.0",
+  "descripcion": "Taxonomía temática global PDP. Dos niveles: tema y subtema. Formato de etiquetado: tema.subtema. Un artículo puede tener múltiples etiquetas.",
+  "temas": [
+    {
+      "id": "principios",
+      "label": "Principios",
+      "descripcion": "Principios rectores que rigen todo tratamiento de datos personales.",
+      "subtemas": [
+        { "id": "licitud", "label": "Licitud" },
+        { "id": "finalidad", "label": "Finalidad" },
+        { "id": "proporcionalidad", "label": "Proporcionalidad / Minimización" },
+        { "id": "calidad", "label": "Calidad y exactitud" },
+        { "id": "lealtad", "label": "Lealtad" },
+        { "id": "transparencia", "label": "Transparencia" },
+        { "id": "seguridad", "label": "Seguridad" },
+        { "id": "responsabilidad-proactiva", "label": "Responsabilidad proactiva / Accountability" },
+        { "id": "confidencialidad", "label": "Confidencialidad" }
+      ]
+    },
+    {
+      "id": "bases-de-licitud",
+      "label": "Bases de Licitud",
+      "descripcion": "Fundamentos jurídicos que legitiman el tratamiento de datos personales.",
+      "subtemas": [
+        { "id": "consentimiento", "label": "Consentimiento" },
+        { "id": "interes-legitimo", "label": "Interés legítimo" },
+        { "id": "obligacion-legal", "label": "Obligación legal" },
+        { "id": "interes-vital", "label": "Interés vital" },
+        { "id": "mision-publica", "label": "Misión de interés público" },
+        { "id": "ejecucion-contractual", "label": "Ejecución contractual" }
+      ]
+    },
+    {
+      "id": "datos-sensibles",
+      "label": "Datos Sensibles",
+      "descripcion": "Datos que por su naturaleza requieren protección reforzada por el riesgo especial que su tratamiento implica para los derechos y libertades fundamentales. En Ecuador se denominan datos sensibles.",
+      "subtemas": [
+        { "id": "salud", "label": "Datos de salud" },
+        { "id": "biometricos", "label": "Datos biométricos" },
+        { "id": "geneticos", "label": "Datos genéticos" },
+        { "id": "origen-racial", "label": "Origen racial o étnico" },
+        { "id": "opiniones-politicas", "label": "Opiniones políticas" },
+        { "id": "religion-creencias", "label": "Religión o creencias" },
+        { "id": "afiliacion-sindical", "label": "Afiliación sindical" },
+        { "id": "vida-sexual", "label": "Vida sexual u orientación sexual" },
+        { "id": "datos-penales", "label": "Datos penales o infracciones" }
+      ]
+    },
+    {
+      "id": "derechos-del-titular",
+      "label": "Derechos del Titular",
+      "descripcion": "Derechos que la normativa reconoce a las personas cuyos datos son tratados.",
+      "subtemas": [
+        { "id": "acceso", "label": "Derecho de acceso" },
+        { "id": "rectificacion", "label": "Derecho de rectificación" },
+        { "id": "supresion", "label": "Derecho de supresión / Derecho al olvido" },
+        { "id": "oposicion", "label": "Derecho de oposición" },
+        { "id": "portabilidad", "label": "Derecho de portabilidad" },
+        { "id": "limitacion", "label": "Derecho de limitación del tratamiento" },
+        { "id": "no-decision-automatizada", "label": "Derecho a no ser objeto de decisiones automatizadas" }
+      ]
+    },
+    {
+      "id": "obligaciones-responsable",
+      "label": "Obligaciones del Responsable",
+      "descripcion": "Obligaciones que recaen sobre quien determina los fines y medios del tratamiento.",
+      "subtemas": [
+        { "id": "registro-actividades", "label": "Registro de actividades de tratamiento" },
+        { "id": "evaluacion-impacto", "label": "Evaluación de impacto (EIPD)" },
+        { "id": "dpd", "label": "Delegado / Responsable de Protección de Datos (DPD)" },
+        { "id": "privacidad-por-diseno", "label": "Privacidad por diseño y por defecto" },
+        { "id": "notificacion-brechas", "label": "Notificación de brechas de seguridad" },
+        { "id": "transparencia-informacion", "label": "Deber de información y transparencia al titular" }
+      ]
+    },
+    {
+      "id": "encargado-del-tratamiento",
+      "label": "Encargado del Tratamiento",
+      "descripcion": "Normas que regulan la figura del encargado, quien trata datos por cuenta del responsable.",
+      "subtemas": [
+        { "id": "seleccion", "label": "Selección y evaluación del encargado" },
+        { "id": "contrato-encargo", "label": "Contrato de encargo del tratamiento" },
+        { "id": "subencargados", "label": "Subencargados" },
+        { "id": "instrucciones", "label": "Instrucciones del responsable al encargado" },
+        { "id": "obligaciones-propias", "label": "Obligaciones propias del encargado" }
+      ]
+    },
+    {
+      "id": "categorias-especiales",
+      "label": "Categorías Especiales de Datos",
+      "descripcion": "Concepto proveniente del RGPD europeo. En Ecuador su uso es limitado por la deficiente construcción del artículo correspondiente de la LOPDP. Ver nota en temas-ec.json.",
+      "subtemas": [
+        { "id": "prohibicion-tratamiento", "label": "Prohibición general de tratamiento" },
+        { "id": "excepciones", "label": "Excepciones a la prohibición" }
+      ]
+    },
+    {
+      "id": "transferencias-internacionales",
+      "label": "Transferencias Internacionales",
+      "descripcion": "Normas que regulan la transmisión de datos personales a destinatarios en otros países u organizaciones internacionales.",
+      "subtemas": [
+        { "id": "paises-adecuados", "label": "Países con nivel adecuado de protección" },
+        { "id": "garantias-apropiadas", "label": "Garantías apropiadas" },
+        { "id": "clausulas-contractuales", "label": "Cláusulas contractuales tipo" },
+        { "id": "normas-corporativas", "label": "Normas corporativas vinculantes" },
+        { "id": "excepciones", "label": "Excepciones para casos específicos" }
+      ]
+    },
+    {
+      "id": "seguridad-del-tratamiento",
+      "label": "Seguridad del Tratamiento",
+      "descripcion": "Normas sobre medidas técnicas y organizativas para garantizar la seguridad de los datos.",
+      "subtemas": [
+        { "id": "medidas-tecnicas", "label": "Medidas técnicas de seguridad" },
+        { "id": "medidas-organizativas", "label": "Medidas organizativas de seguridad" },
+        { "id": "gestion-incidentes", "label": "Gestión de incidentes y brechas" },
+        { "id": "seudonimizacion", "label": "Seudonimización y cifrado" },
+        { "id": "continuidad", "label": "Continuidad del tratamiento" }
+      ]
+    },
+    {
+      "id": "autoridad-de-control",
+      "label": "Autoridad de Control",
+      "descripcion": "Normas relativas a la autoridad pública encargada de supervisar la aplicación de la normativa PDP.",
+      "subtemas": [
+        { "id": "competencia", "label": "Competencia y atribuciones" },
+        { "id": "poderes", "label": "Poderes de investigación y correctivos" },
+        { "id": "procedimiento-sancionador", "label": "Procedimiento sancionador" },
+        { "id": "cooperacion", "label": "Cooperación entre autoridades" },
+        { "id": "sanciones", "label": "Sanciones y multas" }
+      ]
+    },
+    {
+      "id": "ia-y-decisiones-automatizadas",
+      "label": "IA y Decisiones Automatizadas",
+      "descripcion": "Normas sobre el uso de inteligencia artificial, perfilado y decisiones adoptadas sin intervención humana.",
+      "subtemas": [
+        { "id": "perfilado", "label": "Perfilado" },
+        { "id": "decision-automatizada", "label": "Decisión automatizada" },
+        { "id": "ia-alto-riesgo", "label": "Sistemas de IA de alto riesgo" },
+        { "id": "explicabilidad", "label": "Explicabilidad y transparencia algorítmica" }
+      ]
+    },
+    {
+      "id": "tratamiento-gran-escala",
+      "label": "Tratamiento a Gran Escala",
+      "descripcion": "Normas aplicables cuando el tratamiento afecta a un gran número de titulares, volúmenes elevados de datos o tiene amplio alcance geográfico.",
+      "subtemas": [
+        { "id": "definicion", "label": "Definición y criterios" },
+        { "id": "obligaciones-especificas", "label": "Obligaciones específicas" },
+        { "id": "eipd-obligatoria", "label": "EIPD obligatoria" }
+      ]
+    },
+    {
+      "id": "ambito-de-aplicacion",
+      "label": "Ámbito de Aplicación",
+      "descripcion": "Normas que delimitan el alcance territorial y material de la legislación, así como definiciones clave.",
+      "subtemas": [
+        { "id": "ambito-territorial", "label": "Ámbito territorial" },
+        { "id": "ambito-material", "label": "Ámbito material" },
+        { "id": "exclusiones", "label": "Exclusiones y excepciones al ámbito" },
+        { "id": "definiciones-clave", "label": "Definiciones clave" }
+      ]
+    }
+  ]
+}

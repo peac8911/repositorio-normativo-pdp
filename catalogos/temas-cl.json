@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "jurisdiccion": "cl",
+  "descripcion": "Extensiones y notas de aplicación de la taxonomía global para Chile. No reemplaza temas.json, lo complementa.",
+  "notas_de_aplicacion": [
+    {
+      "tema_id": "autoridad-de-control",
+      "nota": "La autoridad de control en Chile es la Agencia de Protección de Datos Personales (APDP), creada por la Ley 21.096. Su implementación está en proceso. Los pronunciamientos previos a su creación corresponden al Servicio de Registro Civil e Identificación y al Consejo para la Transparencia en sus respectivos ámbitos."
+    },
+    {
+      "tema_id": "datos-sensibles",
+      "nota": "La legislación chilena utiliza el término 'datos sensibles' de forma análoga a Ecuador. La Ley 21.096 amplió el catálogo de datos sensibles respecto a la ley anterior (Ley 19.628)."
+    },
+    {
+      "tema_id": "bases-de-licitud",
+      "nota": "La Ley 21.096 introdujo un modelo de bases de licitud más cercano al RGPD que el sistema anterior de la Ley 19.628, que se basaba principalmente en el consentimiento. Al etiquetar normas de la Ley 19.628 y sus modificaciones, considerar el contexto histórico."
+    }
+  ],
+  "subtemas_adicionales": []
+}
