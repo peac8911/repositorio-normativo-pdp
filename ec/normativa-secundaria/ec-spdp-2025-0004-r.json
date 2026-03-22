@@ -1,0 +1,183 @@
+{
+  "meta": {
+    "id": "EC-SPDP-2025-0004-R",
+    "jurisdiccion": "ec",
+    "tipo_fuente": "normativa-secundaria",
+    "nivel_jerarquico": 6,
+    "titulo": "Reglamento del Programa Profesionalizante de Delegados de Protección de Datos Personales",
+    "numero": "SPDP-SPD-2025-0004-R",
+    "fecha_publicacion": "2025-04-29",
+    "fecha_vigencia": "2025-04-29",
+    "vigente": true,
+    "materia": [
+      "pdp"
+    ],
+    "es_especializada": true,
+    "url_oficial": "https://www.superintendenciadedatos.gob.ec/",
+    "preambulo": "CONSIDERANDO:\nQue el numeral 19 del artículo 66 de la Constitución de la República del Ecuador garantiza y\nreconoce a las personas “[e]l derecho a la protección de datos de carácter personal, que incluye el\nacceso y la decisión sobre información y datos de este carácter, así como su correspondiente\nprotección (…)”;\nQue el artículo 1 de la Ley Orgánica de Protección de Datos Personales (“LOPDP”) declara, como\nsu objetivo y finalidad, “(…) garantizar el ejercicio del derecho de protección de datos personales,\nque incluye el acceso y decisión sobre información y datos de ese carácter, así como su\ncorrespondiente protección (…)”;\nQue a través de la LOPDP se creó la Superintendencia de Protección de Datos Personales,\n(“SPDP”), como un órgano de control, con potestad sancionatoria, de administración desconcentrada,\ncon personalidad jurídica y autonomía administrativa, técnica, operativa y financiera, cuyo máximo\ntitular es, de acuerdo con el inciso primero del artículo 76 ídem, el Superintendente de Protección de\nDatos Personales;\nQue el artículo 4 de la LOPDP define al delegado de protección de datos como aquella “(…)\n[p]ersona natural encargada de informar al responsable o al encargado del tratamiento sobre sus\nobligaciones legales en materia de protección de datos, así como de velar o supervisar el\ncumplimiento normativo al respecto, y de cooperar con la Autoridad de Protección de Datos\nPersonales, sirviendo como punto de contacto entre esta y la entidad responsable del tratamiento de\ndatos (…)”;\nQue el inciso final del artículo 48 de la LOPDP dispone que “[l]a Autoridad de Protección de\nDatos Personales podrá definir nuevas condiciones en las que deba designarse un delegado de\nprotección de datos personales y emitirá, a dicho efecto, las directrices suficientes para su\ndesignación”;\nQue el numeral 5 del artículo 76 de la LOPDP dispone que “(…) [l]a Autoridad de Protección\nde Datos Personales es el órgano de control y vigilancia encargado de garantizar a todos los\nciudadanos la protección de sus datos personales, y de realizar todas las acciones necesarias para\nque se respeten los principios, derechos, garantías y procedimientos previstos en la presente Ley y\nen su reglamento de aplicación, para lo cual le corresponde las siguientes funciones, atribuciones y\nfacultades: (…) 5) Emitir normativa general o técnica, criterios y demás actos que sean necesarios\npara el ejercicio de sus competencias y la garantía del ejercicio del derecho a la protección de datos\npersonales (…)”;\nQue en la segunda disposición transitoria del Reglamento General de la Ley Orgánica de\nProtección de Datos Personales (“RGLOPDP”) ha previsto que “[e]n el plazo máximo de un (1) año,\ncontado a partir de la fecha de implementación y funcionamiento de la Superintendencia de\nProtección de Datos Personales, esta coordinará y llevará a cabo capacitaciones técnicas y cursos\nde formación dirigidos al público en general, orientados a promover el ejercicio del derecho a la\nprotección de datos personales y a la profesionalización de los delegados de protección de datos\npersonales. Para tal efecto, podrá celebrar alianzas con instituciones de educación superior con\nexperiencia en la materia, así como con organizaciones especializadas que promuevan la protección\nde datos personales”;\nQue mediante resolución Nº SPDP-SPDP-2024-0001-R, publicada en el Tercer Suplemento del\nRegistro Oficial Nº 624 de agosto 19 de 2024, se aprobó el Estatuto Orgánico de Gestión\nOrganizacional por Procesos de Arranque de la SPDP (“Estatuto SPDP”);\nQue el artículo 1 del Estatuto SPDP, en su Anexo 1, declara que “[l]a Superintendencia de\nProtección de Datos Personales se alinea con su misión y define su Estructura Organizacional\nsustentada en su base normativa y su direccionamiento estratégico institucional, los cuales serán\n\ndeterminados en su Planificación Estratégica Institucional, Modelo de Gestión institucional y Matriz\nde Competencias (…)”;\nQue el literal b) del numeral 2 del artículo 10 de la antedicha resolución Nº SPDP-SPDP-2024-\n0001-R, establece las atribuciones y responsabilidades de la Intendencia General de Regulación de\nProtección de Datos Personales (“IRD”), entre las que consta la de “(…) [d]irigir y proponer la\nelaboración de las propuestas o proyectos normativos para crear, reformar o derogar los actos\nnormativos, sean estos políticas, directrices, reglamentos, resoluciones, lineamientos, normas\ntécnicas, oficios circulares, etcétera, necesarios para el ejercicio de todas las competencias y\natribuciones propias de la Superintendencia de Protección de Datos Personales, con los previos\ninformes técnicos de las unidades administrativas sustantivas y adjetivas relacionadas con el ámbito\nde aplicación de tales normas; así como, todos aquellos actos normativos relacionados con el\nejercicio, tutela y procedimientos administrativos de gestión que garanticen a las personas naturales\nla plena vigencia de sus derechos y deberes previstos en dicha ley y su reglamento (…)”;\nQue mediante resolución Nº SPDP-SPD-2025-0001-R del 31 de enero del 2025, publicada en\nRegistro Oficial N° 750 del 24 de febrero del 2025, se establecieron las disposiciones, delegaciones\nde facultades y atribuciones a las autoridades, funcionarios y servidores públicos de la SPDP, en\ncuyo literal a), artículo 4, se le ha delegado a la IRD, entre otras, la responsabilidad de “[e]mitir\nnormativa general o técnica, criterios y demás actos que sean necesarios para el ejercicio de sus\ncompetencias y la garantía del ejercicio del derecho a la protección de datos personales”;\nQue mediante resolución Nº SPDP-SPDP-2024-0018-R, publicada en el Segundo Suplemento del\nRegistro Oficial Nº 679 del 8 de noviembre del 2024, se expidió el Reglamento para la Elaboración\ny Aprobación del Plan Regulatorio Institucional de la Superintendencia de Protección de Datos\nPersonales, en cuya disposición transitoria se ha previsto que “(…) el PRI correspondiente a los años\nfiscales 2024 y 2025 no seguirá el procedimiento establecido en este reglamento y, por ende, se\nelaborará únicamente a base de los informes técnicos emitidos por las Unidades Administrativas\ncorrespondientes; validados por la IGRPDP; aprobados por el Superintendente o su delegado; y,\nfinalmente, publicado en los portales oficiales de la SPDP cuando estén habilitados”;\nQue la IRD, mediante informe técnico Nº INF-SPDP-IRD-2025-0003 suscrito el 3 de enero del\n2025, solicitó al Superintendente de Protección de Datos Personales la aprobación del Plan\nRegulatorio Institucional (“PRI”) del año fiscal 2025, a fin de cumplir con la disposición transitoria\nde la resolución Nº SPDP-SPDP-2024-0018-R, así como para garantizar la transparencia y eficacia\nde la SPDP;\nQue mediante resolución N° SPDP-SPD-2025-0002-R del 3 de febrero del 2025 se aprobó el PRI\ndel año 2025, dentro del cual se estableció la necesidad de emitir el Reglamento del Programa de\nProfesionalizante de Delegados de Protección de Datos Personales;\nQue la IRD, a través del informe técnico Nº INF-SPDP-IRD-2025-0008 suscrito el 27 de febrero\ndel 2025, justificó la pertinencia y la necesidad de determinar los lineamientos y criterios para que\nlas personas naturales que desempeñen el cargo de delegados de protección de datos personales\ntengan, en la materia, conocimientos prácticos, así como en derecho y en sistemas, a fin de ejercer\nadecuadamente las funciones determinadas en la LOPDP, el RGLOPDP y demás normativa\naplicable; informe técnico en cuya parte pertinente se indica que “[l]a SPDP en ejercicio de sus\nfunciones y atribuciones está facultada de conformidad con el numeral 5 del artículo 76 de la\nLOPDP para emitir el Proyecto de Resolución que expide el Programa de Profesionalizante de\nDelegados de Protección de Datos Personales”, a la par que recomendó “(…) [e]xpedir el\nReglamento del Programa de Profesionalizante de Delegados de Protección de Datos Personales,\nen cumplimiento con la Resolución N° SPDP-SPD-2025-0002-R”;\nQue mediante memorando N° SPDP-IRD-2025-0020-M suscrito el 27 de febrero del 2025, la\nIRD puso en conocimiento de la Dirección de Asesoría Jurídica (“DAJ”), el proyecto normativo\ndenominado Reglamento del Programa de Profesionalizante de Delegados de Protección de Datos\nPersonales y el informe técnico N° INF-SPDP-IRD-2025-0008, para que en el término de diez (10)\ndías se pronuncie sobre la concordancia con la normativa y la legalidad, de conformidad con lo\ndispuesto en la resolución N° SPDP-SPDP-2024-0022-R;\n\nQue la DAJ, en la parte pertinente de su informe técnico N° INF-SPDP-DAJ-2025-0004 suscrito\nel 27 de febrero del 2025, determinó que el Reglamento del Programa de Profesionalizante de\nDelegados de Protección de Datos Personales es congruente con los principios establecidos en la\nLOPDP, no transgrede o contradice normas matrices, cumple con el principio de legalidad y, por\nello, recomendó que “(…) [l]a IRD debe disponer a quien corresponda la publicación a través de la\npágina web institucional e informar su publicación a través de las redes sociales institucionales, con\nla finalidad de que la ciudadanía, las organizaciones de la sociedad civil o interesados en general,\nde manera motivada, puedan remitir sus observaciones o realizar aportes respecto del contenido\n(…)”;\nQue a través del memorando N° SPDP-DAJ-2025-0018-M suscrito el 27 de febrero del 2025, la\nDAJ puso en conocimiento de la IRD el informe técnico N° INF-SPDP-DAJ-2025-0004, así como\nla validación legal del proyecto de resolución que viabilizaría la expedición del Reglamento del\nPrograma de Profesionalizante de Delegados de Protección de Datos Personales;\nQue en el memorando N° SPDP-IRD-2025-0024-M suscrito el 27 de febrero del 2025, la IRD\nsolicitó a las unidades administrativas de la SPDP que procedan con las acciones pertinentes a fin de\nque publiquen el Reglamento del Programa de Profesionalizante de Delegados de Protección de\nDatos Personales en la página web institucional y en las redes sociales de la SPDP, para que el\nproyecto de normativa esté disponible para la ciudadanía, las organizaciones de la sociedad civil o\ninteresados en general desde el 3 de marzo del 2025 hasta el 1 de abril del 2025, con el objeto de\npoder recibir sus observaciones o aportes, siempre que estuvieren debidamente motivados;\nQue para cumplir con la resolución Nº SPDP-SPDP-2024-0022-R, se ejecutó el proceso de\nsocialización del Reglamento del Programa de Profesionalizante de Delegados de Protección de\nDatos Personales dentro del término de veinte (20) días, de conformidad con el artículo 12, y se\nprocedió a dar de baja el proyecto normativo el 2 de abril del 2025 de la página web institucional y\nlas redes sociales de la SPDP;\nQue a través del informe técnico Nº INF-SPDP-IRD-2025-0019, suscrito el 28 de abril del 2025,\nla IRD incorporó al informe técnico las observaciones y aportes que se consideraron relevantes y\nadecuados, previa justificación de las modificaciones realizadas al proyecto normativo;\nQue mediante memorando Nº SPDP-IRD-2025-0066-M, suscrito el 28 de abril del 2025, la IRD\nremitió todo el expediente al suscrito Superintendente de Protección de Datos Personales para que\nrealice las observaciones correspondientes o, en su caso, para que lo apruebe;",
+    "anexos": [],
+    "version": "1.0.0"
+  },
+  "unidades": [
+    {
+      "id": "EC-SPDP-2025-0004-R-Art-1",
+      "tipo": "articulo",
+      "numero": "1",
+      "titulo": "",
+      "texto_oficial": "Art. 1.- Aprobar el Reglamento del Programa Profesionalizante de Delegados de Protección de\nDatos Personales, a fin de garantizar que los profesionales que fueren o se encontraren ya designados\npor los responsables y encargados del tratamiento, ejecuten las funciones establecidas en la LOPDP\nde manera proactiva y adecuada en cautela a los principios, derechos y obligaciones establecidos en\nel ordenamiento jurídico vigente.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "obligaciones-responsable.dpd"
+      ],
+      "roles": [
+        "dpd",
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0004-R-Art-2",
+      "tipo": "articulo",
+      "numero": "2",
+      "titulo": "",
+      "texto_oficial": "Art. 2.- Los delegados de protección de datos personales, para cumplir las funciones que les\nasigna la LOPDP, deberán contar con cualificaciones en derecho, sistemas y en tecnologías de la\ninformación y comunicación, en aras de garantizar la tutela del derecho a la protección de datos\npersonales.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "obligaciones-responsable.dpd"
+      ],
+      "roles": [
+        "dpd",
+        "responsable",
+        "encargado"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0004-R-Art-3",
+      "tipo": "articulo",
+      "numero": "3",
+      "titulo": "",
+      "texto_oficial": "Art. 3.- Las instituciones de educación superior, de conformidad con la Ley Orgánica de\nEducación Superior y la normativa específica en la materia, son las entidades autorizadas para\nimpartir programas académicos referentes al Programa Profesionalizante de Delegados de\nProtección de Datos Personales. Para ello, las instituciones de educación superior deberán\nimplementar el Anexo I de de esta resolución. Esta disposición es aplicable tanto para programas\nacadémicos de tercer nivel o cuarto nivel, como para los sistemas de educación continua.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "obligaciones-responsable.dpd"
+      ],
+      "roles": [
+        "dpd",
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion",
+        "permiso"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0004-R-DispGen-ÚNICA",
+      "tipo": "disposicion",
+      "numero": "ÚNICA",
+      "titulo": "Disposición General ÚNICA",
+      "texto_oficial": "Las instituciones de educación superior notificarán a la SPDP los títulos académicos, diplomas o\ncertificados que expidieren, para que sean registrados en la plataforma que se implemente para el\nefecto una vez que se cumplan los requisitos establecidos.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [
+        "obligaciones-responsable.dpd"
+      ],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0004-R-DispTrans-PRIMERA",
+      "tipo": "disposicion",
+      "numero": "PRIMERA",
+      "titulo": "Disposición Transitoria PRIMERA",
+      "texto_oficial": "Primera.- Las instituciones de educación superior que estuvieren impartiendo programas\nacadémicos de profesionalización en protección de datos personales a la fecha de expedición de este\nreglamento, podrán implementar el Programa Profesionalizante de Delegados de Protección de\nDatos Personales dentro del plazo de seis (6) meses, que empezará a discurrir desde su publicación\nen el Registro Oficial.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0004-R-DispTrans-SEGUNDA",
+      "tipo": "disposicion",
+      "numero": "SEGUNDA",
+      "titulo": "Disposición Transitoria SEGUNDA",
+      "texto_oficial": "Segunda.- La Unidad de Tecnologías de la Información y Comunicación de la SPDP\nimplementará la plataforma para el registro de títulos académicos, diplomas o certificados dentro del\nmismo plazo que consta indicado en la disposición precedente.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    },
+    {
+      "id": "EC-SPDP-2025-0004-R-DispFinal-ÚNICA",
+      "tipo": "disposicion",
+      "numero": "ÚNICA",
+      "titulo": "Disposición Final ÚNICA",
+      "texto_oficial": "Esta resolución entrará en vigencia a partir de su suscripción, sin perjuicio de su publicación en\nel Registro Oficial.",
+      "estado": "vigente",
+      "sustituido_por": null,
+      "temas": [],
+      "roles": [
+        "autoridad-control"
+      ],
+      "ciclo": [],
+      "deontico": [
+        "obligacion"
+      ],
+      "factores_riesgo": [],
+      "concordancias": [],
+      "comentario": "",
+      "notas": ""
+    }
+  ]
+}
