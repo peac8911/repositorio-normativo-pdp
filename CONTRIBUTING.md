@@ -1,56 +1,73 @@
-# Guía de Contribución — Repositorio Normativo PDP
+# Contribution Guide — PDP Regulatory Knowledge Base
 
-Este documento contiene las instrucciones operativas para trabajar con el repositorio. Está dirigido tanto a colaboradores humanos como a sistemas de IA (Claude / Cowork) que apoyen en la construcción y mantenimiento del repositorio.
+This document contains the operational instructions for working with the repository. It is intended for both human contributors and AI systems (Claude / Cowork) that support the construction and maintenance of the repository.
 
----
-
-## Principios de trabajo
-
-1. **El texto oficial es sagrado.** El campo `texto_oficial` nunca se parafrasea ni resume. Siempre es el texto literal de la norma publicada en el registro oficial.
-2. **Un artículo, un objeto JSON.** La unidad mínima es el artículo. No se combinan artículos en un solo objeto.
-3. **Las etiquetas son consistentes.** Siempre se usan los IDs exactos de los catálogos. Nunca se inventan etiquetas nuevas sin actualizar primero el catálogo correspondiente.
-4. **Los catálogos se actualizan antes que las normas.** Si necesitas una etiqueta que no existe, primero la agregas al catálogo, luego la usas en el artículo.
-5. **Nada se elimina, solo se marca.** Los artículos derogados no se borran. Se marcan con `vigente: false` y `derogado: true`.
+This repository is DATUM Component 1: Regulatory Knowledge Base. All contributions must follow the DATUM architectural principles, particularly the **English-first, multilingual by design** convention.
 
 ---
 
-## Cómo agregar una norma nueva
+## Language Rules
 
-### Paso 1 — Identificar la norma
+These rules apply to every contribution:
 
-Antes de crear el archivo, verifica:
-- ¿En qué jurisdicción aplica? (`ec` / `cl`)
-- ¿Qué tipo de fuente es? (ver `catalogos/tipos-fuente.json`)
-- ¿Qué nivel jerárquico tiene?
-- ¿Está vigente?
-- ¿Cuál es la URL oficial del texto?
+1. **All metadata, tags, catalog IDs, and structural content are in English.** Field values for `temas`, `roles`, `ciclo`, `deontico`, and `factores_riesgo` use English identifiers from the catalogs.
+2. **Official regulatory text (`texto_oficial`) is always in its original legislative language.** Never translate, paraphrase, or summarize it.
+3. **The `preambulo` field** preserves original-language text.
+4. **The `comentario` field** may be in English or in the jurisdiction's language. English is preferred for global accessibility.
+5. **The `notas` field** may be in any language (it is operational, not analytical).
+6. **Norm titles** include the original-language title in `titulo` and an English translation in `titulo_en`.
+7. **Commit messages** are in English.
+8. **Documentation and catalog labels** are in English. Where a jurisdiction-specific legal term has no clean English equivalent, the original term is preserved in parentheses.
 
-### Paso 2 — Nombrar el archivo
+---
 
-El nombre del archivo sigue este patrón:
+## Working Principles
+
+1. **Official text is sacred.** The `texto_oficial` field is never paraphrased or summarized. It is always the verbatim text from the official gazette, in the original legislative language.
+2. **One article, one JSON object.** The minimum unit is the article. Articles are never combined into a single object.
+3. **Tags are consistent.** Always use the exact IDs from the catalogs. Never invent new tags without updating the corresponding catalog first.
+4. **Catalogs are updated before norms.** If you need a tag that does not exist, add it to the catalog first, then use it in the article.
+5. **Nothing is deleted, only marked.** Repealed articles are not removed. They are marked with `estado: "derogado"`.
+
+---
+
+## How to Add a New Norm
+
+### Step 1 — Identify the Norm
+
+Before creating the file, verify:
+- Which jurisdiction does it apply to? (`ec` / `cl`)
+- What source type is it? (see `catalogos/tipos-fuente.json`)
+- What hierarchical level does it have?
+- Is it currently in force?
+- What is the official URL of the text?
+
+### Step 2 — Name the File
+
+File names follow this pattern:
 ```
-[jurisdiccion]-[nombre-corto-norma].json
+[jurisdiction]-[short-norm-name].json
 ```
 
-Ejemplos:
+Examples:
 ```
 ec-lopdp.json
 ec-reglamento-lopdp.json
 cl-ley-pdp.json
 ```
 
-Siempre en minúsculas, sin espacios, con guiones.
+Always lowercase, no spaces, with hyphens.
 
-### Paso 3 — Crear el archivo
+### Step 3 — Create the File
 
-Ubicarlo en la carpeta correcta según tipo de fuente:
+Place it in the correct folder by source type:
 ```
 /ec/ley-organica/ec-lopdp.json
 /ec/reglamentos/ec-reglamento-lopdp.json
 /cl/ley/cl-ley-pdp.json
 ```
 
-### Paso 4 — Poblar el meta de la norma
+### Step 4 — Populate the Norm Metadata
 
 ```json
 {
@@ -59,15 +76,16 @@ Ubicarlo en la carpeta correcta según tipo de fuente:
     "jurisdiccion": "ec",
     "tipo_fuente": "ley-organica",
     "nivel_jerarquico": 3,
-    "titulo": "Nombre oficial completo de la norma",
-    "numero": "Número o identificador oficial",
+    "titulo": "Official title in the original legislative language",
+    "titulo_en": "Official title translated to English",
+    "numero": "Official number or identifier",
     "fecha_publicacion": "YYYY-MM-DD",
     "fecha_vigencia": "YYYY-MM-DD",
     "vigente": true,
     "materia": ["pdp"],
     "es_especializada": true,
-    "url_oficial": "URL del registro oficial",
-    "preambulo": "Texto del preámbulo o considerandos si los tiene, o cadena vacía.",
+    "url_oficial": "URL from the official gazette",
+    "preambulo": "Full preamble text in original language, or empty string.",
     "anexos": [],
     "version": "1.0.0"
   },
@@ -75,29 +93,30 @@ Ubicarlo en la carpeta correcta según tipo de fuente:
 }
 ```
 
-### Paso 5 — Extraer y agregar los artículos
+### Step 5 — Extract and Add Articles
 
-Ver sección "Cómo extraer artículos" más abajo.
+See "How to Extract Articles" below.
 
 ---
 
-## Cómo extraer artículos
+## How to Extract Articles
 
-### Si trabajas con un PDF o texto de la norma
+### When Working from a PDF or Text of the Norm
 
-1. Extraer el texto de cada artículo de forma literal, sin modificaciones
-2. Crear un objeto JSON por artículo siguiendo el esquema
-3. Agregar el objeto al array `unidades` del archivo de la norma
+1. Extract the text of each article verbatim, without modifications
+2. Create one JSON object per article following the schema
+3. Add the object to the `unidades` array of the norm file
 
-### Esquema de cada artículo
+### Article Schema
 
 ```json
 {
   "id": "EC-LOPDP-Art-13",
   "tipo": "articulo",
   "numero": "13",
-  "titulo": "Título oficial del artículo si lo tiene, o vacío",
-  "texto_oficial": "Texto literal completo del artículo, incluyendo todos sus literales e incisos.",
+  "titulo": "Original article title in legislative language, or empty",
+  "titulo_en": "English translation of the article title, or empty",
+  "texto_oficial": "Complete verbatim text of the article in its original legislative language, including all subsections and paragraphs.",
   "estado": "vigente",
   "sustituido_por": null,
   "temas": [],
@@ -111,141 +130,142 @@ Ver sección "Cómo extraer artículos" más abajo.
 }
 ```
 
-### Convención para el ID del artículo
+### Article ID Convention
 
 ```
-[JURISDICCION]-[NORMA]-Art-[NUMERO]
+[JURISDICTION]-[NORM]-Art-[NUMBER]
 ```
 
-Ejemplos:
+Examples:
 ```
 EC-LOPDP-Art-1
 EC-LOPDP-Art-13
 CL-LPDP-Art-5
 ```
 
-Si la norma tiene artículos con letras (Art. 4-A), usar:
+For articles with letters (Art. 4-A):
 ```
 EC-LOPDP-Art-4A
 ```
 
 ---
 
-## Cómo etiquetar un artículo
+## How to Tag an Article
 
-El etiquetado se hace en cinco dimensiones. Cada una usa IDs de los catálogos correspondientes.
+Tagging is done across five dimensions. Each dimension uses IDs from the corresponding catalogs. **All tag values are in English.**
 
-### 1. temas
+### 1. temas (Topics)
 
-Usar `temas.json` (y extensiones por jurisdicción si aplica).
-Formato: `"tema"` o `"tema.subtema"`
+Use `temas.json` (and jurisdiction extensions if applicable).
+Format: `"topic"` or `"topic.subtopic"`
 
 ```json
-"temas": ["bases-de-licitud.consentimiento", "principios.transparencia"]
+"temas": ["legal-bases.consent", "principles.transparency"]
 ```
 
-Regla: un artículo puede tener varios temas. Incluir todos los que apliquen directamente al contenido del artículo.
+Rule: an article can have multiple topics. Include all that directly apply to the article's content.
 
 ### 2. roles
 
-¿A quién se dirige o afecta este artículo?
+Who does this article address or affect?
 
-Valores válidos:
-- `responsable`
-- `encargado`
-- `subencargado`
-- `titular`
-- `dpd`
-- `autoridad-control`
-- `tercero`
-
-```json
-"roles": ["responsable", "titular"]
-```
-
-### 3. ciclo
-
-¿En qué fase del ciclo de vida del dato opera este artículo?
-
-Valores válidos:
-- `recoleccion` — obtención de datos directamente del titular o de terceros
-- `creacion` — generación de datos por la propia organización
-- `inferencia` — derivación de nuevos datos personales a partir de datos existentes
-- `almacenamiento` — conservación y custodia de los datos
-- `uso` — utilización interna para el fin declarado
-- `comunicacion` — transmisión a terceros dentro de la misma jurisdicción
-- `transferencia` — transmisión a terceros en otras jurisdicciones
-- `supresion` — eliminación o anonimización de los datos
-- `archivo` — conservación con fines históricos, estadísticos o de investigación
+Valid values:
+- `controller`
+- `processor`
+- `sub-processor`
+- `data-subject`
+- `dpo`
+- `supervisory-authority`
+- `third-party`
 
 ```json
-"ciclo": ["recoleccion", "uso"]
+"roles": ["controller", "data-subject"]
 ```
 
-### 4. deontico
+### 3. ciclo (Lifecycle Phase)
 
-¿Qué tipo de norma es?
+Which phase of the data lifecycle does this article operate in?
 
-Valores válidos:
-- `obligacion` — el responsable/encargado debe hacer algo
-- `prohibicion` — está expresamente prohibido
-- `derecho` — reconoce un derecho al titular
-- `permiso` — autoriza algo bajo condiciones
-- `definicion` — define un concepto
-- `excepcion` — establece una excepción a otra regla
+Valid values:
+- `collection` — obtaining data directly from the data subject or third parties
+- `creation` — generating data by the organization itself
+- `inference` — deriving new personal data from existing data
+- `storage` — retention and custody of data
+- `use` — internal use for the declared purpose
+- `communication` — transmission to third parties within the same jurisdiction
+- `transfer` — transmission to third parties in other jurisdictions
+- `deletion` — elimination or anonymization of data
+- `archival` — retention for historical, statistical, or research purposes
 
 ```json
-"deontico": ["obligacion"]
+"ciclo": ["collection", "use"]
 ```
 
-### 5. factores_riesgo
+### 4. deontico (Deontic Type)
 
-¿Qué factores de riesgo del catálogo AEPD activa o regula este artículo?
-Usar IDs del archivo `catalogos/factores-riesgo-aepd.json`.
+What type of norm is this?
 
-Formato: `"categoria.factor"`
+Valid values:
+- `obligation` — the controller/processor must do something
+- `prohibition` — expressly prohibited
+- `right` — recognizes a data subject right
+- `permission` — authorizes something under conditions
+- `definition` — defines a concept
+- `exception` — establishes an exception to another rule
 
 ```json
-"factores_riesgo": ["operaciones-fines.perfilado", "tipos-datos.datos-salud"]
+"deontico": ["obligation"]
 ```
 
-Si el artículo no activa factores de riesgo específicos, dejar el array vacío `[]`.
+### 5. factores_riesgo (Risk Factors)
+
+Which risk factors from the AEPD catalog does this article activate or regulate?
+Use IDs from `catalogos/factores-riesgo-aepd.json`.
+
+Format: `"category.factor"`
+
+```json
+"factores_riesgo": ["operations-purposes.profiling", "data-types.health-data"]
+```
+
+If the article does not activate specific risk factors, leave the array empty `[]`.
 
 ---
 
-## Cómo agregar concordancias
+## How to Add Concordances
 
-Las concordancias son artículos de otras normas (de la misma jurisdicción) que se relacionan directamente con este artículo.
+Concordances are articles from other norms (within the same jurisdiction) that directly relate to this article.
 
 ```json
 "concordancias": ["EC-LOPDP-Art-7", "EC-LOPDP-Art-14", "EC-REGLAMENTO-LOPDP-Art-5"]
 ```
 
-Regla: solo concordancias de la misma jurisdicción. Las equivalencias entre jurisdicciones van en `/mapeos/concordancias-ec-cl.json`.
+Rule: only same-jurisdiction concordances. Cross-jurisdictional equivalences go in `/mapeos/concordancias-ec-cl.json`.
 
 ---
 
-## Cómo gestionar el preámbulo y los considerandos
+## How to Manage Preambles and Recitals
 
-Si la norma tiene preámbulo, exposición de motivos o considerandos, copiar el texto completo en el campo `preambulo` del `meta`. Si no tiene, dejar como cadena vacía `""`.
+If the norm has a preamble, explanatory statement, or recitals, copy the complete text in the original language into the `preambulo` field of `meta`. If it has none, use an empty string `""`.
 
-El preámbulo no se incluye en `unidades`. No se etiqueta. Solo está disponible para consulta interpretativa cuando se necesite contexto del legislador.
+The preamble is not included in `unidades`. It is not tagged. It is only available for interpretive consultation when legislative intent context is needed.
 
 ---
 
-## Cómo gestionar anexos
+## How to Manage Annexes
 
-### Anexo corto o de referencia frecuente
+### Short or Frequently Referenced Annex
 
-Agregar dentro del array `unidades` con `"tipo": "anexo"`. No lleva las dimensiones de etiquetado temático (temas, roles, ciclo, deontico, factores_riesgo) a menos que el contenido del anexo lo justifique explícitamente.
+Add within the `unidades` array with `"tipo": "anexo"`. Tagging dimensions (temas, roles, ciclo, deontico, factores_riesgo) are not required unless the annex content explicitly justifies them.
 
 ```json
 {
   "id": "EC-RESOLUCION-001-Anexo-1",
   "tipo": "anexo",
   "numero": "1",
-  "titulo": "Formulario de registro de actividades de tratamiento",
-  "texto_oficial": "Contenido completo del anexo...",
+  "titulo": "Original title in legislative language",
+  "titulo_en": "English translation of the annex title",
+  "texto_oficial": "Complete annex content in original language...",
   "estado": "vigente",
   "sustituido_por": null,
   "temas": [],
@@ -259,112 +279,254 @@ Agregar dentro del array `unidades` con `"tipo": "anexo"`. No lleva las dimensio
 }
 ```
 
-### Anexo extenso o técnico
+### Extensive or Technical Annex
 
-Crear un archivo JSON separado en la misma carpeta de la norma principal, siguiendo la convención de nombre:
-
+Create a separate JSON file in the same folder as the main norm, following the naming convention:
 ```
-[nombre-norma]-anexo-[numero].json
-```
-
-Ejemplo:
-```
-/ec/normativa-secundaria/ec-resolucion-001.json
-/ec/normativa-secundaria/ec-resolucion-001-anexo-1.json
+[norm-name]-anexo-[number].json
 ```
 
-En el `meta` de la norma principal, referenciar el archivo:
-
+Reference it from the main norm's `meta`:
 ```json
 "anexos": ["ec-resolucion-001-anexo-1.json"]
 ```
 
-El archivo del anexo sigue la misma estructura de norma (`meta` + `unidades`), donde cada sección o tabla del anexo es una unidad con `"tipo": "anexo"`.
-
 ---
 
-## Cómo gestionar reformas y derogaciones
+## How to Manage Reforms and Repeals
 
-### Artículo reformado (texto cambia pero sigue vigente)
+### Reformed Article (text changes but remains in force)
 
 ```json
 "estado": "reformado",
-"notas": "Reformado por [norma] el [fecha]. Texto anterior: [texto previo]"
+"notas": "Reformed by [norm] on [date]. Previous text: [previous text]"
 ```
 
-### Artículo derogado sin reemplazo
+### Repealed Article Without Replacement
 
 ```json
 "estado": "derogado",
 "sustituido_por": null,
-"notas": "Derogado por [norma] el [fecha]."
+"notas": "Repealed by [norm] on [date]."
 ```
 
-### Artículo derogado con reemplazo
+### Repealed Article With Replacement
 
 ```json
 "estado": "derogado",
 "sustituido_por": "EC-LOPDP-Art-15B",
-"notas": "Derogado por [norma] el [fecha]. Reemplazado por Art. 15-B."
+"notas": "Repealed by [norm] on [date]. Replaced by Art. 15-B."
 ```
 
-Importante: el texto original siempre se conserva. Nunca se borra.
+Important: the original text is always preserved. Never deleted.
 
 ---
 
-## Cómo actualizar los catálogos
+## How to Update Catalogs
 
-### Agregar un tema nuevo
+### Adding a New Topic
 
-1. Abrir `catalogos/temas.json`
-2. Agregar el objeto con `id`, `label`, `descripcion` y `parent` si es subtema
-3. Si aplica solo a una jurisdicción, agregarlo en `temas-ec.json` o `temas-cl.json` con una nota explicativa
+1. Open `catalogos/temas.json`
+2. Add the object with `id` (English), `label` (English), `descripcion` (English), and `parent` if it is a subtopic
+3. If it applies only to a jurisdiction, add it to `temas-ec.json` or `temas-cl.json` with an explanatory note
 
-### Agregar una materia nueva
+### Adding a New Subject Matter
 
-1. Abrir `catalogos/materias.json`
-2. Agregar el nuevo valor con `id`, `label` y `descripcion`
-3. Actualizar `README.md` con la nueva materia
+1. Open `catalogos/materias.json`
+2. Add the new value with `id` (English), `label` (English), and `descripcion` (English)
+3. Update `README.md` with the new subject matter
 
-### Agregar un factor de riesgo
+### Adding a Risk Factor
 
-Los factores de riesgo del catálogo AEPD no se modifican. Si hay factores adicionales relevantes para Latinoamérica, agregarlos en una sección separada dentro de `factores-riesgo-aepd.json` con prefijo `latam`.
+The AEPD risk factor catalog core is not modified. If there are additional factors relevant to Latin America, add them in a separate section within `factores-riesgo-aepd.json` with prefix `latam`.
 
 ---
 
-## Convenciones generales
+## General Conventions
 
-### Fechas
-Siempre en formato ISO: `YYYY-MM-DD`
+### Dates
+Always in ISO format: `YYYY-MM-DD`
 
 ### IDs
-Siempre en mayúsculas para normas: `EC-LOPDP`
-Siempre en minúsculas con guiones para etiquetas: `bases-de-licitud.consentimiento`
+Always uppercase for norms: `EC-LOPDP`
+Always lowercase with hyphens for tags: `legal-bases.consent`
 
-### Texto oficial
-- Copiar literalmente, incluyendo puntuación original
-- Conservar saltos de párrafo usando `\n`
-- No corregir errores tipográficos del texto oficial — documentarlos en `notas`
+### Official Text
+- Copy verbatim, including original punctuation
+- Preserve paragraph breaks using `\n`
+- Do not correct typographical errors in the official text — document them in `notas`
 
-### Versioning del archivo de norma
-Cada vez que se modifica un artículo, actualizar el campo `version` del `meta` de la norma:
-- Cambio menor (notas, comentarios): incrementar tercer número `1.0.0 → 1.0.1`
-- Modificación de artículo: incrementar segundo número `1.0.0 → 1.1.0`
-- Derogación o reestructuración mayor: incrementar primer número `1.0.0 → 2.0.0`
+### Norm File Versioning
+Each time an article is modified, update the `version` field in the norm's `meta`:
+- Minor change (notes, comments): increment third number `1.0.0 → 1.0.1`
+- Article modification: increment second number `1.0.0 → 1.1.0`
+- Major repeal or restructuring: increment first number `1.0.0 → 2.0.0`
 
 ---
 
-## Instrucciones específicas para Claude / Cowork
+## Instructions for Claude / Cowork
 
-Cuando se te pida trabajar con este repositorio:
+When asked to work with this repository:
 
-1. **Antes de etiquetar**, lee `catalogos/temas.json` y `catalogos/factores-riesgo-aepd.json` para usar los IDs correctos
-2. **Antes de crear una norma**, lee `catalogos/tipos-fuente.json` y `catalogos/jurisdicciones.json`
-3. **El texto oficial nunca se modifica**. Si hay ambigüedad, documéntala en `notas`
-4. **Ante conflicto normativo**, consulta `catalogos/hermeneutica.json` antes de emitir criterio
-5. **Si necesitas una etiqueta que no existe**, propónla al usuario antes de usarla
-6. **Un commit por norma**. No mezclar varias normas en un solo commit
-7. **Mensaje de commit estándar:**
-   - Nueva norma: `feat(ec): agregar LOPDP completa`
-   - Modificación: `fix(ec): actualizar Art-13 por reforma [fecha]`
-   - Catálogo: `chore(catalogos): agregar tema ia-y-decisiones-automatizadas`
+1. **Before tagging**, read `catalogos/temas.json` and `catalogos/factores-riesgo-aepd.json` to use the correct English IDs
+2. **Before creating a norm**, read `catalogos/tipos-fuente.json` and `catalogos/jurisdicciones.json`
+3. **Official text is never modified**. If there is ambiguity, document it in `notas`
+4. **When there is a normative conflict**, consult `catalogos/hermeneutica.json` before issuing a criterion
+5. **If you need a tag that does not exist**, propose it to the user before using it
+6. **One commit per norm**. Do not mix multiple norms in a single commit
+7. **Commit message standard (English):**
+   - New norm: `feat(ec): add LOPDP complete`
+   - Modification: `fix(ec): update Art-13 per reform [date]`
+   - Catalog: `chore(catalogs): add topic ai-and-automated-decisions`
+8. **All new tag values must be in English.** Never introduce Spanish-language tag values in new contributions.
+9. **When migrating existing content**, use the tag mapping table in the Migration section below to translate Spanish tags to their English equivalents.
+
+---
+
+## Migration: Spanish to English Tags
+
+> **This section is temporary.** It provides the mapping from the original Spanish tag values to the new English equivalents. It will be removed once migration is complete.
+
+### Topic Tag Mapping
+
+| Old (Spanish) | New (English) |
+|---|---|
+| `principios` | `principles` |
+| `principios.licitud` | `principles.lawfulness` |
+| `principios.finalidad` | `principles.purpose-limitation` |
+| `principios.proporcionalidad` | `principles.proportionality` |
+| `principios.transparencia` | `principles.transparency` |
+| `principios.confidencialidad` | `principles.confidentiality` |
+| `principios.calidad` | `principles.data-quality` |
+| `principios.conservacion` | `principles.storage-limitation` |
+| `principios.seguridad` | `principles.security` |
+| `principios.responsabilidad-proactiva` | `principles.accountability` |
+| `principios.lealtad` | `principles.fairness` |
+| `principios.minimizacion` | `principles.data-minimization` |
+| `bases-de-licitud` | `legal-bases` |
+| `bases-de-licitud.consentimiento` | `legal-bases.consent` |
+| `bases-de-licitud.interes-legitimo` | `legal-bases.legitimate-interest` |
+| `bases-de-licitud.obligacion-legal` | `legal-bases.legal-obligation` |
+| `bases-de-licitud.interes-publico` | `legal-bases.public-interest` |
+| `bases-de-licitud.relacion-contractual` | `legal-bases.contractual-relationship` |
+| `bases-de-licitud.interes-vital` | `legal-bases.vital-interest` |
+| `datos-sensibles` | `sensitive-data` |
+| `datos-sensibles.salud` | `sensitive-data.health` |
+| `datos-sensibles.biometricos` | `sensitive-data.biometric` |
+| `datos-sensibles.origen-racial` | `sensitive-data.racial-origin` |
+| `datos-sensibles.opinion-politica` | `sensitive-data.political-opinion` |
+| `datos-sensibles.creencias-religiosas` | `sensitive-data.religious-beliefs` |
+| `datos-sensibles.orientacion-sexual` | `sensitive-data.sexual-orientation` |
+| `datos-sensibles.datos-geneticos` | `sensitive-data.genetic` |
+| `datos-sensibles.afiliacion-sindical` | `sensitive-data.trade-union` |
+| `datos-sensibles.antecedentes-penales` | `sensitive-data.criminal-records` |
+| `derechos-del-titular` | `data-subject-rights` |
+| `derechos-del-titular.acceso` | `data-subject-rights.access` |
+| `derechos-del-titular.rectificacion` | `data-subject-rights.rectification` |
+| `derechos-del-titular.supresion` | `data-subject-rights.erasure` |
+| `derechos-del-titular.oposicion` | `data-subject-rights.objection` |
+| `derechos-del-titular.portabilidad` | `data-subject-rights.portability` |
+| `derechos-del-titular.limitacion` | `data-subject-rights.restriction` |
+| `derechos-del-titular.no-decision-automatizada` | `data-subject-rights.no-automated-decision` |
+| `derechos-del-titular.revocacion-consentimiento` | `data-subject-rights.consent-withdrawal` |
+| `derechos-del-titular.informacion` | `data-subject-rights.information` |
+| `derechos-del-titular.consulta` | `data-subject-rights.consultation` |
+| `obligaciones-responsable` | `controller-obligations` |
+| `obligaciones-responsable.registro-actividades` | `controller-obligations.processing-records` |
+| `obligaciones-responsable.evaluacion-impacto` | `controller-obligations.impact-assessment` |
+| `obligaciones-responsable.dpd` | `controller-obligations.dpo` |
+| `obligaciones-responsable.medidas-tecnicas` | `controller-obligations.technical-measures` |
+| `obligaciones-responsable.notificacion-brechas` | `controller-obligations.breach-notification` |
+| `obligaciones-responsable.privacidad-por-diseno` | `controller-obligations.privacy-by-design` |
+| `obligaciones-responsable.responsabilidad-proactiva` | `controller-obligations.accountability` |
+| `encargado-del-tratamiento` | `processor` |
+| `encargado-del-tratamiento.contrato-encargo` | `processor.processing-agreement` |
+| `encargado-del-tratamiento.subencargados` | `processor.sub-processors` |
+| `categorias-especiales` | `special-categories` |
+| `transferencias-internacionales` | `international-transfers` |
+| `transferencias-internacionales.paises-adecuados` | `international-transfers.adequate-countries` |
+| `transferencias-internacionales.garantias-apropiadas` | `international-transfers.appropriate-safeguards` |
+| `transferencias-internacionales.excepciones` | `international-transfers.exceptions` |
+| `seguridad-del-tratamiento` | `processing-security` |
+| `seguridad-del-tratamiento.medidas-tecnicas` | `processing-security.technical-measures` |
+| `seguridad-del-tratamiento.notificacion-brechas` | `processing-security.breach-notification` |
+| `autoridad-de-control` | `supervisory-authority` |
+| `autoridad-de-control.competencia` | `supervisory-authority.competence` |
+| `autoridad-de-control.poderes` | `supervisory-authority.powers` |
+| `autoridad-de-control.procedimiento-sancionador` | `supervisory-authority.sanctions-procedure` |
+| `ia-y-decisiones-automatizadas` | `ai-and-automated-decisions` |
+| `ia-y-decisiones-automatizadas.perfilado` | `ai-and-automated-decisions.profiling` |
+| `ia-y-decisiones-automatizadas.explicabilidad` | `ai-and-automated-decisions.explainability` |
+| `tratamiento-gran-escala` | `large-scale-processing` |
+| `tratamiento-gran-escala.eipd-obligatoria` | `large-scale-processing.mandatory-dpia` |
+| `ambito-de-aplicacion` | `scope` |
+| `ambito-de-aplicacion.definiciones-clave` | `scope.key-definitions` |
+| `ambito-de-aplicacion.exclusiones` | `scope.exclusions` |
+
+### Role Tag Mapping
+
+| Old (Spanish) | New (English) |
+|---|---|
+| `responsable` | `controller` |
+| `encargado` | `processor` |
+| `subencargado` | `sub-processor` |
+| `titular` | `data-subject` |
+| `dpd` | `dpo` |
+| `autoridad-control` | `supervisory-authority` |
+| `tercero` | `third-party` |
+
+### Lifecycle Tag Mapping
+
+| Old (Spanish) | New (English) |
+|---|---|
+| `recoleccion` | `collection` |
+| `creacion` | `creation` |
+| `inferencia` | `inference` |
+| `almacenamiento` | `storage` |
+| `uso` | `use` |
+| `comunicacion` | `communication` |
+| `transferencia` | `transfer` |
+| `supresion` | `deletion` |
+| `archivo` | `archival` |
+
+### Deontic Tag Mapping
+
+| Old (Spanish) | New (English) |
+|---|---|
+| `obligacion` | `obligation` |
+| `prohibicion` | `prohibition` |
+| `derecho` | `right` |
+| `permiso` | `permission` |
+| `definicion` | `definition` |
+| `excepcion` | `exception` |
+
+### Risk Factor Tag Mapping
+
+| Old (Spanish) | New (English) |
+|---|---|
+| `operaciones-fines.perfilado` | `operations-purposes.profiling` |
+| `operaciones-fines.decisiones-automatizadas` | `operations-purposes.automated-decisions` |
+| `operaciones-fines.vigilancia-sistematica` | `operations-purposes.systematic-monitoring` |
+| `operaciones-fines.tratamiento-gran-escala` | `operations-purposes.large-scale-processing` |
+| `operaciones-fines.cruce-fuentes` | `operations-purposes.data-matching` |
+| `tipos-datos.datos-sensibles` | `data-types.sensitive-data` |
+| `tipos-datos.datos-salud` | `data-types.health-data` |
+| `tipos-datos.datos-biometricos` | `data-types.biometric-data` |
+| `tipos-datos.datos-geneticos` | `data-types.genetic-data` |
+| `tipos-datos.datos-menores` | `data-types.minors-data` |
+| `tipos-datos.datos-financieros` | `data-types.financial-data` |
+| `tipos-datos.datos-ubicacion` | `data-types.location-data` |
+| `titulares.vulnerables` | `data-subjects.vulnerable` |
+| `titulares.menores` | `data-subjects.minors` |
+| `titulares.empleados` | `data-subjects.employees` |
+| `tecnologias.nuevas-tecnologias` | `technologies.novel-technologies` |
+| `tecnologias.ia` | `technologies.ai` |
+| `tecnologias.iot` | `technologies.iot` |
+| `tecnologias.reconocimiento-facial` | `technologies.facial-recognition` |
+| `comunicacion.transferencia-internacional` | `disclosure.international-transfer` |
+| `comunicacion.comunicacion-terceros` | `disclosure.third-party-disclosure` |
+| `impacto.impedimento-derechos` | `impact.rights-impediment` |
+| `impacto.dano-significativo` | `impact.significant-harm` |
+| `impacto.efecto-juridico` | `impact.legal-effect` |
+
+> Note: This mapping covers the tags currently in use. If additional tags are encountered during migration that are not listed here, propose the English equivalent to the repository owner before applying it.

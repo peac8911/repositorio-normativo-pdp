@@ -1,19 +1,19 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "jurisdiccion": "cl",
-  "descripcion": "Extensiones y notas de aplicación de la taxonomía global para Chile. No reemplaza temas.json, lo complementa.",
+  "descripcion": "Extensions and application notes of the global taxonomy for Chile. Does not replace temas.json, it complements it.",
   "notas_de_aplicacion": [
     {
-      "tema_id": "autoridad-de-control",
-      "nota": "La autoridad de control en Chile es la Agencia de Protección de Datos Personales (APDP), creada por la Ley 21.096. Su implementación está en proceso. Los pronunciamientos previos a su creación corresponden al Servicio de Registro Civil e Identificación y al Consejo para la Transparencia en sus respectivos ámbitos."
+      "tema_id": "supervisory-authority",
+      "nota": "The supervisory authority in Chile is the Personal Data Protection Agency (APDP), created by Law 21.096. Its implementation is underway. Prior to its creation, pronouncements in their respective areas came from the Civil Registry and Identification Service and the Council for Transparency."
     },
     {
-      "tema_id": "datos-sensibles",
-      "nota": "La legislación chilena utiliza el término 'datos sensibles' de forma análoga a Ecuador. La Ley 21.096 amplió el catálogo de datos sensibles respecto a la ley anterior (Ley 19.628)."
+      "tema_id": "sensitive-data",
+      "nota": "Chilean legislation uses the term 'datos sensibles' analogously to Ecuador. Law 21.096 expanded the catalog of sensitive data compared to the previous law (Law 19.628)."
     },
     {
-      "tema_id": "bases-de-licitud",
-      "nota": "La Ley 21.096 introdujo un modelo de bases de licitud más cercano al RGPD que el sistema anterior de la Ley 19.628, que se basaba principalmente en el consentimiento. Al etiquetar normas de la Ley 19.628 y sus modificaciones, considerar el contexto histórico."
+      "tema_id": "legal-bases",
+      "nota": "Law 21.096 introduced a legal bases model closer to the GDPR than the previous system under Law 19.628, which was based primarily on consent. When tagging norms from Law 19.628 and its amendments, consider the historical context."
     }
   ],
   "subtemas_adicionales": []

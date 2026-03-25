@@ -1,23 +1,23 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "jurisdiccion": "ec",
-  "descripcion": "Extensiones y notas de aplicación de la taxonomía global para Ecuador. No reemplaza temas.json, lo complementa.",
+  "descripcion": "Extensions and application notes of the global taxonomy for Ecuador. Does not replace temas.json, it complements it.",
   "notas_de_aplicacion": [
     {
-      "tema_id": "datos-sensibles",
-      "nota": "En Ecuador la LOPDP utiliza el término 'datos sensibles' para referirse a lo que el RGPD europeo denomina 'categorías especiales de datos'. Ambos conceptos son equivalentes en sustancia. Al etiquetar artículos de la LOPDP, usar el tema datos-sensibles."
+      "tema_id": "sensitive-data",
+      "nota": "In Ecuador the LOPDP uses the term 'datos sensibles' to refer to what the European GDPR calls 'special categories of data'. Both concepts are equivalent in substance. When tagging LOPDP articles, use the tema sensitive-data."
     },
     {
-      "tema_id": "categorias-especiales",
-      "nota": "El artículo de la LOPDP que intenta recoger este concepto está deficientemente construido. Su uso en la práctica consultiva es limitado. Preferir el tema datos-sensibles para artículos ecuatorianos salvo que el artículo refiera explícitamente a la noción de categoría especial como concepto autónomo."
+      "tema_id": "special-categories",
+      "nota": "The LOPDP article attempting to incorporate this concept is poorly drafted. Its use in consulting practice is limited. Prefer the tema sensitive-data for Ecuadorian articles unless the article explicitly refers to the notion of special category as an autonomous concept."
     },
     {
-      "tema_id": "autoridad-de-control",
-      "nota": "La autoridad de control en Ecuador es la Superintendencia de Protección de Datos Personales (SPDP), creada por la LOPDP. Sus pronunciamientos y resoluciones se almacenan en /ec/pronunciamientos/ y /ec/normativa-secundaria/ respectivamente."
+      "tema_id": "supervisory-authority",
+      "nota": "The supervisory authority in Ecuador is the Superintendency of Personal Data Protection (SPDP), created by the LOPDP. Its pronouncements and resolutions are stored in /ec/pronunciamientos/ and /ec/normativa-secundaria/ respectively."
     },
     {
-      "tema_id": "bases-de-licitud",
-      "nota": "La LOPDP Ecuador regula las bases de licitud en términos similares al RGPD. El consentimiento tiene requisitos específicos de forma y prueba que difieren del modelo europeo en algunos aspectos. Revisar siempre el artículo correspondiente del Reglamento para detalles de implementación."
+      "tema_id": "legal-bases",
+      "nota": "The Ecuadorian LOPDP regulates legal bases in terms similar to the GDPR. Consent has specific formal and evidentiary requirements that differ from the European model in some respects. Always review the corresponding article of the Regulation for implementation details."
     }
   ],
   "subtemas_adicionales": []

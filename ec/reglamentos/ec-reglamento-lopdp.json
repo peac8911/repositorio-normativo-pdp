@@ -16,7 +16,8 @@
     "url_oficial": "https://www.registroficial.gob.ec/index.php/registro-oficial-web/publicaciones/suplementos/item/18614-tercer-suplemento-al-registro-oficial-no-435-del-13-de-noviembre-de-2023",
     "preambulo": "CONSIDERANDO:\nQue el numeral 11 del artículo 66 de la Constitución de la República reconoce y garantiza el derecho a guardar reserva sobre sus convicciones;\nQue el numeral 19 del artículo 66 de la Constitución de la República reconoce y garantiza el derecho a la protección de datos de carácter personal, que incluye el acceso y la decisión sobre información y datos de este carácter, así como su correspondiente protección;\nQue el numeral 13 del artículo 147 de la Constitución de la República faculta al Presidente de la República a expedir los reglamentos necesarios para la aplicación de las leyes, sin contravenirlas ni alterarlas, así como los que convengan a la buena marcha de la administración;\nQue en el Quinto Registro Oficial Suplemento No. 459 de 26 de mayo de 2021\n, se expidió la Ley Orgánica de Protección de Datos Personales, en cuyo artículo 2 se dispone que la Ley regula el tratamiento de datos personales contenidos en cualquier tipo de soporte;\nQue es necesario emitir el Reglamento a la Ley Orgánica de Protección de Datos Personales para establecer con claridad los preceptos y procedimientos para la ejecución de la Ley; y.\nEn ejercicio de las funciones conferidas en el numeral 13 del artículo 147 de la Constitución de la República, expide el siguiente:",
     "anexos": [],
-    "version": "1.0.0"
+    "version": "1.1.0",
+    "titulo_en": "General Regulation of the Organic Law on Personal Data Protection"
   },
   "unidades": [
     {
@@ -28,17 +29,18 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "ambito-de-aplicacion.ambito-material"
+        "scope.material-scope"
       ],
       "roles": [],
       "ciclo": [],
       "deontico": [
-        "definicion"
+        "definition"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Object"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-2",
@@ -49,21 +51,22 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "ambito-de-aplicacion.ambito-territorial",
-        "ambito-de-aplicacion.ambito-material"
+        "scope.territorial-scope",
+        "scope.material-scope"
       ],
       "roles": [
-        "responsable",
-        "encargado"
+        "controller",
+        "processor"
       ],
       "ciclo": [],
       "deontico": [
-        "definicion"
+        "definition"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Scope"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-3",
@@ -74,22 +77,23 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "ambito-de-aplicacion.ambito-territorial",
-        "obligaciones-responsable"
+        "scope.territorial-scope",
+        "controller-obligations"
       ],
       "roles": [
-        "responsable",
-        "encargado"
+        "controller",
+        "processor"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion",
-        "excepcion"
+        "obligation",
+        "exception"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "On the obligation to have power of attorney for controllers and/or processors handling data of Ecuadorian residents outside the national territory"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-4",
@@ -100,25 +104,26 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "ambito-de-aplicacion.definiciones-clave",
-        "tratamiento-gran-escala.definicion"
+        "scope.key-definitions",
+        "large-scale-processing.definition"
       ],
       "roles": [
-        "responsable",
-        "encargado",
-        "titular",
-        "tercero"
+        "controller",
+        "processor",
+        "data-subject",
+        "third-party"
       ],
       "ciclo": [],
       "deontico": [
-        "definicion"
+        "definition"
       ],
       "factores_riesgo": [
-        "extension-alcance.gran-escala"
+        "scope-and-scale.large-scale"
       ],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Definitions"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-5",
@@ -129,22 +134,23 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "bases-de-licitud.consentimiento"
+        "legal-bases.consent"
       ],
       "roles": [
-        "responsable",
-        "titular"
+        "controller",
+        "data-subject"
       ],
       "ciclo": [
-        "recoleccion"
+        "collection"
       ],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "On the collection of consent"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-6",
@@ -155,22 +161,23 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "bases-de-licitud.consentimiento",
-        "derechos-del-titular"
+        "legal-bases.consent",
+        "data-subject-rights"
       ],
       "roles": [
-        "responsable",
-        "titular"
+        "controller",
+        "data-subject"
       ],
       "ciclo": [],
       "deontico": [
-        "derecho",
-        "obligacion"
+        "right",
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "On the withdrawal of consent"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-7",
@@ -181,25 +188,26 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "bases-de-licitud.mision-publica",
-        "bases-de-licitud.interes-vital",
-        "bases-de-licitud.interes-legitimo"
+        "legal-bases.public-interest",
+        "legal-bases.vital-interest",
+        "legal-bases.legitimate-interest"
       ],
       "roles": [
-        "responsable"
+        "controller"
       ],
       "ciclo": [
-        "recoleccion",
-        "uso"
+        "collection",
+        "use"
       ],
       "deontico": [
-        "permiso",
-        "obligacion"
+        "permission",
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Legitimate processing"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-8",
@@ -210,23 +218,24 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "principios.finalidad"
+        "principles.purpose-limitation"
       ],
       "roles": [
-        "responsable",
-        "autoridad-control"
+        "controller",
+        "supervisory-authority"
       ],
       "ciclo": [
-        "almacenamiento",
-        "supresion"
+        "storage",
+        "deletion"
       ],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Personal data retention periods"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-9",
@@ -237,22 +246,23 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "derechos-del-titular.supresion",
-        "principios.proporcionalidad"
+        "data-subject-rights.erasure",
+        "principles.proportionality"
       ],
       "roles": [
-        "responsable"
+        "controller"
       ],
       "ciclo": [
-        "supresion"
+        "deletion"
       ],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Erasure, blocking or anonymization"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-10",
@@ -263,22 +273,23 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "principios.finalidad",
-        "obligaciones-responsable.registro-actividades"
+        "principles.purpose-limitation",
+        "controller-obligations.processing-records"
       ],
       "roles": [
-        "responsable"
+        "controller"
       ],
       "ciclo": [
-        "almacenamiento"
+        "storage"
       ],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Record file"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-11",
@@ -289,24 +300,25 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "derechos-del-titular.supresion",
-        "bases-de-licitud.mision-publica"
+        "data-subject-rights.erasure",
+        "legal-bases.public-interest"
       ],
       "roles": [
-        "responsable",
-        "autoridad-control"
+        "controller",
+        "supervisory-authority"
       ],
       "ciclo": [
-        "supresion"
+        "deletion"
       ],
       "deontico": [
-        "obligacion",
-        "excepcion"
+        "obligation",
+        "exception"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Data erasure"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-12",
@@ -317,20 +329,21 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "derechos-del-titular"
+        "data-subject-rights"
       ],
       "roles": [
-        "responsable",
-        "titular"
+        "controller",
+        "data-subject"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Means for the exercise of rights"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-13",
@@ -341,23 +354,24 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "derechos-del-titular.acceso"
+        "data-subject-rights.access"
       ],
       "roles": [
-        "responsable",
-        "titular"
+        "controller",
+        "data-subject"
       ],
       "ciclo": [
-        "uso"
+        "use"
       ],
       "deontico": [
-        "obligacion",
-        "derecho"
+        "obligation",
+        "right"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Content of the request"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-14",
@@ -368,23 +382,24 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "derechos-del-titular.rectificacion"
+        "data-subject-rights.rectification"
       ],
       "roles": [
-        "responsable",
-        "titular"
+        "controller",
+        "data-subject"
       ],
       "ciclo": [
-        "almacenamiento"
+        "storage"
       ],
       "deontico": [
-        "obligacion",
-        "derecho"
+        "obligation",
+        "right"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Request for additional information"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-15",
@@ -395,23 +410,24 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "derechos-del-titular.supresion"
+        "data-subject-rights.erasure"
       ],
       "roles": [
-        "responsable",
-        "titular"
+        "controller",
+        "data-subject"
       ],
       "ciclo": [
-        "supresion"
+        "deletion"
       ],
       "deontico": [
-        "obligacion",
-        "derecho"
+        "obligation",
+        "right"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Request registry"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-16",
@@ -422,23 +438,24 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "derechos-del-titular.limitacion"
+        "data-subject-rights.restriction"
       ],
       "roles": [
-        "responsable",
-        "titular"
+        "controller",
+        "data-subject"
       ],
       "ciclo": [
-        "uso"
+        "use"
       ],
       "deontico": [
-        "obligacion",
-        "derecho"
+        "obligation",
+        "right"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Complaint before the Personal Data Protection Authority"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-17",
@@ -449,20 +466,21 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "ambito-de-aplicacion.exclusiones"
+        "scope.exclusions"
       ],
       "roles": [
-        "responsable"
+        "controller"
       ],
       "ciclo": [],
       "deontico": [
-        "excepcion",
-        "permiso"
+        "exception",
+        "permission"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "On data of deceased persons"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-18",
@@ -473,24 +491,25 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "bases-de-licitud.obligacion-legal"
+        "legal-bases.legal-obligation"
       ],
       "roles": [
-        "responsable",
-        "titular"
+        "controller",
+        "data-subject"
       ],
       "ciclo": [
-        "uso"
+        "use"
       ],
       "deontico": [
-        "permiso"
+        "permission"
       ],
       "factores_riesgo": [
-        "tipos-datos.estado-financiero"
+        "data-types.financial-status"
       ],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "On credit data"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-19",
@@ -501,26 +520,27 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "bases-de-licitud.consentimiento",
-        "datos-sensibles"
+        "legal-bases.consent",
+        "sensitive-data"
       ],
       "roles": [
-        "responsable",
-        "titular"
+        "controller",
+        "data-subject"
       ],
       "ciclo": [
-        "recoleccion"
+        "collection"
       ],
       "deontico": [
-        "obligacion",
-        "excepcion"
+        "obligation",
+        "exception"
       ],
       "factores_riesgo": [
-        "categorias-interesados.menores-14"
+        "data-subjects-categories.minors-under-14"
       ],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "On data of minors"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-20",
@@ -531,22 +551,23 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "bases-de-licitud.consentimiento"
+        "legal-bases.consent"
       ],
       "roles": [
-        "responsable",
-        "titular"
+        "controller",
+        "data-subject"
       ],
       "ciclo": [],
       "deontico": [
-        "excepcion"
+        "exception"
       ],
       "factores_riesgo": [
-        "categorias-interesados.menores-14"
+        "data-subjects-categories.minors-under-14"
       ],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "On the best interests of the child"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-21",
@@ -557,23 +578,24 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "encargado-del-tratamiento.contrato-encargo"
+        "processor.processing-agreement"
       ],
       "roles": [
-        "responsable",
-        "encargado",
-        "tercero"
+        "controller",
+        "processor",
+        "third-party"
       ],
       "ciclo": [
-        "comunicacion"
+        "communication"
       ],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Transfer of personal data to a third party"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-22",
@@ -584,25 +606,26 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "bases-de-licitud.consentimiento",
-        "encargado-del-tratamiento.contrato-encargo"
+        "legal-bases.consent",
+        "processor.processing-agreement"
       ],
       "roles": [
-        "responsable",
-        "titular",
-        "tercero"
+        "controller",
+        "data-subject",
+        "third-party"
       ],
       "ciclo": [
-        "comunicacion"
+        "communication"
       ],
       "deontico": [
-        "excepcion",
-        "permiso"
+        "exception",
+        "permission"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Grounds for the transfer of data to third parties"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-23",
@@ -613,22 +636,23 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "derechos-del-titular"
+        "data-subject-rights"
       ],
       "roles": [
-        "responsable",
-        "titular",
-        "tercero"
+        "controller",
+        "data-subject",
+        "third-party"
       ],
       "ciclo": [],
       "deontico": [
-        "derecho",
-        "obligacion"
+        "right",
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Exercise of rights in cases of data transfer to third parties"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-24",
@@ -639,21 +663,22 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "seguridad-del-tratamiento.gestion-incidentes",
-        "obligaciones-responsable.notificacion-brechas"
+        "processing-security.incident-management",
+        "controller-obligations.breach-notification"
       ],
       "roles": [
-        "responsable",
-        "autoridad-control"
+        "controller",
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "On security breach notification"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-25",
@@ -664,21 +689,22 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "seguridad-del-tratamiento.gestion-incidentes"
+        "processing-security.incident-management"
       ],
       "roles": [
-        "responsable",
-        "titular",
-        "autoridad-control"
+        "controller",
+        "data-subject",
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Purpose of the notification"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-26",
@@ -689,21 +715,22 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "seguridad-del-tratamiento.gestion-incidentes",
-        "obligaciones-responsable.notificacion-brechas"
+        "processing-security.incident-management",
+        "controller-obligations.breach-notification"
       ],
       "roles": [
-        "responsable",
-        "autoridad-control"
+        "controller",
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Content of the notification"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-27",
@@ -714,21 +741,22 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "seguridad-del-tratamiento.gestion-incidentes",
-        "encargado-del-tratamiento.obligaciones-propias"
+        "processing-security.incident-management",
+        "processor.own-obligations"
       ],
       "roles": [
-        "responsable",
-        "encargado"
+        "controller",
+        "processor"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Security breach notification by the processor"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-28",
@@ -739,23 +767,24 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "seguridad-del-tratamiento.gestion-incidentes",
-        "obligaciones-responsable.notificacion-brechas"
+        "processing-security.incident-management",
+        "controller-obligations.breach-notification"
       ],
       "roles": [
-        "responsable",
-        "titular",
-        "autoridad-control"
+        "controller",
+        "data-subject",
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion",
-        "excepcion"
+        "obligation",
+        "exception"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Security breach notification to the data subject"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-29",
@@ -766,23 +795,24 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "obligaciones-responsable.evaluacion-impacto",
-        "tratamiento-gran-escala.eipd-obligatoria"
+        "controller-obligations.impact-assessment",
+        "large-scale-processing.mandatory-dpia"
       ],
       "roles": [
-        "responsable",
-        "dpd"
+        "controller",
+        "dpo"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [
-        "extension-alcance.gran-escala"
+        "scope-and-scale.large-scale"
       ],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Impact assessment of personal data processing"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-30",
@@ -793,25 +823,26 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "obligaciones-responsable.evaluacion-impacto",
-        "tratamiento-gran-escala.eipd-obligatoria"
+        "controller-obligations.impact-assessment",
+        "large-scale-processing.mandatory-dpia"
       ],
       "roles": [
-        "responsable"
+        "controller"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [
-        "extension-alcance.gran-escala",
-        "operaciones-fines.perfilado",
-        "tipos-datos.datos-salud",
-        "tipos-datos.datos-biometricos"
+        "scope-and-scale.large-scale",
+        "operations-purposes.profiling",
+        "data-types.health-data",
+        "data-types.biometric-data"
       ],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Object of the impact assessment"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-31",
@@ -822,20 +853,21 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "obligaciones-responsable.evaluacion-impacto"
+        "controller-obligations.impact-assessment"
       ],
       "roles": [
-        "responsable",
-        "dpd"
+        "controller",
+        "dpo"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Mandatory impact assessment"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-32",
@@ -846,21 +878,22 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "obligaciones-responsable.evaluacion-impacto",
-        "autoridad-de-control.poderes"
+        "controller-obligations.impact-assessment",
+        "supervisory-authority.powers"
       ],
       "roles": [
-        "responsable",
-        "autoridad-control"
+        "controller",
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Requirements for the impact assessment"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-33",
@@ -871,20 +904,21 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "obligaciones-responsable",
-        "principios.responsabilidad-proactiva"
+        "controller-obligations",
+        "principles.accountability"
       ],
       "roles": [
-        "responsable"
+        "controller"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Obligations of the controller"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-34",
@@ -895,20 +929,21 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "seguridad-del-tratamiento.medidas-tecnicas",
-        "obligaciones-responsable.privacidad-por-diseno"
+        "processing-security.technical-measures",
+        "controller-obligations.privacy-by-design"
       ],
       "roles": [
-        "responsable"
+        "controller"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "State of the art"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-35",
@@ -919,19 +954,20 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "obligaciones-responsable.privacidad-por-diseno"
+        "controller-obligations.privacy-by-design"
       ],
       "roles": [
-        "responsable"
+        "controller"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Implementation costs"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-36",
@@ -942,20 +978,21 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "obligaciones-responsable",
-        "principios.responsabilidad-proactiva"
+        "controller-obligations",
+        "principles.accountability"
       ],
       "roles": [
-        "responsable"
+        "controller"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "On the proof of protection measures"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-37",
@@ -966,20 +1003,21 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "obligaciones-responsable"
+        "controller-obligations"
       ],
       "roles": [
-        "responsable"
+        "controller"
       ],
       "ciclo": [],
       "deontico": [
-        "definicion",
-        "obligacion"
+        "definition",
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Joint controllers"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-38",
@@ -990,19 +1028,20 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "obligaciones-responsable.registro-actividades"
+        "controller-obligations.processing-records"
       ],
       "roles": [
-        "responsable"
+        "controller"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Records of processing activities"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-39",
@@ -1013,20 +1052,21 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "obligaciones-responsable.registro-actividades"
+        "controller-obligations.processing-records"
       ],
       "roles": [
-        "responsable"
+        "controller"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion",
-        "excepcion"
+        "obligation",
+        "exception"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Scope of the registration obligation"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-40",
@@ -1037,20 +1077,21 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "encargado-del-tratamiento"
+        "processor"
       ],
       "roles": [
-        "responsable",
-        "encargado"
+        "controller",
+        "processor"
       ],
       "ciclo": [],
       "deontico": [
-        "definicion"
+        "definition"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Processor"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-41",
@@ -1061,21 +1102,22 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "encargado-del-tratamiento.contrato-encargo",
-        "encargado-del-tratamiento.instrucciones"
+        "processor.processing-agreement",
+        "processor.instructions"
       ],
       "roles": [
-        "responsable",
-        "encargado"
+        "controller",
+        "processor"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "On the relationship between controller and processor"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-42",
@@ -1086,20 +1128,21 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "encargado-del-tratamiento.seleccion"
+        "processor.selection"
       ],
       "roles": [
-        "responsable",
-        "encargado"
+        "controller",
+        "processor"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Controller obligation"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-43",
@@ -1110,20 +1153,21 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "encargado-del-tratamiento.obligaciones-propias"
+        "processor.own-obligations"
       ],
       "roles": [
-        "responsable",
-        "encargado"
+        "controller",
+        "processor"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Processor liability"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-44",
@@ -1134,20 +1178,21 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "encargado-del-tratamiento.obligaciones-propias",
-        "obligaciones-responsable.registro-actividades"
+        "processor.own-obligations",
+        "controller-obligations.processing-records"
       ],
       "roles": [
-        "encargado"
+        "processor"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Records of processing activities"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-45",
@@ -1158,20 +1203,21 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "encargado-del-tratamiento.contrato-encargo"
+        "processor.processing-agreement"
       ],
       "roles": [
-        "responsable",
-        "encargado"
+        "controller",
+        "processor"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Contracting"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-46",
@@ -1182,22 +1228,23 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "encargado-del-tratamiento.obligaciones-propias"
+        "processor.own-obligations"
       ],
       "roles": [
-        "responsable",
-        "encargado"
+        "controller",
+        "processor"
       ],
       "ciclo": [
-        "supresion"
+        "deletion"
       ],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Erasure of personal data"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-47",
@@ -1208,21 +1255,22 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "encargado-del-tratamiento.obligaciones-propias"
+        "processor.own-obligations"
       ],
       "roles": [
-        "responsable",
-        "encargado",
-        "autoridad-control"
+        "controller",
+        "processor",
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Review of records"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-48",
@@ -1233,21 +1281,22 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "obligaciones-responsable.dpd"
+        "controller-obligations.dpo"
       ],
       "roles": [
-        "responsable",
-        "encargado",
-        "dpd"
+        "controller",
+        "processor",
+        "dpo"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": ""
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-49",
@@ -1258,21 +1307,22 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "obligaciones-responsable.dpd"
+        "controller-obligations.dpo"
       ],
       "roles": [
-        "responsable",
-        "encargado",
-        "dpd"
+        "controller",
+        "processor",
+        "dpo"
       ],
       "ciclo": [],
       "deontico": [
-        "permiso"
+        "permission"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Type of contracting"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-50",
@@ -1283,21 +1333,22 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "obligaciones-responsable.dpd"
+        "controller-obligations.dpo"
       ],
       "roles": [
-        "responsable",
-        "encargado",
-        "dpd"
+        "controller",
+        "processor",
+        "dpo"
       ],
       "ciclo": [],
       "deontico": [
-        "permiso"
+        "permission"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Data protection officer for corporate groups"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-51",
@@ -1308,21 +1359,22 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "obligaciones-responsable.dpd"
+        "controller-obligations.dpo"
       ],
       "roles": [
-        "responsable",
-        "encargado",
-        "dpd"
+        "controller",
+        "processor",
+        "dpo"
       ],
       "ciclo": [],
       "deontico": [
-        "prohibicion"
+        "prohibition"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Prohibition of sanctioning the data protection officer"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-52",
@@ -1333,20 +1385,21 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "obligaciones-responsable.dpd"
+        "controller-obligations.dpo"
       ],
       "roles": [
-        "responsable",
-        "dpd"
+        "controller",
+        "dpo"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Good practices"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-53",
@@ -1357,21 +1410,22 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "obligaciones-responsable.dpd"
+        "controller-obligations.dpo"
       ],
       "roles": [
-        "responsable",
-        "encargado",
-        "dpd"
+        "controller",
+        "processor",
+        "dpo"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Permanent and systematic data control activities"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-54",
@@ -1382,25 +1436,26 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "obligaciones-responsable.dpd",
-        "tratamiento-gran-escala.obligaciones-especificas"
+        "controller-obligations.dpo",
+        "large-scale-processing.specific-obligations"
       ],
       "roles": [
-        "responsable",
-        "dpd"
+        "controller",
+        "dpo"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [
-        "extension-alcance.gran-escala",
-        "tipos-datos.datos-salud",
-        "tipos-datos.datos-biometricos"
+        "scope-and-scale.large-scale",
+        "data-types.health-data",
+        "data-types.biometric-data"
       ],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Large-scale processing of special category data"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-55",
@@ -1411,19 +1466,20 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "obligaciones-responsable.dpd"
+        "controller-obligations.dpo"
       ],
       "roles": [
-        "dpd"
+        "dpo"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Requirements to be appointed as data protection officer"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-56",
@@ -1434,20 +1490,21 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "obligaciones-responsable.dpd"
+        "controller-obligations.dpo"
       ],
       "roles": [
-        "responsable",
-        "dpd"
+        "controller",
+        "dpo"
       ],
       "ciclo": [],
       "deontico": [
-        "prohibicion"
+        "prohibition"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Impediment to being appointed as data protection officer"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-57",
@@ -1458,21 +1515,22 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "obligaciones-responsable.dpd",
-        "principios.confidencialidad"
+        "controller-obligations.dpo",
+        "principles.confidentiality"
       ],
       "roles": [
-        "responsable",
-        "dpd"
+        "controller",
+        "dpo"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Confidentiality agreements"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-58",
@@ -1483,21 +1541,22 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "principios.responsabilidad-proactiva",
-        "obligaciones-responsable"
+        "principles.accountability",
+        "controller-obligations"
       ],
       "roles": [
-        "responsable",
-        "encargado"
+        "controller",
+        "processor"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Mandatory nature"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-59",
@@ -1508,23 +1567,24 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "obligaciones-responsable.privacidad-por-diseno"
+        "controller-obligations.privacy-by-design"
       ],
       "roles": [
-        "responsable"
+        "controller"
       ],
       "ciclo": [
-        "recoleccion",
-        "almacenamiento",
-        "uso"
+        "collection",
+        "storage",
+        "use"
       ],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Data protection by design measures"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-60",
@@ -1535,19 +1595,20 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "obligaciones-responsable.privacidad-por-diseno"
+        "controller-obligations.privacy-by-design"
       ],
       "roles": [
-        "responsable"
+        "controller"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Data protection by default measures"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-61",
@@ -1558,20 +1619,21 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "obligaciones-responsable"
+        "controller-obligations"
       ],
       "roles": [
-        "responsable",
-        "encargado"
+        "controller",
+        "processor"
       ],
       "ciclo": [],
       "deontico": [
-        "permiso"
+        "permission"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Self-regulation mechanisms"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-62",
@@ -1582,20 +1644,21 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "obligaciones-responsable"
+        "controller-obligations"
       ],
       "roles": [
-        "responsable",
-        "encargado"
+        "controller",
+        "processor"
       ],
       "ciclo": [],
       "deontico": [
-        "permiso"
+        "permission"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Self-regulation mechanisms"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-63",
@@ -1606,22 +1669,23 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "obligaciones-responsable",
-        "autoridad-de-control.competencia"
+        "controller-obligations",
+        "supervisory-authority.competence"
       ],
       "roles": [
-        "responsable",
-        "encargado",
-        "autoridad-control"
+        "controller",
+        "processor",
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Registry of self-regulation mechanisms"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-64",
@@ -1632,21 +1696,22 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "obligaciones-responsable"
+        "controller-obligations"
       ],
       "roles": [
-        "responsable",
-        "encargado",
-        "autoridad-control"
+        "controller",
+        "processor",
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "permiso"
+        "permission"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Object of certification"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-65",
@@ -1657,21 +1722,22 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "obligaciones-responsable"
+        "controller-obligations"
       ],
       "roles": [
-        "responsable",
-        "encargado",
-        "autoridad-control"
+        "controller",
+        "processor",
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Duration of certification"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-66",
@@ -1682,21 +1748,22 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "obligaciones-responsable"
+        "controller-obligations"
       ],
       "roles": [
-        "responsable",
-        "encargado",
-        "autoridad-control"
+        "controller",
+        "processor",
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "permiso"
+        "permission"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Certification bodies"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-67",
@@ -1707,19 +1774,20 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "obligaciones-responsable"
+        "controller-obligations"
       ],
       "roles": [
-        "autoridad-control"
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "permiso"
+        "permission"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Revocation"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-68",
@@ -1730,22 +1798,23 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "obligaciones-responsable",
-        "autoridad-de-control.poderes"
+        "controller-obligations",
+        "supervisory-authority.powers"
       ],
       "roles": [
-        "responsable",
-        "encargado",
-        "autoridad-control"
+        "controller",
+        "processor",
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Approval of codes of conduct"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-69",
@@ -1756,22 +1825,23 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "obligaciones-responsable",
-        "autoridad-de-control.poderes"
+        "controller-obligations",
+        "supervisory-authority.powers"
       ],
       "roles": [
-        "responsable",
-        "encargado",
-        "autoridad-control"
+        "controller",
+        "processor",
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Admissibility"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-70",
@@ -1782,20 +1852,21 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "obligaciones-responsable",
-        "autoridad-de-control.poderes"
+        "controller-obligations",
+        "supervisory-authority.powers"
       ],
       "roles": [
-        "autoridad-control"
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Substantive evaluation"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-71",
@@ -1806,22 +1877,23 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "transferencias-internacionales.paises-adecuados"
+        "international-transfers.adequate-countries"
       ],
       "roles": [
-        "responsable",
-        "autoridad-control"
+        "controller",
+        "supervisory-authority"
       ],
       "ciclo": [
-        "transferencia"
+        "transfer"
       ],
       "deontico": [
-        "permiso"
+        "permission"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "International transfer or communication of personal data to countries declared as adequate level of protection"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-72",
@@ -1832,20 +1904,21 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "transferencias-internacionales.paises-adecuados",
-        "autoridad-de-control.poderes"
+        "international-transfers.adequate-countries",
+        "supervisory-authority.powers"
       ],
       "roles": [
-        "autoridad-control"
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Content and publication of the resolution"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-73",
@@ -1856,19 +1929,20 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "transferencias-internacionales.paises-adecuados"
+        "international-transfers.adequate-countries"
       ],
       "roles": [
-        "autoridad-control"
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "definicion"
+        "definition"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Criteria for adequate level of protection standards"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-74",
@@ -1879,23 +1953,24 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "transferencias-internacionales.garantias-apropiadas",
-        "transferencias-internacionales.clausulas-contractuales"
+        "international-transfers.appropriate-safeguards",
+        "international-transfers.standard-contractual-clauses"
       ],
       "roles": [
-        "responsable"
+        "controller"
       ],
       "ciclo": [
-        "transferencia"
+        "transfer"
       ],
       "deontico": [
-        "permiso",
-        "obligacion"
+        "permission",
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "International transfer or communication through appropriate safeguards"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-75",
@@ -1906,23 +1981,24 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "transferencias-internacionales.normas-corporativas"
+        "international-transfers.binding-corporate-rules"
       ],
       "roles": [
-        "responsable",
-        "encargado"
+        "controller",
+        "processor"
       ],
       "ciclo": [
-        "transferencia"
+        "transfer"
       ],
       "deontico": [
-        "permiso",
-        "obligacion"
+        "permission",
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Binding corporate rules"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-76",
@@ -1933,21 +2009,22 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "transferencias-internacionales.normas-corporativas",
-        "autoridad-de-control.poderes"
+        "international-transfers.binding-corporate-rules",
+        "supervisory-authority.powers"
       ],
       "roles": [
-        "responsable",
-        "autoridad-control"
+        "controller",
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Authorization of binding corporate rules"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-77",
@@ -1958,23 +2035,24 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "transferencias-internacionales.excepciones",
-        "autoridad-de-control.poderes"
+        "international-transfers.exceptions",
+        "supervisory-authority.powers"
       ],
       "roles": [
-        "responsable",
-        "autoridad-control"
+        "controller",
+        "supervisory-authority"
       ],
       "ciclo": [
-        "transferencia"
+        "transfer"
       ],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "International transfer or communication in cases not contemplated"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-78",
@@ -1985,21 +2063,22 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "obligaciones-responsable.registro-actividades",
-        "transferencias-internacionales"
+        "controller-obligations.processing-records",
+        "international-transfers"
       ],
       "roles": [
-        "responsable",
-        "autoridad-control"
+        "controller",
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Registration of information on international transfers in the National Data Protection Registry"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-79",
@@ -2010,19 +2089,20 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "autoridad-de-control.competencia"
+        "supervisory-authority.competence"
       ],
       "roles": [
-        "autoridad-control"
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "definicion"
+        "definition"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Personal Data Protection Authority"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-80",
@@ -2033,20 +2113,21 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "autoridad-de-control.competencia",
-        "autoridad-de-control.poderes"
+        "supervisory-authority.competence",
+        "supervisory-authority.powers"
       ],
       "roles": [
-        "autoridad-control"
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Powers"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-81",
@@ -2057,19 +2138,20 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "autoridad-de-control.poderes"
+        "supervisory-authority.powers"
       ],
       "roles": [
-        "autoridad-control"
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Annual plans"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-82",
@@ -2080,19 +2162,20 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "autoridad-de-control.poderes"
+        "supervisory-authority.powers"
       ],
       "roles": [
-        "autoridad-control"
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Control mechanisms"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-83",
@@ -2103,19 +2186,20 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "autoridad-de-control.competencia"
+        "supervisory-authority.competence"
       ],
       "roles": [
-        "autoridad-control"
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Powers of the Superintendent of Personal Data Protection"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-84",
@@ -2126,22 +2210,23 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "obligaciones-responsable.registro-actividades",
-        "autoridad-de-control.competencia"
+        "controller-obligations.processing-records",
+        "supervisory-authority.competence"
       ],
       "roles": [
-        "responsable",
-        "encargado",
-        "autoridad-control"
+        "controller",
+        "processor",
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "National Personal Data Protection Registry"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-85",
@@ -2152,21 +2237,22 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "obligaciones-responsable.registro-actividades"
+        "controller-obligations.processing-records"
       ],
       "roles": [
-        "responsable",
-        "encargado",
-        "autoridad-control"
+        "controller",
+        "processor",
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Registry responsibility"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-86",
@@ -2177,21 +2263,22 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "obligaciones-responsable.registro-actividades"
+        "controller-obligations.processing-records"
       ],
       "roles": [
-        "responsable",
-        "encargado",
-        "autoridad-control"
+        "controller",
+        "processor",
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Timely registration"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-87",
@@ -2202,22 +2289,23 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "autoridad-de-control.competencia",
-        "autoridad-de-control.sanciones"
+        "supervisory-authority.competence",
+        "supervisory-authority.sanctions"
       ],
       "roles": [
-        "responsable",
-        "encargado",
-        "autoridad-control"
+        "controller",
+        "processor",
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Unified Registry of Non-compliant Personal Data Processing Controllers and Processors"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-88",
@@ -2228,20 +2316,21 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "autoridad-de-control.sanciones",
-        "autoridad-de-control.competencia"
+        "supervisory-authority.sanctions",
+        "supervisory-authority.competence"
       ],
       "roles": [
-        "autoridad-control"
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Purposes of the Unified Registry of Non-compliant Controllers and Processors"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-89",
@@ -2252,21 +2341,22 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "autoridad-de-control.sanciones"
+        "supervisory-authority.sanctions"
       ],
       "roles": [
-        "autoridad-control"
+        "supervisory-authority"
       ],
       "ciclo": [
-        "almacenamiento"
+        "storage"
       ],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Retention period"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-Art-90",
@@ -2277,21 +2367,22 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "autoridad-de-control.procedimiento-sancionador"
+        "supervisory-authority.sanctions-procedure"
       ],
       "roles": [
-        "responsable",
-        "encargado",
-        "autoridad-control"
+        "controller",
+        "processor",
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Commission of infringements"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-DispGen-ÚNICA",
@@ -2305,12 +2396,13 @@
       "roles": [],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Single General Provision"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-DispTrans-PRIMERA",
@@ -2324,12 +2416,13 @@
       "roles": [],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "First Transitional Provision"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-DispTrans-SEGUNDA",
@@ -2343,12 +2436,13 @@
       "roles": [],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Second Transitional Provision"
     },
     {
       "id": "EC-REGLAMENTO-LOPDP-DispFinal-ÚNICA",
@@ -2362,12 +2456,13 @@
       "roles": [],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Single Final Provision"
     }
   ]
 }

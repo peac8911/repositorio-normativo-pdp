@@ -1,35 +1,35 @@
 {
-  "version": "1.0.0",
-  "descripcion": "Materias regulatorias que puede cubrir el repositorio. El campo materia en cada norma y artículo indica a qué materia pertenece. Permite escalar el repositorio más allá de PDP.",
+  "version": "1.1.0",
+  "descripcion": "Regulatory subject matters covered by the repository. The materia field in each norm and article indicates which subject matter it belongs to. Enables scaling the repository beyond PDP.",
   "materias": [
     {
       "id": "pdp",
-      "label": "Protección de Datos Personales",
-      "descripcion": "Normas que regulan el tratamiento de datos personales, los derechos de los titulares y las obligaciones de responsables y encargados.",
+      "label": "Personal Data Protection",
+      "descripcion": "Norms regulating the processing of personal data, the rights of data subjects, and the obligations of controllers and processors.",
       "estado": "activo"
     },
     {
       "id": "ia",
-      "label": "Inteligencia Artificial",
-      "descripcion": "Normas que regulan el desarrollo, despliegue y uso de sistemas de inteligencia artificial, incluyendo sistemas de alto riesgo y decisiones automatizadas.",
+      "label": "Artificial Intelligence",
+      "descripcion": "Norms regulating the development, deployment and use of artificial intelligence systems, including high-risk systems and automated decisions.",
       "estado": "planificado"
     },
     {
       "id": "datos-menores",
-      "label": "Datos de Niñas, Niños y Adolescentes",
-      "descripcion": "Normas que regulan específicamente el tratamiento de datos de personas menores de edad, incluyendo requisitos de consentimiento parental y restricciones de uso.",
+      "label": "Children and Adolescents Data",
+      "descripcion": "Norms specifically regulating the processing of data of minors, including parental consent requirements and use restrictions.",
       "estado": "planificado"
     },
     {
       "id": "ciberseguridad",
-      "label": "Ciberseguridad",
-      "descripcion": "Normas que regulan la seguridad de sistemas de información, gestión de incidentes y obligaciones de reporte ante ataques o vulneraciones.",
+      "label": "Cybersecurity",
+      "descripcion": "Norms regulating the security of information systems, incident management and reporting obligations in the event of attacks or breaches.",
       "estado": "planificado"
     },
     {
       "id": "transversal",
-      "label": "Transversal",
-      "descripcion": "Normas que no son especializadas en ninguna materia concreta pero tienen incidencia relevante en una o más materias del repositorio. Ejemplo: leyes de comercio electrónico, telecomunicaciones o transparencia con artículos sobre datos personales.",
+      "label": "Cross-sectoral",
+      "descripcion": "Norms that are not specialized in any particular subject matter but have relevant impact on one or more repository subject matters. Example: e-commerce, telecommunications or transparency laws with articles on personal data.",
       "estado": "activo"
     }
   ]

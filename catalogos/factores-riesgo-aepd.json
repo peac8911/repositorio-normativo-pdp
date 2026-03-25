@@ -1,205 +1,722 @@
 {
-  "version": "1.0.0",
-  "fuente": "Agencia Española de Protección de Datos (AEPD) — Inventario de Categorías de Factores de Riesgo",
-  "descripcion": "Catálogo de factores de riesgo para el tratamiento de datos personales. Cada factor representa una circunstancia cuya presencia en un tratamiento incrementa el nivel de riesgo para los derechos y libertades de los titulares. Se usa para etiquetar artículos que regulan, habilitan o restringen tratamientos que activan estos factores.",
-  "niveles_de_riesgo": ["bajo", "medio", "alto", "muy-alto"],
+  "version": "1.1.0",
+  "fuente": "Spanish Data Protection Agency (AEPD) — Risk Factor Category Inventory",
+  "descripcion": "Catalog of risk factors for personal data processing. Each factor represents a circumstance whose presence in a processing operation increases the level of risk for the rights and freedoms of data subjects. Used to tag articles that regulate, enable or restrict processing that activates these factors.",
+  "niveles_de_riesgo": [
+    "low",
+    "medium",
+    "high",
+    "very-high"
+  ],
   "categorias": [
     {
-      "id": "operaciones-fines",
-      "label": "Operaciones relacionadas con los fines de tratamiento",
+      "id": "operations-purposes",
+      "label": "Operations related to the purposes of processing",
       "descripcion": "Factores que se derivan del fin declarado del tratamiento y otros fines vinculados al propósito principal.",
       "factores": [
-        { "id": "perfilado", "label": "Perfilado", "nivel_minimo": "alto" },
-        { "id": "evaluacion-sujetos", "label": "Evaluación de sujetos", "nivel_minimo": "alto" },
-        { "id": "prediccion", "label": "Predicción e inferencia de nuevos datos", "nivel_minimo": "alto" },
-        { "id": "control-empleado", "label": "Control del empleado", "nivel_minimo": "medio" },
-        { "id": "control-acceso-internet", "label": "Control del acceso a Internet", "nivel_minimo": "medio" },
-        { "id": "observacion", "label": "Observación y vigilancia", "nivel_minimo": "alto" },
-        { "id": "monitorizacion", "label": "Monitorización", "nivel_minimo": "alto" },
-        { "id": "supervision", "label": "Supervisión", "nivel_minimo": "alto" },
-        { "id": "rastreo-contactos", "label": "Rastreo de contactos", "nivel_minimo": "muy-alto" },
-        { "id": "control-fisico-acceso", "label": "Control físico de acceso", "nivel_minimo": "bajo" },
-        { "id": "localizacion", "label": "Localización y geolocalización", "nivel_minimo": "medio" },
-        { "id": "identificacion-univoca", "label": "Identificación unívoca", "nivel_minimo": "bajo" },
-        { "id": "decision-automatizada", "label": "Decisiones automatizadas sin intervención humana", "nivel_minimo": "alto" },
-        { "id": "dss-soporte-decisiones", "label": "Tratamiento automatizado para soporte a la toma de decisiones", "nivel_minimo": "medio" },
-        { "id": "derechos-fundamentales", "label": "Decidir sobre o impedir el ejercicio de derechos fundamentales", "nivel_minimo": "muy-alto" },
-        { "id": "control-datos-personales", "label": "Decidir sobre el control del interesado de sus datos personales", "nivel_minimo": "alto" },
-        { "id": "acceso-servicio", "label": "Decidir sobre el acceso a un servicio", "nivel_minimo": "alto" },
-        { "id": "ejecucion-contrato", "label": "Decidir sobre la realización o ejecución de un contrato", "nivel_minimo": "alto" },
-        { "id": "acceso-servicios-financieros", "label": "Decidir sobre el acceso a servicios financieros", "nivel_minimo": "alto" },
-        { "id": "efectos-juridicos", "label": "Efectos jurídicos sobre las personas", "nivel_minimo": "alto" },
-        { "id": "prediccion-salud-genetica", "label": "Evaluación y/o predicción de posibilidad de enfermedad/salud genéticamente", "nivel_minimo": "muy-alto" },
-        { "id": "conservacion-archivo", "label": "Conservación con fines de archivo", "nivel_minimo": "medio" }
+        {
+          "id": "profiling",
+          "label": "Perfilado",
+          "nivel_minimo": "high"
+        },
+        {
+          "id": "subject-evaluation",
+          "label": "Evaluación de sujetos",
+          "nivel_minimo": "high"
+        },
+        {
+          "id": "prediction",
+          "label": "Predicción e inferencia de nuevos datos",
+          "nivel_minimo": "high"
+        },
+        {
+          "id": "employee-monitoring",
+          "label": "Control del empleado",
+          "nivel_minimo": "medium"
+        },
+        {
+          "id": "internet-access-control",
+          "label": "Control del acceso a Internet",
+          "nivel_minimo": "medium"
+        },
+        {
+          "id": "observation",
+          "label": "Observación y vigilancia",
+          "nivel_minimo": "high"
+        },
+        {
+          "id": "monitoring",
+          "label": "Monitorización",
+          "nivel_minimo": "high"
+        },
+        {
+          "id": "supervision",
+          "label": "Supervisión",
+          "nivel_minimo": "high"
+        },
+        {
+          "id": "contact-tracing",
+          "label": "Rastreo de contactos",
+          "nivel_minimo": "very-high"
+        },
+        {
+          "id": "physical-access-control",
+          "label": "Control físico de acceso",
+          "nivel_minimo": "low"
+        },
+        {
+          "id": "location-tracking",
+          "label": "Localización y geolocalización",
+          "nivel_minimo": "medium"
+        },
+        {
+          "id": "unique-identification",
+          "label": "Identificación unívoca",
+          "nivel_minimo": "low"
+        },
+        {
+          "id": "automated-decisions",
+          "label": "Decisiones automatizadas sin intervención humana",
+          "nivel_minimo": "high"
+        },
+        {
+          "id": "decision-support-systems",
+          "label": "Tratamiento automatizado para soporte a la toma de decisiones",
+          "nivel_minimo": "medium"
+        },
+        {
+          "id": "fundamental-rights",
+          "label": "Decidir sobre o impedir el ejercicio de derechos fundamentales",
+          "nivel_minimo": "very-high"
+        },
+        {
+          "id": "personal-data-control",
+          "label": "Decidir sobre el control del interesado de sus datos personales",
+          "nivel_minimo": "high"
+        },
+        {
+          "id": "service-access",
+          "label": "Decidir sobre el acceso a un servicio",
+          "nivel_minimo": "high"
+        },
+        {
+          "id": "contract-performance",
+          "label": "Decidir sobre la realización o ejecución de un contrato",
+          "nivel_minimo": "high"
+        },
+        {
+          "id": "financial-services-access",
+          "label": "Decidir sobre el acceso a servicios financieros",
+          "nivel_minimo": "high"
+        },
+        {
+          "id": "legal-effects",
+          "label": "Efectos jurídicos sobre las personas",
+          "nivel_minimo": "high"
+        },
+        {
+          "id": "health-genetic-prediction",
+          "label": "Evaluación y/o predicción de posibilidad de enfermedad/salud genéticamente",
+          "nivel_minimo": "very-high"
+        },
+        {
+          "id": "archival-retention",
+          "label": "Conservación con fines de archivo",
+          "nivel_minimo": "medium"
+        }
       ]
     },
     {
-      "id": "tipos-datos",
-      "label": "Tipos de datos utilizados",
+      "id": "data-types",
+      "label": "Types of data used",
       "descripcion": "Factores relacionados con la naturaleza de los datos recogidos, procesados o inferidos.",
       "factores": [
-        { "id": "documentos-personales", "label": "Documentos personales", "nivel_minimo": "medio" },
-        { "id": "registro-actividades-vitales", "label": "Información de aplicaciones de registro de actividades vitales", "nivel_minimo": "alto" },
-        { "id": "aspectos-personales", "label": "Aspectos personales", "nivel_minimo": "medio" },
-        { "id": "preferencias-consumo", "label": "Preferencias de consumo, hábitos y gustos", "nivel_minimo": "medio" },
-        { "id": "rendimiento-laboral", "label": "Rendimiento laboral", "nivel_minimo": "medio" },
-        { "id": "situacion-economica", "label": "Situación económica", "nivel_minimo": "medio" },
-        { "id": "estado-financiero", "label": "Estado financiero", "nivel_minimo": "medio" },
-        { "id": "medios-pago", "label": "Datos de medios de pago", "nivel_minimo": "alto" },
-        { "id": "datos-comportamiento", "label": "Datos de comportamiento", "nivel_minimo": "medio" },
-        { "id": "datos-localizacion", "label": "Datos de localización", "nivel_minimo": "medio" },
-        { "id": "datos-salud", "label": "Datos de salud", "nivel_minimo": "muy-alto" },
-        { "id": "datos-biometricos", "label": "Datos biométricos", "nivel_minimo": "muy-alto" }
+        {
+          "id": "personal-documents",
+          "label": "Documentos personales",
+          "nivel_minimo": "medium"
+        },
+        {
+          "id": "vital-activities-records",
+          "label": "Información de aplicaciones de registro de actividades vitales",
+          "nivel_minimo": "high"
+        },
+        {
+          "id": "personal-aspects",
+          "label": "Aspectos personales",
+          "nivel_minimo": "medium"
+        },
+        {
+          "id": "consumption-preferences",
+          "label": "Preferencias de consumo, hábitos y gustos",
+          "nivel_minimo": "medium"
+        },
+        {
+          "id": "work-performance",
+          "label": "Rendimiento laboral",
+          "nivel_minimo": "medium"
+        },
+        {
+          "id": "economic-situation",
+          "label": "Situación económica",
+          "nivel_minimo": "medium"
+        },
+        {
+          "id": "financial-status",
+          "label": "Estado financiero",
+          "nivel_minimo": "medium"
+        },
+        {
+          "id": "payment-data",
+          "label": "Datos de medios de pago",
+          "nivel_minimo": "high"
+        },
+        {
+          "id": "behavioral-data",
+          "label": "Datos de comportamiento",
+          "nivel_minimo": "medium"
+        },
+        {
+          "id": "location-data",
+          "label": "Datos de localización",
+          "nivel_minimo": "medium"
+        },
+        {
+          "id": "health-data",
+          "label": "Datos de salud",
+          "nivel_minimo": "very-high"
+        },
+        {
+          "id": "biometric-data",
+          "label": "Datos biométricos",
+          "nivel_minimo": "very-high"
+        }
       ]
     },
     {
-      "id": "extension-alcance",
-      "label": "Extensión y alcance del tratamiento",
+      "id": "scope-and-scale",
+      "label": "Scope and scale of processing",
       "descripcion": "Factores relativos al número de sujetos afectados, volumen de datos, duración y alcance geográfico.",
       "factores": [
-        { "id": "sistematico", "label": "Tratamiento sistemático", "nivel_minimo": "alto" },
-        { "id": "exhaustivo-personas", "label": "Exhaustivo sobre las personas", "nivel_minimo": "alto" },
-        { "id": "gran-numero-sujetos", "label": "Involucra a gran número de sujetos", "nivel_minimo": "muy-alto" },
-        { "id": "volumen-elevado", "label": "El volumen de datos tratados es muy elevado", "nivel_minimo": "muy-alto" },
-        { "id": "duracion-elevada", "label": "La duración del tratamiento es elevada", "nivel_minimo": "medio" },
-        { "id": "alcance-geografico", "label": "Gran alcance geográfico", "nivel_minimo": "medio" },
-        { "id": "gran-escala", "label": "Tratamiento a gran escala", "nivel_minimo": "alto" },
-        { "id": "recopilacion-excesiva", "label": "Recopilación excesiva de datos con relación al fin", "nivel_minimo": "alto" }
+        {
+          "id": "systematic",
+          "label": "Tratamiento sistemático",
+          "nivel_minimo": "high"
+        },
+        {
+          "id": "exhaustive-on-persons",
+          "label": "Exhaustivo sobre las personas",
+          "nivel_minimo": "high"
+        },
+        {
+          "id": "large-number-of-subjects",
+          "label": "Involucra a gran número de sujetos",
+          "nivel_minimo": "very-high"
+        },
+        {
+          "id": "high-volume",
+          "label": "El volumen de datos tratados es muy elevado",
+          "nivel_minimo": "very-high"
+        },
+        {
+          "id": "long-duration",
+          "label": "La duración del tratamiento es elevada",
+          "nivel_minimo": "medium"
+        },
+        {
+          "id": "geographical-scope",
+          "label": "Gran alcance geográfico",
+          "nivel_minimo": "medium"
+        },
+        {
+          "id": "large-scale",
+          "label": "Tratamiento a gran escala",
+          "nivel_minimo": "high"
+        },
+        {
+          "id": "excessive-collection",
+          "label": "Recopilación excesiva de datos con relación al fin",
+          "nivel_minimo": "high"
+        }
       ]
     },
     {
-      "id": "categorias-interesados",
-      "label": "Categorías de interesados",
+      "id": "data-subjects-categories",
+      "label": "Categories of data subjects",
       "descripcion": "Factores relativos a la categoría de personas afectadas por el tratamiento.",
       "factores": [
-        { "id": "menores-14", "label": "Menores de 14 años", "nivel_minimo": "muy-alto" },
-        { "id": "victimas-violencia-genero", "label": "Víctimas de violencia de género", "nivel_minimo": "muy-alto" },
-        { "id": "menores-dependientes-vulnerables", "label": "Menores dependientes de sujetos vulnerables", "nivel_minimo": "muy-alto" },
-        { "id": "personas-guardia-victimas", "label": "Personas bajo guardia y custodia de víctimas de violencia de género", "nivel_minimo": "muy-alto" },
-        { "id": "mayores-discapacidad", "label": "Mayores con algún grado de discapacidad", "nivel_minimo": "alto" },
-        { "id": "personas-mayores", "label": "Personas mayores", "nivel_minimo": "medio" },
-        { "id": "enfermedades-mentales", "label": "Personas con enfermedades mentales", "nivel_minimo": "muy-alto" },
-        { "id": "discapacitados", "label": "Personas con discapacidad", "nivel_minimo": "alto" },
-        { "id": "servicios-sociales", "label": "Personas que acceden a servicios sociales", "nivel_minimo": "medio" },
-        { "id": "riesgo-exclusion", "label": "Sujetos en riesgo de exclusión social", "nivel_minimo": "alto" },
-        { "id": "empleados", "label": "Empleados", "nivel_minimo": "bajo" },
-        { "id": "solicitantes-asilo", "label": "Solicitantes de asilo", "nivel_minimo": "alto" },
-        { "id": "pacientes", "label": "Pacientes", "nivel_minimo": "alto" },
-        { "id": "sujetos-vulnerables", "label": "Sujetos en situación de especial vulnerabilidad", "nivel_minimo": "muy-alto" }
+        {
+          "id": "minors-under-14",
+          "label": "Menores de 14 años",
+          "nivel_minimo": "very-high"
+        },
+        {
+          "id": "gender-violence-victims",
+          "label": "Víctimas de violencia de género",
+          "nivel_minimo": "very-high"
+        },
+        {
+          "id": "dependent-minors-of-vulnerable",
+          "label": "Menores dependientes de sujetos vulnerables",
+          "nivel_minimo": "very-high"
+        },
+        {
+          "id": "persons-in-custody-of-victims",
+          "label": "Personas bajo guardia y custodia de víctimas de violencia de género",
+          "nivel_minimo": "very-high"
+        },
+        {
+          "id": "elderly-with-disability",
+          "label": "Mayores con algún grado de discapacidad",
+          "nivel_minimo": "high"
+        },
+        {
+          "id": "elderly-persons",
+          "label": "Personas mayores",
+          "nivel_minimo": "medium"
+        },
+        {
+          "id": "mental-illness",
+          "label": "Personas con enfermedades mentales",
+          "nivel_minimo": "very-high"
+        },
+        {
+          "id": "persons-with-disability",
+          "label": "Personas con discapacidad",
+          "nivel_minimo": "high"
+        },
+        {
+          "id": "social-services-recipients",
+          "label": "Personas que acceden a servicios sociales",
+          "nivel_minimo": "medium"
+        },
+        {
+          "id": "social-exclusion-risk",
+          "label": "Sujetos en riesgo de exclusión social",
+          "nivel_minimo": "high"
+        },
+        {
+          "id": "employees",
+          "label": "Empleados",
+          "nivel_minimo": "low"
+        },
+        {
+          "id": "asylum-seekers",
+          "label": "Solicitantes de asilo",
+          "nivel_minimo": "high"
+        },
+        {
+          "id": "patients",
+          "label": "Pacientes",
+          "nivel_minimo": "high"
+        },
+        {
+          "id": "vulnerable-subjects",
+          "label": "Sujetos en situación de especial vulnerabilidad",
+          "nivel_minimo": "very-high"
+        }
       ]
     },
     {
-      "id": "factores-tecnicos",
-      "label": "Factores técnicos del tratamiento",
+      "id": "technical-factors",
+      "label": "Technical factors of processing",
       "descripcion": "Factores que se derivan de las características técnicas o tecnologías utilizadas en el tratamiento.",
       "factores": [
-        { "id": "sistema-hospitalario", "label": "Sistema de información hospitalaria", "nivel_minimo": "alto" },
-        { "id": "tv-interactiva", "label": "TV interactiva", "nivel_minimo": "medio" },
-        { "id": "servicios-web", "label": "Servicios web", "nivel_minimo": "medio" },
-        { "id": "aplicaciones-moviles", "label": "Aplicaciones móviles", "nivel_minimo": "medio" },
-        { "id": "sistemas-localizacion", "label": "Sistemas de registro de localización", "nivel_minimo": "alto" },
-        { "id": "reconocimiento-facial", "label": "Reconocimiento facial", "nivel_minimo": "alto" },
-        { "id": "huella-dactilar", "label": "Huella dactilar", "nivel_minimo": "alto" },
-        { "id": "iot", "label": "Internet de las cosas (IoT)", "nivel_minimo": "muy-alto" },
-        { "id": "uso-innovador", "label": "Uso innovador o nuevas soluciones organizativas", "nivel_minimo": "alto" },
-        { "id": "tecnologias-combinadas", "label": "Tecnologías combinadas con otras", "nivel_minimo": "medio" },
-        { "id": "nuevas-tecnologias", "label": "Nuevas tecnologías emergentes", "nivel_minimo": "alto" },
-        { "id": "fragmentacion-actores", "label": "Crítico grado de fragmentación de actores", "nivel_minimo": "alto" },
-        { "id": "tratamiento-automatizado", "label": "Tratamientos automatizados", "nivel_minimo": "medio" },
-        { "id": "sistema-inteligente", "label": "Sistema inteligente / IA", "nivel_minimo": "medio" },
-        { "id": "videovigilancia", "label": "Videovigilancia", "nivel_minimo": "alto" }
+        {
+          "id": "hospital-information-system",
+          "label": "Sistema de información hospitalaria",
+          "nivel_minimo": "high"
+        },
+        {
+          "id": "interactive-tv",
+          "label": "TV interactiva",
+          "nivel_minimo": "medium"
+        },
+        {
+          "id": "web-services",
+          "label": "Servicios web",
+          "nivel_minimo": "medium"
+        },
+        {
+          "id": "mobile-applications",
+          "label": "Aplicaciones móviles",
+          "nivel_minimo": "medium"
+        },
+        {
+          "id": "location-recording-systems",
+          "label": "Sistemas de registro de localización",
+          "nivel_minimo": "high"
+        },
+        {
+          "id": "facial-recognition",
+          "label": "Reconocimiento facial",
+          "nivel_minimo": "high"
+        },
+        {
+          "id": "fingerprint",
+          "label": "Huella dactilar",
+          "nivel_minimo": "high"
+        },
+        {
+          "id": "iot",
+          "label": "Internet de las cosas (IoT)",
+          "nivel_minimo": "very-high"
+        },
+        {
+          "id": "innovative-use",
+          "label": "Uso innovador o nuevas soluciones organizativas",
+          "nivel_minimo": "high"
+        },
+        {
+          "id": "combined-technologies",
+          "label": "Tecnologías combinadas con otras",
+          "nivel_minimo": "medium"
+        },
+        {
+          "id": "novel-technologies",
+          "label": "Nuevas tecnologías emergentes",
+          "nivel_minimo": "high"
+        },
+        {
+          "id": "actor-fragmentation",
+          "label": "Crítico grado de fragmentación de actores",
+          "nivel_minimo": "high"
+        },
+        {
+          "id": "automated-processing",
+          "label": "Tratamientos automatizados",
+          "nivel_minimo": "medium"
+        },
+        {
+          "id": "ai-intelligent-system",
+          "label": "Sistema inteligente / IA",
+          "nivel_minimo": "medium"
+        },
+        {
+          "id": "video-surveillance",
+          "label": "Videovigilancia",
+          "nivel_minimo": "high"
+        }
       ]
     },
     {
-      "id": "brechas",
-      "label": "Brechas de datos personales",
+      "id": "data-breaches",
+      "label": "Personal data breaches",
       "descripcion": "Factores que derivan de la posible materialización de brechas de seguridad sobre los datos personales.",
       "factores": [
-        { "id": "reversion-seudonimizacion", "label": "Posible reversión no autorizada de la seudonimización", "nivel_minimo": "muy-alto" },
-        { "id": "perdida-control-encargado", "label": "Posible pérdida de control por el responsable sobre datos del encargado", "nivel_minimo": "alto" },
-        { "id": "determinar-situacion-financiera", "label": "Podría determinar la situación financiera", "nivel_minimo": "medio" },
-        { "id": "determinar-solvencia", "label": "Podría determinar la solvencia patrimonial", "nivel_minimo": "medio" },
-        { "id": "deducir-categorias-especiales", "label": "Podría deducir información de categorías especiales", "nivel_minimo": "alto" },
-        { "id": "privar-derechos", "label": "Pudiera privar a los afectados de sus derechos y libertades", "nivel_minimo": "muy-alto" },
-        { "id": "impedir-control-datos", "label": "Pudiera impedir el control sobre sus datos personales", "nivel_minimo": "muy-alto" },
-        { "id": "provocar-exclusion", "label": "Puede provocar exclusión", "nivel_minimo": "alto" },
-        { "id": "provocar-discriminacion", "label": "Puede provocar discriminación", "nivel_minimo": "muy-alto" },
-        { "id": "usurpacion-identidad", "label": "Posible usurpación de identidad", "nivel_minimo": "muy-alto" },
-        { "id": "fraude", "label": "Posible fraude", "nivel_minimo": "muy-alto" },
-        { "id": "dano-reputacional", "label": "Posible daño reputacional", "nivel_minimo": "muy-alto" },
-        { "id": "perjuicio-economico", "label": "Posible perjuicio económico significativo", "nivel_minimo": "muy-alto" },
-        { "id": "perjuicio-moral", "label": "Posible perjuicio moral significativo", "nivel_minimo": "muy-alto" },
-        { "id": "perjuicio-social", "label": "Posible perjuicio social significativo", "nivel_minimo": "muy-alto" },
-        { "id": "perdida-confidencialidad-profesional", "label": "Posible pérdida de confidencialidad de datos sujetos al secreto profesional", "nivel_minimo": "muy-alto" },
-        { "id": "impedir-ejercicio-derecho", "label": "Podría impedir el ejercicio de un derecho", "nivel_minimo": "alto" },
-        { "id": "impedir-acceso-servicio", "label": "Podría impedir el acceso a un servicio", "nivel_minimo": "alto" },
-        { "id": "impedir-acceso-contrato", "label": "Podría impedir el acceso a un contrato", "nivel_minimo": "alto" },
-        { "id": "manipulacion-personas", "label": "Posible manipulación de las personas", "nivel_minimo": "alto" },
-        { "id": "autocensura", "label": "Posibilidad de autocensura", "nivel_minimo": "alto" },
-        { "id": "usos-imprevistos", "label": "Usos imprevistos o no deseados que afecten derechos fundamentales", "nivel_minimo": "alto" },
-        { "id": "alteracion-datos", "label": "Alteración de los datos", "nivel_minimo": "alto" },
-        { "id": "destruccion-datos", "label": "Destrucción de los datos", "nivel_minimo": "alto" },
-        { "id": "fuga-datos", "label": "Fuga de datos", "nivel_minimo": "alto" }
+        {
+          "id": "pseudonymization-reversal",
+          "label": "Posible reversión no autorizada de la seudonimización",
+          "nivel_minimo": "very-high"
+        },
+        {
+          "id": "loss-of-control-by-controller",
+          "label": "Posible pérdida de control por el responsable sobre datos del encargado",
+          "nivel_minimo": "high"
+        },
+        {
+          "id": "determining-financial-situation",
+          "label": "Podría determinar la situación financiera",
+          "nivel_minimo": "medium"
+        },
+        {
+          "id": "determining-solvency",
+          "label": "Podría determinar la solvencia patrimonial",
+          "nivel_minimo": "medium"
+        },
+        {
+          "id": "inferring-special-categories",
+          "label": "Podría deducir información de categorías especiales",
+          "nivel_minimo": "high"
+        },
+        {
+          "id": "depriving-rights",
+          "label": "Pudiera privar a los afectados de sus derechos y libertades",
+          "nivel_minimo": "very-high"
+        },
+        {
+          "id": "impeding-data-control",
+          "label": "Pudiera impedir el control sobre sus datos personales",
+          "nivel_minimo": "very-high"
+        },
+        {
+          "id": "causing-exclusion",
+          "label": "Puede provocar exclusión",
+          "nivel_minimo": "high"
+        },
+        {
+          "id": "causing-discrimination",
+          "label": "Puede provocar discriminación",
+          "nivel_minimo": "very-high"
+        },
+        {
+          "id": "identity-theft",
+          "label": "Posible usurpación de identidad",
+          "nivel_minimo": "very-high"
+        },
+        {
+          "id": "fraud",
+          "label": "Posible fraude",
+          "nivel_minimo": "very-high"
+        },
+        {
+          "id": "reputational-harm",
+          "label": "Posible daño reputacional",
+          "nivel_minimo": "very-high"
+        },
+        {
+          "id": "economic-harm",
+          "label": "Posible perjuicio económico significativo",
+          "nivel_minimo": "very-high"
+        },
+        {
+          "id": "moral-harm",
+          "label": "Posible perjuicio moral significativo",
+          "nivel_minimo": "very-high"
+        },
+        {
+          "id": "social-harm",
+          "label": "Posible perjuicio social significativo",
+          "nivel_minimo": "very-high"
+        },
+        {
+          "id": "professional-secrecy-loss",
+          "label": "Posible pérdida de confidencialidad de datos sujetos al secreto profesional",
+          "nivel_minimo": "very-high"
+        },
+        {
+          "id": "impeding-right-exercise",
+          "label": "Podría impedir el ejercicio de un derecho",
+          "nivel_minimo": "high"
+        },
+        {
+          "id": "impeding-service-access",
+          "label": "Podría impedir el acceso a un servicio",
+          "nivel_minimo": "high"
+        },
+        {
+          "id": "impeding-contract-access",
+          "label": "Podría impedir el acceso a un contrato",
+          "nivel_minimo": "high"
+        },
+        {
+          "id": "person-manipulation",
+          "label": "Posible manipulación de las personas",
+          "nivel_minimo": "high"
+        },
+        {
+          "id": "self-censorship",
+          "label": "Posibilidad de autocensura",
+          "nivel_minimo": "high"
+        },
+        {
+          "id": "unforeseen-uses",
+          "label": "Usos imprevistos o no deseados que afecten derechos fundamentales",
+          "nivel_minimo": "high"
+        },
+        {
+          "id": "data-alteration",
+          "label": "Alteración de los datos",
+          "nivel_minimo": "high"
+        },
+        {
+          "id": "data-destruction",
+          "label": "Destrucción de los datos",
+          "nivel_minimo": "high"
+        },
+        {
+          "id": "data-leak",
+          "label": "Fuga de datos",
+          "nivel_minimo": "high"
+        }
       ]
     },
     {
-      "id": "recogida-generacion",
-      "label": "Recogida y generación de datos",
+      "id": "data-collection-generation",
+      "label": "Data collection and generation",
       "descripcion": "Factores que se derivan de la naturaleza del tratamiento al recogerse o generarse datos de forma específica.",
       "factores": [
-        { "id": "base-datos-credito", "label": "Acceso a base de datos de referencia de crédito", "nivel_minimo": "medio" },
-        { "id": "base-datos-fraudes", "label": "Acceso a base de datos sobre fraudes", "nivel_minimo": "medio" },
-        { "id": "base-datos-blanqueo", "label": "Acceso a base de datos sobre blanqueo de capitales o financiación del terrorismo", "nivel_minimo": "alto" },
-        { "id": "datos-zonas-publicas", "label": "Datos personales obtenidos en zonas de acceso público", "nivel_minimo": "medio" },
-        { "id": "datos-redes-sociales", "label": "Recogida de datos de medios sociales públicos", "nivel_minimo": "bajo" },
-        { "id": "datos-redes-comunicacion", "label": "Recogida de datos de redes de comunicaciones", "nivel_minimo": "medio" },
-        { "id": "datos-aplicaciones", "label": "Recogida de datos de aplicaciones", "nivel_minimo": "medio" },
-        { "id": "datos-multiples-finalidades", "label": "Datos procedentes de dos o más tratamientos con finalidades diferentes", "nivel_minimo": "medio" },
-        { "id": "datos-multiples-responsables", "label": "Datos procedentes de dos o más responsables distintos", "nivel_minimo": "medio" },
-        { "id": "asociacion-conjuntos", "label": "Asociación de conjuntos de datos", "nivel_minimo": "medio" },
-        { "id": "combinacion-conjuntos", "label": "Combinación de conjuntos de datos", "nivel_minimo": "alto" },
-        { "id": "enlace-registros", "label": "Enlace de registros de bases de datos de tratamientos con finalidades o responsables diferentes", "nivel_minimo": "medio" },
-        { "id": "recogida-responsable-distinto", "label": "Recogida por responsable distinto al que trata con excepción de información", "nivel_minimo": "medio" },
-        { "id": "falta-transparencia-recogida", "label": "Falta de transparencia en el momento de recogida", "nivel_minimo": "alto" },
-        { "id": "nuevas-formas-recogida", "label": "Nuevas formas de recogida de datos con riesgos para derechos y libertades", "nivel_minimo": "alto" }
+        {
+          "id": "credit-reference-database",
+          "label": "Acceso a base de datos de referencia de crédito",
+          "nivel_minimo": "medium"
+        },
+        {
+          "id": "fraud-database",
+          "label": "Acceso a base de datos sobre fraudes",
+          "nivel_minimo": "medium"
+        },
+        {
+          "id": "money-laundering-database",
+          "label": "Acceso a base de datos sobre blanqueo de capitales o financiación del terrorismo",
+          "nivel_minimo": "high"
+        },
+        {
+          "id": "public-area-data",
+          "label": "Datos personales obtenidos en zonas de acceso público",
+          "nivel_minimo": "medium"
+        },
+        {
+          "id": "social-media-data",
+          "label": "Recogida de datos de medios sociales públicos",
+          "nivel_minimo": "low"
+        },
+        {
+          "id": "communication-network-data",
+          "label": "Recogida de datos de redes de comunicaciones",
+          "nivel_minimo": "medium"
+        },
+        {
+          "id": "application-data",
+          "label": "Recogida de datos de aplicaciones",
+          "nivel_minimo": "medium"
+        },
+        {
+          "id": "multiple-purpose-data",
+          "label": "Datos procedentes de dos o más tratamientos con finalidades diferentes",
+          "nivel_minimo": "medium"
+        },
+        {
+          "id": "multiple-controller-data",
+          "label": "Datos procedentes de dos o más responsables distintos",
+          "nivel_minimo": "medium"
+        },
+        {
+          "id": "dataset-association",
+          "label": "Asociación de conjuntos de datos",
+          "nivel_minimo": "medium"
+        },
+        {
+          "id": "dataset-combination",
+          "label": "Combinación de conjuntos de datos",
+          "nivel_minimo": "high"
+        },
+        {
+          "id": "record-linking",
+          "label": "Enlace de registros de bases de datos de tratamientos con finalidades o responsables diferentes",
+          "nivel_minimo": "medium"
+        },
+        {
+          "id": "collection-by-different-controller",
+          "label": "Recogida por responsable distinto al que trata con excepción de información",
+          "nivel_minimo": "medium"
+        },
+        {
+          "id": "lack-of-transparency-at-collection",
+          "label": "Falta de transparencia en el momento de recogida",
+          "nivel_minimo": "high"
+        },
+        {
+          "id": "novel-collection-methods",
+          "label": "Nuevas formas de recogida de datos con riesgos para derechos y libertades",
+          "nivel_minimo": "high"
+        }
       ]
     },
     {
-      "id": "efectos-colaterales",
-      "label": "Efectos colaterales del tratamiento",
+      "id": "collateral-effects",
+      "label": "Collateral effects of processing",
       "descripcion": "Factores que derivan del contexto del tratamiento al poder generarse consecuencias no contempladas en los propósitos originales.",
       "factores": [
-        { "id": "excede-expectativas", "label": "Excede las expectativas razonables del interesado", "nivel_minimo": "medio" },
-        { "id": "cambio-cultural", "label": "Posibilidad de provocar un cambio cultural para claudicar derechos y libertades", "nivel_minimo": "alto" },
-        { "id": "recogida-datos-terceros", "label": "Podría recoger datos personales distintos de los usuarios del servicio", "nivel_minimo": "alto" }
+        {
+          "id": "exceeds-reasonable-expectations",
+          "label": "Excede las expectativas razonables del interesado",
+          "nivel_minimo": "medium"
+        },
+        {
+          "id": "cultural-change",
+          "label": "Posibilidad de provocar un cambio cultural para claudicar derechos y libertades",
+          "nivel_minimo": "high"
+        },
+        {
+          "id": "collecting-third-party-data",
+          "label": "Podría recoger datos personales distintos de los usuarios del servicio",
+          "nivel_minimo": "high"
+        }
       ]
     },
     {
-      "id": "categoria-responsable",
-      "label": "Categoría del responsable / encargado",
+      "id": "controller-processor-category",
+      "label": "Category of the controller / processor",
       "descripcion": "Factores que derivan del contexto específico del sector de actividad, modelo de negocio o tipo de entidad.",
       "factores": [
-        { "id": "sociedad-informacion", "label": "Sociedad de la Información", "nivel_minimo": "medio" },
-        { "id": "biotecnologia", "label": "Empresa de biotecnología", "nivel_minimo": "alto" },
-        { "id": "mercadotecnia", "label": "Empresa de mercadotecnia", "nivel_minimo": "medio" },
-        { "id": "hospitales", "label": "Hospitales", "nivel_minimo": "alto" },
-        { "id": "investigadores-privados", "label": "Investigadores privados", "nivel_minimo": "medio" },
-        { "id": "entidad-crediticia", "label": "Entidad de evaluación de información crediticia", "nivel_minimo": "medio" },
-        { "id": "entidad-fraude", "label": "Entidad de evaluación de fraude", "nivel_minimo": "medio" },
-        { "id": "entidad-financiera", "label": "Entidad financiera", "nivel_minimo": "medio" },
-        { "id": "empleador", "label": "Empleador", "nivel_minimo": "bajo" },
-        { "id": "investigacion", "label": "Proyectos de investigación", "nivel_minimo": "bajo" },
-        { "id": "ensayos-clinicos", "label": "Ensayos clínicos", "nivel_minimo": "alto" }
+        {
+          "id": "information-society",
+          "label": "Sociedad de la Información",
+          "nivel_minimo": "medium"
+        },
+        {
+          "id": "biotechnology",
+          "label": "Empresa de biotecnología",
+          "nivel_minimo": "high"
+        },
+        {
+          "id": "marketing",
+          "label": "Empresa de mercadotecnia",
+          "nivel_minimo": "medium"
+        },
+        {
+          "id": "hospitals",
+          "label": "Hospitales",
+          "nivel_minimo": "high"
+        },
+        {
+          "id": "private-investigators",
+          "label": "Investigadores privados",
+          "nivel_minimo": "medium"
+        },
+        {
+          "id": "credit-evaluation-entity",
+          "label": "Entidad de evaluación de información crediticia",
+          "nivel_minimo": "medium"
+        },
+        {
+          "id": "fraud-evaluation-entity",
+          "label": "Entidad de evaluación de fraude",
+          "nivel_minimo": "medium"
+        },
+        {
+          "id": "financial-entity",
+          "label": "Entidad financiera",
+          "nivel_minimo": "medium"
+        },
+        {
+          "id": "employer",
+          "label": "Empleador",
+          "nivel_minimo": "low"
+        },
+        {
+          "id": "research-projects",
+          "label": "Proyectos de investigación",
+          "nivel_minimo": "low"
+        },
+        {
+          "id": "clinical-trials",
+          "label": "Ensayos clínicos",
+          "nivel_minimo": "high"
+        }
       ]
     },
     {
-      "id": "comunicaciones",
-      "label": "Comunicación de datos",
+      "id": "data-disclosures",
+      "label": "Data communications and disclosures",
       "descripcion": "Factores que derivan del contexto en el que se realizan las comunicaciones de datos a terceros.",
       "factores": [
-        { "id": "transferencia-sin-nivel-adecuado", "label": "Transferencia habitual a estados u organizaciones sin nivel adecuado de protección", "nivel_minimo": "muy-alto" },
-        { "id": "falta-transparencia-actores", "label": "Falta de transparencia de los actores involucrados en el tratamiento", "nivel_minimo": "medio" },
-        { "id": "difusion-identificadores", "label": "Difusión libre de identificadores únicos", "nivel_minimo": "alto" }
+        {
+          "id": "transfer-without-adequate-protection",
+          "label": "Transferencia habitual a estados u organizaciones sin nivel adecuado de protección",
+          "nivel_minimo": "very-high"
+        },
+        {
+          "id": "lack-of-actor-transparency",
+          "label": "Falta de transparencia de los actores involucrados en el tratamiento",
+          "nivel_minimo": "medium"
+        },
+        {
+          "id": "unique-identifier-disclosure",
+          "label": "Difusión libre de identificadores únicos",
+          "nivel_minimo": "high"
+        }
       ]
     }
   ]

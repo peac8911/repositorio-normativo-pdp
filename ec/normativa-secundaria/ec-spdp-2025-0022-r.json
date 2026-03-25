@@ -18,7 +18,8 @@
     "anexos": [
       "ec-spdp-2025-0022-r-anexo-metodologia.pdf"
     ],
-    "version": "1.0.0"
+    "version": "1.1.0",
+    "titulo_en": "Regulation for the Application of the Methodology for the Calculation of Fines in the Administrative Sanctions Regime"
   },
   "unidades": [
     {
@@ -30,20 +31,21 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "autoridad-de-control.sanciones"
+        "supervisory-authority.sanctions"
       ],
       "roles": [
-        "autoridad-control"
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "definicion",
-        "obligacion"
+        "definition",
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": ""
     },
     {
       "id": "EC-SPDP-2025-0022-R-Art-2",
@@ -54,19 +56,20 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "autoridad-de-control.sanciones"
+        "supervisory-authority.sanctions"
       ],
       "roles": [
-        "autoridad-control"
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": ""
     },
     {
       "id": "EC-SPDP-2025-0022-R-DispGen-ÚNICA",
@@ -77,19 +80,20 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "autoridad-de-control.sanciones"
+        "supervisory-authority.sanctions"
       ],
       "roles": [
-        "autoridad-control"
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "permiso"
+        "permission"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Single General Provision"
     },
     {
       "id": "EC-SPDP-2025-0022-R-DispTrans-ÚNICA",
@@ -101,16 +105,17 @@
       "sustituido_por": null,
       "temas": [],
       "roles": [
-        "autoridad-control"
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Single Transitional Provision"
     },
     {
       "id": "EC-SPDP-2025-0022-R-DispFinal-ÚNICA",
@@ -122,16 +127,17 @@
       "sustituido_por": null,
       "temas": [],
       "roles": [
-        "autoridad-control"
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Single Final Provision"
     }
   ]
 }

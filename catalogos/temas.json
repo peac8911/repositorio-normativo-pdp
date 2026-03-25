@@ -1,166 +1,403 @@
 {
-  "version": "1.0.0",
-  "descripcion": "Taxonomía temática global PDP. Dos niveles: tema y subtema. Formato de etiquetado: tema.subtema. Un artículo puede tener múltiples etiquetas.",
+  "version": "1.1.0",
+  "descripcion": "Global PDP thematic taxonomy. Two levels: topic and subtopic. Tagging format: topic.subtopic. An article may have multiple tags.",
   "temas": [
     {
-      "id": "principios",
-      "label": "Principios",
-      "descripcion": "Principios rectores que rigen todo tratamiento de datos personales.",
+      "id": "principles",
+      "label": "Principles",
+      "descripcion": "Guiding principles governing all personal data processing.",
       "subtemas": [
-        { "id": "licitud", "label": "Licitud" },
-        { "id": "finalidad", "label": "Finalidad" },
-        { "id": "proporcionalidad", "label": "Proporcionalidad / Minimización" },
-        { "id": "calidad", "label": "Calidad y exactitud" },
-        { "id": "lealtad", "label": "Lealtad" },
-        { "id": "transparencia", "label": "Transparencia" },
-        { "id": "seguridad", "label": "Seguridad" },
-        { "id": "responsabilidad-proactiva", "label": "Responsabilidad proactiva / Accountability" },
-        { "id": "confidencialidad", "label": "Confidencialidad" }
+        {
+          "id": "lawfulness",
+          "label": "Lawfulness"
+        },
+        {
+          "id": "purpose-limitation",
+          "label": "Purpose limitation"
+        },
+        {
+          "id": "proportionality",
+          "label": "Proportionality / Minimization"
+        },
+        {
+          "id": "data-quality",
+          "label": "Data quality and accuracy"
+        },
+        {
+          "id": "fairness",
+          "label": "Fairness"
+        },
+        {
+          "id": "transparency",
+          "label": "Transparency"
+        },
+        {
+          "id": "security",
+          "label": "Security"
+        },
+        {
+          "id": "accountability",
+          "label": "Accountability"
+        },
+        {
+          "id": "confidentiality",
+          "label": "Confidentiality"
+        }
       ]
     },
     {
-      "id": "bases-de-licitud",
-      "label": "Bases de Licitud",
-      "descripcion": "Fundamentos jurídicos que legitiman el tratamiento de datos personales.",
+      "id": "legal-bases",
+      "label": "Legal Bases",
+      "descripcion": "Legal grounds that legitimate the processing of personal data.",
       "subtemas": [
-        { "id": "consentimiento", "label": "Consentimiento" },
-        { "id": "interes-legitimo", "label": "Interés legítimo" },
-        { "id": "obligacion-legal", "label": "Obligación legal" },
-        { "id": "interes-vital", "label": "Interés vital" },
-        { "id": "mision-publica", "label": "Misión de interés público" },
-        { "id": "ejecucion-contractual", "label": "Ejecución contractual" }
+        {
+          "id": "consent",
+          "label": "Consent"
+        },
+        {
+          "id": "legitimate-interest",
+          "label": "Legitimate interest"
+        },
+        {
+          "id": "legal-obligation",
+          "label": "Legal obligation"
+        },
+        {
+          "id": "vital-interest",
+          "label": "Vital interest"
+        },
+        {
+          "id": "public-interest",
+          "label": "Public interest mission"
+        },
+        {
+          "id": "contractual-relationship",
+          "label": "Contractual performance"
+        }
       ]
     },
     {
-      "id": "datos-sensibles",
-      "label": "Datos Sensibles",
-      "descripcion": "Datos que por su naturaleza requieren protección reforzada por el riesgo especial que su tratamiento implica para los derechos y libertades fundamentales. En Ecuador se denominan datos sensibles.",
+      "id": "sensitive-data",
+      "label": "Sensitive Data",
+      "descripcion": "Data that by their nature require enhanced protection due to the special risk their processing poses to fundamental rights and freedoms. In Ecuador, referred to as datos sensibles.",
       "subtemas": [
-        { "id": "salud", "label": "Datos de salud" },
-        { "id": "biometricos", "label": "Datos biométricos" },
-        { "id": "geneticos", "label": "Datos genéticos" },
-        { "id": "origen-racial", "label": "Origen racial o étnico" },
-        { "id": "opiniones-politicas", "label": "Opiniones políticas" },
-        { "id": "religion-creencias", "label": "Religión o creencias" },
-        { "id": "afiliacion-sindical", "label": "Afiliación sindical" },
-        { "id": "vida-sexual", "label": "Vida sexual u orientación sexual" },
-        { "id": "datos-penales", "label": "Datos penales o infracciones" }
+        {
+          "id": "health",
+          "label": "Health data"
+        },
+        {
+          "id": "biometric",
+          "label": "Biometric data"
+        },
+        {
+          "id": "genetic",
+          "label": "Genetic data"
+        },
+        {
+          "id": "racial-origin",
+          "label": "Racial or ethnic origin"
+        },
+        {
+          "id": "political-opinion",
+          "label": "Political opinions"
+        },
+        {
+          "id": "religious-beliefs",
+          "label": "Religious beliefs"
+        },
+        {
+          "id": "trade-union",
+          "label": "Trade union membership"
+        },
+        {
+          "id": "sexual-orientation",
+          "label": "Sexual orientation"
+        },
+        {
+          "id": "criminal-records",
+          "label": "Criminal records or offences"
+        }
       ]
     },
     {
-      "id": "derechos-del-titular",
-      "label": "Derechos del Titular",
-      "descripcion": "Derechos que la normativa reconoce a las personas cuyos datos son tratados.",
+      "id": "data-subject-rights",
+      "label": "Data Subject Rights",
+      "descripcion": "Rights recognized by the regulations to persons whose data are processed.",
       "subtemas": [
-        { "id": "acceso", "label": "Derecho de acceso" },
-        { "id": "rectificacion", "label": "Derecho de rectificación" },
-        { "id": "supresion", "label": "Derecho de supresión / Derecho al olvido" },
-        { "id": "oposicion", "label": "Derecho de oposición" },
-        { "id": "portabilidad", "label": "Derecho de portabilidad" },
-        { "id": "limitacion", "label": "Derecho de limitación del tratamiento" },
-        { "id": "no-decision-automatizada", "label": "Derecho a no ser objeto de decisiones automatizadas" }
+        {
+          "id": "access",
+          "label": "Right of access"
+        },
+        {
+          "id": "rectification",
+          "label": "Right of rectification"
+        },
+        {
+          "id": "erasure",
+          "label": "Right of erasure / Right to be forgotten"
+        },
+        {
+          "id": "objection",
+          "label": "Right to object"
+        },
+        {
+          "id": "portability",
+          "label": "Right to data portability"
+        },
+        {
+          "id": "restriction",
+          "label": "Right to restriction of processing"
+        },
+        {
+          "id": "no-automated-decision",
+          "label": "Right not to be subject to automated decisions"
+        }
       ]
     },
     {
-      "id": "obligaciones-responsable",
-      "label": "Obligaciones del Responsable",
-      "descripcion": "Obligaciones que recaen sobre quien determina los fines y medios del tratamiento.",
+      "id": "controller-obligations",
+      "label": "Controller Obligations",
+      "descripcion": "Obligations incumbent on whoever determines the purposes and means of processing.",
       "subtemas": [
-        { "id": "registro-actividades", "label": "Registro de actividades de tratamiento" },
-        { "id": "evaluacion-impacto", "label": "Evaluación de impacto (EIPD)" },
-        { "id": "dpd", "label": "Delegado / Responsable de Protección de Datos (DPD)" },
-        { "id": "privacidad-por-diseno", "label": "Privacidad por diseño y por defecto" },
-        { "id": "notificacion-brechas", "label": "Notificación de brechas de seguridad" },
-        { "id": "transparencia-informacion", "label": "Deber de información y transparencia al titular" }
+        {
+          "id": "processing-records",
+          "label": "Records of processing activities"
+        },
+        {
+          "id": "impact-assessment",
+          "label": "Impact assessment (DPIA)"
+        },
+        {
+          "id": "dpo",
+          "label": "Data Protection Officer (DPO)"
+        },
+        {
+          "id": "privacy-by-design",
+          "label": "Privacy by design and by default"
+        },
+        {
+          "id": "breach-notification",
+          "label": "Security breach notification"
+        },
+        {
+          "id": "transparency-information",
+          "label": "Duty to inform and transparency towards data subjects"
+        }
       ]
     },
     {
-      "id": "encargado-del-tratamiento",
-      "label": "Encargado del Tratamiento",
-      "descripcion": "Normas que regulan la figura del encargado, quien trata datos por cuenta del responsable.",
+      "id": "processor",
+      "label": "Processor",
+      "descripcion": "Rules governing the processor, who processes data on behalf of the controller.",
       "subtemas": [
-        { "id": "seleccion", "label": "Selección y evaluación del encargado" },
-        { "id": "contrato-encargo", "label": "Contrato de encargo del tratamiento" },
-        { "id": "subencargados", "label": "Subencargados" },
-        { "id": "instrucciones", "label": "Instrucciones del responsable al encargado" },
-        { "id": "obligaciones-propias", "label": "Obligaciones propias del encargado" }
+        {
+          "id": "selection",
+          "label": "Selection and assessment of the processor"
+        },
+        {
+          "id": "processing-agreement",
+          "label": "Processing agreement"
+        },
+        {
+          "id": "sub-processors",
+          "label": "Sub-processors"
+        },
+        {
+          "id": "instructions",
+          "label": "Controller instructions to the processor"
+        },
+        {
+          "id": "own-obligations",
+          "label": "Processor own obligations"
+        }
       ]
     },
     {
-      "id": "categorias-especiales",
-      "label": "Categorías Especiales de Datos",
-      "descripcion": "Concepto proveniente del RGPD europeo. En Ecuador su uso es limitado por la deficiente construcción del artículo correspondiente de la LOPDP. Ver nota en temas-ec.json.",
+      "id": "special-categories",
+      "label": "Special Categories of Data",
+      "descripcion": "Concept derived from the European GDPR. In Ecuador its use is limited due to the deficient construction of the corresponding LOPDP article. See note in temas-ec.json.",
       "subtemas": [
-        { "id": "prohibicion-tratamiento", "label": "Prohibición general de tratamiento" },
-        { "id": "excepciones", "label": "Excepciones a la prohibición" }
+        {
+          "id": "processing-prohibition",
+          "label": "General prohibition on processing"
+        },
+        {
+          "id": "exceptions",
+          "label": "Exceptions to the prohibition"
+        }
       ]
     },
     {
-      "id": "transferencias-internacionales",
-      "label": "Transferencias Internacionales",
-      "descripcion": "Normas que regulan la transmisión de datos personales a destinatarios en otros países u organizaciones internacionales.",
+      "id": "international-transfers",
+      "label": "International Transfers",
+      "descripcion": "Rules governing the transmission of personal data to recipients in other countries or international organizations.",
       "subtemas": [
-        { "id": "paises-adecuados", "label": "Países con nivel adecuado de protección" },
-        { "id": "garantias-apropiadas", "label": "Garantías apropiadas" },
-        { "id": "clausulas-contractuales", "label": "Cláusulas contractuales tipo" },
-        { "id": "normas-corporativas", "label": "Normas corporativas vinculantes" },
-        { "id": "excepciones", "label": "Excepciones para casos específicos" }
+        {
+          "id": "adequate-countries",
+          "label": "Countries with adequate level of protection"
+        },
+        {
+          "id": "appropriate-safeguards",
+          "label": "Appropriate safeguards"
+        },
+        {
+          "id": "standard-contractual-clauses",
+          "label": "Standard contractual clauses"
+        },
+        {
+          "id": "binding-corporate-rules",
+          "label": "Binding corporate rules"
+        },
+        {
+          "id": "exceptions",
+          "label": "Exceptions for specific cases"
+        },
+        {
+          "id": "adequacy-decision",
+          "label": "Adequacy decision"
+        }
       ]
     },
     {
-      "id": "seguridad-del-tratamiento",
-      "label": "Seguridad del Tratamiento",
-      "descripcion": "Normas sobre medidas técnicas y organizativas para garantizar la seguridad de los datos.",
+      "id": "processing-security",
+      "label": "Processing Security",
+      "descripcion": "Rules on technical and organizational measures to ensure data security.",
       "subtemas": [
-        { "id": "medidas-tecnicas", "label": "Medidas técnicas de seguridad" },
-        { "id": "medidas-organizativas", "label": "Medidas organizativas de seguridad" },
-        { "id": "gestion-incidentes", "label": "Gestión de incidentes y brechas" },
-        { "id": "seudonimizacion", "label": "Seudonimización y cifrado" },
-        { "id": "continuidad", "label": "Continuidad del tratamiento" }
+        {
+          "id": "technical-measures",
+          "label": "Technical security measures"
+        },
+        {
+          "id": "organizational-measures",
+          "label": "Organizational security measures"
+        },
+        {
+          "id": "incident-management",
+          "label": "Incident and breach management"
+        },
+        {
+          "id": "pseudonymization",
+          "label": "Pseudonymization and encryption"
+        },
+        {
+          "id": "continuity",
+          "label": "Processing continuity"
+        },
+        {
+          "id": "impact-assessment",
+          "label": "Impact assessment"
+        },
+        {
+          "id": "security-measures",
+          "label": "Security measures"
+        }
       ]
     },
     {
-      "id": "autoridad-de-control",
-      "label": "Autoridad de Control",
-      "descripcion": "Normas relativas a la autoridad pública encargada de supervisar la aplicación de la normativa PDP.",
+      "id": "supervisory-authority",
+      "label": "Supervisory Authority",
+      "descripcion": "Rules relating to the public authority responsible for supervising the application of data protection regulations.",
       "subtemas": [
-        { "id": "competencia", "label": "Competencia y atribuciones" },
-        { "id": "poderes", "label": "Poderes de investigación y correctivos" },
-        { "id": "procedimiento-sancionador", "label": "Procedimiento sancionador" },
-        { "id": "cooperacion", "label": "Cooperación entre autoridades" },
-        { "id": "sanciones", "label": "Sanciones y multas" }
+        {
+          "id": "competence",
+          "label": "Competence and powers"
+        },
+        {
+          "id": "powers",
+          "label": "Investigative and corrective powers"
+        },
+        {
+          "id": "sanctions-procedure",
+          "label": "Sanctions procedure"
+        },
+        {
+          "id": "cooperation",
+          "label": "Cooperation between authorities"
+        },
+        {
+          "id": "sanctions",
+          "label": "Sanctions and fines"
+        }
       ]
     },
     {
-      "id": "ia-y-decisiones-automatizadas",
-      "label": "IA y Decisiones Automatizadas",
-      "descripcion": "Normas sobre el uso de inteligencia artificial, perfilado y decisiones adoptadas sin intervención humana.",
+      "id": "ai-and-automated-decisions",
+      "label": "AI and Automated Decisions",
+      "descripcion": "Rules on the use of artificial intelligence, profiling and decisions taken without human intervention.",
       "subtemas": [
-        { "id": "perfilado", "label": "Perfilado" },
-        { "id": "decision-automatizada", "label": "Decisión automatizada" },
-        { "id": "ia-alto-riesgo", "label": "Sistemas de IA de alto riesgo" },
-        { "id": "explicabilidad", "label": "Explicabilidad y transparencia algorítmica" }
+        {
+          "id": "profiling",
+          "label": "Profiling"
+        },
+        {
+          "id": "automated-decision",
+          "label": "Automated decision"
+        },
+        {
+          "id": "high-risk-ai",
+          "label": "High-risk AI systems"
+        },
+        {
+          "id": "explainability",
+          "label": "Explainability and algorithmic transparency"
+        }
       ]
     },
     {
-      "id": "tratamiento-gran-escala",
-      "label": "Tratamiento a Gran Escala",
-      "descripcion": "Normas aplicables cuando el tratamiento afecta a un gran número de titulares, volúmenes elevados de datos o tiene amplio alcance geográfico.",
+      "id": "large-scale-processing",
+      "label": "Large-Scale Processing",
+      "descripcion": "Rules applicable when processing affects a large number of data subjects, high volumes of data or has wide geographical scope.",
       "subtemas": [
-        { "id": "definicion", "label": "Definición y criterios" },
-        { "id": "obligaciones-especificas", "label": "Obligaciones específicas" },
-        { "id": "eipd-obligatoria", "label": "EIPD obligatoria" }
+        {
+          "id": "definition",
+          "label": "Definition and criteria"
+        },
+        {
+          "id": "specific-obligations",
+          "label": "Specific obligations"
+        },
+        {
+          "id": "mandatory-dpia",
+          "label": "Mandatory DPIA"
+        }
       ]
     },
     {
-      "id": "ambito-de-aplicacion",
-      "label": "Ámbito de Aplicación",
-      "descripcion": "Normas que delimitan el alcance territorial y material de la legislación, así como definiciones clave.",
+      "id": "scope",
+      "label": "Scope",
+      "descripcion": "Rules delimiting the territorial and material scope of legislation, as well as key definitions.",
       "subtemas": [
-        { "id": "ambito-territorial", "label": "Ámbito territorial" },
-        { "id": "ambito-material", "label": "Ámbito material" },
-        { "id": "exclusiones", "label": "Exclusiones y excepciones al ámbito" },
-        { "id": "definiciones-clave", "label": "Definiciones clave" }
+        {
+          "id": "territorial-scope",
+          "label": "Territorial scope"
+        },
+        {
+          "id": "material-scope",
+          "label": "Material scope"
+        },
+        {
+          "id": "subjective-scope",
+          "label": "Subjective scope"
+        },
+        {
+          "id": "exclusions",
+          "label": "Exclusions and exceptions from scope"
+        },
+        {
+          "id": "key-definitions",
+          "label": "Key definitions"
+        }
+      ]
+    },
+    {
+      "id": "transparency-information",
+      "label": "Transparency and Information",
+      "descripcion": "Rules on the duty to inform data subjects and transparency obligations, including privacy notices.",
+      "subtemas": [
+        {
+          "id": "privacy-notice",
+          "label": "Privacy notice"
+        }
       ]
     }
   ]

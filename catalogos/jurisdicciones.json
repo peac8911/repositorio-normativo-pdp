@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "jurisdicciones": [
     {
       "id": "ec",
@@ -20,7 +20,8 @@
         "jurisprudencia",
         "doctrina"
       ],
-      "notas": "Distingue entre ley orgánica y ley ordinaria. La LOPDP es ley orgánica. La Superintendencia de Protección de Datos Personales es la autoridad de control especializada."
+      "notas": "Distingue entre ley orgánica y ley ordinaria. La LOPDP es ley orgánica. La Superintendencia de Protección de Datos Personales es la autoridad de control especializada.",
+      "notas_en": "Distinguishes between organic law and ordinary law. The LOPDP is an organic law. The Superintendency of Personal Data Protection is the specialized supervisory authority."
     },
     {
       "id": "cl",
@@ -40,7 +41,8 @@
         "jurisprudencia",
         "doctrina"
       ],
-      "notas": "Chile no distingue entre ley orgánica y ley ordinaria en materia de PDP. La Agencia de Protección de Datos Personales fue creada por la Ley 21.096 de 2018 y su implementación está en proceso."
+      "notas": "Chile no distingue entre ley orgánica y ley ordinaria en materia de PDP. La Agencia de Protección de Datos Personales fue creada por la Ley 21.096 de 2018 y su implementación está en proceso.",
+      "notas_en": "Chile does not distinguish between organic law and ordinary law in matters of PDP. The Personal Data Protection Agency was created by Law 21.096 of 2018 and its implementation is underway."
     }
   ]
 }

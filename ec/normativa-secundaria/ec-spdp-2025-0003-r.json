@@ -18,7 +18,8 @@
     "anexos": [
       "ec-spdp-2025-0003-r-guia-riesgos-eipd.pdf"
     ],
-    "version": "1.0.0"
+    "version": "1.1.0",
+    "titulo_en": "Resolution Approving the Risk Management and Impact Assessment Guide for Personal Data Processing"
   },
   "unidades": [
     {
@@ -30,27 +31,28 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "obligaciones-responsable.evaluacion-impacto"
+        "controller-obligations.impact-assessment"
       ],
       "roles": [
-        "responsable",
-        "encargado",
-        "autoridad-control"
+        "controller",
+        "processor",
+        "supervisory-authority"
       ],
       "ciclo": [
-        "uso",
-        "almacenamiento"
+        "use",
+        "storage"
       ],
       "deontico": [
-        "permiso",
-        "obligacion"
+        "permission",
+        "obligation"
       ],
       "factores_riesgo": [
-        "extension-alcance.gran-escala"
+        "scope-and-scale.large-scale"
       ],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": ""
     },
     {
       "id": "EC-SPDP-2025-0003-R-Art-2",
@@ -61,25 +63,26 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "obligaciones-responsable.evaluacion-impacto"
+        "controller-obligations.impact-assessment"
       ],
       "roles": [
-        "responsable",
-        "encargado"
+        "controller",
+        "processor"
       ],
       "ciclo": [
-        "uso"
+        "use"
       ],
       "deontico": [
-        "obligacion",
-        "permiso"
+        "obligation",
+        "permission"
       ],
       "factores_riesgo": [
-        "extension-alcance.gran-escala"
+        "scope-and-scale.large-scale"
       ],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": ""
     },
     {
       "id": "EC-SPDP-2025-0003-R-DispGen-ÚNICA",
@@ -90,19 +93,20 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "obligaciones-responsable.evaluacion-impacto"
+        "controller-obligations.impact-assessment"
       ],
       "roles": [
-        "autoridad-control"
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Single General Provision"
     },
     {
       "id": "EC-SPDP-2025-0003-R-DispTrans-PRIMERA",
@@ -113,19 +117,20 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "autoridad-de-control.competencia"
+        "supervisory-authority.competence"
       ],
       "roles": [
-        "autoridad-control"
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "permiso"
+        "permission"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "First Transitional Provision"
     },
     {
       "id": "EC-SPDP-2025-0003-R-DispTrans-SEGUNDA",
@@ -136,19 +141,20 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "autoridad-de-control.competencia"
+        "supervisory-authority.competence"
       ],
       "roles": [
-        "autoridad-control"
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "permiso"
+        "permission"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Second Transitional Provision"
     },
     {
       "id": "EC-SPDP-2025-0003-R-DispFinal-ÚNICA",
@@ -160,16 +166,17 @@
       "sustituido_por": null,
       "temas": [],
       "roles": [
-        "autoridad-control"
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Single Final Provision"
     }
   ]
 }

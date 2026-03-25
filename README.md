@@ -1,87 +1,101 @@
-# Repositorio Normativo PDP
+# PDP Regulatory Knowledge Base
 
-Base de conocimiento normativo estructurado para consultoría en protección de datos personales (PDP). Desarrollado y mantenido por PDP Expert.
+Structured regulatory knowledge base for data protection consulting. Developed and maintained by PDP Expert.
 
-## ¿Qué es este repositorio?
+This repository is the first operational component of the **DATUM Cognitive Architecture** (Intelligent Regulated Data Compliance Framework). It serves as the **Regulatory Knowledge Base** — the structured, machine-readable corpus of applicable norms that feeds all other DATUM components.
 
-Este repositorio contiene el texto oficial de normas de protección de datos personales, organizadas, indexadas y etiquetadas para ser consumidas por sistemas de inteligencia artificial (Claude) en el contexto de consultoría jurídica especializada.
+## What Is This Repository?
 
-No es un archivo pasivo. Es una base de conocimiento viva que:
-- Permite a Claude citar artículos con precisión jurídica
-- Soporta análisis normativo comparado entre jurisdicciones
-- Facilita la identificación de factores de riesgo en tratamientos de datos
-- Escala hacia otras materias (IA, ciberseguridad, datos de menores)
+This repository contains the official text of data protection regulations, organized, indexed, and tagged for consumption by intelligent systems (Claude, agents, APIs) in the context of specialized regulatory consulting.
 
-## Jurisdicciones cubiertas
+It is not a passive archive. It is a live knowledge base that:
+- Enables AI systems to cite regulatory articles with legal precision
+- Supports comparative regulatory analysis across jurisdictions
+- Facilitates risk factor identification in data processing operations
+- Scales to additional regulatory domains (AI governance, cybersecurity, minors' data)
+- Serves as the normative foundation for compliance reasoning in any DATUM implementation model
 
-| Código | País | Estado |
+## Language Convention
+
+This repository follows the **English-first, multilingual by design** principle defined in the DATUM Framework:
+
+- **All structural content is in English**: schema field names, catalog IDs, tag identifiers, metadata labels, documentation, and commit messages.
+- **Official regulatory text is preserved in its original legislative language** (Spanish for Ecuador and Chile). The `texto_oficial` field is never translated, paraphrased, or summarized.
+- **The `comentario` field** may contain interpretive analysis in English or in the language of the jurisdiction, depending on the author's preference. When analysis is in Spanish, an `en_summary` field may optionally be added for cross-language discoverability.
+- **Catalog labels** (`label` field in catalog entries) are in English. Where a jurisdiction-specific term has no clean English equivalent, the original term is preserved in parentheses alongside the English label.
+
+This approach ensures the repository is globally accessible while preserving the legal integrity of source texts.
+
+## Jurisdictions Covered
+
+| Code | Country | Status |
 |---|---|---|
-| `ec` | Ecuador | Activo |
-| `cl` | Chile | En construcción |
+| `ec` | Ecuador | Active |
+| `cl` | Chile | Under construction |
 
-## Tipos de fuentes incluidas
+## Source Types
 
-El repositorio respeta la jerarquía normativa de cada jurisdicción:
+The repository respects the normative hierarchy of each jurisdiction:
 
-1. Constitución / jurisprudencia constitucional
-2. Ley orgánica
-3. Ley ordinaria
-4. Reglamentos
-5. Normativa secundaria
-6. Pronunciamientos y criterios de la autoridad de control (no vinculantes)
-7. Jurisprudencia ordinaria
-8. Doctrina y comentarios propios
+1. Constitution / constitutional jurisprudence
+2. Organic law
+3. Ordinary law
+4. Regulations (executive decrees)
+5. Secondary norms (resolutions, guidelines)
+6. Supervisory authority pronouncements (non-binding)
+7. Ordinary jurisprudence
+8. Proprietary doctrine and commentary
 
-## Estructura del repositorio
+## Repository Structure
 
 ```
 /repositorio-normativo-pdp/
 │
-├── /catalogos/           ← catálogos globales reutilizables
-├── /ec/                  ← normas Ecuador, organizadas por tipo de fuente
-├── /cl/                  ← normas Chile, organizadas por tipo de fuente
-└── /mapeos/              ← relaciones transversales entre jurisdicciones y sectores
+├── /catalogos/           ← Global reusable catalogs (English IDs)
+├── /ec/                  ← Ecuador norms, organized by source type
+├── /cl/                  ← Chile norms, organized by source type
+└── /mapeos/              ← Cross-jurisdictional and cross-sector mappings
 ```
 
 ### /catalogos
 
-Contiene los catálogos de referencia que se usan para etiquetar los artículos:
+Reference catalogs used to tag articles. All catalog IDs and labels are in English:
 
-| Archivo | Contenido |
+| File | Content |
 |---|---|
-| `temas.json` | Taxonomía temática PDP — 13 temas, 2 niveles |
-| `temas-ec.json` | Extensiones temáticas para Ecuador |
-| `temas-cl.json` | Extensiones temáticas para Chile |
-| `materias.json` | Materias regulatorias (pdp, ia, datos-menores, ciberseguridad...) |
-| `tipos-fuente.json` | Jerarquía normativa global con nivel de prelación |
-| `jurisdicciones.json` | Metadatos de cada jurisdicción cubierta |
-| `factores-riesgo-aepd.json` | Catálogo AEPD de factores de riesgo — base europea adaptada |
-| `hermeneutica.json` | Reglas de interpretación normativa — se consulta solo ante conflicto |
+| `temas.json` | Thematic taxonomy — 13 topics, 2 levels |
+| `temas-ec.json` | Ecuador-specific topic extensions |
+| `temas-cl.json` | Chile-specific topic extensions |
+| `materias.json` | Regulatory subject matters (pdp, ai, minors-data, cybersecurity...) |
+| `tipos-fuente.json` | Global normative hierarchy with precedence levels |
+| `jurisdicciones.json` | Metadata for each covered jurisdiction |
+| `factores-riesgo-aepd.json` | AEPD risk factor catalog — European base adapted |
+| `hermeneutica.json` | Normative interpretation rules — consulted only in conflict scenarios |
 
-### /ec y /cl
+### /ec and /cl
 
-Cada jurisdicción tiene su propia carpeta organizada por tipo de fuente. Dentro de cada subcarpeta, cada norma es un archivo JSON independiente.
+Each jurisdiction has its own folder organized by source type. Within each subfolder, each norm is an independent JSON file.
 
-Ejemplo:
+Example:
 ```
-/ec/ley-organica/lopdp.json         ← Ley Orgánica de Protección de Datos Personales
-/ec/reglamentos/reglamento-lopdp.json
-/ec/pronunciamientos/sentencia-001.json
+/ec/ley-organica/ec-lopdp.json
+/ec/reglamentos/ec-reglamento-lopdp.json
+/ec/pronunciamientos/ec-sentencia-001.json
 ```
 
 ### /mapeos
 
-Relaciones que cruzan jurisdicciones o sectores:
+Cross-jurisdictional and cross-sector relationships:
 
-| Archivo | Contenido |
+| File | Content |
 |---|---|
-| `concordancias-ec-cl.json` | Equivalencias de artículos entre Ecuador y Chile |
-| `sectorial-financiero.json` | Mapeo de normas PDP con regulación financiera |
-| `sectorial-salud.json` | Mapeo de normas PDP con regulación sanitaria |
+| `concordancias-ec-cl.json` | Article equivalences between Ecuador and Chile |
+| `sectorial-financiero.json` | PDP norms mapped to financial regulation |
+| `sectorial-salud.json` | PDP norms mapped to health regulation |
 
-## Esquema de una norma
+## Norm Schema
 
-Cada archivo de norma tiene dos secciones: `meta` (datos de la norma completa) y `unidades` (artículos).
+Each norm file has two sections: `meta` (norm-level data) and `unidades` (articles).
 
 ```json
 {
@@ -91,6 +105,7 @@ Cada archivo de norma tiene dos secciones: `meta` (datos de la norma completa) y
     "tipo_fuente": "ley-organica",
     "nivel_jerarquico": 3,
     "titulo": "Ley Orgánica de Protección de Datos Personales",
+    "titulo_en": "Organic Law on Personal Data Protection",
     "numero": "Ley s/n",
     "fecha_publicacion": "2021-05-26",
     "fecha_vigencia": "2023-05-26",
@@ -98,7 +113,7 @@ Cada archivo de norma tiene dos secciones: `meta` (datos de la norma completa) y
     "materia": ["pdp"],
     "es_especializada": true,
     "url_oficial": "https://...",
-    "preambulo": "Texto completo del preámbulo o considerandos de la norma, si los tiene.",
+    "preambulo": "Full text of the preamble in original language, if applicable.",
     "anexos": [],
     "version": "1.0.0"
   },
@@ -108,124 +123,153 @@ Cada archivo de norma tiene dos secciones: `meta` (datos de la norma completa) y
       "tipo": "articulo",
       "numero": "13",
       "titulo": "Del consentimiento",
-      "texto_oficial": "Texto oficial completo del artículo...",
+      "titulo_en": "On consent",
+      "texto_oficial": "Full official text in original legislative language...",
       "estado": "vigente",
       "sustituido_por": null,
-      "temas": ["bases-de-licitud.consentimiento"],
-      "roles": ["responsable", "titular"],
-      "ciclo": ["recoleccion"],
-      "deontico": ["obligacion"],
-      "factores_riesgo": ["operaciones-fines.perfilado"],
+      "temas": ["legal-bases.consent"],
+      "roles": ["controller", "data-subject"],
+      "ciclo": ["collection"],
+      "deontico": ["obligation"],
+      "factores_riesgo": ["operations-purposes.profiling"],
       "concordancias": ["EC-LOPDP-Art-7", "EC-LOPDP-Art-14"],
-      "comentario": "Criterio interpretativo propio.",
+      "comentario": "Interpretive analysis (English preferred, original language accepted).",
       "notas": ""
     }
   ]
 }
 ```
 
-## Preámbulo y considerandos
+## Preamble and Recitals
 
-Algunas normas tienen preámbulos, exposiciones de motivos o considerandos con valor interpretativo. Se almacenan en el campo `preambulo` del `meta` de la norma, no como unidades. No se consultan en análisis normativo ordinario pero están disponibles cuando el análisis requiere contexto del legislador.
+Some norms have preambles, explanatory statements, or recitals with interpretive value. These are stored in the `preambulo` field of the norm's `meta`, not as units. They are not queried in ordinary normative analysis but are available when the analysis requires legislative intent context.
 
-## Anexos
+## Annexes
 
-Los anexos de normativa secundaria (formularios, tablas, listas técnicas) se gestionan según su extensión:
+Annexes from secondary norms (forms, tables, technical lists) are managed by size:
 
-**Anexos cortos o de referencia frecuente** — se incluyen dentro del array `unidades` con `"tipo": "anexo"`:
+**Short or frequently referenced annexes** — included in the `unidades` array with `"tipo": "anexo"`.
 
-```json
-{
-  "id": "EC-RESOLUCION-001-Anexo-1",
-  "tipo": "anexo",
-  "titulo": "Formulario de registro de actividades de tratamiento",
-  "texto_oficial": "Contenido completo del anexo...",
-  "estado": "vigente",
-  "sustituido_por": null,
-  "notas": ""
-}
-```
+**Extensive or technical annexes** — stored in a separate JSON file in the same folder, referenced from the main norm's `meta.anexos` field.
 
-**Anexos extensos o técnicos** — se almacenan en un archivo JSON separado en la misma carpeta, y se referencian desde el `meta` de la norma principal:
+## Article States
 
-```
-/ec/normativa-secundaria/ec-resolucion-001.json
-/ec/normativa-secundaria/ec-resolucion-001-anexo-1.json
-```
-
-```json
-"meta": {
-  ...
-  "anexos": ["ec-resolucion-001-anexo-1.json"]
-}
-```
-
-## Estados de un artículo
-
-Cada artículo tiene un único campo `estado` que refleja su situación normativa:
-
-| Estado | Significado |
+| State | Meaning |
 |---|---|
-| `vigente` | Texto en vigor sin cambios desde su publicación |
-| `reformado` | Texto modificado, sigue en vigor con nuevo contenido |
-| `derogado` | Ya no está en vigor |
+| `vigente` | In force, unchanged since publication |
+| `reformado` | Modified, in force with new content |
+| `derogado` | No longer in force |
 
-Los artículos derogados nunca se eliminan del repositorio. Su texto se conserva para consulta histórica. Las consultas normales filtran solo artículos con `estado: vigente` o `estado: reformado`.
+Repealed articles are never deleted. Their text is preserved for historical reference. Standard queries filter for `vigente` or `reformado` articles only.
 
-## Ciclo de vida del dato
+## Data Lifecycle Phases
 
-El campo `ciclo` etiqueta en qué fase del tratamiento opera el artículo:
+The `ciclo` field tags which processing phase the article operates in:
 
-| Valor | Descripción |
+| Value | Description |
 |---|---|
-| `recoleccion` | Obtención de datos directamente del titular o de terceros |
-| `creacion` | Generación de datos por la propia organización |
-| `inferencia` | Derivación de nuevos datos personales a partir de datos existentes |
-| `almacenamiento` | Conservación y custodia de los datos |
-| `uso` | Utilización interna de los datos para el fin declarado |
-| `comunicacion` | Transmisión de datos a terceros dentro de la misma jurisdicción |
-| `transferencia` | Transmisión de datos a terceros en otras jurisdicciones |
-| `supresion` | Eliminación o anonimización de los datos |
-| `archivo` | Conservación con fines históricos, estadísticos o de investigación |
+| `collection` | Obtaining data directly from the data subject or third parties |
+| `creation` | Generating data by the organization itself |
+| `inference` | Deriving new personal data from existing data |
+| `storage` | Retention and custody of data |
+| `use` | Internal use for the declared purpose |
+| `communication` | Transmission to third parties within the same jurisdiction |
+| `transfer` | Transmission to third parties in other jurisdictions |
+| `deletion` | Elimination or anonymization of data |
+| `archival` | Retention for historical, statistical, or research purposes |
 
-## Taxonomía temática (resumen)
+## Thematic Taxonomy (Summary)
 
-Los artículos se etiquetan con temas de dos niveles (`tema.subtema`):
+Articles are tagged with two-level topics (`topic.subtopic`):
 
-| # | Tema | Ejemplo de subtema |
+| # | Topic | Example Subtopic |
 |---|---|---|
-| 1 | `principios` | `licitud`, `finalidad`, `proporcionalidad` |
-| 2 | `bases-de-licitud` | `consentimiento`, `interes-legitimo`, `obligacion-legal` |
-| 3 | `datos-sensibles` | `salud`, `biometricos`, `origen-racial` |
-| 4 | `derechos-del-titular` | `acceso`, `rectificacion`, `supresion`, `portabilidad` |
-| 5 | `obligaciones-responsable` | `registro-actividades`, `evaluacion-impacto`, `dpd` |
-| 6 | `encargado-del-tratamiento` | `contrato-encargo`, `subencargados` |
-| 7 | `categorias-especiales` | uso limitado en Ecuador — ver nota en temas-ec.json |
-| 8 | `transferencias-internacionales` | `paises-adecuados`, `garantias-apropiadas` |
-| 9 | `seguridad-del-tratamiento` | `medidas-tecnicas`, `notificacion-brechas` |
-| 10 | `autoridad-de-control` | `competencia`, `poderes`, `procedimiento-sancionador` |
-| 11 | `ia-y-decisiones-automatizadas` | `perfilado`, `explicabilidad` |
-| 12 | `tratamiento-gran-escala` | `eipd-obligatoria` |
-| 13 | `ambito-de-aplicacion` | `definiciones-clave`, `exclusiones` |
+| 1 | `principles` | `lawfulness`, `purpose-limitation`, `proportionality` |
+| 2 | `legal-bases` | `consent`, `legitimate-interest`, `legal-obligation` |
+| 3 | `sensitive-data` | `health`, `biometric`, `racial-origin` |
+| 4 | `data-subject-rights` | `access`, `rectification`, `erasure`, `portability` |
+| 5 | `controller-obligations` | `processing-records`, `impact-assessment`, `dpo` |
+| 6 | `processor` | `processing-agreement`, `sub-processors` |
+| 7 | `special-categories` | Limited use in Ecuador — see temas-ec.json |
+| 8 | `international-transfers` | `adequate-countries`, `appropriate-safeguards` |
+| 9 | `processing-security` | `technical-measures`, `breach-notification` |
+| 10 | `supervisory-authority` | `competence`, `powers`, `sanctions-procedure` |
+| 11 | `ai-and-automated-decisions` | `profiling`, `explainability` |
+| 12 | `large-scale-processing` | `mandatory-dpia` |
+| 13 | `scope` | `key-definitions`, `exclusions` |
 
-## Política de versioning
+## Roles
 
-- La unidad mínima de cambio es el **artículo**, no la norma completa
-- Cuando un artículo se reforma: `estado: "reformado"`, se actualiza el texto, el anterior se documenta en `notas`
-- Cuando un artículo se deroga: `estado: "derogado"`, el texto se conserva
-- Si el artículo es reemplazado por otro: `sustituido_por: "EC-LOPDP-Art-XX"`
-- Las consultas normales devuelven artículos con `estado: vigente` o `estado: reformado`
-- El historial completo siempre está disponible en Git
+| Value | Description |
+|---|---|
+| `controller` | Data controller / responsible party |
+| `processor` | Data processor / encargado del tratamiento |
+| `sub-processor` | Sub-processor / subencargado |
+| `data-subject` | Data subject / titular |
+| `dpo` | Data Protection Officer / DPD |
+| `supervisory-authority` | Supervisory authority / autoridad de control |
+| `third-party` | Third party / tercero |
 
-## Escalabilidad
+## Versioning Policy
 
-Este repositorio está diseñado para crecer:
+- The minimum unit of change is the **article**, not the entire norm
+- When an article is reformed: `estado: "reformado"`, text is updated, previous text is documented in `notas`
+- When an article is repealed: `estado: "derogado"`, text is preserved
+- If an article is replaced: `sustituido_por: "EC-LOPDP-Art-XX"`
+- Standard queries return articles with `estado: vigente` or `estado: reformado`
+- Full history is always available in Git
 
-- **Nuevas jurisdicciones:** agregar carpeta `/xx/` y entrada en `jurisdicciones.json`
-- **Nuevas materias:** agregar valor en `materias.json` (ej. `ia`, `ciberseguridad`)
-- **Nuevos sectores:** agregar archivo en `/mapeos/`
-- **API de acceso:** la estructura JSON es directamente consumible sin modificaciones
+## Scalability
 
-## Mantenimiento
+This repository is designed to grow:
 
-Ver `CONTRIBUTING.md` para instrucciones detalladas sobre cómo agregar normas, etiquetar artículos y gestionar reformas.
+- **New jurisdictions:** add `/xx/` folder and entry in `jurisdicciones.json`
+- **New regulatory domains:** add value in `materias.json` (e.g., `ai`, `cybersecurity`)
+- **New sectors:** add mapping file in `/mapeos/`
+- **API access:** the JSON structure is directly consumable without modifications
+- **DATUM integration:** this repository is the first operational component of the DATUM Cognitive Architecture, serving as the Regulatory Knowledge Base accessible via MCP connector
+
+## DATUM Alignment
+
+This repository implements DATUM Component 1: Regulatory Knowledge Base. Key architectural principles:
+
+- **Knowledge lives in external repositories**, not in agent skills or application logic. This repository is queried at execution time by any DATUM-compatible agent.
+- **English-first metadata** ensures global accessibility. Original-language regulatory text ensures legal integrity.
+- **Framework-agnostic tagging**: the thematic taxonomy and risk factor catalogs are designed to serve any compliance framework that references the underlying norms, not just PDP Expert's proprietary models.
+
+## Maintenance
+
+See `CONTRIBUTING.md` for detailed instructions on adding norms, tagging articles, and managing reforms.
+
+---
+
+## Migration Status
+
+> **This section is temporary.** It tracks the migration from the original Spanish-only repository to the English-first convention defined by DATUM. It will be removed once migration is complete.
+
+### What Has Changed
+
+| Aspect | Previous Convention | New Convention |
+|---|---|---|
+| Documentation language | Spanish | English |
+| Catalog IDs | Spanish (`bases-de-licitud.consentimiento`) | English (`legal-bases.consent`) |
+| Roles values | Spanish (`responsable`, `titular`) | English (`controller`, `data-subject`) |
+| Lifecycle values | Spanish (`recoleccion`, `supresion`) | English (`collection`, `deletion`) |
+| Deontic values | Spanish (`obligacion`, `prohibicion`) | English (`obligation`, `prohibition`) |
+| Field names | Spanish (`texto_oficial`, `estado`) | Unchanged (kept as-is for backward compatibility during migration) |
+| Official text | Original language (Spanish) | Unchanged (always original language) |
+| Norm titles | Original language only | Original + `titulo_en` field |
+| Commit messages | Spanish | English |
+
+### Migration Approach
+
+Field names (`texto_oficial`, `estado`, `vigente`, etc.) are kept in their current form during migration to avoid breaking the MCP connector. A future breaking-change release will normalize all field names to English. The priority is migrating tag values (topics, roles, lifecycle, deontic) and catalog IDs first, as these are what agents query against.
+
+### What Needs To Be Done
+
+1. Update all catalog files: translate IDs and labels to English, add mapping from old Spanish IDs to new English IDs for backward compatibility
+2. Update all existing norm files: replace Spanish tag values with English equivalents
+3. Add `titulo_en` field to all norm `meta` and article objects
+4. Update MCP connector to serve the new English tag values
+5. Validate that all existing queries and skills work with the new values
+6. Remove this migration section from README.md

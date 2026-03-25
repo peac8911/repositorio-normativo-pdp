@@ -16,7 +16,8 @@
     "url_oficial": "https://www.superintendenciadedatos.gob.ec/",
     "preambulo": "CONSIDERANDO:\nQue el numeral 19 del artículo 66 de la Constitución de la República del Ecuador (“CRE”)\nles reconoce y garantiza a las personas el derecho “a la protección de datos de carácter\npersonal, que incluye el acceso y la decisión sobre información y datos de este carácter, así\ncomo su correspondiente protección. La recolección, archivo, procesamiento, distribución o\ndifusión de estos datos o información requerirán la autorización del titular o el mandato de la\nley”;\nQue el artículo 213 CRE establece que “[l]as superintendencias son organismos técnicos de\nvigilancia, auditoría, intervención y control de las actividades económicas, sociales y\nambientales, y de los servicios que prestan las entidades públicas y privadas, con el propósito\nde que estas actividades y servicios se sujeten al ordenamiento jurídico y atiendan al interés\ngeneral (…)”; que forman parte de la Función de Transparencia y Control Social; y que,\nconforme lo dispone el artículo 204 idem, detentan “personalidad jurídica y autonomía\nadministrativa, financiera, presupuestaria y organizativa (…)”;\nQue el artículo 135 del Código Orgánico Administrativo (“COA”) determina que “(…) Le\ncorresponde a la Administración Pública, la dirección del procedimiento administrativo en\nejercicio de las competencias que se le atribuyan en el ordenamiento jurídico y en este Código\n(…)”;\nQue el artículo 136 COA estatuye que “[l]as administraciones públicas pueden establecer\nformularios de uso obligatorio y determinar los modelos de solicitudes, reclamos, recursos y,\nen general, de cualquier tipo de petición que se le dirija. Los formularios y modelos estarán a\ndisposición de las personas en las dependencias administrativas y se publicarán a través de\nlos medios de difusión institucional. La persona interesada puede acompañar los elementos\nque estime convenientes para precisar o completar los datos del formulario o modelo, los\ncuales no podrán ser inadmitidos y serán valorados por el órgano al momento de resolver\n(…)”;\nQue el artículo 1 de la Ley Orgánica de Protección de Datos Personales (“LOPDP”) declara\nque aquella tiene por objeto y finalidad “garantizar el ejercicio del derecho de protección de\ndatos personales, que incluye el acceso y decisión sobre información y datos de ese carácter,\nasí como su correspondiente protección”, para lo cual, por virtud de esta norma legal, se regulan,\nprevén y desarrollan “principios, derechos, obligaciones y mecanismos de tutela”;\nQue a través de la LOPDP se creó la Superintendencia de Protección de Datos Personales\n(“SPDP”) como un órgano técnico de control, con potestad sancionatoria, de administración\ndesconcentrada, con personalidad jurídica y autonomía administrativa, técnica, operativa y\nfinanciera;\nQue el artículo 63 LOPDP establece que “[l]a Autoridad de Protección de Datos Personales\npodrá iniciar, de oficio o a petición del titular, actuaciones previas con el fin de conocer las\ncircunstancias del caso concreto o la conveniencia o no de iniciar el procedimiento, para lo\ncual se estará conforme a las disposiciones del Código Orgánico Administrativo. (…)”;\nQue el artículo 64 LOPDP determina que “[e]n el caso de que el responsable del tratamiento\nno conteste el requerimiento, en el término establecido en la presente Ley, o éste fuere negado,\nel titular podrá presentar el correspondiente reclamo administrativo ante la Autoridad de\nProtección de Datos Personales, para lo cual se deberá estar conforme al procedimiento\nestablecido en el Código Orgánico Administrativo, la presente Ley y demás normativa emitida\npor la Autoridad de Protección de Datos Personales. Sin perjuicio, el titular podrá presentar\nacciones civiles, penales o constitucionales de las que se crea asistido. (…)”;\n\nQue el inciso primero del artículo 76 LOPDP le encarga a la SPDP garantizarles “a todos los\nciudadanos la protección de sus datos personales”, así como le confiere funciones, atribuciones\ny facultades para “realizar todas las acciones necesarias para que se respeten los principios,\nderechos, garantías y procedimientos previstos en la presente Ley y en su reglamento de\naplicación”;\nQue los numerales 2, 3 y 5 del artículo 76 LOPDP le atribuyen a la SPDP competencias para\n“[e]jercer la potestad sancionadora respecto de responsables, delegados, encargados y terceros\n(…)”; para “[c]onocer, sustanciar y resolver los reclamos interpuestos por el titular o aquellos\niniciados de oficio, así como aplicar las sanciones correspondientes”; y para “[e]mitir\nnormativa general o técnica, criterios y demás actos que sean necesarios para el ejercicio de\nsus competencias y la garantía del ejercicio del derecho a la protección de datos personales”;\nQue el artículo 16 del Reglamento General de la Ley Orgánica de Protección de Datos\nPersonales estatuye que “[e]l titular de datos personales que encuentre motivos para creer que\nse han vulnerado sus derechos con la respuesta que el responsable ha dado a su solicitud, o que\nno haya recibido respuesta en el plazo establecido, podrá acudir a la Autoridad de Protección\nde Datos a presentar su reclamo, el cual se sustanciará conforme al procedimiento previsto en\nel Código Orgánico Administrativo y en la normativa complementaria que, para el efecto, emita\nla Autoridad de Protección de Datos. El procedimiento de reclamo contemplará la debida\nnotificación al responsable a fin de que ejerza su derecho a la defensa (…)”;\nQue mediante resolución Nº SPDP-SPDP-2024-0001-R, publicada en el Tercer Suplemento\ndel Registro Oficial Nº 624 de 19 de agosto del 2024, el Superintendente de Protección de Datos\nPersonales aprobó el Estatuto Orgánico de Gestión Organizacional por Procesos de Arranque de\nla Superintendencia de Protección de Datos Personales;\nQue mediante los literales b) y c) del artículo 5 de la resolución Nº SPDP-SPDP-2024-0007-\nR, se le delegó al Intendente General de Control y Sanción las facultades de ejercer la potestad\nsancionadora respecto de responsables, responsables conjuntos, delegados, encargados y\nterceros, así como la de conocer, sustanciar y resolver los reclamos de los titulares de datos\npersonales;",
     "anexos": [],
-    "version": "1.0.0"
+    "version": "1.1.0",
+    "titulo_en": "Regulation on Complaints and Requests of the Superintendency of Personal Data Protection"
   },
   "unidades": [
     {
@@ -28,19 +29,20 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "ambito-de-aplicacion.ambito-material"
+        "scope.material-scope"
       ],
       "roles": [
-        "autoridad-control"
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "definicion"
+        "definition"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": ""
     },
     {
       "id": "EC-SPDP-2024-0013-R-Art-2",
@@ -51,21 +53,22 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "autoridad-de-control.competencia",
-        "derechos-del-titular.acceso"
+        "supervisory-authority.competence",
+        "data-subject-rights.access"
       ],
       "roles": [
-        "autoridad-control",
-        "titular"
+        "supervisory-authority",
+        "data-subject"
       ],
       "ciclo": [],
       "deontico": [
-        "permiso"
+        "permission"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": ""
     },
     {
       "id": "EC-SPDP-2024-0013-R-Art-3",
@@ -76,20 +79,21 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "principios.licitud"
+        "principles.lawfulness"
       ],
       "roles": [
-        "autoridad-control"
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "permiso",
-        "definicion"
+        "permission",
+        "definition"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": ""
     },
     {
       "id": "EC-SPDP-2024-0013-R-Art-4",
@@ -100,21 +104,22 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "autoridad-de-control.competencia"
+        "supervisory-authority.competence"
       ],
       "roles": [
-        "autoridad-control",
-        "titular",
-        "responsable"
+        "supervisory-authority",
+        "data-subject",
+        "controller"
       ],
       "ciclo": [],
       "deontico": [
-        "definicion"
+        "definition"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": ""
     },
     {
       "id": "EC-SPDP-2024-0013-R-Art-5",
@@ -125,20 +130,21 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "autoridad-de-control.competencia"
+        "supervisory-authority.competence"
       ],
       "roles": [
-        "autoridad-control",
-        "titular"
+        "supervisory-authority",
+        "data-subject"
       ],
       "ciclo": [],
       "deontico": [
-        "permiso"
+        "permission"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": ""
     },
     {
       "id": "EC-SPDP-2024-0013-R-Art-6",
@@ -149,20 +155,21 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "autoridad-de-control.competencia"
+        "supervisory-authority.competence"
       ],
       "roles": [
-        "titular",
-        "autoridad-control"
+        "data-subject",
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": ""
     },
     {
       "id": "EC-SPDP-2024-0013-R-Art-7",
@@ -173,19 +180,20 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "autoridad-de-control.poderes"
+        "supervisory-authority.powers"
       ],
       "roles": [
-        "autoridad-control"
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "permiso"
+        "permission"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": ""
     },
     {
       "id": "EC-SPDP-2024-0013-R-Art-8",
@@ -196,19 +204,20 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "autoridad-de-control.competencia"
+        "supervisory-authority.competence"
       ],
       "roles": [
-        "autoridad-control"
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": ""
     },
     {
       "id": "EC-SPDP-2024-0013-R-Art-9",
@@ -219,19 +228,20 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "autoridad-de-control.poderes"
+        "supervisory-authority.powers"
       ],
       "roles": [
-        "autoridad-control"
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "permiso"
+        "permission"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": ""
     },
     {
       "id": "EC-SPDP-2024-0013-R-Art-10",
@@ -242,19 +252,20 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "autoridad-de-control.poderes"
+        "supervisory-authority.powers"
       ],
       "roles": [
-        "autoridad-control"
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "permiso"
+        "permission"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": ""
     },
     {
       "id": "EC-SPDP-2024-0013-R-Art-11",
@@ -265,19 +276,20 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "autoridad-de-control.procedimiento-sancionador"
+        "supervisory-authority.sanctions-procedure"
       ],
       "roles": [
-        "autoridad-control"
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": ""
     },
     {
       "id": "EC-SPDP-2024-0013-R-Art-12",
@@ -288,21 +300,22 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "autoridad-de-control.procedimiento-sancionador"
+        "supervisory-authority.sanctions-procedure"
       ],
       "roles": [
-        "autoridad-control",
-        "responsable",
-        "encargado"
+        "supervisory-authority",
+        "controller",
+        "processor"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": ""
     },
     {
       "id": "EC-SPDP-2024-0013-R-Art-13",
@@ -313,21 +326,22 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "autoridad-de-control.poderes"
+        "supervisory-authority.powers"
       ],
       "roles": [
-        "autoridad-control",
-        "responsable",
-        "encargado"
+        "supervisory-authority",
+        "controller",
+        "processor"
       ],
       "ciclo": [],
       "deontico": [
-        "permiso"
+        "permission"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": ""
     },
     {
       "id": "EC-SPDP-2024-0013-R-Art-14",
@@ -338,20 +352,21 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "autoridad-de-control.poderes"
+        "supervisory-authority.powers"
       ],
       "roles": [
-        "autoridad-control"
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "permiso",
-        "excepcion"
+        "permission",
+        "exception"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": ""
     },
     {
       "id": "EC-SPDP-2024-0013-R-Art-15",
@@ -362,21 +377,22 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "derechos-del-titular.oposicion",
-        "autoridad-de-control.competencia"
+        "data-subject-rights.objection",
+        "supervisory-authority.competence"
       ],
       "roles": [
-        "titular",
-        "autoridad-control"
+        "data-subject",
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "permiso"
+        "permission"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": ""
     },
     {
       "id": "EC-SPDP-2024-0013-R-Art-16",
@@ -387,20 +403,21 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "autoridad-de-control.competencia"
+        "supervisory-authority.competence"
       ],
       "roles": [
-        "titular",
-        "autoridad-control"
+        "data-subject",
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": ""
     },
     {
       "id": "EC-SPDP-2024-0013-R-Art-17",
@@ -411,21 +428,22 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "derechos-del-titular.acceso",
-        "autoridad-de-control.competencia"
+        "data-subject-rights.access",
+        "supervisory-authority.competence"
       ],
       "roles": [
-        "titular",
-        "autoridad-control"
+        "data-subject",
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": ""
     },
     {
       "id": "EC-SPDP-2024-0013-R-Art-18",
@@ -436,19 +454,20 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "autoridad-de-control.competencia"
+        "supervisory-authority.competence"
       ],
       "roles": [
-        "autoridad-control"
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": ""
     },
     {
       "id": "EC-SPDP-2024-0013-R-Art-19",
@@ -459,21 +478,22 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "autoridad-de-control.competencia"
+        "supervisory-authority.competence"
       ],
       "roles": [
-        "titular",
-        "autoridad-control"
+        "data-subject",
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion",
-        "permiso"
+        "obligation",
+        "permission"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": ""
     },
     {
       "id": "EC-SPDP-2024-0013-R-Art-20",
@@ -484,20 +504,21 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "autoridad-de-control.procedimiento-sancionador"
+        "supervisory-authority.sanctions-procedure"
       ],
       "roles": [
-        "autoridad-control"
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "permiso",
-        "obligacion"
+        "permission",
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": ""
     },
     {
       "id": "EC-SPDP-2024-0013-R-Art-21",
@@ -508,19 +529,20 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "autoridad-de-control.procedimiento-sancionador"
+        "supervisory-authority.sanctions-procedure"
       ],
       "roles": [
-        "autoridad-control"
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": ""
     },
     {
       "id": "EC-SPDP-2024-0013-R-Art-22",
@@ -531,19 +553,20 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "autoridad-de-control.procedimiento-sancionador"
+        "supervisory-authority.sanctions-procedure"
       ],
       "roles": [
-        "autoridad-control"
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": ""
     },
     {
       "id": "EC-SPDP-2024-0013-R-Art-23",
@@ -554,23 +577,24 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "autoridad-de-control.poderes",
-        "autoridad-de-control.sanciones"
+        "supervisory-authority.powers",
+        "supervisory-authority.sanctions"
       ],
       "roles": [
-        "autoridad-control",
-        "responsable",
-        "encargado"
+        "supervisory-authority",
+        "controller",
+        "processor"
       ],
       "ciclo": [],
       "deontico": [
-        "permiso",
-        "obligacion"
+        "permission",
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": ""
     },
     {
       "id": "EC-SPDP-2024-0013-R-DispGen-PRIMERA",
@@ -581,19 +605,20 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "ambito-de-aplicacion.ambito-material"
+        "scope.material-scope"
       ],
       "roles": [
-        "autoridad-control"
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "First General Provision"
     },
     {
       "id": "EC-SPDP-2024-0013-R-DispGen-SEGUNDA",
@@ -604,19 +629,20 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "obligaciones-responsable.transparencia-informacion"
+        "controller-obligations.transparency-information"
       ],
       "roles": [
-        "autoridad-control"
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Second General Provision"
     },
     {
       "id": "EC-SPDP-2024-0013-R-DispGen-TERCERA",
@@ -627,19 +653,20 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "autoridad-de-control.competencia"
+        "supervisory-authority.competence"
       ],
       "roles": [
-        "autoridad-control"
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Third General Provision"
     },
     {
       "id": "EC-SPDP-2024-0013-R-DispGen-CUARTA",
@@ -651,16 +678,17 @@
       "sustituido_por": null,
       "temas": [],
       "roles": [
-        "autoridad-control"
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Fourth General Provision"
     },
     {
       "id": "EC-SPDP-2024-0013-R-DispGen-QUINTA",
@@ -672,16 +700,17 @@
       "sustituido_por": null,
       "temas": [],
       "roles": [
-        "autoridad-control"
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Fifth General Provision"
     },
     {
       "id": "EC-SPDP-2024-0013-R-DispGen-SEXTA",
@@ -693,16 +722,17 @@
       "sustituido_por": null,
       "temas": [],
       "roles": [
-        "autoridad-control"
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Sixth General Provision"
     },
     {
       "id": "EC-SPDP-2024-0013-R-DispGen-SÉPTIMA",
@@ -714,16 +744,17 @@
       "sustituido_por": null,
       "temas": [],
       "roles": [
-        "autoridad-control"
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Seventh General Provision"
     },
     {
       "id": "EC-SPDP-2024-0013-R-DispTrans-ÚNICA",
@@ -734,19 +765,20 @@
       "estado": "vigente",
       "sustituido_por": null,
       "temas": [
-        "autoridad-de-control.competencia"
+        "supervisory-authority.competence"
       ],
       "roles": [
-        "autoridad-control"
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Single Transitional Provision"
     },
     {
       "id": "EC-SPDP-2024-0013-R-DispFinal-PRIMERA",
@@ -758,16 +790,17 @@
       "sustituido_por": null,
       "temas": [],
       "roles": [
-        "autoridad-control"
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "First Final Provision"
     },
     {
       "id": "EC-SPDP-2024-0013-R-DispFinal-SEGUNDA",
@@ -779,16 +812,17 @@
       "sustituido_por": null,
       "temas": [],
       "roles": [
-        "autoridad-control"
+        "supervisory-authority"
       ],
       "ciclo": [],
       "deontico": [
-        "obligacion"
+        "obligation"
       ],
       "factores_riesgo": [],
       "concordancias": [],
       "comentario": "",
-      "notas": ""
+      "notas": "",
+      "titulo_en": "Second Final Provision"
     }
   ]
 }

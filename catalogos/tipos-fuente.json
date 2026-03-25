@@ -1,60 +1,78 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "descripcion": "Jerarquía normativa global. El campo nivel_jerarquico determina la prelación entre normas. A menor número, mayor jerarquía.",
   "tipos": [
     {
       "id": "constitucion",
       "label": "Constitución",
       "nivel_jerarquico": 1,
-      "descripcion": "Norma suprema del ordenamiento jurídico. Toda norma inferior debe ser compatible con ella."
+      "descripcion": "Norma suprema del ordenamiento jurídico. Toda norma inferior debe ser compatible con ella.",
+      "label_en": "Constitution",
+      "descripcion_en": "Supreme norm of the legal order. All inferior norms must be compatible with it."
     },
     {
       "id": "jurisprudencia-constitucional",
       "label": "Jurisprudencia Constitucional",
       "nivel_jerarquico": 2,
-      "descripcion": "Sentencias y resoluciones del tribunal o corte constitucional con efecto vinculante general. Interpreta y desarrolla la Constitución."
+      "descripcion": "Sentencias y resoluciones del tribunal o corte constitucional con efecto vinculante general. Interpreta y desarrolla la Constitución.",
+      "label_en": "Constitutional Jurisprudence",
+      "descripcion_en": "Judgments and resolutions of the constitutional court or tribunal with general binding effect. Interprets and develops the Constitution."
     },
     {
       "id": "ley-organica",
       "label": "Ley Orgánica",
       "nivel_jerarquico": 3,
-      "descripcion": "Ley que regula materias de especial relevancia constitucional. En Ecuador requiere mayoría absoluta para su aprobación. Prevalece sobre la ley ordinaria."
+      "descripcion": "Ley que regula materias de especial relevancia constitucional. En Ecuador requiere mayoría absoluta para su aprobación. Prevalece sobre la ley ordinaria.",
+      "label_en": "Organic Law",
+      "descripcion_en": "Law regulating matters of special constitutional relevance. In Ecuador requires an absolute majority for approval. Prevails over ordinary law."
     },
     {
       "id": "ley-ordinaria",
       "label": "Ley Ordinaria",
       "nivel_jerarquico": 4,
-      "descripcion": "Ley aprobada por el órgano legislativo por mayoría simple. Subordinada a la ley orgánica en materias donde esta tiene reserva."
+      "descripcion": "Ley aprobada por el órgano legislativo por mayoría simple. Subordinada a la ley orgánica en materias donde esta tiene reserva.",
+      "label_en": "Ordinary Law",
+      "descripcion_en": "Law approved by the legislative body by simple majority. Subordinate to organic law in matters where it has a reserve."
     },
     {
       "id": "reglamento",
       "label": "Reglamento",
       "nivel_jerarquico": 5,
-      "descripcion": "Norma emitida por el ejecutivo para desarrollar y ejecutar la ley. No puede contradecir ni exceder la ley que reglamenta."
+      "descripcion": "Norma emitida por el ejecutivo para desarrollar y ejecutar la ley. No puede contradecir ni exceder la ley que reglamenta.",
+      "label_en": "Regulation",
+      "descripcion_en": "Norm issued by the executive to develop and enforce the law. Cannot contradict or exceed the law it regulates."
     },
     {
       "id": "normativa-secundaria",
       "label": "Normativa Secundaria",
       "nivel_jerarquico": 6,
-      "descripcion": "Resoluciones, acuerdos, circulares y normas técnicas emitidas por autoridades administrativas o de control en ejercicio de sus competencias regulatorias."
+      "descripcion": "Resoluciones, acuerdos, circulares y normas técnicas emitidas por autoridades administrativas o de control en ejercicio de sus competencias regulatorias.",
+      "label_en": "Secondary Regulations",
+      "descripcion_en": "Resolutions, agreements, circulars and technical standards issued by administrative or supervisory authorities in the exercise of their regulatory powers."
     },
     {
       "id": "pronunciamiento",
       "label": "Pronunciamiento / Criterio no vinculante",
       "nivel_jerarquico": 7,
-      "descripcion": "Criterios, guías, recomendaciones y opiniones emitidos por la autoridad de control. No son obligatorios pero tienen alto valor interpretativo y orientan la práctica."
+      "descripcion": "Criterios, guías, recomendaciones y opiniones emitidos por la autoridad de control. No son obligatorios pero tienen alto valor interpretativo y orientan la práctica.",
+      "label_en": "Pronouncement / Non-binding criterion",
+      "descripcion_en": "Criteria, guides, recommendations and opinions issued by the supervisory authority. Not binding but of high interpretive value and they guide practice."
     },
     {
       "id": "jurisprudencia",
       "label": "Jurisprudencia Ordinaria",
       "nivel_jerarquico": 8,
-      "descripcion": "Sentencias y resoluciones de tribunales ordinarios en materia de protección de datos. Valor interpretativo según el sistema de precedentes de cada jurisdicción."
+      "descripcion": "Sentencias y resoluciones de tribunales ordinarios en materia de protección de datos. Valor interpretativo según el sistema de precedentes de cada jurisdicción.",
+      "label_en": "Ordinary Jurisprudence",
+      "descripcion_en": "Judgments and resolutions of ordinary courts on data protection matters. Interpretive value according to the precedent system of each jurisdiction."
     },
     {
       "id": "doctrina",
       "label": "Doctrina / Comentario propio",
       "nivel_jerarquico": 9,
-      "descripcion": "Análisis, criterios interpretativos y comentarios elaborados por PDP Expert. No son fuente del derecho pero orientan el criterio de consultoría."
+      "descripcion": "Análisis, criterios interpretativos y comentarios elaborados por PDP Expert. No son fuente del derecho pero orientan el criterio de consultoría.",
+      "label_en": "Doctrine / Proprietary commentary",
+      "descripcion_en": "Analyses, interpretive criteria and commentaries produced by PDP Expert. Not a source of law but they guide consulting criteria."
     }
   ]
 }
