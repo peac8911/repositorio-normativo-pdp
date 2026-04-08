@@ -1,0 +1,63 @@
+{
+  "version": "1.0.0",
+  "jurisdiccion": "cl",
+  "descripcion": "Normative hierarchy for Chile applicable to data protection",
+  "niveles": [
+    {
+      "nivel": 1,
+      "tipo_fuente": "constitucion",
+      "label": "Constitution",
+      "descripcion_local": "Constitución Política de la República",
+      "nota": "Article 19 No. 4 recognizes the right to protection of personal data (reformed by Law 21.096 of 2018)."
+    },
+    {
+      "nivel": 2,
+      "tipo_fuente": "ley-organica-constitucional",
+      "label": "Constitutional Organic Law",
+      "descripcion_local": "Ley Orgánica Constitucional",
+      "nota": "Requires 4/7 quorum. Relevant for institutional framework of the supervisory authority."
+    },
+    {
+      "nivel": 3,
+      "tipo_fuente": "ley",
+      "label": "Ordinary Law",
+      "descripcion_local": "Ley ordinaria",
+      "nota": "Law 19.628 on Protection of Personal Data (reformed by Law 21.719) sits at this level."
+    },
+    {
+      "nivel": 4,
+      "tipo_fuente": "reglamento",
+      "label": "Regulation (Supreme Decree)",
+      "descripcion_local": "Decreto Supremo / Reglamento",
+      "nota": "Executive regulations implementing the law. The regulation for Law 19.628 reformed is pending issuance."
+    },
+    {
+      "nivel": 5,
+      "tipo_fuente": "resolucion-agencia",
+      "label": "Agency Resolution",
+      "descripcion_local": "Resolución de la Agencia de Protección de Datos Personales",
+      "nota": "Resolutions issued by the APDP once operational. The Agency is created by Law 21.719 with full powers from December 2026."
+    },
+    {
+      "nivel": 6,
+      "tipo_fuente": "pronunciamiento",
+      "label": "Supervisory Authority Pronouncement",
+      "descripcion_local": "Pronunciamiento / Dictamen",
+      "nota": "Non-binding interpretive guidance. Historically issued by the Council for Transparency and the Civil Registry in their respective competences."
+    },
+    {
+      "nivel": 7,
+      "tipo_fuente": "jurisprudencia",
+      "label": "Jurisprudence",
+      "descripcion_local": "Jurisprudencia",
+      "nota": "Court decisions applying data protection provisions."
+    },
+    {
+      "nivel": 8,
+      "tipo_fuente": "doctrina",
+      "label": "Doctrine",
+      "descripcion_local": "Doctrina",
+      "nota": "Academic and professional commentary."
+    }
+  ]
+}
